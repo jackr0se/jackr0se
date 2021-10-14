@@ -1,0 +1,1229 @@
+#EXTM3U
+
+##### BACKGROUND #####
+
+#EXTINF:0,Beaches Live
+#EXTVLCOPT:network-caching=1000
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+#EXTINF:0,Mountains Live
+#EXTVLCOPT:network-caching=1000
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+#EXTINF:0,Rivers Live
+#EXTVLCOPT:network-caching=1000
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:0,Tropics Live
+#EXTVLCOPT:network-caching=1000
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+#EXTINF:0,Lakes Live
+#EXTVLCOPT:network-caching=1000
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:0,Animals Live
+#EXTVLCOPT:network-caching=1000
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:0,Forests Live
+#EXTVLCOPT:network-caching=1000
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:0,Sunsets Live
+#EXTVLCOPT:network-caching=1000
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:0,Aurora Live
+#EXTVLCOPT:network-caching=1000
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:0,Nature
+#EXTVLCOPT:network-caching=1000
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+##### ENTERTAINMENT #####
+
+#EXTINF:0,HBO Hits (1080p)
+#EXTVLCOPT:network-caching=1000
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+
+#EXTINF:0,HBO Malaysia (720p)
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:0,Warner TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://203.154.243.89:11205
+
+#EXTINF:0,ANIMAX
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
+#EXTINF:60,ANIPLUS
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
+#EXTINF:0,MY KIDS
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/uq2663/h/h98/index.m3u8
+#EXTINF:0,SpaceToon
+#EXTVLCOPT:network-caching=1000
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
+#EXTINF:0,Lernings
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/uq2663/h/h97/index.m3u8
+
+#EXTINF:0,tvND
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+#EXTINF:0,tvNMovies
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
+
+
+#EXTINF:0,AXN-1
+#EXTVLCOPT:network-caching=1000
+http://45.126.83.51/dr9445/h/h141/01.m3u8
+#EXTINF:0,AXN2
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/569f338c-a9b8-11eb-ad21-9a86b46a5f45/uq2663/h/h141/02.m3u8
+#EXTINF:0,BLUEANT EXTREME
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/01.m3u8
+#EXTINF:0,BLUEANT ENTERTAINMENT
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/01.m3u8
+#EXTINF:0,LBS TV (K-DRAMA)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/01.m3u8
+#EXTINF:0,CINEMA WORLD
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/dr9445/h/h04/01.m3u8
+
+#EXTINF:0,KBS WORLD
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+#EXTINF:0,KBS WORLD2
+#EXTVLCOPT:network-caching=1000
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+#EXTINF:0,OhK!tv
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:0,K+
+#EXTVLCOPT:network-caching=1000
+http://45.126.83.51/session/b250033c-a9b8-11eb-b3bc-a2798f0477fc/uq2663/h/h08/01.m3u8
+#EXTINF:0,SonyOne
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/uq2663/h/h143/01.m3u8
+#EXTINF:0,SonyOne-2
+#EXTVLCOPT:network-caching=1000
+http://45.126.83.51/session/70890dd8-c9d3-11ea-b6b4-9c15b4da6e2f/uq2663/h/h143/01.m3u8
+
+#EXTINF:0,SONY GEM
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/uq2663/h/h19/02.m3u8
+
+#EXTINF:0,KIX(2)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/dr9445/h/h07/02.m3u8
+
+#EXTINF:0,Warner tv-U
+#EXTVLCOPT:network-caching=1000
+http://203.154.243.89:11205/
+
+#EXTINF:0,Movie Sphere
+#EXTVLCOPT:network-caching=1000
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:0, SONY PIX
+#EXTVLCOPT:network-caching=1000
+https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
+
+#EXTINF:0, Astro Ceria HD
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
+#EXTINF:0, Starz Edge East
+#EXTVLCOPT:network-caching=1000
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/18913
+
+
+#EXTINF:0, Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/97
+
+#EXTINF:0, HBO Zone East
+#EXTVLCOPT:network-caching=1000
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/339
+
+#EXTINF:0, MovieTime
+#EXTVLCOPT:network-caching=1000
+http://tdgu3cz8.rostelekom.xyz/iptv/KKV5969DQS5ZNV/6486/index.m3u8
+#EXTINF:0, Showtime East
+#EXTVLCOPT:network-caching=1000
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/18897
+#EXTINF:0, Showtime West
+#EXTVLCOPT:network-caching=1000
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/18904
+#EXTINF:0, Star Movies
+#EXTVLCOPT:network-caching=1000
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0, Star World
+#EXTVLCOPT:network-caching=1000
+http://221.120.204.4/star-world-LOCKLE/index.m3u8
+
+#EXTINF:0, Primetime
+#EXTVLCOPT:network-caching=1000
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71147
+
+#EXTINF:0,FLIX
+#EXTVLCOPT:network-caching=1000
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:0,STAR MOVIES HD
+#EXTVLCOPT:network-caching=1000
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0,STAR WORLD
+#EXTVLCOPT:network-caching=1000
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
+
+#EXTINF:0,MARVEL HQ 
+#EXTVLCOPT:network-caching=1000
+https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
+
+#EXTINF:0,TLC HD
+#EXTVLCOPT:network-caching=1000
+https://feed.play.mv/live/10005200/HE8qFtMl9Q/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="MOVIES",MOVIES GROUP
+http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="MOVIES",MOVIES GROUP
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="MOVIES",MOVIES GROUP
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+##### LOCAL #####
+
+#EXTINF:60,NET.TV
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:98,TRANSTV(2)
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:0,TRANS7(2)
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:0,RCTI
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+#EXTINF:0,SCTV
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
+#EXTINF:0,MNCTv
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
+
+#EXTINF:0,INDOSIAR
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/01.m3u8
+#EXTINF:0,INDOSIAR Liga1
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
+
+#EXTINF:0,ANTV
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
+#EXTINF:0,GLOBALTV
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+#EXTINF:0,TV ONE (2)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/01.m3u8
+#EXTINF:0,RTV
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/1e1de4c6-6fcd-11e9-834b-b82a72d63267/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:0,JTV
+#EXTVLCOPT:network-caching=1000
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8?checkedby:iptvcat.com%20
+#EXTINF:0,JTV(2)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/x6bnqe/s/s90/S4/mnf.m3u8
+#EXTINF:0,ELSHINTA TV
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/743b191e-6fcd-11e9-a2e4-c81f66f89318/qwr9ew/s/s10/01.m3u8
+#EXTINF:0,TVRI
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/qwr9ew/s/s11/01.m3u8
+#EXTINF:0,TVRI2
+#EXTVLCOPT:network-caching=1000
+http://202.80.222.130/000001/2/ch14041511560872104862/1002.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0,TVRI SPORT
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/4ef13212-a900-11e9-8ab6-b7d19fbdbf13/qwr9ew/s/s107/01.m3u8
+#EXTINF:0,METROTV
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/uq2663/h/h12/01.m3u8
+#EXTINF:0,KOMPASTV
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104/01.m3u8
+#EXTINF:0,INews TV
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
+#EXTINF:0,CNN Indonesia
+#EXTVLCOPT:network-caching=1000
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:0,BERITA SATU
+#EXTVLCOPT:network-caching=1000
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+#EXTINF:0,BeritaSatuworld
+#EXTVLCOPT:network-caching=1000
+https://b1world.beritasatumedia.com/Beritasatu/B1World_960x540.m3u8
+#EXTINF:0,IDX Channel
+#EXTVLCOPT:network-caching=1000
+https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+#EXTINF:0,The Indonesian Chanel
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/03.m3u8
+#EXTINF:0,JAKARTA GLOBE NEWS CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
+
+#EXTINF:0,RCTI Plus
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+#EXTINF:0,GTV Plus
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+#EXTINF:0,MNCTV HD Plus
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
+#EXTINF:0,SCTV HD Plus
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
+#EXTINF:0,ANTV HD Plus
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+#EXTINF:0,INDOSIAR HD Plus
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
+#EXTINF:0,TRANSTV HD Plus
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
+#EXTINF:0,TRANS7 HD Plus
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
+#EXTINF:0,NET TV HD Plus
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
+#EXTINF:0, TvOne Plus
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon-avc1_499968=4-mp4a_98800_eng=5.m3u8
+#EXTINF:0, MetroTv Plus
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.m3u8
+
+
+#EXTINF:0,BBC World News
+#EXTVLCOPT:network-caching=1000
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:0,CNN NEWS
+#EXTVLCOPT:network-caching=1000
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0,DW News
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/qwr9ew/s/s26/01.m3u8
+
+#EXTINF:0,Aljazeera
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/qwr9ew/s/s17/01.m3u8
+
+
+
+##### SPORTS #####
+
+
+#EXTINF:0,WWE
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+
+#EXTINF:0,Sony Ten 1
+#EXTVLCOPT:network-caching=1000
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF:0,Sony Ten 2
+#EXTVLCOPT:network-caching=1000
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+
+#EXTINF:0,Bein2HD
+#EXTVLCOPT:network-caching=1000
+https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
+
+#EXTINF:0,Bein1HD
+#EXTVLCOPT:network-caching=1000
+https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
+
+#EXTINF:0, Astro Arena HD
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:0, Astro SuperSport HD
+#EXTVLCOPT:network-caching=1000
+http://foctv.xyz:25510/Amir5641/YY5641/148
+#EXTINF:0, Astro SuperSport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/149
+
+
+#EXTINF:0, Eleven Sport 2
+#EXTVLCOPT:network-caching=1000
+http://qqtv.nl:8080/shah/shah123/148449
+#EXTINF:0, Eleven Sports USA
+#EXTVLCOPT:network-caching=1000
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+
+#EXTINF:0, beIN Sports MAX HD
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745748
+
+#EXTINF:0,ASTRO ASSP2 HD
+#EXTVLCOPT:network-caching=1000
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59219
+
+#EXTINF:0,ASTRO ASSP4 HD
+#EXTVLCOPT:network-caching=1000
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59217
+
+#EXTINF:0,Super Sport 1
+#EXTVLCOPT:network-caching=1000
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1722
+#EXTINF:0,Super Sport 2
+#EXTVLCOPT:network-caching=1000
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1721
+#EXTINF:0,Super Sport 3
+#EXTVLCOPT:network-caching=1000
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1720
+#EXTINF:0,Super Sport 4
+#EXTVLCOPT:network-caching=1000
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1719
+
+#EXTINF:0,BARCA $
+#EXTVLCOPT:network-caching=1000
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/557
+#EXTINF:0,REAL MADRID CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/542
+#EXTINF:0,BRITISH EUROSPORT 1
+#EXTVLCOPT:network-caching=1000
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/652
+#EXTINF:0,BRITISH EUROSPORT 2
+#EXTVLCOPT:network-caching=1000
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/685
+#EXTINF:0,SKY SPORTS FOOTBALL HD
+#EXTVLCOPT:network-caching=1000
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/699
+#EXTINF:0,SKY SPORTS MAIN EVENT HD
+#EXTVLCOPT:network-caching=1000
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/700
+#EXTINF:0,SKY SPORTS MIX HD
+#EXTVLCOPT:network-caching=1000
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/701
+#EXTINF:0,SKY SPORTS PREMIER LEAGUE HD
+#EXTVLCOPT:network-caching=1000
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/702
+#EXTINF:0,SKY SPORTS F1
+#EXTVLCOPT:network-caching=1000
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/717
+#EXTINF:0,BT SPORT 2 $
+#EXTVLCOPT:network-caching=1000
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/720
+#EXTINF:0,BT SPORT 3 $
+#EXTVLCOPT:network-caching=1000
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/721
+#EXTINF:0,BT SPORT 1 $
+#EXTVLCOPT:network-caching=1000
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/719
+
+#EXTINF:0,OEX 1
+#EXTVLCOPT:network-caching=1000
+http://bosstr.net:80/live/cat54/DpbYpXOhHn/27083.m3u8
+#EXTINF:0,OEX 2
+#EXTVLCOPT:network-caching=1000
+http://bosstr.net:80/live/cat54/DpbYpXOhHn/27084.m3u8
+#EXTINF:0,OEX 3
+#EXTVLCOPT:network-caching=1000
+http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/5941
+#EXTINF:0,OEX 4
+#EXTVLCOPT:network-caching=1000
+http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/5942
+#EXTINF:0,OEX 5
+#EXTVLCOPT:network-caching=1000
+http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/5943
+#EXTINF:0,OEX 6
+#EXTVLCOPT:network-caching=1000
+https://output1.ponpapua.my.id/edge1/smil:Channel6.smil/playlist.m3u8
+#EXTINF:0,OEX 7
+#EXTVLCOPT:network-caching=1000
+https://output3.ponpapua.my.id/edge2/smil:Channel1_source.smil/playlist.m3u8
+#EXTINF:0,OEX 8
+#EXTVLCOPT:network-caching=1000
+https://output1.ponpapua.my.id/edge1/smil:Channel5.smil/playlist.m3u8
+#EXTINF:0,OEX 9
+#EXTVLCOPT:network-caching=1000
+https://output1.ponpapua.my.id/edge1/smil:Channel3.smil/playlist.m3u8
+#EXTINF:0,OEX 10
+#EXTVLCOPT:network-caching=1000
+https://dj8baylqw7a4h.cloudfront.net/out/v1/29e89f3d8dc54deab128cf6b9241f82f/index_2.m3u8
+
+#EXTINF:0,beIN Sports
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6749
+#EXTINF:0,HITS
+
+
+#EXTVLCOPT:network-caching=1000
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/46446.ts
+
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url="" group-title="ASTRO SPORTS",Astro Arena [HEVC]
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="RTMSports.my" tvg-name="RTM Sports" tvg-country="MY" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" tvg-url="" group-title="ASTRO SPORTS",RTM Sports [HEVC]
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://x1.cdn.broiptv.com/img/hbo.png",HBO HD
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="ASTRO GO",KBS WORLD HD
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+
+
+
+##### VOD #####
+
+#EXTINF:0,NIGHT AT THE MUSEUM: SECRET OF THE TOMB (2014)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1Yf9t6ZBq5SziFOkfKrpLmD_2R4phB0IY?alt=media&key=AIzaSyBJbk7Af8gmIYrD3ruLwrexTwjRpJHGFKw
+#EXTINF:0,DADDY'S HOME (2014)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1nIuBPu9EBz--pp1wYC0zCWHfdFYX4N3h?alt=media&key=AIzaSyDKfKw0W37YoFq4s_Ho2BoRNPiPO7Kgavs
+#EXTINF:0,VICTOR FRANKENSTEIN (2015)
+#EXTVLCOPT:network-caching=1000
+http://srv28.nf21.net/files/15-2019-02-18-4a5e91daddac9423397fe944545f26a7.mp4
+#EXTINF:0,RETURN OF XANDER CAGE (2017)
+#EXTVLCOPT:network-caching=1000
+http://srv16.nf21.net/files/15-2018-07-28-def0ae28cf4df35cdc6eb54bdaff58c9.mp4
+#EXTINF:0,MORTAL ENGINES (2018)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1BK75mxpQP8zsCtTaXiY5XVR86eMZXJkg?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:0,FANTASTIC BEASTS: THE CRIMES OF GRINDELWALD (2018)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1ueBcd30nR8F9-5SXRHw0_ieiuXM2ljXe?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:0,GREEN BOOK (2018)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1YPWoh4F4RmC-NHqLeFIM4bF5xHXqWgmH?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:0,MARY POPPINS RETURNS (2018)
+#EXTVLCOPT:network-caching=1000
+http://srv43.nf21.net/files/19-2020-07-05-bbb5fe1cff596a0534711d79be28e97c.mp4
+#EXTINF:0,SPIDER-MAN: INTO THE SPIDER-VERSE (2018)
+#EXTVLCOPT:network-caching=1000
+http://srv28.nf21.net/files/11-2019-02-28-ad3bbf17b2e4db3425e76338ed3fe6e2.mp4
+#EXTINF:0,RALPH BREAKS THE INTERNET (2018)
+#EXTVLCOPT:network-caching=1000
+http://srv34.nf21.net/files/19-2020-05-20-b4648ae6b2ca3164ca176ddee0cdc14a.mp4
+#EXTINF:0,AQUAMAN (2018)
+#EXTVLCOPT:network-caching=1000
+http://srv32.nf21.net/files/10-2020-02-26-5bf1c6658678febdd51f45d24220650e.mp4
+#EXTINF:0,RACETIME (2019)
+#EXTVLCOPT:network-caching=1000
+http://srv28.nf21.net/files/11-2019-03-15-07f7693d7672b9b9ecc675090f7b33e2.mp4
+#EXTINF:0,HOW TO TRAIN YOUR DRAGON: THE HIDDEN WORLD (2019)
+#EXTVLCOPT:network-caching=1000
+http://srv37.nf21.net/files/11-2020-05-30-b5dd6ebb5c68cc951b7b13c6e3b70c3e.mp4
+#EXTINF:0,DESTROYER (2018)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1tgXoVweA7jhzD8MBUhErVQLWquVcsjZF?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:0,DRAGON BALL SUPER: BROLY (2019)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1vn6LKF11HkrdkfYcHHFDHmAqIy4tbJvg?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:0,CRAZY RICH ASIANS (2018)
+#EXTVLCOPT:network-caching=1000
+http://srv28.nf21.net/files/15-2019-03-17-75766010094d81eaeb0953c94f8feeb4.mp4
+#EXTINF:0,THE MAGNIFICENT SEVEN (2016)
+#EXTVLCOPT:network-caching=1000
+http://srv36.nf21.net/files/19-2020-05-30-1f9c59e3e680fa272896f26004e0f574.mp4
+#EXTINF:0,RIDE ALONG 2 (2016)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1dyDqEa1c6dhRVZOsLl9JII4EYPFE9Yxt?alt=media&key=AIzaSyAN3ur11jWoVfYZhBWzkMigW5tjS3zDF5I
+#EXTINF:0,ROGUE ONE: A STAR WARS STORY (2016)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1PWGUA_NJVCa7fP8C-NVEob9avtco1Psu?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:0,BILL & TED FACE THE MUSIC (2020)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1Phhy0rjSt3XCtLSh0y8N0wyfDogbNbhN?alt=media&key=AIzaSyAvKCusngMLaVnqQrZJEFQ0lX6SfhWFgf4
+#EXTINF:0,UNBROKEN  (2014)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/138ULN0bJjVURpAFY28LEcnYSbtM3ivtD?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:0,SULLY (2016)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1CMlsBsbTOgvQLKrxhMH7pmpL2jiiQfKI?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:0,THE SHALLOWS (2016)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1wM9kM4gL7lHsdMR_dAf1CrM3JWqu1ihV?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:0,WAR DOGS (2016)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1EKSFMRjZTk7EIinSorKUVdyY49QlimHe?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:0,BLAIR WITCH (2016)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/10-DL5QPnbvxI0lB-LQOSTVzkjpovbijv?alt=media&key=AIzaSyAvKCusngMLaVnqQrZJEFQ0lX6SfhWFgf4
+#EXTINF:0,THE JUNGLE BOOK (2016)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/14hAORNO4Kg0P0tF4YUAmm1Y_DkHFqb6q?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:0,CAPTIVE STATE (2019)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1fohYLpfeiBsPEUJ7c9BX38Y-uuvKXBbr?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:0,COLLATERAL BEAUTY (2016)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1SGRFB2HbuDJQ7uJiPtjcxCzn_-C_BdNy?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:0,US (2019)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1gZVK8lHYQf0dlq1o-gsPt_lOQTXtTBLI?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+#EXTINF:0,THE BOY (2016)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1u-WJhhhXrr2pWVBHozfFdQHEBb_YocOe?alt=media&key=AIzaSyDAHybMpT-bKZnMSclMwtQOYEza0yWKOjI
+#EXTINF:0,THE 5TH WAVE (2016)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1Cfwd6D5QmWYbloN66LDTjF0vOVpiPxdy?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:0,THE PURGE: ELECTION YEAR (2016)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1ozfU6g96p9-z7c8PKyosuKrW-iyhrkJd?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:0,A MONSTER CALLS (2017)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1o_9k5L637mHQ11qO923cY1rF-9u3AWDi?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:0,KUNG FU PANDA 3 (2016)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1AV-SGdC59BgbKq7-yfZznbzl0kLYjYTX?alt=media&key=AIzaSyAuCrv1Hw0LElMyONyzOxVPE3Ps3pbjzVs
+#EXTINF:0,shazam (2019)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1BVfzx4wGJ_6pAgeEO-q-y_2JLE4c2HSR?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:0,AMERICAN MADE (2017)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1EghTV1T9XXj4lUXfwh-mooLHWhwLiEeb?alt=media&key=AIzaSyBnBt1wyCtcjf4S_tCSZvncRlV_Tmi5WNQ
+#EXTINF:0,SILENCE (2017)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1DK6wbGXtDKrg5Ww4lYK6KLOxrfWwwXuF?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:0,12 STRONG (2018)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1LNRVj7vNywMoWQTkd493xlPTno3rAJCr?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:0,GOOSEBUMPS 2: HAUNTED HALLOWEEN (2018)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1y3HEZYWANDAENkmfc2fyY34uf5h4_cXt?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:0,FIRST MAN (2018)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/14rZeVp6V_k1jsUs5YCfh69nDLud1le0b?alt=media&key=AIzaSyC-gxNp5d22mmMlaogOwqrGg5_ffBCNsTQ
+#EXTINF:0,EXTRACTION (2020)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1EKH3FAOHQ5cxxHBsRqJXGUayZCv-UALz?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:0, 47 Meters Down: Uncaged (2019)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1W49D9iHci1_xKkR437Ok00vtByLPWbKG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0, Aquaman
+#EXTVLCOPT:network-caching=1000
+http://srv32.nf21.net/files/10-2020-02-26-5bf1c6658678febdd51f45d24220650e.mp4
+#EXTINF:0, Batman Begins (2005)
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/HLVduzzMHSqVwBbMmLuj1MfwZtDm-B9I6ipRlJBZfTuwMsFXmU6kUWdbjS-GCmAUI1v9lNPsNTXmz7XBww=m22
+#EXTINF:0, Batman: The Dark Knight (2008)
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/OXw9QDYThjRhY7mIZzzjgcFY1d1hudDPWrwprmb3QtQsBXgBlgZL3Xs4l_4pvPsQ2vaGWMgQ3cuNJetvVA=m22
+#EXTINF:0, Batman: The Dark Knight Rises (2012)
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/0i7CSFHiP0E_NHl1dEFKdpqCNkSGWtDP3tOQQxjDvr_oSauAkn8_8E30twpKn20WKTZuVOuLGKznk9CqNQ=m22
+#EXTINF:0, Blood Brothers
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/0e7bc1b5824943fc967747d65baed688/540p/index.m3u8
+#EXTINF:0, Brave (2012)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960865
+#EXTINF:0, Despicable Me 1
+#EXTVLCOPT:network-caching=1000
+https://videos.files.wordpress.com/g3WNpYqU/despicableme_mp4_dvd.mp4
+#EXTINF:0, Despicable Me 2
+#EXTVLCOPT:network-caching=1000
+https://videos.files.wordpress.com/3Flbt8SJ/despicableme2_mp4_dvd.mp4
+#EXTINF:0, Dragon Blade
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/ShD9GW1BPcJLCTz4xv2IEp15i4jgEg9ateA40i7Wt-arbAUnYCJ-ZceoJdpMf6H0naX88Hh1gMGgHBjUqw=m22
+#EXTINF:0, Dreamcatcher
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/2ef94737b5792d42c458235771e4a88f/540p/index.m3u8
+#EXTINF:0, Edward Scissorhands
+#EXTVLCOPT:network-caching=1000
+https://eu2.vod.rdncdn.com/VOD1/Movies/GER/EdwardScissorhands.mp4/index.m3u8
+#EXTINF:0, Final Destination
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Final%20Destination/Final%20Destination%202000.mp4
+#EXTINF:0, Final Destination 2
+#EXTVLCOPT:network-caching=1000
+http://qqtv.nl:8080/movie/shah/shah123/383135.mp4
+#EXTINF:0, Final Destination 3
+#EXTVLCOPT:network-caching=1000
+https://t4.gomoplayer.com/hls/,vxoke5cewkalavf4eraiv5ejqkuuxupjwgzed46tkelhaoa3dgiztd6fzzjq,.urlset/master.m3u8
+#EXTINF:0, Final Destination 4
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Final%20Destination/The%20Final%20Destination%20(2009).mp4
+#EXTINF:0,0 - 675,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Final Destination 5 (2011)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960210
+#EXTINF:0, Frozen
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/8OLNPmNiqm3XgItbuPTbq2ythbAsHoP8aWDYM9G7Gxy8-7nFzVFdXUSwd0qeRPYe_8XvyAw_ExSgRbMH_g=m22
+#EXTINF:0, Frozen 2
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/GZHehDjuIB4vJdnV0MWyiOwe6n875bjkqgYpnLUMnVYXm5tUrvOdPCDtYBw6mRFbUf6eK810qA2JHLmOGQ=m22
+#EXTINF:0, G.I. Joe: Retaliation (2013)\
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960780
+#EXTINF:0,0 - 674,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", G.I. Joe: The Rise of Cobra (2009)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960211
+#EXTINF:0, Godzilla Against Mechagodzilla (2002)
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/GodzillaAgainstMechagodzilla_201703/Godzilla%20Against%20Mechagodzilla.mp4
+#EXTINF:0, Godzilla vs. Kong
+#EXTVLCOPT:network-caching=1000
+http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/191.mp4
+#EXTINF:0, Godzilla: Final Wars (2004)
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/GodzillaFinalWars/Godzilla%20Final%20Wars.mp4
+#EXTINF:0, Godzilla: Planet of the Monsters (2017)
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.mp4
+#EXTINF:0, Hachi: A Dogs Tale
+#EXTVLCOPT:network-caching=1000
+https://vodcdn.internetowa.tv/Hachi-A-Dogs-Tale-Moj-przyjaciel-Hachiko-2009-Lektor-PL.mp4/index.m3u8
+#EXTINF:0, Heroes Return
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/12c134f002d2bc4948795126b1c4e9b4/540p/index.m3u8
+#EXTINF:0, Hitman: Agent 47 (2015)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1gR27s335-aR9fbkyxfugtP8DkcOEwONd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0, Hotel Mumbai
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282961007
+#EXTINF:0, Hotel Transylvania
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960920
+#EXTINF:0, Hotel Transylvania 2
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960922
+#EXTINF:0, Hotel Transylvania 3: Summer Vacation
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960923
+#EXTINF:0, Ice Age
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960884
+#EXTINF:0, Ice Age: Collision Course
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960887
+#EXTINF:0, Ice Age: Continental Drift
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960886
+#EXTINF:0, Ice Age: Dawn of the Dinosaurs
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960885
+#EXTINF:0, Ice Age: The Meltdown
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/_mPY82zbxOqPb9sthB5i-f7BQHT-TDzmTnkAWFH73spzfcSqUlu0-iu5WeZfTcAF5pxTVavum5KHdPnvMw=m22
+#EXTINF:0, Iceman: The Time Traveller
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959719
+#EXTINF:0, Ip Man and Four Kings
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959710
+#EXTINF:0, Jai Ho
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282961008
+#EXTINF:0, Jiu Jitsu
+#EXTVLCOPT:network-caching=1000
+https://vodcdn2.internetowa.tv/storage-2/Jiu-Jitsu-2020-Lektor-PL.mp4/index.m3u8
+#EXTINF:0, Judas and the Black Messiah
+#EXTVLCOPT:network-caching=1000
+http://www.supercartube.com/media/videos/h264/166_720p.mp4
+#EXTINF:0, Kung Fu Hustle
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959722
+#EXTINF:0, Kung Fu League
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959724
+#EXTINF:0, Kung Fu Monster (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959723
+#EXTINF:0, Kung Fu Panda
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960879
+#EXTINF:0, Kung Fu Panda 2
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960880
+#EXTINF:0, Kung Fu Panda 3
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960881
+#EXTINF:0, Kungfu Chef
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/60E8xMgnlhiFIW5xaqBFawKIeM7v_61U5R3ZUUOgF09R_4oXdGIbW-yOLXwDLnXJpR40WX2y_Hz12I8vIw=m22
+#EXTINF:0, Kungfu Master
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/klkP35A4fD1Kq6Cy1S3dbTAtpAAVUIDIknqekHI4G4GG04f34G1fwAUauJ8L8tbcZO4ALTGfBpkMmNp8NA=m22
+#EXTINF:0, Land
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/db3b50eea11629b38a726701757f12a1/540p/index.m3u8
+#EXTINF:0, Lucy
+#EXTVLCOPT:network-caching=1000
+http://srv24.nf21.net/files/15-2018-11-07-87a60112c7eabd4f9dd43928ad6c0eb2.mp4
+#EXTINF:0, Man of Steel
+#EXTVLCOPT:network-caching=1000
+https://cdn.english-with-fun.com/content?rs=B04B59F3-971301f6568a07588b12c3c3&app_type=web
+#EXTINF:0, Master Z: The Ip Man Legacy
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959711
+#EXTINF:0, Monster Hunter
+#EXTVLCOPT:network-caching=1000
+http://www.supercartube.com/media/videos/h264/156_720p.mp4
+#EXTINF:0, Monster Inc.
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/JbOTHuFXyXkuBa9JBm_xsc3xJgujsoiPlr3fuxpXSHTvp2I3CT3alBlW9F63IWRoyXBJokoaEi0yiCSwWg=m22
+#EXTINF:0, Monsters University
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960872
+#EXTINF:0, Mortalkombat
+#EXTVLCOPT:network-caching=1000
+http://srv44.nf21.net/files/10-2021-04-27-a0b85adabf8a41a9ea4a6ba616ee2109.mp4
+#EXTINF:0, Moxie
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/9d065092bc6f35eb6108c49c6c2f1606/540p/index.m3u8
+#EXTINF:0, Mulan(2020)
+#EXTVLCOPT:network-caching=1000
+http://srv41.nf21.net/files/15-2020-10-14-181bce8bfb76d43f9f8714f3ea2a3ca0.mp4
+#EXTINF:0, Now You See Me 2
+#EXTVLCOPT:network-caching=1000
+http://srv40.nf21.net/files/19-2020-06-11-e20237d43952dbf805b0d9bdc445b4d5.mp4
+#EXTINF:0, Okja
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/aLxQA9XGhhrPs9petIk0_0wEOIE2_UGzBgspsYEDItBtzz4COBKQFm0TfvWM40f6S6oPFxHaBnUa9zZytA=m22
+#EXTINF:0, Payback
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/8a687087286b2a6438af5f5763b5f2e9/540p/index.m3u8
+#EXTINF:0, Phobias (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/8eff084ddb2ae8f6c2056ceb4e3fe594/540p/index.m3u8
+#EXTINF:0, Scary Movie
+#EXTVLCOPT:network-caching=1000
+http://ia801402.us.archive.org/12/items/0000_20201108/00002.mp4
+#EXTINF:0, Scary Movie 2
+#EXTVLCOPT:network-caching=1000
+http://ia801402.us.archive.org/12/items/0000_20201108/00003.mp4
+#EXTINF:0, Scary Movie 3
+#EXTVLCOPT:network-caching=1000
+http://ia801404.us.archive.org/26/items/000_20201109/00005.mp4
+#EXTINF:0, Scary Movie 4
+#EXTVLCOPT:network-caching=1000
+http://ia601506.us.archive.org/16/items/000_20201026/00008.mp4
+#EXTINF:0, Scary Movie 5
+#EXTVLCOPT:network-caching=1000
+http://ia801400.us.archive.org/14/items/000_20201114/00006.mp4
+#EXTINF:0, Shaolin Soccer
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/UDEPk7otEZHW0Ukv4GvmAOozp1ml0KMJq8Z-CbniwVLBEdR67h6z-d92YiBYXtO6Fup90QVsY5-HSLz4hA=m22
+#EXTINF:0, Slumdog Millionaire
+#EXTVLCOPT:network-caching=1000
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Slumdog%20Millionaire%20(2008)%20Bluray%20720p%20Malay%20Hardsub.mp4
+#EXTINF:0, Snake Eyes
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Snake.Eyes.G.I.Joe.Origins.2021.1080p_1.mp4
+#EXTINF:0,0 - 182,268_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Chronicles of Narnia: Prince Caspian
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/FIoZrjC91WsH4gf2yjKQWSNMhd3lSrT89sF8lA8q7gv42lgdCKkOXO1q38ToH04L-3Ncyesbg24b13fbcg=m22
+#EXTINF:0,0 - 182,268_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960235
+#EXTINF:0,0 - 182,268_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Chronicles of Narnia: The Voyage of The Dawn Treader
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/eOFCA9aWV9lVDEaLTXbk2CvjJYmcs_g1QiXSzhhV5f94Id7KANNAAxEfDCscmx3i2M5alvpf1bmt8rtS0Q=m22
+#EXTINF:0,0 - 674,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Expendables (2010)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960229
+#EXTINF:0,0 - 648,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Expendables 2 (2012)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960230
+#EXTINF:0,0 - 674,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Expendables 3 (2014)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960231
+#EXTINF:0,0 - 666,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The First Purge
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/tXebnhmXhLGFPrwD9n3tAiqQ_D1mAsTTspEbLXR8GBNypKmHLTPvLKWIiMfeBWIXOvnfrfizZ8x_nFoe1g=m22
+#EXTINF:0,0 - 674,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Hunger Games
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960215
+#EXTINF:0,0 - 674,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Hunger Games: Catching Fire
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960216
+#EXTINF:0,0,657,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Hunger Games: Mockingjay - Part 1
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960217
+#EXTINF:0,0,657,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Hunger Games: Mockingjay - Part 2
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960218
+#EXTINF:0, The Man from Macau (2014)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959733
+#EXTINF:0,0 - 182,268_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Maze Runner
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/jtqRDOvPmZVqNiigYfB9MG3uW_geFkLYRPSHND__-LBL16HZwj36HU63I1zfY3bSiQy0WZ-EPkt8vWv9qA=m22
+#EXTINF:0,0 - 182,268_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Maze Runner: The Death Cure
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/ddjlgOMOCJWZGr7XK9zVU1QsArlkmVMFbH3DLzaR9hddOey_U2RTG_d03xISng5LY68GnGYkZ_90C6eLTA=m22
+#EXTINF:0,0 - 182,268_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Maze Runner: The Scorch Trials (2015)
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/JgkoDIgxx_sWgy0lEpmggJjrgoljj0C13TABrgEbZFUniRtyTPewwo7OnYPGQmoxhhIWbCxRxlHaZgYm0A=m22
+#EXTINF:0, The Monkey King Caused Havoc in Dragon Palace
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959740
+#EXTINF:0, The Purge
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/0GnRsV4TTIRhtwrDqjsZXCLCicwGEk-bQIRUUs-obLk03twPf5mz8p3e7Jer5ivicOaahxmQrgORIZWuEw=m22
+#EXTINF:0,0 - 631,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Purge: Anarchy
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/hIX3IZEa2ve1srImQFk_9K8wSlar9MNmjmHygB9J7aYWTIQU4iqY4BTJehkZYSbC7dEn9D8DL2_BUhBvTg=m22
+#EXTINF:0,0 - 675,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Purge: Election Year
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/A_AUMJtXnXkPa6XliM22SqqxjEZZpBb75C4I3gl-pT2oCqJd-sjx9z3gXmYF-yhHJYixgyENsYRdgE5TLA=m22
+#EXTINF:0, The Twilight : ECLIPSE (2010)
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/-g8REJ-ZF-m-oeQaLKzTOb_0vbfgTB63y-T3iMHfMaulmMjHkIXQ6Ui0iZc5Tkl_ze1-OgNb-ZP23iFTEQ=m22
+#EXTINF:0, The Twilight : NEW MOON (2009)
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/Rdf4CHvfJVZD3h4XzRdNOkjyhof4joJMl2EDlSoWy-7O_EyNsgwB07sOd3PMTCEiudS7YfiFONd_eHeTvw=m22
+#EXTINF:0, Thriller: Alice Fades Away (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/cfc8d36c9e6095bbb5e21b1b9dc0c6e4/540p/index.m3u8
+#EXTINF:0, Thunder Force (2021-Action)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/769174d6904c3acda2034ecedd2179dd/540p/index.m3u8
+#EXTINF:0, Tomb Raider (2018)
+#EXTVLCOPT:network-caching=1000
+http://srv18.nf21.net:80/files/10-2018-08-02-061abc079ba3e2908ee7019f2729a230.mp4
+#EXTINF:0, Train to Busan (2016)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959805
+#EXTINF:0, Vanguard (2020)
+#EXTVLCOPT:network-caching=1000
+https://vodcdn2.internetowa.tv/storage-2/VANGUARD-2020-PL-SUB.mp4/index.m3u8
+#EXTINF:0, Vanquish (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
+#EXTINF:0, Wildcat
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/2676bc525bdd072c5ad6800571d35e9f/540p/index.m3u8
+#EXTINF:0, Wonder Woman
+#EXTVLCOPT:network-caching=1000
+https://cdn.jwplayer.com/manifests/nNjeV7v1.m3u8
+#EXTINF:0, Wonder Woman 1984
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/cf411a4c3cbff9b7b220302f038813cf/540p/index.m3u8
+#EXTINF:0, xXx
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960219
+#EXTINF:0,0 - 640,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", xXx: Return of Xander Cage
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960221
+#EXTINF:0,0 - 673,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", xXx: State of the Union
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960220
+#EXTINF:0, Zack Snyders Justice League
+#EXTVLCOPT:network-caching=1000
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/1sementara-ja/Justice%20League%20-%20Synder%20Cut%20(2021)3.mp4
+
+#EXTINF:0, Alas Pati Hutan Mati
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Alas_Pati_Hutan_Mati_2018.mp4
+
+#EXTINF:0, Mr Bean Ep1
+#EXTVLCOPT:network-caching=1000
+https://obs.line-scdn.net/0hBo8Nn7agHUAFNzflqd9iFzZhHi82Ww5DYQFMXlVZRHYsBFMTP1lWJihlS3gvDlxTOFkFcnI-Eyc/720p.m3u8
+#EXTINF:0, Mr Bean Ep2
+#EXTVLCOPT:network-caching=1000
+https://obs.line-scdn.net/0hbqNH_kmTPV5zMRf_MktCCU9nPjFAXS5dFwdsQCNff2xZAnkMR1N7MVY5MT1ZCH0KClYiOVU3YW4L/720p.m3u8
+#EXTINF:0, Mr Bean Ep3
+#EXTVLCOPT:network-caching=1000
+https://obs.line-scdn.net/0hEFUt5pUJGmloDTDJ6_NlPlVbGQZbYQlqDDtLdzhjWFlHOFo3UWJdCU4NTAsWPl45XS5UX0wPF11NNQ/720p.m3u8
+#EXTINF:0, Mr Bean Ep4
+#EXTVLCOPT:network-caching=1000
+https://obs.line-scdn.net/0hfqoimabxOV5SEBPxQCJGCW5GOjFhfCpdNiZoQAJ-Z2Z_KXYIaH93O3cYMm18JnkLK3cmOXIVYGp7/720p.m3u8
+#EXTINF:0, Mr Bean Ep5
+#EXTVLCOPT:network-caching=1000
+https://obs.line-scdn.net/0h73hPl04KaBxVKUKxc3AXS2l_a3NmRXsfMR85AgVHKix9HixCb0klenAhYy96ES9NLE53e3ctNnss/720p.m3u8
+#EXTINF:0, Mr Bean Ep6
+#EXTVLCOPT:network-caching=1000
+https://obs.line-scdn.net/0hLtzGV2r8E1tHPjnyJ8lsDHtoEDR0UgBYIwhCRRdQUWhrCl0Ke19ZNGI2GGtuB1AFPlkMPDI2SGNr/720p.m3u8
+#EXTINF:0, Mr Bean Ep7
+#EXTVLCOPT:network-caching=1000
+https://obs.line-scdn.net/0hYLp4zIT_BmNNTSzKLJt5NH4bBQx-IRVgKXtXfR0jXlBpeEQwcCJJBWAYWFBheUhwcHtIVWBPXlM/720p.m3u8
+#EXTINF:0, Mr Bean Ep8
+#EXTVLCOPT:network-caching=1000
+https://obs.line-scdn.net/0hY46GFAe2BhsLPiyySox5TDdoBXQ4UhUYbwhXBVtQWC0kDkNKM1lLeS42CnsjC0BMclkZfH44Wn4i/720p.m3u8
+#EXTINF:0, Mr Bean Ep9
+#EXTVLCOPT:network-caching=1000
+https://obs.line-scdn.net/0hW6Y20xPfCBlkSyKxEut3TlgdC3ZXJxsaAH1ZBzQlVSlKf05HWCtEfUFDAylLeUdHHSwXfhIbVX1P/720p.m3u8
+#EXTINF:0, Mr Bean Ep10
+#EXTVLCOPT:network-caching=1000
+https://obs.line-scdn.net/0h3Zzdt8IAbHVHHUbDZuwTIntLbxp0cX92Iys9axdzMUVpKi4kfnkqEGIVZ0RiKCshPnpzEjcZME1t/720p.m3u8
+#EXTINF:0, Mr Bean Ep11
+#EXTVLCOPT:network-caching=1000
+https://obs.line-scdn.net/0hP5-YYGpTDxoQICWvNFZwTSN2DHUjTBwZdBZeBEBOVyM7E0hEL0FDfD11USg_EEEJLRZBKDEhUSo/720p.m3u8
+#EXTINF:0, Mr Bean Ep12
+#EXTVLCOPT:network-caching=1000
+https://obs.line-scdn.net/0hmHDf0lNdMmd5HxjTGQZNMEVJMQhKcyFkHSljeSlxcFJWKnA3TXx_A1wXOVRSLnwzAHgtAAsXaVUA/720p.m3u8
+#EXTINF:0, Mr Bean Ep13
+#EXTVLCOPT:network-caching=1000
+https://obs.line-scdn.net/0hFBCtdz7kGW1-DTPeYwlmOk1bGgJNYQpuGjtIcy5jT1RbPFkyRG1UC1NYR1lTPVZ-QztWClkLQl8/720p.m3u8
+#EXTINF:0, Mr Bean Ep14
+#EXTVLCOPT:network-caching=1000
+https://obs.line-scdn.net/0h2gObp0LwbUhyG0f6hhQSH05NbidBd35LFi08ViJ1MHldKSocTX8iKVcTYSxbLyoYC3xyLlQYMn1W/720p.m3u8
+#EXTINF:0, Redemption Day
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/d3ea522820faa6d92f51ac15d0bf0a3c/540p/index.m3u8
+#EXTINF:0, Teddy
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/401410ed0d350461833d4b8a058212c9/540p/index.m3u8
+
+#EXTINF:0, Alice in Wonderland
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Alice%20in%20Wonderland%20(2010).mp4
+#EXTINF:0, American Fighter
+#EXTVLCOPT:network-caching=1000
+https://vodcdn.internetowa.tv/storage-2/American-Fighter-2019-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:0, American Liar
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/167f6a2fe5cea631ff46c0deb9704ad5/540p/index.m3u8
+
+#EXTINF:0, 12 Rounds
+#EXTVLCOPT:network-caching=1000
+http://qqtv.nl:8080/movie/shah/shah123/386186.mp4
+#EXTINF:0, Despicable Me 3
+#EXTVLCOPT:network-caching=1000
+http://srv1.nf21.net/files/6-2017-11-03-5bd67f4b30b3a84adfbf0d79940c9a59.mp4
+#EXTINF:0, The Fast and the Furious
+#EXTVLCOPT:network-caching=1000
+http://www.deadlyblogger.com/NewRelease/fast1.mp4
+#EXTINF:0, 2 Fast 2 Furious
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%20Sequels/2%20Fast%202%20Furious%20(2003).mp4
+#EXTINF:0, Fast and Furious
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%20Sequels/Fast%20&%20Furious%20(2009)%20Subs%20Malay.mp4
+#EXTINF:0, Fast Five
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%20Sequels/Fast%20Five%20(2011)%20Subs%20Malay.mp4
+#EXTINF:0, Fast and Furious 6
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%20Sequels/Fast%20&%20Furious%206%20(2013)%20Subs%20Malay.mp4
+#EXTINF:0, The Fast and the Furious: Tokyo Drift
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%20Sequels/The_Fast_And_The_Furious__Tokyo_Drift_2006_Subs_Malay.mp4
+#EXTINF:0, Furious 7
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%20Sequels/Fast%20&%20Furious%207%20(2015)%20Subs%20Malay.mp4
+#EXTINF:0, The Fate Of The Furious
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%20Sequels/The%20Fate%20Of%20The%20Furious%20(2017)%20Subs%20Malay.mp4
+#EXTINF:0, Fast & Furious: Hobbs & Shaw
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%20Sequels/Fast_&_Furious_Presents__Hobbs_&_Shaw_2019_Subs_Malay.mp4
+#EXTINF:0, F9 FHD
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/F9.the.Fast.Saga.2021.1080p.mp4
+#EXTINF:0, Cruella
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Cruella.mp4
+#EXTINF:0, Home Alone
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Home%20Alone/Home%20Alone%20(1990).mp4
+#EXTINF:0, Home Alone 2: Lost in New York
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Home%20Alone/Home%20Alone%202_%20Lost%20In%20New%20York%20(1992).mp4
+#EXTINF:0,0 - 630,1200_AL_.jpg" group-title="VOD Home Alone" tvg-id="" tvg-name="", Home Alone 3
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Home%20Alone/Home%20Alone%203%20(1997).mp4
+#EXTINF:0,0 - 630,1200_AL_.jpg" group-title="VOD Home Alone" tvg-id="" tvg-name="", Home Alone 4: Taking Back the House
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Home%20Alone/Home%20Alone%204%20Taking%20Back%20the%20House%202002.mp4
+#EXTINF:0, Home Alone: The Holiday Heist
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Home%20Alone/Home%20Alone%205_%20The%20Holiday%20Heist%20(2012).mp4
+
+#EXTINF:0, Scream (1996)
+#EXTVLCOPT:network-caching=1000
+http://qqtv.nl:8080/movie/shah/shah123/369922.mp4
+#EXTINF:0, Scream 2 (1997)
+#EXTVLCOPT:network-caching=1000
+http://qqtv.nl:8080/movie/shah/shah123/386110.mp4
+#EXTINF:0, Taken 2
+#EXTVLCOPT:network-caching=1000
+https://vodcdn.internetowa.tv/storage-2/Taken-2-2012-720p-Lektor-PL.mp4/index.m3u8
+#EXTINF:0, Taken 3
+#EXTVLCOPT:network-caching=1000
+http://qqtv.nl:8080/movie/shah/shah123/331396.mp4
+#EXTINF:0, The Grudge (2020)
+#EXTVLCOPT:network-caching=1000
+http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/801.mp4
+#EXTINF:0, The Hangover
+#EXTVLCOPT:network-caching=1000
+http://qqtv.nl:8080/movie/shah/shah123/386376.mp4
+#EXTINF:0, The Hangover 2
+#EXTVLCOPT:network-caching=1000
+http://103.136.62.10/Data/Disk2/movies/hollywood/2020/Bad%20Trip%20(2020)/Bad.Trip.2020.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.mp4
+#EXTINF:0, The Hangover 3
+#EXTVLCOPT:network-caching=1000
+http://www.deadlyblogger.com/NewRelease/hangover3.mp4
+
+#EXTINF:0, The Craft Legacy
+#EXTVLCOPT:network-caching=1000
+http://103.136.62.10/Data/Disk2/movies/hollywood/2020/The%20Craft%20Legacy%20(2020)/The.Craft.Legacy.2020.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:0, Transformers
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Transformers/Transformer%20(2007).mkv
+#EXTINF:0, Transformers: Revenge of the Fallen
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Transformers/Transformers%20Revenge%20of%20the%20Fellen.mkv
+#EXTINF:0, Transformers: Dark of the Moon
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Transformers/Transformer%20Dark%20Of%20The%20Moon.mkv
+#EXTINF:0, Transformers: Age of Extinction
+#EXTVLCOPT:network-caching=1000
+https://t5.gomoplayer.com/hls/,vxokf6dewgalavf4eqnyvnojqmgqfceuifgfzakvesbhroisaab742ge5oga,.urlset/master.m3u8
+#EXTINF:0, Transformers: The Last Knight
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Transformers/transformers%20The%20Last%20Knight.mkv
+#EXTINF:0, Bumblebee
+#EXTVLCOPT:network-caching=1000
+http://srv37.nf21.net/files/19-2020-05-30-0f8170fdde6900eda968ffb274832ff6.mp4
+#EXTINF:0, Twilight 
+#EXTVLCOPT:network-caching=1000
+http://qqtv.nl:8080/movie/shah/shah123/383189.mp4
+#EXTINF:0, Tom & Jerry
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Tom%2520and%2520Jerry.mp4
+
+#EXTINF:0, X-Men: First Class
+#EXTVLCOPT:network-caching=1000
+http://www.deadlyblogger.com/NewRelease/xmen4.mp4
+#EXTINF:0, X-Men: Days of Future Past
+#EXTVLCOPT:network-caching=1000
+https://p2p-ns1.sage.stream/hls/x-men-days-of-future-past-2014/index.m3u8
+#EXTINF:0, X-Men Origins: Wolverine
+#EXTVLCOPT:network-caching=1000
+http://www.deadlyblogger.com/NewRelease/origin.mp4
+#EXTINF:0, X-Men: Apocalypse 
+#EXTVLCOPT:network-caching=1000
+http://deadlyblogger.com/NewRelease/xmen2016.mp4
+#EXTINF:0, Dark Phoenix
+#EXTVLCOPT:network-caching=1000
+http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/561.mp4
+#EXTINF:0, X-men
+#EXTVLCOPT:network-caching=1000
+http://www.deadlyblogger.com/NewRelease/xmen1.mp4
+#EXTINF:0, X-Men: The Last Stand 
+#EXTVLCOPT:network-caching=1000
+http://www.deadlyblogger.com/NewRelease/xmen3.mp4
+#EXTINF:0, The Wolverine
+#EXTVLCOPT:network-caching=1000
+http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
+#EXTINF:0, Logan
+#EXTVLCOPT:network-caching=1000
+http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/685.mp4
+#EXTINF:0, The New Mutants
+#EXTVLCOPT:network-caching=1000
+http://www.supercartube.com/media/videos/h264/97_480p.mp4
+
+#EXTINF:0, Wrong Turn (2003)
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Wrong%20Turn%20Sequels/Wrong%20Turn%20(2003).mp4
+#EXTINF:0, Wrong Turn 2 Dead End (2007)
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Wrong%20Turn%20Sequels/Wrong%20Turn%202_%20Dead%20End%20(2007).mp4
+#EXTINF:0, Wrong Turn 3 Left For Dead (2009)
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Wrong%20Turn%20Sequels/Wrong%20Turn%203_%20Left%20For%20Dead%20(2009).mp4
+#EXTINF:0, Wrong Turn 4 Bloody Beginnings (2011)
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Wrong%20Turn%20Sequels/Wrong%20Turn%204_%20Bloody%20Beginnings%20(2011).mp4
+#EXTINF:0, Wrong Turn 5 Bloodlines (2012)
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Wrong%20Turn%20Sequels/Wrong%20Turn%205_%20Bloodlines%20(2012).mp4
+#EXTINF:0, Wrong Turn 6 Last Resort (2014)
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Wrong%20Turn%20Sequels/Wrong%20Turn%206_%20Last%20Resort%20(2014).mp4
+#EXTINF:0, Wrong Turn (2021)
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Wrong%20Turn%20Sequels/Wrong%20Turn%C2%A0(2021).mp4
+#EXTINF:0, A Deadly Place
+#EXTVLCOPT:network-caching=1000
+http://103.136.62.10/Data/Disk2/movies/hollywood/2020/A%20Deadly%20Place%20(2020)/A.Deadly.Place.2020.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:0, A Dogs Journey (2019)
+#EXTVLCOPT:network-caching=1000
+http://qqtv.nl:8080/movie/shah/shah123/382180.mp4
+#EXTINF:0, Active Shooter (2020)
+#EXTVLCOPT:network-caching=1000
+http://103.136.62.10/Data/Disk2/movies/hollywood/2020/Active%20Shooter%20(2020)/Active.Shooter.2020.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:0, Heroes Return (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/12c134f002d2bc4948795126b1c4e9b4/540p/index.m3u8
+#EXTINF:0, Insight (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/55ce55eabcd4cb440dc36d2f7eb1f0a2/540p/index.m3u8
+#EXTINF:0, Redemption Day (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/d3ea522820faa6d92f51ac15d0bf0a3c/540p/index.m3u8
+#EXTINF:0, Teddy (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/401410ed0d350461833d4b8a058212c9/540p/index.m3u8
+
+#EXTINF:0, Alvin and the Chipmunks (2007)
+#EXTVLCOPT:network-caching=1000
+https://videos.files.wordpress.com/n5xOKcS9/alvinandthechipmunks_mp4_dvd.mp4
+#EXTINF:0, American Pie (1999)
+#EXTVLCOPT:network-caching=1000
+http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/607.mp4
+#EXTINF:0, American Pie 2 (2001)
+#EXTVLCOPT:network-caching=1000
+http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/608.mp4
+#EXTINF:0, Anger Management (2003)
+#EXTVLCOPT:network-caching=1000
+http://qqtv.nl:8080/movie/shah/shah123/386204.mp4
+#EXTINF:0, Apocalypto (2006)
+#EXTVLCOPT:network-caching=1000
+http://qqtv.nl:8080/movie/shah/shah123/370026.mp4
+#EXTINF:0, Around the World in 80 Days (2004)
+#EXTVLCOPT:network-caching=1000
+http://qqtv.nl:8080/movie/shah/shah123/370027.mp4
+#EXTINF:0, Batman Returns (1992)
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Batman/Batman%20Returns%20(1992)%20BluRay%20REMASTERED.mkv
+#EXTINF:0, Battle: Los Angeles (2011)
+#EXTVLCOPT:network-caching=1000
+http://qqtv.nl:8080/movie/shah/shah123/382005.mp4
+#EXTINF:0, Below Zero 2021
+#EXTVLCOPT:network-caching=1000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Below%20Zero%20(2021).mp4
+#EXTINF:0, Big Mommas House (2000)
+#EXTVLCOPT:network-caching=1000
+http://qqtv.nl:8080/movie/shah/shah123/386212.mp4
+#EXTINF:0, Black Hawk Down
+#EXTVLCOPT:network-caching=1000
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Black%20Hawk%20Down%20(2001)%20Bluray%20Malay%20hardsub.mp4
+#EXTINF:0, Bring It On (2000)
+#EXTVLCOPT:network-caching=1000
+http://qqtv.nl:8080/movie/shah/shah123/386217.mp4
+#EXTINF:0, Bruce Almighty
+#EXTVLCOPT:network-caching=1000
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/46/Bruce%20Almighty%202003.mp4
+#EXTINF:0, Bulletproof Monk (2003)
+#EXTVLCOPT:network-caching=1000
+http://qqtv.nl:8080/movie/shah/shah123/383128.mp4
