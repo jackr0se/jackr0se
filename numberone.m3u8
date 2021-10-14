@@ -2,34 +2,34 @@
 
 ##### BACKGROUND #####
 
-#EXTINF:0,Beaches Live
+#EXTINF:0 group-title="BACKGROUND",Beaches Live
 #EXTVLCOPT:network-caching=1000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:0,Mountains Live
+#EXTINF:0 group-title="BACKGROUND",Mountains Live
 #EXTVLCOPT:network-caching=1000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:0,Rivers Live
+#EXTINF:0 group-title="BACKGROUND",Rivers Live
 #EXTVLCOPT:network-caching=1000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:0,Tropics Live
+#EXTINF:0 group-title="BACKGROUND",Tropics Live
 #EXTVLCOPT:network-caching=1000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:0,Lakes Live
+#EXTINF:0 group-title="BACKGROUND",Lakes Live
 #EXTVLCOPT:network-caching=1000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:0,Animals Live
+#EXTINF:0 group-title="BACKGROUND",Animals Live
 #EXTVLCOPT:network-caching=1000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:0,Forests Live
+#EXTINF:0 group-title="BACKGROUND",Forests Live
 #EXTVLCOPT:network-caching=1000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:0,Sunsets Live
+#EXTINF:0 group-title="BACKGROUND",Sunsets Live
 #EXTVLCOPT:network-caching=1000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:0,Aurora Live
+#EXTINF:0 group-title="BACKGROUND",Aurora Live
 #EXTVLCOPT:network-caching=1000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:0,Nature
+#EXTINF:0 group-title="BACKGROUND",Nature
 #EXTVLCOPT:network-caching=1000
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
