@@ -35,172 +35,204 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 ##### ENTERTAINMENT #####
 
-#EXTINF:0 group-title="ENTERTAINMENT",HBO Hits (1080p)
+#EXTINF:-1 tvg-id="USAJ26000054W" tvg-chno="1452" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/45/USAJ26000054W20200730102745.png" group-title="ENTERTAINMENT-MOVIE",Paramount Movie Channel
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="USBB19000017U" tvg-chno="1455" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png" group-title="ENTERTAINMENT-MOVIE",Hallmark Movies & More
+https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="USBA43000017Q" tvg-chno="1457" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/07/USBA43000017Q_20210126T072616.png" group-title="ENTERTAINMENT-MOVIE",MovieSphere2
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8?
+
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",HBO Hits (1080p)
 #EXTVLCOPT:network-caching=1000
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT",HBO Malaysia (720p)
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",HBO Malaysia (720p)
 #EXTVLCOPT:network-caching=1000
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT",Warner TV (720p)
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",Warner TV (720p)
 #EXTVLCOPT:network-caching=1000
 http://203.154.243.89:11205
 
-#EXTINF:0 group-title="ENTERTAINMENT",ANIMAX
+#EXTINF:0 group-title="ENTERTAINMENT-CARTOON N KIDS",ANIMAX
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 #EXTINF:60,ANIPLUS
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT",MY KIDS
+#EXTINF:0 group-title="ENTERTAINMENT-CARTOON N KIDS",MY KIDS
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/uq2663/h/h98/index.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT",SpaceToon
+#EXTINF:0 group-title="ENTERTAINMENT-CARTOON N KIDS",SpaceToon
 #EXTVLCOPT:network-caching=1000
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT",Lernings
+#EXTINF:0 group-title="ENTERTAINMENT-CARTOON N KIDS",Learnings
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/uq2663/h/h97/index.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT",tvND
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",tvN HD
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT",tvNMovies
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",tvNMovies
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
 
 
-#EXTINF:0 group-title="ENTERTAINMENT",AXN-1
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",AXN1
 #EXTVLCOPT:network-caching=1000
 http://45.126.83.51/dr9445/h/h141/01.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT",AXN2
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",AXN2
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/569f338c-a9b8-11eb-ad21-9a86b46a5f45/uq2663/h/h141/02.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT",BLUEANT EXTREME
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",BLUEANT EXTREME
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/01.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT",BLUEANT ENTERTAINMENT
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",BLUEANT ENTERTAINMENT
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/01.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT",LBS TV (K-DRAMA)
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",KBS TV (K-DRAMA)
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/01.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT",CINEMA WORLD
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",CINEMA WORLD
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/dr9445/h/h04/01.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT",KBS WORLD
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",KBS WORLD
 #EXTVLCOPT:network-caching=1000
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT",KBS WORLD2
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",KBS WORLD2
 #EXTVLCOPT:network-caching=1000
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT",OhK!tv
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",OhK!tv
 #EXTVLCOPT:network-caching=1000
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT",K+
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",K+
 #EXTVLCOPT:network-caching=1000
 http://45.126.83.51/session/b250033c-a9b8-11eb-b3bc-a2798f0477fc/uq2663/h/h08/01.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT",SonyOne
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",SonyOne
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/uq2663/h/h143/01.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT",SonyOne-2
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",SonyOne2
 #EXTVLCOPT:network-caching=1000
 http://45.126.83.51/session/70890dd8-c9d3-11ea-b6b4-9c15b4da6e2f/uq2663/h/h143/01.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT",SONY GEM
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",SONY GEM
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/uq2663/h/h19/02.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT",KIX(2)
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",KIX
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/dr9445/h/h07/02.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT",Warner tv-U
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",Warner tv
 #EXTVLCOPT:network-caching=1000
 http://203.154.243.89:11205/
 
-#EXTINF:0 group-title="ENTERTAINMENT",Movie Sphere
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",Movie Sphere
 #EXTVLCOPT:network-caching=1000
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT", SONY PIX
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", SONY PIX
 #EXTVLCOPT:network-caching=1000
 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT", Astro Ceria HD
+#EXTINF:0 group-title="ENTERTAINMENT-CARTOON N KIDS", Astro Ceria HD
 #EXTVLCOPT:network-caching=1000
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT", Starz Edge East
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", Starz Edge East
 #EXTVLCOPT:network-caching=1000
 http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/18913
 
 
-#EXTINF:0 group-title="ENTERTAINMENT", Discovery Channel HD
-#EXTVLCOPT:network-caching=1000
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/97
+#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-CARTOON N KIDS",Animal Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT", HBO Zone East
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", HBO Zone East
 #EXTVLCOPT:network-caching=1000
 http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/339
 
-#EXTINF:0 group-title="ENTERTAINMENT", MovieTime
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", MovieTime
 #EXTVLCOPT:network-caching=1000
 http://tdgu3cz8.rostelekom.xyz/iptv/KKV5969DQS5ZNV/6486/index.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT", Showtime East
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", Showtime East
 #EXTVLCOPT:network-caching=1000
 http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/18897
-#EXTINF:0 group-title="ENTERTAINMENT", Showtime West
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", Showtime West
 #EXTVLCOPT:network-caching=1000
 http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/18904
-#EXTINF:0 group-title="ENTERTAINMENT", Star Movies
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", Star Movies
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT", Star World
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", Star World
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT", Primetime
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", Primetime
 #EXTVLCOPT:network-caching=1000
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71147
 
-#EXTINF:0 group-title="ENTERTAINMENT",FLIX
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",FLIX
 #EXTVLCOPT:network-caching=1000
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT",STAR MOVIES HD
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",STAR MOVIES HD
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT",STAR WORLD
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",STAR WORLD
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT",AXN
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",AXN
 #EXTVLCOPT:network-caching=1000
 https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT",MARVEL HQ 
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",MARVEL HQ 
 #EXTVLCOPT:network-caching=1000
 https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT",TLC HD
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",TLC HD
 #EXTVLCOPT:network-caching=1000
 https://feed.play.mv/live/10005200/HE8qFtMl9Q/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT",MOVIES GROUP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP
 http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT",MOVIES GROUP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT",MOVIES GROUP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://x1.cdn.broiptv.com/img/hbo.png",HBO HD
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://x1.cdn.broiptv.com/img/hbo.png",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="ENTERTAINMENT",KBS WORLD HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="ENTERTAINMENT-TV SHOW",KBS WORLD HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT-CARTOON N KIDS",Happy Kids
+https://happykids-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-CARTOON N KIDS",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",FAMILY FLIX
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5bAuGTZ.png" group-title="ENTERTAINMENT-MOVIE",beIN Movies 1 Premiere
+http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/18
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bP9ukOD.png" group-title="ENTERTAINMENT-MOVIE",beIN Movies 2 Action
+http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/21
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gP9dNGz.png" group-title="ENTERTAINMENT-MOVIE",beIN Movies 3 Drama
+http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/19
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8u4iYTA.png" group-title="ENTERTAINMENT-MOVIE",beIN Movies 4 Family
+http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/20
+
+#EXTINF:-1 group-title="ENTERTAINMENT-CARTOON N KIDS" tvg-logo="https://i.redd.it/46w0zugvmee51.png",Nickelodeon
+https://siloh.pluto.tv/lilo/production/Nick/02/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/376-3767984_fxx-fxx-logo-png.png" group-title="ENTERTAINMENT-MOVIE", FXX East
+http://51.79.82.231:8080/US_FXX_EAST_USA/video.m3u8
 
 ##### LOCAL #####
 
@@ -229,7 +261,7 @@ https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merd
 #EXTINF:0 group-title="LOCAL & NEWS",INDOSIAR
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/01.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",INDOSIAR Liga1
+#EXTINF:0 group-title="LOCAL & NEWS",INDOSIAR2
 #EXTVLCOPT:network-caching=1000
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 
@@ -239,7 +271,7 @@ http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/
 #EXTINF:0 group-title="LOCAL & NEWS",GLOBALTV
 #EXTVLCOPT:network-caching=1000
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",TV ONE (2)
+#EXTINF:0 group-title="LOCAL & NEWS",TV ONE
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/01.m3u8
 #EXTINF:0 group-title="LOCAL & NEWS",RTV
@@ -249,9 +281,7 @@ http://210.210.155.35/session/1e1de4c6-6fcd-11e9-834b-b82a72d63267/qwr9ew/s/s12/
 #EXTINF:0 group-title="LOCAL & NEWS",JTV
 #EXTVLCOPT:network-caching=1000
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8?checkedby:iptvcat.com%20
-#EXTINF:0 group-title="LOCAL & NEWS",JTV(2)
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/x6bnqe/s/s90/S4/mnf.m3u8
+
 #EXTINF:0 group-title="LOCAL & NEWS",ELSHINTA TV
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/743b191e-6fcd-11e9-a2e4-c81f66f89318/qwr9ew/s/s10/01.m3u8
@@ -264,6 +294,10 @@ http://202.80.222.130/000001/2/ch14041511560872104862/1002.m3u8?virtualDomain=00
 #EXTINF:0 group-title="LOCAL & NEWS",TVRI SPORT
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/4ef13212-a900-11e9-8ab6-b7d19fbdbf13/qwr9ew/s/s107/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cg1yMfi.png" group-title="LOCAL & NEWS",TVRI Sport HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
 #EXTINF:0 group-title="LOCAL & NEWS",METROTV
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/uq2663/h/h12/01.m3u8
@@ -327,26 +361,59 @@ https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-D
 https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.m3u8
 
 
-#EXTINF:0 group-title="LOCAL & NEWS",BBC World News
+#EXTINF:0 group-title="WORLD NEWS",BBC World News
 #EXTVLCOPT:network-caching=1000
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-#EXTINF:0 group-title="LOCAL & NEWS",CNN NEWS
+#EXTINF:0 group-title="WORLD NEWS",CNN NEWS
 #EXTVLCOPT:network-caching=1000
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 group-title="LOCAL & NEWS",DW News
+#EXTINF:0 group-title="WORLD NEWS",DW News
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 
-#EXTINF:0 group-title="LOCAL & NEWS",Aljazeera
+#EXTINF:0 group-title="WORLD NEWS",Aljazeera
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/qwr9ew/s/s17/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8MQW4MG/NHK.png" group-title="WORLD NEWS",NHK
+http://210.210.155.35/uq2663/h/h23/01.m3u8
+
+#EXTINF:-1 group-title="WORLD NEWS",FOX NEWS
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+
 
 
 
 ##### SPORTS #####
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="BEIN SPORTS",beIN Sports Premium 1
+http://ctn.bounbrzouw.xyz/live/6161655/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ns7isEP.png" group-title="BEIN SPORTS",beIN Sports Premium 2
+http://gog.daroudaraw.xyz/live/616194987/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="BEIN SPORTS",beIN Sports Premium 3
+http://sos.moukrasa.xyz/live/6151278887/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="SPORTS",BT Sport 1
+http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/110708.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="SPORTS",BT Sport 2
+http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/89213.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="SPORTS",BT Sport 3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YcrrywD.png" group-title="SPORTS",BT Sport ESPN
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="SPORTS",NBA TV
+http://185.236.229.21:9981/play/a06c
+
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPORT-TV
+https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPORT-TV3
+https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPORT-TV4
+https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
 
 #EXTINF:0 group-title="SPORTS",WWE
 #EXTVLCOPT:network-caching=1000
@@ -359,11 +426,11 @@ https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #EXTVLCOPT:network-caching=1000
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 
-#EXTINF:0 group-title="SPORTS",Bein2HD
+#EXTINF:0 group-title="BEIN SPORTS",Bein2HD
 #EXTVLCOPT:network-caching=1000
 https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
 
-#EXTINF:0 group-title="SPORTS",Bein1HD
+#EXTINF:0 group-title="BEIN SPORTS",Bein1HD
 #EXTVLCOPT:network-caching=1000
 https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
 
@@ -385,7 +452,7 @@ http://qqtv.nl:8080/shah/shah123/148449
 #EXTVLCOPT:network-caching=1000
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
-#EXTINF:0 group-title="SPORTS", beIN Sports MAX HD
+#EXTINF:0 group-title="BEIN SPORTS", beIN Sports MAX HD
 #EXTVLCOPT:network-caching=1000
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745748
 
@@ -478,14 +545,10 @@ https://output1.ponpapua.my.id/edge1/smil:Channel3.smil/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://dj8baylqw7a4h.cloudfront.net/out/v1/29e89f3d8dc54deab128cf6b9241f82f/index_2.m3u8
 
-#EXTINF:0 group-title="SPORTS",beIN Sports
+#EXTINF:0 group-title="BEIN SPORTS",beIN Sports
 #EXTVLCOPT:network-caching=1000
 http://iptv.tvmalaysia.cc:80/penang175/penang175/6749
-#EXTINF:0 group-title="SPORTS",HITS
 
-#EXTINF:0 group-title="SPORTS",LIVE
-#EXTVLCOPT:network-caching=1000
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/46446.ts
 
 #EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url=""  group-title="SPORTS",Astro Arena [HEVC]
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
@@ -494,6 +557,9 @@ http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="RTMSports.my" tvg-name="RTM Sports" tvg-country="MY" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" tvg-url="" group-title="SPORTS",RTM Sports [HEVC]
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
+
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 
 
 
