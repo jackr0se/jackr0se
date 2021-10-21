@@ -56,19 +56,19 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://203.154.243.89:11205
 
-#EXTINF:0 group-title="ENTERTAINMENT-CARTOON N KIDS",ANIMAX
+#EXTINF:0 group-title="ENTERTAINMENT-KIDS",ANIMAX
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 #EXTINF:60,ANIPLUS
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT-CARTOON N KIDS",MY KIDS
+#EXTINF:0 group-title="ENTERTAINMENT-KIDS",MY KIDS
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/uq2663/h/h98/index.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT-CARTOON N KIDS",SpaceToon
+#EXTINF:0 group-title="ENTERTAINMENT-KIDS",SpaceToon
 #EXTVLCOPT:network-caching=1000
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT-CARTOON N KIDS",Learnings
+#EXTINF:0 group-title="ENTERTAINMENT-KIDS",Learnings
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/uq2663/h/h97/index.m3u8
 
@@ -138,7 +138,7 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT-CARTOON N KIDS", Astro Ceria HD
+#EXTINF:0 group-title="ENTERTAINMENT-KIDS", Astro Ceria HD
 #EXTVLCOPT:network-caching=1000
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
@@ -147,8 +147,14 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/18913
 
 
-#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-CARTOON N KIDS",Animal Planet
+#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-KIDS",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Con Tv Anime" tvg-logo="https://i.postimg.cc/7L7W9Tt7/download-87.jpg", group-title="ENTERTAINMENT-KIDS",Con Tv Anime
+https://contvanime-localnow.cinedigm.com/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT-KIDS",NAT GEO WILD
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE", HBO Zone East
 #EXTVLCOPT:network-caching=1000
@@ -210,10 +216,10 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="ENTERTAINMENT-TV SHOW",KBS WORLD HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT-CARTOON N KIDS",Happy Kids
+#EXTINF:-1 group-title="ENTERTAINMENT-KIDS",Happy Kids
 https://happykids-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-CARTOON N KIDS",Love Nature
+#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-KIDS",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",FAMILY FLIX
@@ -228,13 +234,19 @@ http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/19
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8u4iYTA.png" group-title="ENTERTAINMENT-MOVIE",beIN Movies 4 Family
 http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/20
 
-#EXTINF:-1 group-title="ENTERTAINMENT-CARTOON N KIDS" tvg-logo="https://i.redd.it/46w0zugvmee51.png",Nickelodeon
+#EXTINF:-1 group-title="ENTERTAINMENT-KIDS" tvg-logo="https://i.redd.it/46w0zugvmee51.png",Nickelodeon
 https://siloh.pluto.tv/lilo/production/Nick/02/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/376-3767984_fxx-fxx-logo-png.png" group-title="ENTERTAINMENT-MOVIE", FXX East
 http://51.79.82.231:8080/US_FXX_EAST_USA/video.m3u8
 
 ##### LOCAL #####
+
+#EXTINF:-1 group-title="LOCAL & NEWS",Makkah Tv
+http://45.126.83.51/qwr9ew/s/s28/02.m3u8
+
+#EXTINF:-1 group-title="LOCAL & NEWS",Madinah Tv
+http://45.126.83.51/qwr9ew/s/s27/02.m3u8
 
 #EXTINF:60 group-title="LOCAL & NEWS",NET.TV
 #EXTVLCOPT:network-caching=1000
@@ -383,10 +395,16 @@ http://210.210.155.35/uq2663/h/h23/01.m3u8
 #EXTINF:-1 group-title="WORLD NEWS",FOX NEWS
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgZPr3PY/logo-nhkworld-big.png" group-title="WORLD NEWS",NHK WORLD JAPAN
+http://210.210.155.35/session/40d99f12-b06f-11ea-85f7-8562a8355579/uq2663/h/h23/02.m3u8
+
 
 
 
 ##### SPORTS #####
+
+#EXTINF:3.2 group-title="SPORTS",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="BEIN SPORTS",beIN Sports Premium 1
 http://ctn.bounbrzouw.xyz/live/6161655/index.m3u8
@@ -1294,3 +1312,155 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/46/Bruce%20Almight
 #EXTINF:0 group-title="VOD", Bulletproof Monk (2003)
 #EXTVLCOPT:network-caching=1000
 http://qqtv.nl:8080/movie/shah/shah123/383128.mp4
+
+#EXTINF:-1 tvg-id="1" group-title="VOD",Dune
+https://europe.olemovienews.com:443/hlstimeofffmp4/20211018/BjJjoJCf/mp4/BjJjoJCf.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="VOD",Aladin
+http://144.217.177.36:4742/Movies/Aladdin.2019.720p.HDRip.900MB.x264-GalaxyRG%5bTGx%5d/Aladdin.2019.720p.HDRip.900MB.x264-GalaxyRG.mkv
+#EXTINF:-1 group-title="VOD",Madagascar
+http://144.217.177.36:4742/Movies/081820/Madagascar.2005.720p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 group-title="VOD",Madagascar 3 Europes Most Wanted
+http://144.217.177.36:4742/Movies/081820/Madagascar.3.Europes.Most.Wanted.2012.720p.BRrip.x264.YIFY.mp4
+#EXTINF:-1 group-title="VOD",Madagascar Escape 2 Africa
+http://144.217.177.36:4742/Movies/081820/Madagascar.Escape.2.Africa.2008.720p.BRrip.x264.YIFY.mp4
+#EXTINF:-1 group-title="VOD",penguins of Madagascar
+http://144.217.177.36:4742/Movies/081820/Penguins.of.Madagascar.2014.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 group-title="VOD",How to Train Your Dragon
+http://144.217.177.36:4742/Movies/080420%20Movies/How%20to%20Train%20Your%20Dragon%202%202014%20720p%20BluRay%20x264%20AAC%20-%20Ozlem.mp4
+#EXTINF:-1 group-title="VOD",Bolt
+http://144.217.177.36:4742/Movies/081820/Bolt.2008.720p.BrRip.x264.YIFY.mkv
+#EXTINF:-1 group-title="VOD",Ratatouille
+http://144.217.177.36:4742/Movies/081820/Ratatouille.2007.BRRip.mkv
+#EXTINF:-1 group-title="VOD",Bob The Builder MegaMachines The Movie
+http://124.29.199.194/data1/kidsmovies/B/BobTheBuilderMegaMachinesTheMovie.2017.HDRip.mp4
+#EXTINF:-1 group-title="VOD",Ben 10 Versus The Universe
+http://124.29.199.194/data1/kidsmovies/B/Ben10VersusTheUniverseTheMovie.2020.HDRip.Dual.mkv
+#EXTINF:-1 group-title="VOD",Bunyan And Babe
+http://124.29.199.194/data1/kidsmovies/B/BunyanAndBabe.2017.HDRip.avi
+#EXTINF:-1 group-title="VOD",Brave
+http://124.29.199.194/data1/kidsmovies/B/Brave.2012.BRRip.Dual.mp4
+#EXTINF:-1 group-title="VOD",DC-The Phantom Strenger
+http://124.29.199.194/data1/kidsmovies/D/DCShowcaseThePhantomStranger.2020.HDRip.mkv
+#EXTINF:-1 group-title="VOD",DC Super Hero Girls Hero of the Year
+http://124.29.199.194/data1/kidsmovies/D/DCSuperHeroGirlsHerooftheYear.2016.HDRip.avi
+#EXTINF:-1 group-title="VOD",DC Super Hero Girls Super Hero High
+http://124.29.199.194/data1/kidsmovies/D/DCSuperHeroGirlsSuperHeroHigh.2016.HDRip.Dual.mkv
+#EXTINF:-1 group-title="VOD",Daisy Quokka World sScariest Animal
+http://124.29.199.194/data1/kidsmovies/D/DaisyQuokkaWorldsScariestAnimal.2021.HDRip.mp4
+#EXTINF:-1 group-title="VOD",Doraemon Nobita And The Island Of Miracles
+http://124.29.199.194/data1/kidsmovies/D/DoraemonNobitaAndTheIslandOfMiracles.2012.BRRip.Dual.mkv
+#EXTINF:-1 group-title="VOD",Doraemon Nobita And The Knights On Dinosaurs
+http://124.29.199.194/data1/kidsmovies/D/DoraemonNobitaAndTheKnightsOnDinosaurs.1987.BRRip.Dual.mkv
+#EXTINF:-1 group-title="VOD",Felix And The Hidden Treasure
+http://124.29.199.194/data1/kidsmovies/F/FelixAndTheHiddenTreasure.2021.HDRip.mp4
+#EXTINF:-1 group-title="VOD",Hotel Transylvania
+http://124.29.199.194/data1/kidsmovies/H/HotelTransylvania.2012.BRRip.Dual.mkv
+#EXTINF:-1 group-title="VOD",Luca
+http://124.29.199.194/data1/kidsmovies/L/Luca.2021.BRRip.Dual.mkv
+#EXTINF:-1 group-title="VOD",Moana
+http://124.29.199.194/data1/kidsmovies/M/Moana.2016.BRRip.Dual.mkv
+#EXTINF:-1 group-title="VOD",Megamind
+http://124.29.199.194/data1/kidsmovies/M/Megamind.2010.BRRip.Dual.mkv
+#EXTINF:-1 group-title="VOD",Onward
+http://124.29.199.194/data1/kidsmovies/O/Onward.2020.BRRip.mp4
+#EXTINF:-1 group-title="VOD",PAW Patrol The Movie
+http://124.29.199.194/data1/kidsmovies/P/PAWPatrolTheMovie.2021.HDRip.mkv
+#EXTINF:-1 group-title="VOD",Raya And The Last Dragon
+http://124.29.199.194/data1/kidsmovies/R/RayaAndTheLastDragon.2021.BRRip.Dual.mkv
+#EXTINF:-1 group-title="VOD",Soul
+http://124.29.199.194/data1/kidsmovies/S/Soul.2020.BRRip.mp4
+#EXTINF:-1 group-title="VOD",Troll hunters Rise Of The Titans
+http://124.29.199.194/data1/kidsmovies/T/TrollhuntersRiseOfTheTitans.2021.HDRip.Dual.mkv
+#EXTINF:-1 group-title="VOD",Vivo
+http://124.29.199.194/data1/kidsmovies/V/Vivo.2021.HDRip.Dual.mkv
+#EXTINF:-1 group-title="VOD",100 Percent Wolf
+http://124.29.199.194/data1/kidsmovies/1-0/100PercentWolf.2020.BRRip.mp4
+#EXTINF:-1 group-title="VOD",22 VS Earth
+http://124.29.199.194/data1/kidsmovies/1-0/22VsEarth.2021.HDRip.mp4
+#EXTINF:-1 group-title="VOD",9
+http://124.29.199.194/data1/kidsmovies/1-0/9.2009.BRRip.Dual.mkv
+#EXTINF:-1 group-title="VOD",A Bugs Life
+http://124.29.199.194/data1/kidsmovies/A/ABugsLife.1998.BRRip.Dual.mkv
+#EXTINF:-1 group-title="VOD",A Cat in paris
+http://124.29.199.194/data1/kidsmovies/A/ACatInParis.2010.BRRip.mp4
+#EXTINF:-1 group-title="VOD",A Close Shave
+http://124.29.199.194/data1/kidsmovies/A/ACloseShave.1995.BRRip.mp4
+#EXTINF:-1 group-title="VOD",A Costume For Nicholas
+http://124.29.199.194/data1/kidsmovies/A/ACostumeForNicholas.2020.HDRip.mp4
+#EXTINF:-1 group-title="VOD",A Dogs Courage
+http://124.29.199.194/data1/kidsmovies/A/ADogsCourage.2018.HDRip.mp4
+#EXTINF:-1 group-title="VOD",A Flinstone Christmas
+http://124.29.199.194/data1/kidsmovies/A/AFlintstoneChristmas.1977.HDRip.mp4
+#EXTINF:-1 group-title="VOD",A Flintsone family Christmas
+http://124.29.199.194/data1/kidsmovies/A/AFlintstoneFamilyChristmas.1993.HDRip.mp4
+#EXTINF:-1 group-title="VOD",A Giant Jack Christmas
+http://124.29.199.194/data1/kidsmovies/A/AGiantJackChristmas.2020.HDRip.mp4
+#EXTINF:-1 group-title="VOD",A Gogo Cory Carson Christmas
+http://124.29.199.194/data1/kidsmovies/A/AGoGoCoryCarsonChristmas.2020.HDRip.mp4
+#EXTINF:-1 group-title="VOD",A Gogo Cory Carson
+http://124.29.199.194/data1/kidsmovies/A/AGoGoCoryCarsonHalloween.2020.HDRip.mp4
+#EXTINF:-1 group-title="VOD",A Goofy Movie
+http://124.29.199.194/data1/kidsmovies/A/AGoofyMovie.1995.HDRip.Dual.mkv
+#EXTINF:-1 group-title="VOD",A Knight for A Day
+http://124.29.199.194/data1/kidsmovies/A/AKnightForADay.1946.HDRip.mp4
+#EXTINF:-1 group-title="VOD",A Matter Of Loaf And Death
+http://124.29.199.194/data1/kidsmovies/A/AMatterOfLoafAndDeath.2008.BRRip.mp4
+#EXTINF:-1 group-title="VOD",A Minuscule Adventure
+http://124.29.199.194/data1/kidsmovies/A/AMinusculeAdventure.2018.HDRip.mp4
+#EXTINF:-1 group-title="VOD",A Silent Voice
+http://124.29.199.194/data1/kidsmovies/A/ASilentVoice.2016.BRRip.Dual.mp4
+#EXTINF:-1 group-title="VOD",A Troll Central Park
+http://124.29.199.194/data1/kidsmovies/A/ATrollInCentralPark.1994.HDRip.mp4
+#EXTINF:-1 group-title="VOD",a achi sipak
+http://124.29.199.194/data1/kidsmovies/A/AachiSsipak.2006.BRRip.mp4
+#EXTINF:-1 group-title="VOD",abominable
+http://124.29.199.194/data1/kidsmovies/A/Abominable.2019.BRRip.Dual.mkv
+#EXTINF:-1 group-title="VOD",abominable christmas
+http://124.29.199.194/data1/kidsmovies/A/AbominableChristmas.2012.HDRip.mp4
+#EXTINF:-1 group-title="VOD",samurai resurrection
+http://124.29.199.194/data1/kidsmovies/A/AfroSamuraiResurrection.2009.BRRip.mp4
+#EXTINF:-1 group-title="VOD",spirit of the amazon
+http://124.29.199.194/data1/kidsmovies/A/AinboSpiritOfTheAmazon.2021.HDRip.mp4
+#EXTINF:-1 group-title="VOD",alice in wonderland
+http://124.29.199.194/data1/kidsmovies/A/AliceInWonderland.1951.BRRip.Dual.mkv
+#EXTINF:-1 group-title="VOD",alice miranda friends forever
+http://124.29.199.194/data1/kidsmovies/A/AliceMirandaFriendsForever.2019.HDRip.mp4
+#EXTINF:-1 group-title="VOD",alien xmas
+http://124.29.199.194/data1/kidsmovies/A/AlienXmas.2020.HDRip.mp4
+#EXTINF:-1 group-title="VOD",alien flamingo ecstasy
+http://124.29.199.194/data1/kidsmovies/A/AliensFlamingosEcstasy.2019.HDRip.mp4
+#EXTINF:-1 group-title="VOD",all dogs go to heaven
+http://124.29.199.194/data1/kidsmovies/A/AllDogsGoToHeaven2.1996.BRRip.mp4
+#EXTINF:-1 group-title="VOD",all in nut shell
+http://124.29.199.194/data1/kidsmovies/A/AllInANutshell.1949.HDRip.mp4
+#EXTINF:-1 group-title="VOD",alpha and omega
+http://124.29.199.194/data1/kidsmovies/A/AlphaAndOmega.2010.BRRip.mp4
+#EXTINF:-1 group-title="VOD",alpha and omega the big fuureze 
+http://124.29.199.194/data1/kidsmovies/A/AlphaAndOmegaTheBigFureeze.2016.HDRip.avi
+#EXTINF:-1 group-title="VOD",altered carbon sleeve
+http://124.29.199.194/data1/kidsmovies/A/AlteredCarbonResleeved.2020.BRRip.Dual.mkv
+#EXTINF:-1 group-title="VOD",american motion picture
+http://124.29.199.194/data1/kidsmovies/A/AmericaTheMotionPicture.2021.HDRip.Dual.mkv
+#EXTINF:-1 group-title="VOD",americano
+http://124.29.199.194/data1/kidsmovies/A/Americano.2016.BRRip.mp4
+#EXTINF:-1 group-title="VOD",an american tail fieve goes west
+http://124.29.199.194/data1/kidsmovies/A/AnAmericanTailFievelGoesWest.1991.BRRip.mp4
+#EXTINF:-1 group-title="VOD",anacronte
+http://124.29.199.194/data1/kidsmovies/A/Anacronte.2019.HDRip.mp4
+#EXTINF:-1 group-title="VOD",angelas christmas wish
+http://124.29.199.194/data1/kidsmovies/A/AngelasChristmasWish.2020.HDRip.mp4
+#EXTINF:-1 group-title="VOD",animal crackers
+http://124.29.199.194/data1/kidsmovies/A/AnimalCrackers.2017.HDRip.mp4
+#EXTINF:-1 group-title="VOD",ape star
+http://124.29.199.194/data1/kidsmovies/A/ApeStar.2021.HDRip.mkv
+#EXTINF:-1 group-title="VOD",archon defender
+http://124.29.199.194/data1/kidsmovies/A/ArchonDefender.2009.HDRip.mp4
+#EXTINF:-1 group-title="VOD",arlo the alligator boy
+http://124.29.199.194/data1/kidsmovies/A/ArloTheAlligatorBoy.2021.HDRip.mp4
+#EXTINF:-1 group-title="VOD",arthur and the haunted tree house
+http://124.29.199.194/data1/kidsmovies/A/ArthurAndTheHauntedTreeHouse.2017.HDRip.mp4
+#EXTINF:-1 group-title="VOD",attackm of the demons
+http://124.29.199.194/data1/kidsmovies/A/AttackOfTheDemons.2019.HDRip.mp4
+#EXTINF:-1 group-title="VOD",away
+http://124.29.199.194/data1/kidsmovies/A/Away.2019.HDRip.mp4
