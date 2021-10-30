@@ -35,6 +35,13 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 ##### ENTERTAINMENT #####
 
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/indiexplex.png" group-title="ENTERTAINMENT-MOVIE" tvg-id="IndiePlexEast.us" tvg-name="IndiePlexEast.us", IndiePlex East
+http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/34540.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/thrillermax/thrillermax.png" group-title="ENTERTAINMENT-MOVIE" tvg-id="ThrillerMaxEast.us" tvg-name="ThrillerMaxEast.us", ThrillerMax East
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/266863
+
+
 #EXTINF:-1 tvg-id="USAJ26000054W" tvg-chno="1452" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/45/USAJ26000054W20200730102745.png" group-title="ENTERTAINMENT-MOVIE",Paramount Movie Channel
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 
@@ -403,15 +410,42 @@ http://210.210.155.35/session/40d99f12-b06f-11ea-85f7-8562a8355579/uq2663/h/h23/
 
 ##### SPORTS #####
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="SPORTS" tvg-id="801" tvg-name="801", Astro Arena HD
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="SPORTS" tvg-id="CHN" tvg-name="CHN", FightBox
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Setanta_sports_hd.png" group-title="SPORTS" tvg-id="CHN" tvg-name="CHN", SETANTA SPORTS HD
+http://iptv.prosto.tv:7000/ch106/video.m3u8
+
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/K2zkNV3/IMG-20211011-061159.png",super premier
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52299.m3u8
+
 #EXTINF:3.2 group-title="SPORTS",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="BEIN SPORTS",beIN Sports Premium 1
-http://ctn.bounbrzouw.xyz/live/6161655/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ns7isEP.png" group-title="BEIN SPORTS",beIN Sports Premium 2
-http://gog.daroudaraw.xyz/live/616194987/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="BEIN SPORTS",beIN Sports Premium 3
-http://sos.moukrasa.xyz/live/6151278887/index.m3u8
+#EXTINF:0 group-title="BEIN SPORTS" tvg-logo="https://i.ibb.co/xfWvjYP/Bein-Sport1.jpg",BEIN sports 3
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:0 group-title="BEIN SPORTS" tvg-logo="https://i.ibb.co/tDZ2Xnb/Beinsports2hd.jpg",BEIN sports 2
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="BEIN SPORTS",Bein premium-1SD
+http://b19.amanrouf.xyz/live/8882425700/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="BEIN SPORTS",Bein premium-2SD
+http://b19.amanrouf.xyz/live/7948124500/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="BEIN SPORTS",Bein premium-3SD
+http://b19.amanrouf.xyz/live/1798855800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="BEIN SPORTS",Bein Premium-1HD
+http://b19.amanrouf.xyz/live/616165500/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="BEIN SPORTS",Bein Premium-2HD
+http://b19.amanrouf.xyz/live/61619498700/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="BEIN SPORTS",Bein Premium-3HD
+http://b19.amanrouf.xyz/live/615127888700/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="SPORTS",BT Sport 1
 http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/110708.m3u8
