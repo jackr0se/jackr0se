@@ -38,7 +38,31 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 ##### ENTERTAINMENT #####
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxCl3cFqg6PdVOQw2_POYk8HVK6oNFz26gdQ&usqp=CAU" group-title="ENTERTAINMENT-MOVIE" tvg-id="MoreMaxEast.us" tvg-name="MoreMaxEast.us", MoreMax East
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5395
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTM4h4uzkqnB94UfgU9IH1COatkNz6x7alTg&usqp=CAU" group-title="ENTERTAINMENT-MOVIE" tvg-id="ActionMaxEast.us" tvg-name="ActionMaxEast.us", ActionMax East
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5394
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXaxYpMe8X9jE08l0NNSpDm2pQZMP-6lpTKg&usqp=CAU" group-title="ENTERTAINMENT-MOVIE" tvg-id="SkyCinemaFamily.uk" tvg-name="SkyCinemaFamily.uk", Sky Cinema Family
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/266
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUwe3JaBjPWDBNecYCMeLYldH-0JVoP8Kc2A&usqp=CAU" group-title="ENTERTAINMENT-MOVIE" tvg-id="SkyCinemaScifiHorror.uk" tvg-name="SkyCinemaScifiHorror.uk", Sky Cinema Sci-fi Horror
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/254
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtG5lqrSHxHig_0_EwVkuDkfOw6siicvDLDA&usqp=CAU" group-title="ENTERTAINMENT-MOVIE" tvg-id="" tvg-name="", Sky Cinema Thriller
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/270
+
+
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE", HBO
+http://opplex.tv:8080/993300/993300/204801
+
+#EXTINF:-1, tvg-id="412" group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX CH412
+https://nonton.site:8443/live/Ainamanja/RPLf79Gusm/37375.ts
+https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
+
+#EXTINF:-1 tvg-id="706" tvg-name="HITS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="ENTERTAINMENT-MOVIE",HITS (706)
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="ENTERTAINMENT-MOVIE",&flix
 https://snehz5tv.herokuapp.com?c=0-9-channel_2105335046
@@ -73,8 +97,28 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://203.154.243.89:11205
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="ENTERTAINMENT-TV SHOW" tvg-id="ComedyCentralWest.us" tvg-name="ComedyCentralWest.us", Comedy Central
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="712" group-title="ENTERTAINMENT-TV SHOW" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png",Warner TV CH712
+https://nonton.site:8443/live/Ainamanja/RPLf79Gusm/37410.ts
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
+#EXTINF:-1  tvg-id="712" group-title="ENTERTAINMENT-TV SHOW" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png", WarnerTV 712
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7072
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="ENTERTAINMENT-TV SHOW",TechStorm
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bMwkQEd.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS", Zoomoo
+http://203.154.177.124:8899/live/ch20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/spacetoon/images/2/2b/Spacetoon_logo.png/revision/latest/scale-to-width-down/220?cb=20200125135928" tvg-id="BathokGpc" tvg-name="spacetoon" group-title="ENTERTAINMENT-KIDS",spacetoon
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png" group-title="ENTERTAINMENT-KIDS",BabyTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-KIDS",ANIMAX
 #EXTVLCOPT:network-caching=1000
@@ -429,7 +473,27 @@ http://210.210.155.35/session/40d99f12-b06f-11ea-85f7-8562a8355579/uq2663/h/h23/
 
 
 
-##### SPORTS #####
+##### 
+#####
+
+#EXTINF:-1 group-title="SPORTS", Usee Sports 1
+https://m3u-editor.com/serve/cb4e33e0-4c31-11ec-9d3d-47060972a409/432232261
+
+#EXTINF:-1 group-title="SPORTS", Usee Sports 2
+https://m3u-editor.com/serve/cb4e33e0-4c31-11ec-9d3d-47060972a409/432232262
+
+
+#EXTINF:-1 group-title="SPORTS", Champions TV 1
+http://opplex.tv:8080/993300/993300/204782
+
+#EXTINF:-1 group-title="SPORTS",  Champions TV 2
+http://opplex.tv:8080/993300/993300/204783
+
+#EXTINF:-1 group-title="SPORTS", Champions TV 3
+https://m3u-editor.com/serve/cb4e33e0-4c31-11ec-9d3d-47060972a409/432232268
+
+#EXTINF:-1 group-title="SPORTS", Champions TV 4
+https://m3u-editor.com/serve/cb4e33e0-4c31-11ec-9d3d-47060972a409/432232269
 
 
 
