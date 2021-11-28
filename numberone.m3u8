@@ -38,6 +38,27 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 ##### ENTERTAINMENT #####
 
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="ENTERTAINMENT-MOVIE",HBO HD
+#https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
+http://wanicelife.com:8880/SFL143456/73U700Y1/71057
+
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_us.png",Fox Movie (EU)
+http://93.157.62.180/FoxMovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",Star Movies HD
+http://iptv.tvmalaysia.cc:80/422072/422072/8997
+
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMlhRSuSinZs12LBZmHbADE_aEmDCYspHWFgwz9OCjry8D9Bc&s" group-title="ENTERTAINMENT-MOVIE",Fox Crime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF: -1 tvg-logo="https://tamilmovienight.com/wp-content/uploads/2019/08/action-movies-colour-lightbg-1.png" group-title="ENTERTAINMENT-MOVIE",Fox Thriller
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxCl3cFqg6PdVOQw2_POYk8HVK6oNFz26gdQ&usqp=CAU" group-title="ENTERTAINMENT-MOVIE" tvg-id="MoreMaxEast.us" tvg-name="MoreMaxEast.us", MoreMax East
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5395
 
@@ -57,9 +78,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/270
 #EXTINF:-1 group-title="ENTERTAINMENT-MOVIE", HBO
 http://opplex.tv:8080/993300/993300/204801
 
-#EXTINF:-1, tvg-id="412" group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX CH412
-https://nonton.site:8443/live/Ainamanja/RPLf79Gusm/37375.ts
-https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
 
 #EXTINF:-1 tvg-id="706" tvg-name="HITS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="ENTERTAINMENT-MOVIE",HITS (706)
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
@@ -77,7 +95,8 @@ http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/266863
 
 
 #EXTINF:-1 tvg-id="USAJ26000054W" tvg-chno="1452" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/45/USAJ26000054W20200730102745.png" group-title="ENTERTAINMENT-MOVIE",Paramount Movie Channel
-http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7
+ARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="USBB19000017U" tvg-chno="1455" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png" group-title="ENTERTAINMENT-MOVIE",Hallmark Movies & More
 https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -100,12 +119,7 @@ http://203.154.243.89:11205
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="ENTERTAINMENT-TV SHOW" tvg-id="ComedyCentralWest.us" tvg-name="ComedyCentralWest.us", Comedy Central
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="712" group-title="ENTERTAINMENT-TV SHOW" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png",Warner TV CH712
-https://nonton.site:8443/live/Ainamanja/RPLf79Gusm/37410.ts
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
-#EXTINF:-1  tvg-id="712" group-title="ENTERTAINMENT-TV SHOW" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png", WarnerTV 712
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7072
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="ENTERTAINMENT-TV SHOW",TechStorm
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
@@ -168,9 +182,7 @@ http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/
 #EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",BLUEANT ENTERTAINMENT
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/01.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",KBS TV (K-DRAMA)
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/01.m3u8
+
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",CINEMA WORLD
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/dr9445/h/h04/01.m3u8
@@ -214,9 +226,18 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT-KIDS", Astro Ceria HD
-#EXTVLCOPT:network-caching=1000
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/uAHJS7W.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS" tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD", Astro Ceria HD
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6715
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/asDF7GJ.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS" tvg-id="Nick Junior" tvg-name="Nick Junior", Nick Junior
+http://58.65.171.202:8000/play/3/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/iXSCr83.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS" tvg-id="Nickelodeon" tvg-name="Nickelodeon", Nickelodeon
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE", Starz Edge East
 #EXTVLCOPT:network-caching=1000
@@ -239,12 +260,7 @@ http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/339
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE", MovieTime
 #EXTVLCOPT:network-caching=1000
 http://tdgu3cz8.rostelekom.xyz/iptv/KKV5969DQS5ZNV/6486/index.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", Showtime East
-#EXTVLCOPT:network-caching=1000
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/18897
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", Showtime West
-#EXTVLCOPT:network-caching=1000
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/18904
+
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE", Star Movies
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
@@ -252,9 +268,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", Primetime
-#EXTVLCOPT:network-caching=1000
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71147
+
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",FLIX
 #EXTVLCOPT:network-caching=1000
@@ -271,13 +285,7 @@ http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",MARVEL HQ 
-#EXTVLCOPT:network-caching=1000
-https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",TLC HD
-#EXTVLCOPT:network-caching=1000
-https://feed.play.mv/live/10005200/HE8qFtMl9Q/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP
 http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
@@ -301,14 +309,7 @@ http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",FAMILY FLIX
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5bAuGTZ.png" group-title="ENTERTAINMENT-MOVIE",beIN Movies 1 Premiere
-http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/18
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bP9ukOD.png" group-title="ENTERTAINMENT-MOVIE",beIN Movies 2 Action
-http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/21
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gP9dNGz.png" group-title="ENTERTAINMENT-MOVIE",beIN Movies 3 Drama
-http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/19
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8u4iYTA.png" group-title="ENTERTAINMENT-MOVIE",beIN Movies 4 Family
-http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/20
+
 
 #EXTINF:-1 group-title="ENTERTAINMENT-KIDS" tvg-logo="https://i.redd.it/46w0zugvmee51.png",Nickelodeon
 https://siloh.pluto.tv/lilo/production/Nick/02/master.m3u8
@@ -474,26 +475,6 @@ http://210.210.155.35/session/40d99f12-b06f-11ea-85f7-8562a8355579/uq2663/h/h23/
 
 
 ##### 
-#####
-
-#EXTINF:-1 group-title="SPORTS", Usee Sports 1
-https://m3u-editor.com/serve/cb4e33e0-4c31-11ec-9d3d-47060972a409/432232261
-
-#EXTINF:-1 group-title="SPORTS", Usee Sports 2
-https://m3u-editor.com/serve/cb4e33e0-4c31-11ec-9d3d-47060972a409/432232262
-
-
-#EXTINF:-1 group-title="SPORTS", Champions TV 1
-http://opplex.tv:8080/993300/993300/204782
-
-#EXTINF:-1 group-title="SPORTS",  Champions TV 2
-http://opplex.tv:8080/993300/993300/204783
-
-#EXTINF:-1 group-title="SPORTS", Champions TV 3
-https://m3u-editor.com/serve/cb4e33e0-4c31-11ec-9d3d-47060972a409/432232268
-
-#EXTINF:-1 group-title="SPORTS", Champions TV 4
-https://m3u-editor.com/serve/cb4e33e0-4c31-11ec-9d3d-47060972a409/432232269
 
 
 
@@ -502,21 +483,6 @@ http://93.152.174.144:4000/play/skysports3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eZwExGu.png" group-title="SPORTS",Sky Sports Arena
 http://ky-iptv.com:25461/JeffDavis20/Jefda2052/174256
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="SPORTS",Fox Sports 501
-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/202376.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BLWrz42.png" group-title="SPORTS",Fox Sports 502
-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/202377.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="SPORTS",Fox Sports 503
-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/202378.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4sHtDw1.png" group-title="SPORTS",Fox Sports 504
-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/202379.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="SPORTS",Fox Sports 505
-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/202380.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="SPORTS",Fox Sports 506
-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/202381.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yS0mogg.png" group-title="SPORTS",Fox Sports 507
-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/202382.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30785UJ.png" group-title="SPORTS",RMC Sport 1
 http://56.frehafroha.xyz.global.prod.fastly.net:80/live/137000/index.m3u8
@@ -600,25 +566,37 @@ http://b19.amanrouf.xyz/live/61619498700/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="BEIN SPORTS",Bein Premium-3HD
 http://b19.amanrouf.xyz/live/615127888700/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="SPORTS",BT Sport 1
-http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/110708.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="SPORTS",BT Sport 2
-http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/89213.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="SPORTS",BT Sport 3
-http://93.152.174.144:4000/play/btsport3/index.m3u8
+
+#EXTINF:0 group-title="SPORTS",811 Astro SuperSport HD 
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6708
+
+#EXTINF:0 group-title="SPORTS",812 Astro SuperSport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
+
+#EXTINF:0 group-title="SPORTS",813 Astro SuperSport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6711
+
+#EXTINF:0 group-title="SPORTS",814 Astro SuperSport 4 HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6712
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5fFP6v2/bs2.png" group-title="SPORTS",Beinsport 2
+http://topwin-tv.my.id/2/master.m3u8?id=bein2
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",Sky 1 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",Sky 2 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YcrrywD.png" group-title="SPORTS",BT Sport ESPN
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="SPORTS",NBA TV
-http://185.236.229.21:9981/play/a06c
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPORT-TV
-https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPORT-TV3
-https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPORT-TV4
-https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
 
 #EXTINF:0 group-title="SPORTS",WWE
 #EXTVLCOPT:network-caching=1000
@@ -732,9 +710,6 @@ http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="RTMSports.my" tvg-name="RTM Sports" tvg-country="MY" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" tvg-url="" group-title="SPORTS",RTM Sports [HEVC]
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 
 
 
