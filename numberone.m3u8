@@ -238,12 +238,10 @@ http://203.154.243.89:11205/
 #EXTVLCOPT:network-caching=1000
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", SONY PIX
-#EXTVLCOPT:network-caching=1000
-https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/uAHJS7W.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS" tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD", Astro Ceria HD
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6715
+#EXTINF:0 group-title="ENTERTAINMENT-KIDS",Astro Ceria
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/422072/422072/6715
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -491,13 +489,6 @@ http://210.210.155.35/session/40d99f12-b06f-11ea-85f7-8562a8355579/uq2663/h/h23/
 
 
 ##### 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jM1FeOX.png" group-title="SPORTS",Sky Sports Action
-http://93.152.174.144:4000/play/skysports3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eZwExGu.png" group-title="SPORTS",Sky Sports Arena
-http://ky-iptv.com:25461/JeffDavis20/Jefda2052/174256
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30785UJ.png" group-title="SPORTS",RMC Sport 1
