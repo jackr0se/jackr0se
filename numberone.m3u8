@@ -243,6 +243,10 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://iptv.tvmalaysia.cc:80/422072/422072/6715
 
+#EXTINF:0 group-title="ENTERTAINMENT-KIDS",Astro Ceria2
+
+http://iptv.tvmalaysia.cc:80/422072/422072/6715
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/asDF7GJ.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS" tvg-id="Nick Junior" tvg-name="Nick Junior", Nick Junior
