@@ -38,7 +38,7 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 ##### ENTERTAINMENT #####
 
-#EXTINF:0 tvg-id="SonyPIX.in" group-title="ENTERTAINMENT-MOVIE",Sony Pix HD
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="ENTERTAINMENT-MOVIE",Sony Pix HD 1
 #http://tv.alphamediazone.com:8089/thunderbd/41/index.m3u8
 #https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/314
@@ -47,7 +47,7 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/314
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",Motorvision
 http://58.65.194.14:1935/live/MotorvisionHD.stream/playlist.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",Sony Pix HD
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",Sony Pix HD 2
 #EXTVLCOPT:network-caching=1000
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/314
 https://tinyurl.com/59ue88j6
