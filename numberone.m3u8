@@ -298,7 +298,7 @@ http://221.120.204.4/star-world-LOCKLE/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",STAR MOVIES HD
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",STAR MOVIES HD 2
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",STAR WORLD
@@ -369,7 +369,7 @@ http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s
 #EXTVLCOPT:network-caching=1000
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 
-#EXTINF:0 group-title="LOCAL & NEWS",INDOSIAR
+#EXTINF:0 group-title="LOCAL & NEWS",INDOSIAR1
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:0 group-title="LOCAL & NEWS",INDOSIAR2
@@ -388,6 +388,10 @@ http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105
 #EXTINF:0 group-title="LOCAL & NEWS",RTV
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/1e1de4c6-6fcd-11e9-834b-b82a72d63267/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:0 group-title="LOCAL & NEWS",Indosiar vidio
+#EXTVLCOPT:network-caching=1000
+https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 
 #EXTINF:0 group-title="LOCAL & NEWS",ELSHINTA TV
 #EXTVLCOPT:network-caching=1000
@@ -498,13 +502,28 @@ http://210.210.155.35/session/40d99f12-b06f-11ea-85f7-8562a8355579/uq2663/h/h23/
 
 ##### 
 
+#EXTINF:11 group-title="SPORTS",mola 1
+#EXTVLCOPT:network-caching=1000
+https://lnk.ec/SoccerTv1?shareext.m3u8
+#EXTINF:11 group-title="SPORTS",mola 1
+#EXTVLCOPT:network-caching=1000
+https://lnk.ec/SoccerTv2?shareext.m3u8
+#EXTINF:11 group-title="SPORTS",tv champion 1
+#EXTVLCOPT:network-caching=1000
+https://lnk.ec/JuaraTV1?shareext.m3u8
+#EXTINF:11 group-title="SPORTS",tv champion 2
+#EXTVLCOPT:network-caching=1000
+https://lnk.ec/JuaraTV2?shareext.m3u8
+#EXTINF:11 group-title="SPORTS",tv champion 3
+#EXTVLCOPT:network-caching=1000
+https://lnk.ec/JuaraTV3?shareext.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30785UJ.png" group-title="SPORTS",RMC Sport 1
 http://56.frehafroha.xyz.global.prod.fastly.net:80/live/137000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Rh2s8k.png" group-title="SPORTS",RMC Sport 2
 http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/270.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1920px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="SPORTS",Sky Sport MotoGP
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bPCw4Q.png" group-title="SPORTS",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
@@ -530,8 +549,6 @@ http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="SPORTS" tvg-id="CHN" tvg-name="CHN", FightBox
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Setanta_sports_hd.png" group-title="SPORTS" tvg-id="CHN" tvg-name="CHN", SETANTA SPORTS HD
-http://iptv.prosto.tv:7000/ch106/video.m3u8
 
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/K2zkNV3/IMG-20211011-061159.png",super premier
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52299.m3u8
