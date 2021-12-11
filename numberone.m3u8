@@ -508,15 +508,17 @@ https://lnk.ec/SoccerTv1?shareext.m3u8
 #EXTINF:11 group-title="SPORTS",mola 1
 #EXTVLCOPT:network-caching=1000
 https://lnk.ec/SoccerTv2?shareext.m3u8
-#EXTINF:11 group-title="SPORTS",tv champion 1
+
+
+#EXTINF:0  group-title="SPORTS",CHAMPIONTV1
 #EXTVLCOPT:network-caching=1000
-https://lnk.ec/JuaraTV1?shareext.m3u8
-#EXTINF:11 group-title="SPORTS",tv champion 2
+http://golive.cf/vidio/live-champion1.m3u8
+#EXTINF:0  group-title="SPORTS",CHAMPIONTV2
 #EXTVLCOPT:network-caching=1000
-https://lnk.ec/JuaraTV2?shareext.m3u8
-#EXTINF:11 group-title="SPORTS",tv champion 3
+http://golive.cf/vidio/live-champion2.m3u8
+#EXTINF:0  group-title="SPORTS",CHAMPIONTV3
 #EXTVLCOPT:network-caching=1000
-https://lnk.ec/JuaraTV3?shareext.m3u8
+http://golive.cf/vidio/live-champion3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30785UJ.png" group-title="SPORTS",RMC Sport 1
 http://56.frehafroha.xyz.global.prod.fastly.net:80/live/137000/index.m3u8
