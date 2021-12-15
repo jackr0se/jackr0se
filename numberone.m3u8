@@ -353,7 +353,8 @@ http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/
 
 #EXTINF:98 group-title="LOCAL & NEWS",TRANSTV
 #EXTVLCOPT:network-caching=1000
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/TRANSTV-autobot/sa_dash/TRANSTV-autobot.mpd
 
 #EXTINF:0 group-title="LOCAL & NEWS",TRANS7
 #EXTVLCOPT:network-caching=1000
@@ -361,13 +362,18 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:0 group-title="LOCAL & NEWS",RCTI
 #EXTVLCOPT:network-caching=1000
-https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+#https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+https://liveanevia.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
+
 #EXTINF:0 group-title="LOCAL & NEWS",SCTV
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
+
+
 #EXTINF:0 group-title="LOCAL & NEWS",MNCTv
 #EXTVLCOPT:network-caching=1000
-https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
+#https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
+https://liveanevia.mncnow.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
 
 #EXTINF:0 group-title="LOCAL & NEWS",INDOSIAR1
 #EXTVLCOPT:network-caching=1000
@@ -437,15 +443,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-48
 #EXTVLCOPT:network-caching=1000
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
 
-#EXTINF:0 group-title="LOCAL & NEWS",RCTI Plus
-#EXTVLCOPT:network-caching=1000
-https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+
 #EXTINF:0 group-title="LOCAL & NEWS",GTV Plus
 #EXTVLCOPT:network-caching=1000
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",MNCTV HD Plus
-#EXTVLCOPT:network-caching=1000
-https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
+
 #EXTINF:0 group-title="LOCAL & NEWS",SCTV HD Plus
 #EXTVLCOPT:network-caching=1000
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
@@ -455,9 +457,8 @@ https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.
 #EXTINF:0 group-title="LOCAL & NEWS",INDOSIAR HD Plus
 #EXTVLCOPT:network-caching=1000
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",TRANSTV HD Plus
-#EXTVLCOPT:network-caching=1000
-https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
+
+
 #EXTINF:0 group-title="LOCAL & NEWS",TRANS7 HD Plus
 #EXTVLCOPT:network-caching=1000
 https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
