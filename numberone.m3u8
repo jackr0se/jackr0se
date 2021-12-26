@@ -54,14 +54,10 @@ http://pro-unibox.com:25461/EG/Italy1/489
 #http://103.161.2.142/hls/sonypixhd.m3u8
 http://starshare.live:8080/cOrldiscord/6aihXYFqTX/147
 
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", Warner TV
-#EXTVLCOPT:network-caching=1000
-http://203.154.243.89:1205
 
 
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",HBO Hits (1080p)
-#EXTVLCOPT:network-caching=1000
-https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" ,HBO Hits SD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/26596
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",HBO Malaysia
 #EXTVLCOPT:network-caching=1000
@@ -83,23 +79,8 @@ http://opplex.tv:8080/993300/993300/204801
 http://iptv.tvmalaysia.cc:80/624850/624850/7067
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://www.logolynx.com/images/logolynx/7a/7a20fe25774fa87b31f9533077f15fe7.png" group-title="ENTERTAINMENT-MOVIE",HBO Family
-http://iptv.tvmalaysia.cc:80/624850/624850/7070
-https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://telegra.ph/file/130e75bf4a971060e1ad6.png" group-title="ENTERTAINMENT-MOVIE",HBO Hits
-http://iptv.tvmalaysia.cc:80/624850/624850/7068
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="ENTERTAINMENT-MOVIE",HBO Signature
-http://iptv.tvmalaysia.cc:80/624850/624850/7069
-https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
-
-#EXTINF:-1 tvg-id="Red By HBO" tvg-name="Red By HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg" group-title="ENTERTAINMENT-MOVIE",Red By HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
-http://iptv.tvmalaysia.cc/624850/624850/6797
-
-
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" ,HBO Signature SD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/26597
 
 #EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_us.png",Fox Movie (EU)
 http://93.157.62.180/FoxMovies/tracks-v1a1/mono.m3u8
@@ -158,9 +139,6 @@ https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8?
 
 
-#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",Warner TV (720p)
-#EXTVLCOPT:network-caching=1000
-http://203.154.243.89:11205
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="ENTERTAINMENT-TV SHOW" tvg-id="ComedyCentralWest.us" tvg-name="ComedyCentralWest.us", Comedy Central
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
@@ -237,6 +215,12 @@ http://210.210.155.35/dr9445/h/h04/01.m3u8
 #EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="CINEMAX" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="ENTERTAINMENT-MOVIE",CINEMAX
 http://iptv.tvmalaysia.cc:80/422072/422072/7062
 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="ENTERTAINMENT-MOVIE",CINEMAX HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/30185
+
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" ,Cinemax ID
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/2156
+
 #EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",KBS WORLD
 #EXTVLCOPT:network-caching=1000
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
@@ -264,9 +248,11 @@ http://210.210.155.35/uq2663/h/h19/02.m3u8
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/dr9445/h/h07/02.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",Warner tv
-#EXTVLCOPT:network-caching=1000
-http://203.154.243.89:11205/
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" ,Discovery
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/95
+
+#EXTINF:-1 group-title="ENTERTAINMENT-TV SHOW" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" ,Warner TV ID HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/1533
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",Movie Sphere
 #EXTVLCOPT:network-caching=1000
@@ -344,6 +330,11 @@ http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="MY - Dreamworks HD" tvg-logo="" group-title="ENTERTAINMENT-KIDS",MY - Dreamworks HD
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37456
+
+#EXTINF:-1 group-title="ENTERTAINMENT-KIDS"  tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" , Horee
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/14106
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="ENTERTAINMENT-TV SHOW",KBS WORLD HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
@@ -567,6 +558,11 @@ http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="bein3premium" tvg-shift="-1",beIN Sports Premium 3 HD
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 
+#EXTINF:-1 group-title="SPORTS"  tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" ,BeIN Sport 1 ID
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/728
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" ,BeIN Sport 2 ID
+https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/729
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="SPORTS",Astro Supersport HD
 http://iptv.tvmalaysia.cc/live/penang189/penang189/9024.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="SPORTS",Astro Supersport 2 HD
@@ -699,6 +695,122 @@ http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
 
 ##### VOD #####
+
+
+#EXTINF:-1 group-title="VOD", RUMBLE 2021
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ETmkju1C90RJnZHhY8Z1OWAB5fYlKFq3onW8aQ1OiCvnsQ?e=QnmsCC
+#EXTINF:-1 group-title="VOD", BACK TO OUTBACK 2021
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Eeg6UsJajVxFpTMvvbUO39ABpeyOaE7CaQmizW8hVUUtjQ?e=ZcDb2a
+#EXTINF:-1 group-title="VOD", MATRIX-4 RESSURECTION 2021
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EX9M9WIxIlNBhvf6Kf0rfmoBTwCKkYtMGP4zhdxXTnpInQ?e=VCMaRP
+#EXTINF:-1 group-title="VOD", RESIDENT EVIL 2021
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EbwMBazA9UROqiPS18iR9fUB5vg9paivyuh4O3DBtTJ7Ig?e=JCje8j
+#EXTINF:-1 group-title="VOD", SPIDERMAN NO WAY HOME 2021 
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EZMQrFFnTHpMgDp_gdxEqqEBAbh9Ex6oYaGuStQi5pWAqQ?e=QwzCo7
+#EXTINF:-1 group-title="VOD", The Beatles-Get Back-S01 E01
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ETpRxSMxrq5IlYeNSJ42U5QBbt85DuB4rLjeuoD293jAcA?e=LcFOI4
+#EXTINF:-1 group-title="VOD", The Beatles-Get Back-S01 E02
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EWLkIpFEx_1Jq0N4F-LjkZ4BOweDMxC2pwaHolfB5PvOng?e=wZjBec
+#EXTINF:-1 group-title="VOD",Mother/Android(2021)
+https://63369762987a13a.highdeliverycdn.com/atlaslionzd/Nn8Osh8xs5d0v3u6LrXiGA/1640017454/4fe5pqmca7co/bq4wailmqsid/video.mp4
+#EXTINF:-1 group-title="VOD", Encounter (2021)
+https://336866703bd6e25.highdeliverycdn.com/atlaslionzd/zKMAcYA8M6y29RhBPF_SGQ/1640016169/ajqamim3kfyt/efv6ygvvf1ol/video.mp4
+#EXTINF:-1 group-title="VOD", Ron’s Gone Wrong (2021)
+https://3126b18b8a177d2.highdeliverycdn.com/atlaslionzd/fLz7PGesBt_CDfVHQm_JuA/1640016690/aebamagfbg9u/v83t4mz8bjfh/video.mp4
+#EXTINF:-1 group-title="VOD", The Water Man (2021)
+https://www2133.ff-05.com/token=yWRCSLTxCySzfiGny-ui3A/1639872126/103.119.0.0/164/a/51/0f870156fcfca37fa4627964544fb51a-720p.mp4
+#EXTINF:-1 group-title="VOD",ROBIN-ROBIN ANIME (2021)
+https://redirector.gdrivecdn.work/drive/index.php?id=DoBFYk6Ue35K6nTRCNVrOgZoOcdDTidnk8bXlHRG2cgEjZR%2BrksE4yorD1ov4Hizk%2BeDZkDWlvZERiHMfkF3DHCO3bvx6uUgDyLh3tUmLHaF7Gjl6HfFX7xiDQBko0HKj%2F2kj7URqYnBzr6IFE0ngJgW0Uu101%2BomB7zF40DpHp1JqDh8g%2FALysqBQ%2Fq2EiOzsxINKAYUxsF%2BeCoYKmdXN&ref=https%3A%2F%2Fmkvking.me%2F&sandbox=&t=1638800823273&ref=https://mkvking.me/&res=360
+#EXTINF:-1 group-title="VOD",KAAMELOTT - 1ST CHAPTER(2021)
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ERBNe7Rw7pVDq71p3puBXowBMvWnwnG4RohkA8lF_iucfQ?e=1gOLvb
+#EXTINF:-1 group-title="VOD",Fortress.2021.BluRay
+https://mega.nz/file/S0l3XKxJ#jnuz5LH76jr24UqQD6SZCxEuPB99Xuu8r3ogezCEk14
+#EXTINF:-1 group-title="VOD",APEX (2021)
+https://6a29b54b4e59507.highdeliverycdn.com/atlaslionzd/uhMEhAPzlMjI7kwnY74tbg/1640016355/5cmxfe9ni1f5/2rr4bssz4lg6/video.mp4
+#EXTINF:-1 group-title="VOD",NIGHT RAIDERS (2021)
+https://0ac4de1ae7cc245.highdeliverycdn.com/atlaslionzd/gWC6vg49W0p8EZQmBwukOw/1640016939/e40kwygsppfl/b2lnsbhkcsng/video.mp4
+#EXTINF:-1 group-title="VOD",The Last Duel (2021)
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EaL2xiCHY7JPll0cs9RftcABkCzZzvGfr6nrL6dno3g49g?e=l25rcw
+#EXTINF:-1 group-title="VOD",Sunshine (2007)
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Eej3AyHevLlNkXne2_P6ujoBP59ekyUSnfyVptAC8xAAGw?e=04tplm
+#EXTINF:-1 group-title="VOD",Rurouni Kenshin1 - The Origin (2012)
+https://redirector.gdrivecdn.work/drive/index.php?id=dMblwv0qCJgsxci1HE4tHQMq%2BgtQ6YgGkk9FNW%2F0G%2FpwQJOiTW1pS43OgTFrXd8BiVMtDie3Jkxk9s1dPw1jhirsCmbhEKa8QQEniIHa5T7EXpD%2F78S10yrfq4dypMYtwNeEwOp2LivY8cL0Z9wRCr3msPoxNLA%2BA2t6w0W1E9dMRBSMqnhWe3hrlILIT%2B8OE%3D&ref=https%3A%2F%2F162.213.210.115%2F&sandbox=&t=1638735620754&ref=https://162.213.210.115/&res=360
+#EXTINF:-1 group-title="VOD",Rurouni Kenshin2 - Kyoto Inferno(2014)
+https://www396.ff-01.com/token=ywGZRQpnVL8N1VcHel8fgw/1638664760/103.119.0.0/162/f/8b/283bb45d3d0044b86d4db6ba6e6c58bf-360p.mp4
+#EXTINF:-1 group-title="VOD",Rurouni Kenshin3 - The Legend Ends(2014)
+https://redirector.gdrivecdn.work/drive/index.php?id=B4H1%2BxNnymnONW4wzBe1%2FQ%2BMMRqLqnCzMYJblHN0reN2tlChqgmohpfbR7YcdCbkKeaD1qfnLUSppdUUmUJesIzqu8G4W0jc4F6sYqByUmFwdprXsDplmUSYCKj2xjYOAlIVz49gqMg%2FxceT59dmzHAXQpCIOPUEP4SQ00cgYOOw%3D%3D&ref=&sandbox=&t=1638735872034&ref=https://162.213.210.115/&res=720
+#EXTINF:-1 group-title="VOD",Rurouni Kenshin4 Final Chapter I -The Beginning (2021)
+https://www1395.ff-03.com/token=iyyeGTebdmS7skhnDpnRig/1638664464/103.119.0.0/170/7/f1/ceb8f776e5477ea926c6e0e04717cf17-360p.mp4
+#EXTINF:-1 group-title="VOD",Rurouni Kenshin4 Final Chapter II -The Beginning (2021)
+https://4iekydqupiqr8zsbnuup1.ctmp.space/files/7/1pslnzdkxk4sce/video.mp4
+#EXTINF:-1 group-title="VOD",Red Notice (2021)
+https://3126b18b8a177d2.highdeliverycdn.com/atlaslionzd/hYCUXQRmHa8q5WyaaWwAgA/1640016412/3mempjtkjml3/b6qc5tevxm9t/video.mp4
+#EXTINF:-1 group-title="VOD",Antlers (2021)
+https://6a29b54b4e59507.highdeliverycdn.com/atlaslionzd/Dkcg1N_Z8s8vmog21P0vMg/1640016489/ttirpofrnwd4/k6uukvdqleko/video.mp4
+#EXTINF:-1 tvg-logo="" group-title="VOD", NO TIME TO DIE 2021
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EeSwQosb0WNIokvFz5LezdgBF4M7QV65cOhwyiqxyI5_1w?e=CGP8Bg
+#EXTINF:-1 tvg-logo="" group-title="VOD", NO TIME TO DIE ALT 2021
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EeSwQosb0WNIokvFz5LezdgBF4M7QV65cOhwyiqxyI5_1w?e=MRMHKS
+#EXTINF:-1 tvg-logo="" group-title="VOD", Infinite 2021
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Ee7aQHNgORVFsfl7HeIMbPcBOy3rwbhIfUOjNHj39ne5yQ?e=FeafuK
+#EXTINF:-1 tvg-logo="" group-title="VOD", Black Widow 2021
+https://ll288op.dood.video/u5kj66loxhh3sdgge4whkiyeil634acb5lh6klk3y4a3ohph2bmcavay7lcq/aly1x8yjph~Xzr8goOVUc?token=6z2p88uw7pfqpr3pqwtnqd63&expiry=1639857230546
+#EXTINF:-1 tvg-logo="" group-title="VOD", Shang-Chi Legend of Ten Rings
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EcVLTmdpxUVDqJCZ4hWZoEcBEM8HsUQk053Jfv0MUQKi5w?e=2eKmsZ
+#EXTINF:-1 tvg-logo="" group-title="VOD", VENOM 2021
+https://www.googleapis.com/drive/v3/files/1tcjd86lO82kUPsfOZtNpwHF5RzEJgZ6V?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="" group-title="VOD", FREEGUY 2021
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EdefWj5mEw5PhOzeOoE2T0oBlUzh55pDEkP_wFOU1U1Q0A?e=a6UK1q
+#EXTINF:-1 tvg-logo="" group-title="VOD", WARCRAFT
+https://d-11.files.im:182/files/7/tx5o30kkdgsia3/video.mp4
+#EXTINF:-1 tvg-logo="" group-title="VOD", F9
+https://www.googleapis.com/drive/v3/files/1WCw9mArBfldMhuZPgaF5IJIrQNBPSCfc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#########SERIAL
+##Hawkeye
+#EXTINF:-1 tvg-id="" tvg-name="Hawkeyes S01 E01" tvg-logo="" group-title="Serial",Hawkeye S01 E01
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ETxD3iMOiT1Gvol7XdJCyGsB65u6b_VG20IcBWz26mZOQQ
+#EXTINF:-1 tvg-id="" tvg-name="Hawkeye S01 E01" tvg-logo="" group-title="Serial",Hawkeyes S01 E02
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EdgOGmHTsRdKiJP2Ew8uYdAB1MguCjLndMnjsxwU7Ny-QQ?e=vcujUY
+#EXTINF:-1 tvg-id="" tvg-name="Hawkeye S01 E01" tvg-logo="" group-title="Serial",Hawkeyes S01 E03
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EZIB7aGpD7NFlwkO718TR50BJnSZDwbeda2fCq0Hs6tBEQ
+#EXTINF:-1 tvg-id="" tvg-name="Hawkeye S01 E01" tvg-logo="" group-title="Serial",Hawkeyes S01 E04
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EUTD8N9__u5LmMEUBm2paPsBkjMlFZ7V3W5SGH46X7QUOA
+
+##WHEEL OF TIME
+#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E01
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ESPS5Cr9roBJos8NjkrH2igBoEEShD8CDDn7WfmzyK84sA?e=lIUGSO
+#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E02
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EawcGMazYulIpq5yDP80FOsBihDCdaye4LeS2d5dOg-eKQ?e=HLXhPm
+#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E03
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EZqVWKgWT5pEmoW0dasPeRUB216IfDUUNVbK3LyhXdpG6Q?e=sJrkG3
+#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E04
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EYZjlE4egVJCo9bpoCo7FEgBedMdZkuhwviMfp6nCdoY3g?e=N13849
+#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E05
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EQhQUDlg_0NFsiIjezxhiZwBMjXupeuqdis6clwjL0Xdjw?e=oXkNwl
+#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E06
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Ee0Q5HPr6KVPsLUDVolC7qsB02WBuiegezL1nxsNRGrNeQ?e=a3dr9a
+#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E07
+https://65ecec499067a75.highdeliverycdn.com/atlaslionzd/OF6uYicA7b-izCMIDMBWcg/1640018090/ahd7c0n5gfeu/ic2die0xtxsg/video.mp4
+
+##The Witcher
+#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x1
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Eeno7OPBGlZBod_S_-_PsmABF9arFObWrttHHTJaf3DHKA?e=gz76mb
+#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x2
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EdoWY_F67-5FiRbUXT9zTsMBhwngxaNfPOrCyCxD0dSsMg?e=t0qzhp
+#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x3
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ESf7hUaAUjlKtGNHdTCRzpkB4ThTWfbwwpogS36UrnVa6w?e=KInuFY
+#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x4
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EWTg9-aAU31KiGztEeP0pOUB9xGxF7N8BImQLmGgfuSV1g?e=kDprYu
+#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x5
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EX99-lvsQ8dIos5tGqip-kgB-e683oVuhwniVw-mz3X8_Q?e=1QUO5p
+#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x6
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EbWnzbeziV1KmgHJqIRRpFkBaPAyNY_3zNDZxoutGqkVcQ?e=zzvDdH
+#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x7
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EeZlOI08i6FJrSCQORQ2mRcBthg7rip34IDQpXOBosFvsg?e=ffeQqV
+#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x8
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ERCiDoE3dNFMtRn4piJ0CrsB1aK2KUGgp9E5AzynaR68sQ?e=5dbeLS
+
 
 #EXTINF:-1 tvg-logo="" group-title="VOD", REMINISCENCE 2021
 https://www397.ff-01.com/token=VS2uBKuU8tgf4JYmX4H3Cg/1636928496/103.119.0.0/179/4/cd/81d2e009ddc6f32a73a6dcf580c4dcd4-480p.mp4
