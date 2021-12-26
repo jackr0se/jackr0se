@@ -72,12 +72,7 @@ http://iptv.tvmalaysia.cc:80/422072/422072/7067
 #http://wanicelife.com:8880/SFL143456/73U700Y1/71057
 http://183.178.58.115:8032/0.ts
 
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE", HBO
-http://opplex.tv:8080/993300/993300/204801
 
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="ENTERTAINMENT-MOVIE",HBO HD
-http://iptv.tvmalaysia.cc:80/624850/624850/7067
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" ,HBO Signature SD
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/26597
@@ -132,9 +127,6 @@ http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/266863
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7
 ARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="USBB19000017U" tvg-chno="1455" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png" group-title="ENTERTAINMENT-MOVIE",Hallmark Movies & More
-https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-id="USBA43000017Q" tvg-chno="1457" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/07/USBA43000017Q_20210126T072616.png" group-title="ENTERTAINMENT-MOVIE",MovieSphere2
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8?
 
@@ -154,9 +146,7 @@ http://203.154.177.124:8899/live/ch20/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/spacetoon/images/2/2b/Spacetoon_logo.png/revision/latest/scale-to-width-down/220?cb=20200125135928" tvg-id="BathokGpc" tvg-name="spacetoon" group-title="ENTERTAINMENT-KIDS",spacetoon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png" group-title="ENTERTAINMENT-KIDS",BabyTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
+
 
 #EXTINF:0 group-title="ENTERTAINMENT-KIDS",ANIMAX
 #EXTVLCOPT:network-caching=1000
@@ -173,9 +163,6 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT-KIDS",Learnings
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/uq2663/h/h97/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9EFDndr.png" group-title="ENTERTAINMENT-TV SHOW",History 2
-https://feed.play.mv/live/10005200/uzBWuYCU0z/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="ENTERTAINMENT-KIDS", ANIPLUS
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
@@ -221,12 +208,7 @@ https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/30185
 #EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" ,Cinemax ID
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/2156
 
-#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",KBS WORLD
-#EXTVLCOPT:network-caching=1000
-http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",KBS WORLD2
-#EXTVLCOPT:network-caching=1000
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+
 #EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",OhK!tv
 #EXTVLCOPT:network-caching=1000
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
@@ -282,16 +264,9 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/18913
 
 
-#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-KIDS",Animal Planet
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Con Tv Anime" tvg-logo="https://i.postimg.cc/7L7W9Tt7/download-87.jpg", group-title="ENTERTAINMENT-KIDS",Con Tv Anime
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT-KIDS",NAT GEO WILD
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-
-
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE", MovieTime
 #EXTVLCOPT:network-caching=1000
@@ -339,14 +314,9 @@ https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/14106
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="ENTERTAINMENT-TV SHOW",KBS WORLD HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT-KIDS",Happy Kids
-https://happykids-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HIP HIP HOREE! (Vidio)" tvg-logo="https://mantul.org/logo/hiphiphore.png" group-title="ENTERTAINMENT-KIDS",HIP HIP HOREE! (Vidio)
 http://akudandia.xyz/man-prem/hiphiphoree.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-KIDS",Love Nature
-http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",FAMILY FLIX
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
@@ -527,23 +497,11 @@ http://210.210.155.35/session/40d99f12-b06f-11ea-85f7-8562a8355579/uq2663/h/h23/
 ##### 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Champions TV 3 (Vidio)" tvg-logo="https://mantul.org/logo/champions3.png" group-title="SPORTS",Champions TV 3 (Vidio)
-http://103.226.232.199:8005/play/a062/index.m3u8?shareext.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Astro Arena 1" tvg-logo="https://i.ibb.co/rbtX26N/Astro-arena-home-tv.png" group-title="SPORTS",Astro Arena 1
 #http://mudy02.cularu.com:8880/SLD12M2N53106/tMpDD9KRfM/71102
 https://lnk.ec/AstroArena?shareext.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/340?cb=20180622074639" group-title="SPORTS",Astro Super Sport 1
-https://dik.si/SEastrosportHD?shareext.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/340?cb=20180622074639" group-title="SPORTS",Astro Super Sport 2
-http://13.76.192.14:19410/Gonj3r/live/ASSP2_dyos_ygpkaitelevizozonk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/340?cb=20180622074639" group-title="SPORTS",Astro Super Sport 3
-http://13.76.192.14:19410/G0njer/live/ASSP3_dyos_ygpakaitelevizozonk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/340?cb=20180622074639" group-title="SPORTS",Astro Super Sport 4
-http://13.76.192.14:19410/Gonj3r/l1ve/ASSP4_door_dyos/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 HD" tvg-logo="https://www.dropbox.com/s/ev3tx7dis7p4i0t/bt-sport-OTk2Ng%3D%3D.png?dl=1" group-title="SPORTS",BT Sport 1 HD
 http://iptv.tvmalaysia.cc:80/penang175/penang175/6610
@@ -563,16 +521,6 @@ https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/728
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" ,BeIN Sport 2 ID
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/729
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="SPORTS",Astro Supersport HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9024.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="SPORTS",Astro Supersport 2 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9025.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="SPORTS",Astro Supersport 3 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9020.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="SPORTS",Astro Supersport 4 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9026.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="SPORTS",Astro Supersport 5 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9029.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Football
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6684
@@ -581,50 +529,11 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6684
 #http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/683003.m3u8
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7608
 
-#EXTINF:11 group-title="SPORTS",mola 1
-#EXTVLCOPT:network-caching=1000
-https://lnk.ec/SoccerTv1?shareext.m3u8
-#EXTINF:11 group-title="SPORTS",mola 1
-#EXTVLCOPT:network-caching=1000
-https://lnk.ec/SoccerTv2?shareext.m3u8
-
-
-#EXTINF:0  group-title="SPORTS",CHAMPIONTV1
-#EXTVLCOPT:network-caching=1000
-http://golive.cf/vidio/live-champion1.m3u8
-#EXTINF:0  group-title="SPORTS",CHAMPIONTV2
-#EXTVLCOPT:network-caching=1000
-http://golive.cf/vidio/live-champion2.m3u8
-#EXTINF:0  group-title="SPORTS",CHAMPIONTV3
-#EXTVLCOPT:network-caching=1000
-http://golive.cf/vidio/live-champion3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30785UJ.png" group-title="SPORTS",RMC Sport 1
-http://56.frehafroha.xyz.global.prod.fastly.net:80/live/137000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Rh2s8k.png" group-title="SPORTS",RMC Sport 2
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/270.ts
-
-
-
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="SPORTS" tvg-id="CHN" tvg-name="CHN", FightBox
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/K2zkNV3/IMG-20211011-061159.png",super premier
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52299.m3u8
-
 #EXTINF:3.2 group-title="SPORTS",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-
-
-#EXTINF:0 group-title="SPORTS",Star Sports Select 1
-#EXTVLCOPT:network-caching=1000
-http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/1125
-#EXTINF:0 group-title="SPORTS",Star Sports Select 2
-#EXTVLCOPT:network-caching=1000
-http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/1315
-
 
 
 
@@ -632,31 +541,6 @@ http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/1315
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
 
-#EXTINF:0 group-title="SPORTS",WWE
-#EXTVLCOPT:network-caching=1000
-http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
-
-#EXTINF:0 group-title="SPORTS",Sony Ten 1
-#EXTVLCOPT:network-caching=1000
-https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
-#EXTINF:0 group-title="SPORTS",Sony Ten 2
-#EXTVLCOPT:network-caching=1000
-https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
-
-
-
-#EXTINF:0 group-title="SPORTS",BARCA $
-#EXTVLCOPT:network-caching=1000
-http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/557
-#EXTINF:0 group-title="SPORTS",REAL MADRID CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/542
-#EXTINF:0 group-title="SPORTS",BRITISH EUROSPORT 1
-#EXTVLCOPT:network-caching=1000
-http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/652
-#EXTINF:0 group-title="SPORTS",BRITISH EUROSPORT 2
-#EXTVLCOPT:network-caching=1000
-http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/685
 #EXTINF:0 group-title="SPORTS",SKY SPORTS FOOTBALL HD
 #EXTVLCOPT:network-caching=1000
 #http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/699
@@ -671,28 +555,6 @@ http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/700
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61438
 #EXTINF:0 group-title="SPORTS",SKY SPORTS PREMIER LEAGUE HD
 #EXTVLCOPT:network-caching=1000
-http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/702
-#EXTINF:0 group-title="SPORTS",SKY SPORTS F1
-#EXTVLCOPT:network-caching=1000
-http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/717
-#EXTINF:0 group-title="SPORTS",BT SPORT 2 $
-#EXTVLCOPT:network-caching=1000
-http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/720
-#EXTINF:0 group-title="SPORTS",BT SPORT 3 $
-#EXTVLCOPT:network-caching=1000
-http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/721
-#EXTINF:0 group-title="SPORTS",BT SPORT 1 $
-#EXTVLCOPT:network-caching=1000
-http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/719
-
-
-
-
-#EXTINF:-1 tvg-id="RTMSports.my" tvg-name="RTM Sports" tvg-country="MY" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" tvg-url="" group-title="SPORTS",RTM Sports [HEVC]
-http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-
-
-
 
 ##### VOD #####
 
