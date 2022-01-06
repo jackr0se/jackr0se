@@ -75,22 +75,6 @@ http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
 #https://snehz5tv.herokuapp.com?c=0-9-channel_2105335046
 http://iptvh.it/snehandflixhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/indiexplex.png" group-title="ENTERTAINMENT-MOVIE" tvg-id="IndiePlexEast.us" tvg-name="IndiePlexEast.us", IndiePlex East
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/34540.m3u8
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/thrillermax/thrillermax.png" group-title="ENTERTAINMENT-MOVIE" tvg-id="ThrillerMaxEast.us" tvg-name="ThrillerMaxEast.us", ThrillerMax East
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/266863
-
-
-#EXTINF:-1 tvg-id="USAJ26000054W" tvg-chno="1452" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/45/USAJ26000054W20200730102745.png" group-title="ENTERTAINMENT-MOVIE",Paramount Movie Channel
-http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7
-ARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="USBA43000017Q" tvg-chno="1457" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/07/USBA43000017Q_20210126T072616.png" group-title="ENTERTAINMENT-MOVIE",MovieSphere2
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8?
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="ENTERTAINMENT-TV SHOW" tvg-id="ComedyCentralWest.us" tvg-name="ComedyCentralWest.us", Comedy Central
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 
@@ -143,9 +127,7 @@ http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",AXN1
 #EXTVLCOPT:network-caching=1000
 http://45.126.83.51/dr9445/h/h141/01.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",AXN2
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/session/569f338c-a9b8-11eb-ad21-9a86b46a5f45/uq2663/h/h141/02.m3u8
+
 #EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",BLUEANT EXTREME
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/01.m3u8
@@ -157,16 +139,6 @@ http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/dr9445/h/h04/01.m3u8
 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="CINEMAX" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="ENTERTAINMENT-MOVIE",CINEMAX
-http://iptv.tvmalaysia.cc:80/422072/422072/7062
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="ENTERTAINMENT-MOVIE",CINEMAX HD
-https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/30185
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" ,Cinemax ID
-https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/2156
-
 
 #EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",OhK!tv
 #EXTVLCOPT:network-caching=1000
@@ -177,9 +149,6 @@ http://45.126.83.51/session/b250033c-a9b8-11eb-b3bc-a2798f0477fc/uq2663/h/h08/01
 #EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",SonyOne
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/uq2663/h/h143/01.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",SonyOne2
-#EXTVLCOPT:network-caching=1000
-http://45.126.83.51/session/70890dd8-c9d3-11ea-b6b4-9c15b4da6e2f/uq2663/h/h143/01.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",SONY GEM
 #EXTVLCOPT:network-caching=1000
@@ -188,9 +157,6 @@ http://210.210.155.35/uq2663/h/h19/02.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",KIX
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/dr9445/h/h07/02.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" ,Discovery
-https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/95
 
 #EXTINF:-1 group-title="ENTERTAINMENT-TV SHOW" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" ,Warner TV ID HD
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/1533
@@ -204,32 +170,16 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://iptv.tvmalaysia.cc:80/422072/422072/6715
 
-#EXTINF:0 group-title="ENTERTAINMENT-KIDS",Astro Ceria2
-
-http://iptv.tvmalaysia.cc:80/422072/422072/6715
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/asDF7GJ.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS" tvg-id="Nick Junior" tvg-name="Nick Junior", Nick Junior
 http://58.65.171.202:8000/play/3/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/iXSCr83.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS" tvg-id="Nickelodeon" tvg-name="Nickelodeon", Nickelodeon
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", Starz Edge East
-#EXTVLCOPT:network-caching=1000
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/18913
-
-
 
 #EXTINF:-1 tvg-name="Con Tv Anime" tvg-logo="https://i.postimg.cc/7L7W9Tt7/download-87.jpg", group-title="ENTERTAINMENT-KIDS",Con Tv Anime
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", MovieTime
-#EXTVLCOPT:network-caching=1000
-http://tdgu3cz8.rostelekom.xyz/iptv/KKV5969DQS5ZNV/6486/index.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE", Star Movies
 #EXTVLCOPT:network-caching=1000
@@ -264,9 +214,6 @@ http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MY - Dreamworks HD" tvg-logo="" group-title="ENTERTAINMENT-KIDS",MY - Dreamworks HD
-https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37456
-
 #EXTINF:-1 group-title="ENTERTAINMENT-KIDS"  tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" , Horee
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/14106
 
@@ -280,16 +227,6 @@ http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIP HIP HOREE! (Vidio)" tvg-logo="https://mantul.org/logo/hiphiphore.png" group-title="ENTERTAINMENT-KIDS",HIP HIP HOREE! (Vidio)
 http://akudandia.xyz/man-prem/hiphiphoree.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",FAMILY FLIX
-https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="ENTERTAINMENT-KIDS" tvg-logo="https://i.redd.it/46w0zugvmee51.png",Nickelodeon
-https://siloh.pluto.tv/lilo/production/Nick/02/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/376-3767984_fxx-fxx-logo-png.png" group-title="ENTERTAINMENT-MOVIE", FXX East
-http://51.79.82.231:8080/US_FXX_EAST_USA/video.m3u8
 
 ##### LOCAL #####
 
