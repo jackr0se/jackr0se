@@ -246,7 +246,7 @@ http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/
 #EXTINF:98 group-title="LOCAL & NEWS",TRANSTV
 #EXTVLCOPT:network-caching=1000
 #https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
+http://cdn4.mbahnunungonline.net/m3u8/id/61061784f4a9270.m3u8
 
 #EXTINF:0 group-title="LOCAL & NEWS",TRANS7
 #EXTVLCOPT:network-caching=1000
@@ -255,7 +255,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0 group-title="LOCAL & NEWS",RCTI
 #EXTVLCOPT:network-caching=1000
 #https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
-https://fta.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+http://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
 
 #EXTINF:0 group-title="LOCAL & NEWS",INEWS
 #EXTVLCOPT:network-caching=1000
@@ -269,7 +269,7 @@ http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s
 #EXTINF:0 group-title="LOCAL & NEWS",MNCTv
 #EXTVLCOPT:network-caching=1000
 #https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
-https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
+http://cdn4.mbahnunungonline.net/m3u8/id/d9bbf6929ec1028.m3u8
 
 #EXTINF:0 group-title="LOCAL & NEWS",INDOSIAR1
 #EXTVLCOPT:network-caching=1000
