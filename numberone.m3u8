@@ -44,8 +44,8 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/314
 #https://tinyurl.com/59ue88j6
-#http://103.161.2.142/hls/sonypixhd.m3u8
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/147
+http://103.161.2.142/hls/sonypixhd.m3u8
+#http://starshare.live:8080/cOrldiscord/6aihXYFqTX/147
 
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",HBO
@@ -82,6 +82,9 @@ https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="ENTERTAINMENT-TV SHOW",TechStorm
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/P9yiTz6.png?v=1.0.0.1" group-title="ENTERTAINMENT-TV SHOW" tvg-id="Nat Geo Wild HD", Nat Geo Wild HD
+#https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bMwkQEd.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS", Zoomoo
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
@@ -159,7 +162,8 @@ http://210.210.155.35/uq2663/h/h19/02.m3u8
 http://210.210.155.35/dr9445/h/h07/02.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT-TV SHOW" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" ,Warner TV ID HD
-https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/1533
+#https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/1533
+https://cubmu.nomaden.tv:8279/WARNER/playlist.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",Movie Sphere
 #EXTVLCOPT:network-caching=1000
@@ -168,7 +172,12 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-KIDS",Astro Ceria
 #EXTVLCOPT:network-caching=1000
-http://iptv.tvmalaysia.cc:80/422072/422072/6715
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6715
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xXz1Lht.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS", Boomerang
+https://cubmu.nomaden.tv:8279/BOOMERANG/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OrEXAse.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS", Cartoon Network
+https://cubmu.nomaden.tv:8279/CARTOON/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
