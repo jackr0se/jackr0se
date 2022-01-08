@@ -86,6 +86,20 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-43
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/P9yiTz6.png?v=1.0.0.1" group-title="ENTERTAINMENT-TV SHOW" tvg-id="Nat Geo Wild HD", Nat Geo Wild HD
 #https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",National Geo
+http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28752?token=TURYAhZYEAwSVVpWXlYBBwEACAIDXFFQUwYGUVYOXwEPBAFWBAILUAhGTxBLF0AGVA9uD1IbCQQJBFEHShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSCldWA1EcQRVZVhQKRlcAAVIQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpRBFoFQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAxRClIXHw==
+#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",National Geo People
+http://58.65.171.202:8000/play/10503/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="ENTERTAINMENT-TV SHOW",National Geos
+https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b1200000.m3u8?token=
+#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",National Geo wild
+http://62.210.127.217:8080/FQWA9E9wHF/nWYRuhPJwe/28657?token=TURYAhZYEAwSVFFUDVpUUQJSAQQHCAEBA1BXBgRaUgQDAwhXBlFQBwZGTxBLF0AGVA9uD1IbCQQJBVECShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARTCFVRAlMcQRVZVhQKRlEEAVYAQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAINRw9ZThMFWUxdQkNKRg9EcCJHGkRVGxFVXEVZCw0QAkFGEBdOEw9FZkFTQkcWUAdUAxcUXBJTRxwQW1EcPFFXDVwGVhZYCVhKEQwTAkYZRFQJC18SXxE6QFtSEl5BAA5aAlYXHw==
+
+#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",DISCOVERY Asia
+https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1200000.m3u8?token=
+#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",DISCOVERY
+https://mbed.cc/lmTZX
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bMwkQEd.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS", Zoomoo
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
 
@@ -163,7 +177,8 @@ http://210.210.155.35/dr9445/h/h07/02.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT-TV SHOW" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" ,Warner TV ID HD
 #https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/1533
-https://cubmu.nomaden.tv:8279/WARNER/playlist.m3u8
+#https://cubmu.nomaden.tv:8279/WARNER/playlist.m3u8
+http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28733?token=TURYAhZYEAwSBlVUDlsDVABQBFYOWwsGAFdUA1UPUF0GUglQUgcEUgRGTxBLF0AGVA9uD1IbCQQJC1UDShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSC19SBlccQRVZVhQKRlEHCVYDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAFQFVRNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpRA1cNUBMb
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",Movie Sphere
 #EXTVLCOPT:network-caching=1000
@@ -176,9 +191,17 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 https://my.odtv.uk/live/9486331171/7860879594/99.ts
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xXz1Lht.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS", Boomerang
-https://cubmu.nomaden.tv:8279/BOOMERANG/playlist.m3u8
+http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28803?token=TURYAhZYEAwSVVUCW1AFUFEHBlMFCQpXA1JRBgdYAlNUBQYAXFYCBwdGTxBLF0AGVA9uD1IbCQQJC1QGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFVwxeD1FdAFIcQRVZVhQKRloACFQQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpRBFQHQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAFSBVoXHw==
+
+#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-KIDS",Disney
+http://62.210.127.217:8080/FQWA9E9wHF/nWYRuhPJwe/28685?token=TURYAhZYEAwSAFQEDgAKVldXUAAFAQUOAwEFVAMIAAMEVABXVFVTDlNGTxBLF0AGVA9uD1IbCQQJBVwAShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARXD15XBFccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+
+#EXTINF:-1  group-title="ENTERTAINMENT-KIDS",Kids Toons
+http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OrEXAse.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS", Cartoon Network
 https://cubmu.nomaden.tv:8279/CARTOON/playlist.m3u8
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -256,7 +279,9 @@ http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/
 #EXTINF:98 group-title="LOCAL & NEWS",TRANSTV
 #EXTVLCOPT:network-caching=1000
 #https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-http://cdn4.mbahnunungonline.net/m3u8/id/61061784f4a9270.m3u8
+#http://cdn4.mbahnunungonline.net/m3u8/id/61061784f4a9270.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Transtv.m3u8
+
 
 #EXTINF:0 group-title="LOCAL & NEWS",TRANS7
 #EXTVLCOPT:network-caching=1000
