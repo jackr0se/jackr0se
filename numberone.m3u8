@@ -172,7 +172,8 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-KIDS",Astro Ceria
 #EXTVLCOPT:network-caching=1000
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6715
+#http://iptv.tvmalaysia.cc:80/penang189/penang189/6715
+https://my.odtv.uk/live/9486331171/7860879594/99.ts
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xXz1Lht.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS", Boomerang
 https://cubmu.nomaden.tv:8279/BOOMERANG/playlist.m3u8
