@@ -44,9 +44,9 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/314
 #https://tinyurl.com/59ue88j6
-http://103.161.2.142/hls/sonypixhd.m3u8
+#http://103.161.2.142/hls/sonypixhd.m3u8
 #http://starshare.live:8080/cOrldiscord/6aihXYFqTX/147
-
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",HBO
 #EXTVLCOPT:network-caching=1000
