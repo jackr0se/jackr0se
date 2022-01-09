@@ -214,31 +214,25 @@ http://58.65.171.202:8000/play/3/index.m3u8
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
 
 
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", Star Movies
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", STAR MOVIES HD
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", Star World
+
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", STAR WORLD 1
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
 
-
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", STAR WORLD 2
+#EXTVLCOPT:network-caching=1000
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",FLIX
 #EXTVLCOPT:network-caching=1000
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",STAR MOVIES HD 2
-#EXTVLCOPT:network-caching=1000
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",STAR WORLD
-#EXTVLCOPT:network-caching=1000
-http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",AXN
 #EXTVLCOPT:network-caching=1000
 https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 1
 http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
@@ -260,13 +254,17 @@ http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIP HIP HOREE! (Vidio)" tvg-logo="https://mantul.org/logo/hiphiphore.png" group-title="ENTERTAINMENT-KIDS",HIP HIP HOREE! (Vidio)
 http://akudandia.xyz/man-prem/hiphiphoree.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" tvg-id="" tvg-name="Biznet Kids" group-title="ENTERTAINMENT-KIDS",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+
 
 ##### LOCAL #####
 
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png"  group-title="LOCAL & NEWS",CNN (US)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF: -1 tvg-id="142" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="LOCAL & NEWS", BBC World News
+#EXTINF: -1 tvg-id="142" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="LOCAL & NEWS", BBC World News 2
 http://node85383-gvkjio.in1.bitmana.io/live.php?c=BBC_World_News&q=800&e=junk.m3u8
 
 #EXTINF:-1 group-title="LOCAL & NEWS",Makkah Tv
@@ -281,10 +279,7 @@ http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/
 
 #EXTINF:98 group-title="LOCAL & NEWS",TRANSTV
 #EXTVLCOPT:network-caching=1000
-#https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#http://cdn4.mbahnunungonline.net/m3u8/id/61061784f4a9270.m3u8
-https://goldenlivektv.com/Live_TV/Channel_Transtv.m3u8
-
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:0 group-title="LOCAL & NEWS",TRANS7
 #EXTVLCOPT:network-caching=1000
