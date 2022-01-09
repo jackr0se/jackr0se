@@ -42,11 +42,11 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",Sony Pix HD
 #EXTVLCOPT:network-caching=1000
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/314
-#https://tinyurl.com/59ue88j6
-#http://103.161.2.142/hls/sonypixhd.m3u8
-#http://starshare.live:8080/cOrldiscord/6aihXYFqTX/147
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
+http://node85383-gvkjio.in1.bitmana.io/live.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",Sony Pix SD
+#EXTVLCOPT:network-caching=1000
+http://node85383-gvkjio.in1.bitmana.io/live.php?c=Sony_Pix_SD&q=800&e=junk.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",HBO
 #EXTVLCOPT:network-caching=1000
@@ -265,6 +265,9 @@ http://akudandia.xyz/man-prem/hiphiphoree.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png"  group-title="LOCAL & NEWS",CNN (US)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF: -1 tvg-id="142" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="LOCAL & NEWS", BBC World News
+http://node85383-gvkjio.in1.bitmana.io/live.php?c=BBC_World_News&q=800&e=junk.m3u8
 
 #EXTINF:-1 group-title="LOCAL & NEWS",Makkah Tv
 http://45.126.83.51/qwr9ew/s/s28/02.m3u8
