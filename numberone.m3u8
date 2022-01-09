@@ -442,7 +442,7 @@ http://210.210.155.35/session/40d99f12-b06f-11ea-85f7-8562a8355579/uq2663/h/h23/
 #http://mudy02.cularu.com:8880/SLD12M2N53106/tMpDD9KRfM/71102
 http://iptv.tvmalaysia.cc/jalan8/jalan8/6707
 
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV-2
+#EXTINF:-1 group-title="SPORTS" tvg-id="bein1premium" tvg-shift="-1",SPOTV-2
 https://mbed.cc/CGGxG
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="SPORTS",Astro Supersport HD
