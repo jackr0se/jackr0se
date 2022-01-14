@@ -42,11 +42,8 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",Sony Pix HD
 #EXTVLCOPT:network-caching=1000
-http://node85383-gvkjio.in1.bitmana.io/live.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
+https://streamer-1.toffeelive.com/live/sony_pix_hd_720/index.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",Sony Pix SD
-#EXTVLCOPT:network-caching=1000
-http://node85383-gvkjio.in1.bitmana.io/live.php?c=Sony_Pix_SD&q=800&e=junk.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",HBO
 #EXTVLCOPT:network-caching=1000
