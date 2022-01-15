@@ -434,7 +434,7 @@ http://210.210.155.35/session/40d99f12-b06f-11ea-85f7-8562a8355579/uq2663/h/h23/
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Arena 1" tvg-logo="https://i.ibb.co/rbtX26N/Astro-arena-home-tv.png" group-title="SPORTS",Astro Arena 1
 #http://mudy02.cularu.com:8880/SLD12M2N53106/tMpDD9KRfM/71102
-http://iptv.tvmalaysia.cc/jalan8/jalan8/6707
+mitv://ns2.hellotvvod.com:9906/5854587c3f164d0bb0a66626f9ee09d0
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Arena 1" tvg-logo="https://i.postimg.cc/GhL7Dxhg/IMG-0201.png" group-title="SPORTS",MOTORVISIONTV
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
@@ -450,28 +450,42 @@ https://mbed.cc/CGGxG
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="SPORTS",Astro Supersport HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9024.m3u8
+#http://iptv.tvmalaysia.cc/live/penang189/penang189/9024.m3u8
+mitv://ns2.hellotvvod.com:9906/e12cfed6c3d94f27bd4f480d42b0c7b5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="SPORTS",Astro Supersport 2 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9025.m3u8
+#http://iptv.tvmalaysia.cc/live/penang189/penang189/9025.m3u8
+mitv://ns2.hellotvvod.com:9906/5aa28b0759774904a25d7fc12ea233a9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="SPORTS",Astro Supersport 3 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9020.m3u8
+#http://iptv.tvmalaysia.cc/live/penang189/penang189/9020.m3u8
+mitv://ns2.hellotvvod.com:9906/68067267b2734dd39032d08bf83db8f0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="SPORTS",Astro Supersport 4 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9026.m3u8
+#http://iptv.tvmalaysia.cc/live/penang189/penang189/9026.m3u8
+mitv://ns2.hellotvvod.com:9906/6ba21b7211494ed4ac1456d6ba8cbaa0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="SPORTS",Astro Supersport 5 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9029.ts
+#http://iptv.tvmalaysia.cc/live/penang189/penang189/9029.ts
+mitv://ns2.hellotvvod.com:9906/cc02a88163414af7b4d7479a833f1407
 
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 HD" tvg-logo="https://www.dropbox.com/s/ev3tx7dis7p4i0t/bt-sport-OTk2Ng%3D%3D.png?dl=1" group-title="SPORTS",BT Sport 1 HD
-http://iptv.tvmalaysia.cc:80/penang175/penang175/6610
+#http://iptv.tvmalaysia.cc:80/penang175/penang175/6610
+http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2506/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 HD" tvg-logo="https://www.dropbox.com/s/ev3tx7dis7p4i0t/bt-sport-OTk2Ng%3D%3D.png?dl=1" group-title="SPORTS",BT Sport 2 HD
-http://iptv.tvmalaysia.cc:80/penang175/penang175/6611
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6612
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="bein1premium" tvg-shift="-1",beIN Sports Premium 1 HD
 #http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="bein2premium" tvg-shift="-1",beIN Sports Premium 2 HD
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="bein3premium" tvg-shift="-1",beIN Sports Premium 3 HD
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+http://belfast.dyndns.tv:5808/BEINHD10/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="SPORTS",ESPN 1
+http://zalogitv.tech:8080/padji33/33334444/1674
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="SPORTS",ESPN 2
+http://zalogitv.tech:8080/padji33/33334444/1675
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="beIN2" tvg-shift="-1",beIN2
 https://bit.ly/3bM77rh
