@@ -42,7 +42,15 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",Sony Pix HD
 #EXTVLCOPT:network-caching=1000
-https://streamer-1.toffeelive.com/live/sony_pix_hd_720/index.m3u8
+#https://streamer-1.toffeelive.com/live/sony_pix_hd_720/index.m3u8
+http://103.153.39.36:8000/play/a016
+
+#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png",&PRIVE HD
+http://103.153.39.36:8000/play/a01d
+#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png",&pictures HD
+http://103.153.39.36:8000/play/a017
+#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png",&flix
+http://103.153.39.36:8000/play/a00p
 
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",HBO
@@ -62,15 +70,36 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/254
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/270
 
 
-
+#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky One
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/417
+#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky News
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/930
+#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky Movies Thriller
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/270
+#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky Movies Showcase
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/269
+#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky Movies Sci-Fi
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/254
+#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky Movies Premiere
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/261
+#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky Movies Modern-Geant
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/262
+#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky Movies Family
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/266
+#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky Movies Comedy
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/263
+#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky Movies Action & Adv
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/264
+#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky Atlantic
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12275
+#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: SKY 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7629
 
 
 #EXTINF:-1 tvg-id="706" tvg-name="HITS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="ENTERTAINMENT-MOVIE",HITS (706)
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="ENTERTAINMENT-MOVIE",&flix
-#https://snehz5tv.herokuapp.com?c=0-9-channel_2105335046
-http://iptvh.it/snehandflixhd.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="ENTERTAINMENT-TV SHOW" tvg-id="ComedyCentralWest.us" tvg-name="ComedyCentralWest.us", Comedy Central
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
