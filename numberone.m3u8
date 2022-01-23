@@ -38,6 +38,10 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 ##### ENTERTAINMENT #####
 
+#EXTM3U
+#EXTINF:6143 group-title="ENTERTAINMENT-MOVIE",Return To Hogwarts
+#EXTVLCOPT:network-caching=1000
+https://github.com/iavgo/movie/raw/main/return-to-hogwarts.m3u8
 
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",Sony Pix HD
