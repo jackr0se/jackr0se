@@ -50,7 +50,7 @@ https://github.com/iavgo/movie/raw/main/return-to-hogwarts.m3u8
 http://103.153.39.36:8000/play/a016
 
 #EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png",&PRIVE HD
-http://103.153.39.36:8000/play/a01d
+http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34478?token=TURYAhZYEAwSVFZWXVMFUg0HV1QACFUOCFAADAAPVVAPBFEBXFQDAgJGTxBLF0AGVA9uD1IbCQUFB1MNShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RTBFMcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png",&pictures HD
 http://103.153.39.36:8000/play/a017
 #EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png",&flix
@@ -217,7 +217,7 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-KIDS",Astro Ceria
 #EXTVLCOPT:network-caching=1000
-http://iptv.tvmalaysia.cc:80/271282/271282/6715
+https://my.odtv.uk/live/9486331171/7860879594/99.ts
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xXz1Lht.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS", Boomerang
 http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28803?token=TURYAhZYEAwSVVUCW1AFUFEHBlMFCQpXA1JRBgdYAlNUBQYAXFYCBwdGTxBLF0AGVA9uD1IbCQQJC1QGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFVwxeD1FdAFIcQRVZVhQKRloACFQQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpRBFQHQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAFSBVoXHw==
@@ -320,7 +320,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0 group-title="LOCAL & NEWS",RCTI
 #EXTVLCOPT:network-caching=1000
 #https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
-http://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
+https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 
 #EXTINF:0 group-title="LOCAL & NEWS",INEWS
 #EXTVLCOPT:network-caching=1000
@@ -334,7 +334,7 @@ http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s
 #EXTINF:0 group-title="LOCAL & NEWS",MNCTv
 #EXTVLCOPT:network-caching=1000
 #https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
-http://cdn4.mbahnunungonline.net/m3u8/id/d9bbf6929ec1028.m3u8
+https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
 
 #EXTINF:0 group-title="LOCAL & NEWS",INDOSIAR1
 #EXTVLCOPT:network-caching=1000
