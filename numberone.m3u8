@@ -1,103 +1,9 @@
 #EXTM3U
 
-##### BACKGROUND #####
-
-#EXTINF:0 group-title="BACKGROUND",Beaches Live
-#EXTVLCOPT:network-caching=1000
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:0 group-title="BACKGROUND",Mountains Live
-#EXTVLCOPT:network-caching=1000
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:0 group-title="BACKGROUND",Rivers Live
-#EXTVLCOPT:network-caching=1000
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:0 group-title="BACKGROUND",Tropics Live
-#EXTVLCOPT:network-caching=1000
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:0 group-title="BACKGROUND",Lakes Live
-#EXTVLCOPT:network-caching=1000
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:0 group-title="BACKGROUND",Animals Live
-#EXTVLCOPT:network-caching=1000
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:0 group-title="BACKGROUND",Forests Live
-#EXTVLCOPT:network-caching=1000
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:0 group-title="BACKGROUND",Sunsets Live
-#EXTVLCOPT:network-caching=1000
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:0 group-title="BACKGROUND",Aurora Live
-#EXTVLCOPT:network-caching=1000
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:0 group-title="BACKGROUND",Nature
-#EXTVLCOPT:network-caching=1000
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-
-
 
 
 ##### ENTERTAINMENT #####
 
-#EXTM3U
-#EXTINF:6143 group-title="ENTERTAINMENT-MOVIE",Return To Hogwarts
-#EXTVLCOPT:network-caching=1000
-https://github.com/iavgo/movie/raw/main/return-to-hogwarts.m3u8
-
-
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",Sony Pix HD
-#EXTVLCOPT:network-caching=1000
-#https://streamer-1.toffeelive.com/live/sony_pix_hd_720/index.m3u8
-http://103.153.39.36:8000/play/a016
-
-#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png",&PRIVE HD
-http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34478?token=TURYAhZYEAwSVFZWXVMFUg0HV1QACFUOCFAADAAPVVAPBFEBXFQDAgJGTxBLF0AGVA9uD1IbCQUFB1MNShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RTBFMcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png",&pictures HD
-http://103.153.39.36:8000/play/a017
-#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png",&flix
-http://103.153.39.36:8000/play/a00p
-
-
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",HBO
-#EXTVLCOPT:network-caching=1000
-http://iptv.tvmalaysia.cc:80/422072/422072/7067
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",Star Movies HD
-http://iptv.tvmalaysia.cc:80/422072/422072/8997
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUwe3JaBjPWDBNecYCMeLYldH-0JVoP8Kc2A&usqp=CAU" group-title="ENTERTAINMENT-MOVIE" tvg-id="SkyCinemaScifiHorror.uk" tvg-name="SkyCinemaScifiHorror.uk", Sky Cinema Sci-fi Horror
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/254
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtG5lqrSHxHig_0_EwVkuDkfOw6siicvDLDA&usqp=CAU" group-title="ENTERTAINMENT-MOVIE" tvg-id="" tvg-name="", Sky Cinema Thriller
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/270
-
-
-#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky One
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/417
-#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky News
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/930
-#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky Movies Thriller
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/270
-#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky Movies Showcase
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/269
-#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky Movies Sci-Fi
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/254
-#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky Movies Premiere
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/261
-#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky Movies Modern-Geant
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/262
-#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky Movies Family
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/266
-#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky Movies Comedy
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/263
-#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky Movies Action & Adv
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/264
-#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: Sky Atlantic
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12275
-#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT-MOVIE" tvg-logo="N/A",UK: SKY 1 HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7629
 
 
 #EXTINF:-1 tvg-id="706" tvg-name="HITS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="ENTERTAINMENT-MOVIE",HITS (706)
@@ -171,6 +77,20 @@ http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
 
 
+#EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://www.infotelevisi.com/asset/logotv/5690c06fb32f2-hbo_asia_hd.jpg" group-title="ENTERTAINMENT-MOVIE", HBO Indo
+https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="ENTERTAINMENT-MOVIE", HBOFamily
+https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="ENTERTAINMENT-MOVIE", HBOSignature
+https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="ENTERTAINMENT-MOVIE", HBOHits
+https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hit
+#https://mkctv.net/sile/hit.m3u8
+#http://23.101.22.105:19440/play/HITS/index.m3u8
+#http://gumisasak-vision.online/Gegonjer-TV/Master/INI_HBO/HIT.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="ENTERTAINMENT-MOVIE", CINEMAX
+https://lnk.ec/cinemaxID?shareext.ts
+
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",AXN1
 #EXTVLCOPT:network-caching=1000
 http://45.126.83.51/dr9445/h/h141/01.m3u8
@@ -210,10 +130,6 @@ http://210.210.155.35/dr9445/h/h07/02.m3u8
 #https://cubmu.nomaden.tv:8279/WARNER/playlist.m3u8
 http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28733?token=TURYAhZYEAwSBlVUDlsDVABQBFYOWwsGAFdUA1UPUF0GUglQUgcEUgRGTxBLF0AGVA9uD1IbCQQJC1UDShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSC19SBlccQRVZVhQKRlEHCVYDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAFQFVRNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpRA1cNUBMb
 
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",Movie Sphere
-#EXTVLCOPT:network-caching=1000
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-
 
 #EXTINF:0 group-title="ENTERTAINMENT-KIDS",Astro Ceria
 #EXTVLCOPT:network-caching=1000
@@ -225,43 +141,19 @@ http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28803?token=TURYAhZYEAwSVVUCW1AF
 #EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-KIDS",Disney
 http://62.210.127.217:8080/FQWA9E9wHF/nWYRuhPJwe/28685?token=TURYAhZYEAwSAFQEDgAKVldXUAAFAQUOAwEFVAMIAAMEVABXVFVTDlNGTxBLF0AGVA9uD1IbCQQJBVwAShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARXD15XBFccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
-#EXTINF:-1  group-title="ENTERTAINMENT-KIDS",Kids Toons
-http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OrEXAse.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS", Cartoon Network
 https://cubmu.nomaden.tv:8279/CARTOON/playlist.m3u8
 
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/asDF7GJ.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS" tvg-id="Nick Junior" tvg-name="Nick Junior", Nick Junior
-http://58.65.171.202:8000/play/3/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Con Tv Anime" tvg-logo="https://i.postimg.cc/7L7W9Tt7/download-87.jpg", group-title="ENTERTAINMENT-KIDS",Con Tv Anime
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
 
 
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", STAR MOVIES HD
-#EXTVLCOPT:network-caching=1000
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", STAR WORLD 1
-#EXTVLCOPT:network-caching=1000
-http://221.120.204.4/star-world-LOCKLE/index.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE", STAR WORLD 2
-#EXTVLCOPT:network-caching=1000
-http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",FLIX
 #EXTVLCOPT:network-caching=1000
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",AXN
-#EXTVLCOPT:network-caching=1000
-https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 1
 http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
@@ -273,20 +165,12 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT-KIDS"  tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" , Horee
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/14106
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="ENTERTAINMENT-KIDS",Nick Jr
-http://iptv.tvmalaysia.cc/jalan8/jalan8/6813
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="ENTERTAINMENT-TV SHOW",KBS WORLD HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HIP HIP HOREE! (Vidio)" tvg-logo="https://mantul.org/logo/hiphiphore.png" group-title="ENTERTAINMENT-KIDS",HIP HIP HOREE! (Vidio)
 http://akudandia.xyz/man-prem/hiphiphoree.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" tvg-id="" tvg-name="Biznet Kids" group-title="ENTERTAINMENT-KIDS",Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-
-
 
 ##### LOCAL #####
 
@@ -465,102 +349,25 @@ http://210.210.155.35/session/40d99f12-b06f-11ea-85f7-8562a8355579/uq2663/h/h23/
 
 ##### 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgtLipU0_jcRWAAqgu_8hpEzMgBoYm5tcaPAxNl39t_uruqfKJLh9P8suuYc95-_RxLBTlI5gwpEvPHPAx8Mly1tyJ2JhuULWli4eaIo0s1ZnZmC4BS0-ysqVtb48YCGf_BJFg8IQhx86YZjdWUQ79w9kdee0Agvv0zBx7feJ0ektYiyq2674371aSY" group-title="SPORTS", CHAMPIONS TV 1
+http://tvn.x10.bz/xchannel/master-6.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro Arena 1" tvg-logo="https://i.ibb.co/rbtX26N/Astro-arena-home-tv.png" group-title="SPORTS",Astro Arena 1
-http://mudy02.cularu.com:8880/SLD12M2N53106/tMpDD9KRfM/71102
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEicv5vILZVkyZH2XLs_PJ5JYnpzNE2PzyiZjKMcoJAxz_eEb_FlxhAcKLvleAE2CC-u3tfHK4yCmOkStpK2xxjPaGXvlnsEhtbwYxUnIiuf1Jsbv9cMhqMEe8A8R47W4zJrtmjNFyfxKe8KiUR4siJn8CYjsjyPnf_Qvu8LEt36KU9aIzoI96z49t-r" group-title="SPORTS", CHAMPIONS TV 2
+http://tvn.x10.bz/xchannel/master-7.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj2pQGdYepHRkkVqLCSgFGaoiTPfjtHdcSzMk0L2xHbcMVZtE9iYMhYHbg7x0nX3_M3EIaVRSoyt2JokU7rq463FGOG361VvrgfTrBqPL0-6nzveqkJSHTLKz1V9gwuhDx9WBpUWMw4hYkDigrsQ_W0y0-GVwOYLoG_6Z_r0Ak9_bZ-R43qONbeKQzN" group-title="SPORTS", CHAMPIONS TV 3
+http://tvn.x10.bz/xchannel/master-8.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro Arena 1" tvg-logo="https://i.postimg.cc/GhL7Dxhg/IMG-0201.png" group-title="SPORTS",MOTORVISIONTV
-http://210.210.155.35:80/uq2663/h/h09/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/stadiumtv.png" group-title="SPORTS" ,STADIUM
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-id="bein1premium" tvg-shift="-1",SPOTV-2
-https://mbed.cc/CGGxG
-
-#EXTINF:-1 group-title="SPORTS", FOX Sports HD
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="SPORTS",Astro Supersport HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9024.m3u8
-#mitv://ns2.hellotvvod.com:9906/e12cfed6c3d94f27bd4f480d42b0c7b5
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="SPORTS",Astro Supersport 2 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9025.m3u8
-#mitv://ns2.hellotvvod.com:9906/5aa28b0759774904a25d7fc12ea233a9
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="SPORTS",Astro Supersport 3 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9020.m3u8
-#mitv://ns2.hellotvvod.com:9906/68067267b2734dd39032d08bf83db8f0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="SPORTS",Astro Supersport 4 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9026.m3u8
-#mitv://ns2.hellotvvod.com:9906/6ba21b7211494ed4ac1456d6ba8cbaa0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="SPORTS",Astro Supersport 5 HD
-http://iptv.tvmalaysia.cc/live/penang189/penang189/9029.ts
-#mitv://ns2.hellotvvod.com:9906/cc02a88163414af7b4d7479a833f1407
-
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 HD" tvg-logo="https://www.dropbox.com/s/ev3tx7dis7p4i0t/bt-sport-OTk2Ng%3D%3D.png?dl=1" group-title="SPORTS",BT Sport 1 HD
-#http://iptv.tvmalaysia.cc:80/penang175/penang175/6610
-http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2506/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 HD" tvg-logo="https://www.dropbox.com/s/ev3tx7dis7p4i0t/bt-sport-OTk2Ng%3D%3D.png?dl=1" group-title="SPORTS",BT Sport 2 HD
-http://iptv.tvmalaysia.cc:80/penang175/penang175/6612
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-id="bein1premium" tvg-shift="-1",beIN Sports Premium 1 HD
-#http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="bein2premium" tvg-shift="-1",beIN Sports Premium 2 HD
-#http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="bein3premium" tvg-shift="-1",beIN Sports Premium 3 HD
-#http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-http://belfast.dyndns.tv:5808/BEINHD10/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="SPORTS",ESPN 1
-http://zalogitv.tech:8080/padji33/33334444/1674
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="SPORTS",ESPN 2
-http://zalogitv.tech:8080/padji33/33334444/1675
-
-#EXTINF:-1 group-title="SPORTS" tvg-id="beIN2" tvg-shift="-1",beIN2
-https://bit.ly/3bM77rh
-#EXTINF:-1 group-title="SPORTS" tvg-id="beIN1" tvg-shift="-1",beIN1
-http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28731?token=TURYAhZYEAwSVQUFAAIEVlMGA1JVW1EDUgEFU14PUQMEBAFXVwIFAgdGTxBLF0AGVA9uD1IbCQQJBFcEShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARQCVRTBlQcQRVZVhQKRlIFDloDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1YNUBNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSBVIBVBMb
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Football
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6684
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports MIX
-#http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/683003.m3u8
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7608
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="SPORTS" tvg-id="CHN" tvg-name="CHN", FightBox
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-
-#EXTINF:3.2 group-title="SPORTS",REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YcrrywD.png" group-title="SPORTS",BT Sport ESPN
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
-
-
-#EXTINF:0 group-title="SPORTS",SKY SPORTS FOOTBALL HD
-#EXTVLCOPT:network-caching=1000
-#http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/699
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61435
-
-#EXTINF:0 group-title="SPORTS",SKY SPORTS MAIN EVENT HD
-#EXTVLCOPT:network-caching=1000
-http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/700
-#EXTINF:0 group-title="SPORTS",SKY SPORTS MIX HD
-#EXTVLCOPT:network-caching=1000
-#http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/701
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61438
-#EXTINF:0 group-title="SPORTS",SKY SPORTS PREMIER LEAGUE HD
-#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vid.id/7jiwW5eQ0DKQ1bMu5OTOXuGUj9I=/592x332/filters:format(webp):quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7953/champions-tv-4-827d7e.jpg" group-title="SPORTS", CHAMPIONS TV 4
+http://tvn.x10.bz/xchannel/master-17.m3u8
 
 ##### VOD #####
 
@@ -633,51 +440,6 @@ https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EdefWj5mEw5P
 https://d-11.files.im:182/files/7/tx5o30kkdgsia3/video.mp4
 #EXTINF:-1 tvg-logo="" group-title="VOD", F9
 https://www.googleapis.com/drive/v3/files/1WCw9mArBfldMhuZPgaF5IJIrQNBPSCfc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#########SERIAL
-##Hawkeye
-#EXTINF:-1 tvg-id="" tvg-name="Hawkeyes S01 E01" tvg-logo="" group-title="Serial",Hawkeye S01 E01
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ETxD3iMOiT1Gvol7XdJCyGsB65u6b_VG20IcBWz26mZOQQ
-#EXTINF:-1 tvg-id="" tvg-name="Hawkeye S01 E01" tvg-logo="" group-title="Serial",Hawkeyes S01 E02
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EdgOGmHTsRdKiJP2Ew8uYdAB1MguCjLndMnjsxwU7Ny-QQ?e=vcujUY
-#EXTINF:-1 tvg-id="" tvg-name="Hawkeye S01 E01" tvg-logo="" group-title="Serial",Hawkeyes S01 E03
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EZIB7aGpD7NFlwkO718TR50BJnSZDwbeda2fCq0Hs6tBEQ
-#EXTINF:-1 tvg-id="" tvg-name="Hawkeye S01 E01" tvg-logo="" group-title="Serial",Hawkeyes S01 E04
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EUTD8N9__u5LmMEUBm2paPsBkjMlFZ7V3W5SGH46X7QUOA
-
-##WHEEL OF TIME
-#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E01
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ESPS5Cr9roBJos8NjkrH2igBoEEShD8CDDn7WfmzyK84sA?e=lIUGSO
-#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E02
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EawcGMazYulIpq5yDP80FOsBihDCdaye4LeS2d5dOg-eKQ?e=HLXhPm
-#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E03
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EZqVWKgWT5pEmoW0dasPeRUB216IfDUUNVbK3LyhXdpG6Q?e=sJrkG3
-#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E04
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EYZjlE4egVJCo9bpoCo7FEgBedMdZkuhwviMfp6nCdoY3g?e=N13849
-#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E05
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EQhQUDlg_0NFsiIjezxhiZwBMjXupeuqdis6clwjL0Xdjw?e=oXkNwl
-#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E06
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Ee0Q5HPr6KVPsLUDVolC7qsB02WBuiegezL1nxsNRGrNeQ?e=a3dr9a
-#EXTINF:-1 tvg-id="" tvg-name="WHEEL OF TIME S01 E01" tvg-logo="" group-title="Serial",WHEEL OF TIME S01 E07
-https://65ecec499067a75.highdeliverycdn.com/atlaslionzd/OF6uYicA7b-izCMIDMBWcg/1640018090/ahd7c0n5gfeu/ic2die0xtxsg/video.mp4
-
-##The Witcher
-#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x1
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Eeno7OPBGlZBod_S_-_PsmABF9arFObWrttHHTJaf3DHKA?e=gz76mb
-#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x2
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EdoWY_F67-5FiRbUXT9zTsMBhwngxaNfPOrCyCxD0dSsMg?e=t0qzhp
-#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x3
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ESf7hUaAUjlKtGNHdTCRzpkB4ThTWfbwwpogS36UrnVa6w?e=KInuFY
-#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x4
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EWTg9-aAU31KiGztEeP0pOUB9xGxF7N8BImQLmGgfuSV1g?e=kDprYu
-#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x5
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EX99-lvsQ8dIos5tGqip-kgB-e683oVuhwniVw-mz3X8_Q?e=1QUO5p
-#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x6
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EbWnzbeziV1KmgHJqIRRpFkBaPAyNY_3zNDZxoutGqkVcQ?e=zzvDdH
-#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x7
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EeZlOI08i6FJrSCQORQ2mRcBthg7rip34IDQpXOBosFvsg?e=ffeQqV
-#EXTINF:-1 tvg-logo="" group-title="Serial", The Witcher (2019): 2x8
-https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/ERCiDoE3dNFMtRn4piJ0CrsB1aK2KUGgp9E5AzynaR68sQ?e=5dbeLS
 
 
 #EXTINF:-1 tvg-logo="" group-title="VOD", REMINISCENCE 2021
