@@ -147,12 +147,60 @@ https://contvanime-localnow.cinedigm.com/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="ENTERTAINMENT-MOVIE",&Prive
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://axcestv.vip:8080/live/freeview/axcestv/703.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="ENTERTAINMENT-MOVIE",&Flix
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://axcestv.vip:8080/live/freeview/axcestv/702.ts
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 4
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 1
 http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 3
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="ENTERTAINMENT-MOVIE", Movie_premium_1
+http://f4.tvxweb.net:8082/24263/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="ENTERTAINMENT-MOVIE", Movie_premium_2
+http://f4.tvxweb.net:8082/24264/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="ENTERTAINMENT-MOVIE", Movie_premium_3
+http://f4.tvxweb.net:8082/24265/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="ENTERTAINMENT-MOVIE", Movie_premium_4
+http://f4.tvxweb.net:8082/24266/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="ENTERTAINMENT-MOVIE", Movie_premium_5
+http://f4.tvxweb.net:8082/24267/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="ENTERTAINMENT-MOVIE", Movie_premium_6
+http://f4.tvxweb.net:8082/24268/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="ENTERTAINMENT-MOVIE", Movie_premium_7
+http://f4.tvxweb.net:8082/24269/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="ENTERTAINMENT-MOVIE", Movie_premium_8
+http://f4.tvxweb.net:8082/24270/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="ENTERTAINMENT-MOVIE", Movie_premium_9
+http://f4.tvxweb.net:8082/24271/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="ENTERTAINMENT-MOVIE", Movie_premium_10
+http://f4.tvxweb.net:8082/24272/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="ENTERTAINMENT-MOVIE", Movie_premium_11
+http://f4.tvxweb.net:8082/24273/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="ENTERTAINMENT-MOVIE", Movie_premium_12
+http://f4.tvxweb.net:8082/24316/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="ENTERTAINMENT-MOVIE", Movie_premium_13
+http://f4.tvxweb.net:8082/35970/video.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="ENTERTAINMENT-MOVIE", Movie_premium_14
+http://f4.tvxweb.net:8082/35974/video.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="ENTERTAINMENT-MOVIE", Movie_premium_15
+http://f4.tvxweb.net:8082/35975/video.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="ENTERTAINMENT-MOVIE", Movie_premium_16
+http://f4.tvxweb.net:8082/35976/video.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="ENTERTAINMENT-MOVIE", Movie_premium_17
+http://f4.tvxweb.net:8082/35977/video.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="ENTERTAINMENT-MOVIE", Movie_premium_18
+http://f4.tvxweb.net:8082/35979/video.m3u8?shareext.ts
 
 
 #EXTINF:-1 group-title="ENTERTAINMENT-KIDS"  tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" , Horee
@@ -169,6 +217,10 @@ http://akudandia.xyz/man-prem/hiphiphoree.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png"  group-title="LOCAL & NEWS",CNN (US)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="CNA (HD)" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" group-title="LOCAL & NEWS",Channel News Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png" group-title="LOCAL & NEWS ", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
