@@ -234,9 +234,9 @@ http://45.126.83.51/qwr9ew/s/s28/02.m3u8
 #EXTINF:-1 group-title="LOCAL & NEWS",Madinah Tv
 http://45.126.83.51/qwr9ew/s/s27/02.m3u8
 
-#EXTINF:60 group-title="LOCAL & NEWS",NET.TV
+#EXTINF:60 group-title="LOCAL & NEWS",NETTV
 #EXTVLCOPT:network-caching=1000
-http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/01.m3u8
+http://rr2.dens.tv/s/s08/index10.m3u8
 
 #EXTINF:98 group-title="LOCAL & NEWS",TRANSTV
 #EXTVLCOPT:network-caching=1000
@@ -338,37 +338,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-48
 #EXTINF:0 group-title="LOCAL & NEWS",JAKARTA GLOBE NEWS CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
-
-
-#EXTINF:0 group-title="LOCAL & NEWS",GTV Plus
-#EXTVLCOPT:network-caching=1000
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
-
-#EXTINF:0 group-title="LOCAL & NEWS",SCTV HD Plus
-#EXTVLCOPT:network-caching=1000
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
-#EXTINF:0 group-title="LOCAL & NEWS",ANTV HD Plus
-#EXTVLCOPT:network-caching=1000
-https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",INDOSIAR HD Plus
-#EXTVLCOPT:network-caching=1000
-https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
-
-
-#EXTINF:0 group-title="LOCAL & NEWS",TRANS7 HD Plus
-#EXTVLCOPT:network-caching=1000
-https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",NET TV HD Plus
-#EXTVLCOPT:network-caching=1000
-https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS", TvOne Plus
-#EXTVLCOPT:network-caching=1000
-https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon-avc1_499968=4-mp4a_98800_eng=5.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS", MetroTv Plus
-#EXTVLCOPT:network-caching=1000
-https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.m3u8
-
-
 #EXTINF:0 group-title="WORLD NEWS",BBC World News
 #EXTVLCOPT:network-caching=1000
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
