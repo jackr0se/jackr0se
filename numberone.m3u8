@@ -100,10 +100,18 @@ http://iptv12k.com:35461/8022022301/468985/730
 #EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",tvN HD
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",tvNMovies
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",AFN
+http://203.77.246.50:5000/udp/239.1.2.138:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",TLC
+http://203.77.246.50:5000/udp/239.1.2.140:5000
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",Hits Movies HD
+http://203.77.246.50:5000/udp/239.1.2.150:5000
 
 #EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://www.infotelevisi.com/asset/logotv/5690c06fb32f2-hbo_asia_hd.jpg" group-title="ENTERTAINMENT-MOVIE", HBO Indo
 https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
