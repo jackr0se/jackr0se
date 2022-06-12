@@ -96,21 +96,19 @@ http://axcestv.vip:8080/freeview/axcestv/531
 http://203.77.246.50:5000/udp/239.1.2.150:5000
 
 #EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://www.infotelevisi.com/asset/logotv/5690c06fb32f2-hbo_asia_hd.jpg" group-title="ENTERTAINMENT-MOVIE", HBO
-#https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
-http://170.83.242.14:5150/play/a04e
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142739.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="ENTERTAINMENT-MOVIE", HBOSignature
-#https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
-http://170.83.242.14:5150/play/a048
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142740.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",HBO XTREME HD
-http://170.83.242.14:5150/play/a049
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",HBO+ HD
-http://170.83.242.14:5150/play/a043
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",HBO FAMILY
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142741.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",HBO HITS
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142742.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="ENTERTAINMENT-MOVIE", CINEMAX
-#https://lnk.ec/cinemaxID?shareext.ts
-http://170.83.242.14:5150/play/a04i
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142750.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",AXN1
 #EXTVLCOPT:network-caching=1000
