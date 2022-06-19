@@ -57,6 +57,18 @@ http://203.77.246.50:5000/udp/239.1.2.154:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-KIDS",Boomerang
 http://203.77.246.50:5000/udp/239.1.2.158:5000
 
+#EXTINF:-1 group-title="WORLD NEWS" tvg-logo="" tvg-id="", Sky News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655637210/ei/erCuYrzKKsvEgwPSmJ6oDw/ip/20.1.137.34/id/9Auq9mYxFEE.3/source/yt_live_broadcast/requiressl/yes/tx/24067852/txs/24027691%2C24027692%2C24027693%2C24027694%2C24067852/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/4ocVC_6PcoBj284RaC8IFtitrgi2iio/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANA98-FSYgfcgj9FqwthdSWd4lQr3VyNGpsK6H0EfElsAiAjI9GMmml__JENGNFGn9dT01IPcRXr5ldthxNMnZ04fw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BBCEarthlogo.png" group-title="ENTERTAINMENT-TV SHOW",SONY BBC EARTH HD
+http://ranapk-june2.in1.bitmana.io/livez.php?c=Sony_BBC_Earth_HD_English&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/TLClogo.png" group-title="ENTERTAINMENT-TV SHOW",TLC WORLD HD
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1067
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="SPORTS",Sky Sports F1 uk
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/265
+
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg" group-title="ENTERTAINMENT-KIDS",DENS PLAY
 http://210.210.155.35/session/f40eb65a-8763-11eb-b7f4-b82a72d63267/x6bnqe/s/s101/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DensPlay
 
@@ -122,7 +134,8 @@ http://45.126.83.51/dr9445/h/h141/01.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",SONY PIX
 #EXTVLCOPT:network-caching=1000
 #http://45.86.190.64:25461/UtRkBjTKyH/2Z4YySMe6u/34470?play_token=zATZ0omYpo&token=TURYAhZYEAwSBVYBC1UEAFQEAlRQWAFQVAZXA1NaB1UBUFEHBglTUwJGTxBLF0AGVA9uD1IbCQUFB1MFShsTFlMUbwoBEggUAVFQCw9SC0EZQEUPW1wRDAAFUA1RC1NdBlccQRVZVhQKRlIDD1EGQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1AHWxNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSClUNUBMb
-http://ranapk-ind.ddns.net:9100/play/a05c
+#http://ranapk-ind.ddns.net:9100/play/a05c
+http://ranapk-june2.in1.bitmana.io/livez.php?c=Sony_Pix_HD&q=800&e=.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",SONY HD
 http://170.83.242.14:5150/play/a03x
@@ -181,20 +194,20 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="ENTERTAINMENT-MOVIE",&Prive
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #http://axcestv.vip:8080/live/freeview/axcestv/703.ts
-http://103.132.16.98:8080/andprivehd/mpegts
+#http://103.132.16.98:8080/andprivehd/mpegts
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/45506
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="ENTERTAINMENT-MOVIE",&Flix
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #http://axcestv.vip:8080/live/freeview/axcestv/702.ts
 #http://axcestv.vip:8080/freeview/axcestv/510
-http://103.132.16.98:8080/andflixhd/mpegts
+#http://103.132.16.98:8080/andflixhd/mpegts
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/49557
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Movie Select" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ENTERTAINMENT-MOVIE",Star Movie
 #http://axcestv.vip:8080/freeview/axcestv/512
-http://103.132.16.98:8080/starmoviesselecthd/mpegts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 1
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#http://103.132.16.98:8080/starmoviesselecthd/mpegts
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="ENTERTAINMENT-TV SHOW",KBS WORLD HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
@@ -213,9 +226,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png" group-title="LOCAL & NEWS ", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF: -1 tvg-id="142" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="LOCAL & NEWS", BBC World News 2
-http://node85383-gvkjio.in1.bitmana.io/live.php?c=BBC_World_News&q=800&e=junk.m3u8
 
 #EXTINF:-1 group-title="LOCAL & NEWS",Makkah Tv
 http://45.126.83.51/qwr9ew/s/s28/02.m3u8
@@ -326,13 +336,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-48
 #EXTINF:0 group-title="LOCAL & NEWS",JAKARTA GLOBE NEWS CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
-#EXTINF:0 group-title="WORLD NEWS",BBC World News
-#EXTVLCOPT:network-caching=1000
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-
-#EXTINF:0 group-title="WORLD NEWS",CNN NEWS
-#EXTVLCOPT:network-caching=1000
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 group-title="WORLD NEWS",DW News
 #EXTVLCOPT:network-caching=1000
