@@ -127,6 +127,15 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142742.m3u8
 #EXTVLCOPT:network-caching=1000
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142750.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOID
+http://203.77.246.50:5000/udp/239.1.3.84:5000
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOFamsID
+http://203.77.246.50:5000/udp/239.1.3.76:5000
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOsignID
+http://203.77.246.50:5000/udp/239.1.3.74:5000
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOhitsID
+http://203.77.246.50:5000/udp/239.1.3.82:5000
+
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",AXN1
 #EXTVLCOPT:network-caching=1000
 http://45.126.83.51/dr9445/h/h141/01.m3u8
