@@ -103,6 +103,10 @@ http://203.77.246.50:5000/udp/239.1.2.158:5000
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="" tvg-id="", Sky News
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655637210/ei/erCuYrzKKsvEgwPSmJ6oDw/ip/20.1.137.34/id/9Auq9mYxFEE.3/source/yt_live_broadcast/requiressl/yes/tx/24067852/txs/24027691%2C24027692%2C24027693%2C24027694%2C24067852/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/4ocVC_6PcoBj284RaC8IFtitrgi2iio/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANA98-FSYgfcgj9FqwthdSWd4lQr3VyNGpsK6H0EfElsAiAjI9GMmml__JENGNFGn9dT01IPcRXr5ldthxNMnZ04fw%3D%3D/file/index.m3u8
 
+#EXTINF:16 group-title="WORLD NEWS",BBC News
+#EXTVLCOPT:network-caching=1000
+http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BBCEarthlogo.png" group-title="ENTERTAINMENT-TV SHOW",SONY BBC EARTH HD
 http://ranapk-june2.in1.bitmana.io/livez.php?c=Sony_BBC_Earth_HD_English&q=800&e=.m3u8
 
@@ -137,6 +141,16 @@ http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",tvNMovies
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
+
+#EXTINF:119 group-title="ENTERTAINMENT-MOVIE",Showtime East
+#EXTVLCOPT:network-caching=1000
+http://38.127.211.18/live/c2eds/Showtime/HLS/index.m3u8
+
+
+#EXTINF:119 group-title="ENTERTAINMENT-MOVIE",Syfy East
+#EXTVLCOPT:network-caching=1000
+http://38.127.211.18/live/c2eds/SYFY/HLS/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",AFN
 http://203.77.246.50:5000/udp/239.1.2.138:5000
