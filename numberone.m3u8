@@ -1,8 +1,47 @@
 #EXTM3U
 
 
+##### RADIO #####
+
+
+
+
+#EXTINF:0 group-title="RADIO",Gen FM Jakarta
+#EXTVLCOPT:network-caching=1000
+http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w1065844643.m3u8
+
+#EXTINF:0 group-title="RADIO",Global Radio Jakarta
+#EXTVLCOPT:network-caching=1000
+http://202.147.199.98:80/;
+
+#EXTINF:0 group-title="RADIO",Hard Rock FM Jakarta
+#EXTVLCOPT:network-caching=1000
+http://n09.radiojar.com/7csmg90fuqruv.mp3?1619243440=&rj-tok=AAABeQJ3Ru4AgeQosVWIZQa5rg&rj-ttl=5
+
+#EXTINF:0 group-title="RADIO",Hits UNIKOM Radio
+#EXTVLCOPT:network-caching=1000
+http://hits.unikom.ac.id:9996/;
+
+#EXTINF:0 group-title="RADIO",Hitz FM
+#EXTVLCOPT:network-caching=1000
+https://s2.radio.co/s6929cb202/listen
+
+#EXTINF:0 group-title="RADIO",iRadio Jakarta
+#EXTVLCOPT:network-caching=1000
+https://stream.radiojar.com/4ywdgup3bnzuv
+
+#EXTINF:0 group-title="RADIO",Jak FM
+#EXTVLCOPT:network-caching=1000
+http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w389732598.m3u8
+
+
+
 
 ##### ENTERTAINMENT #####
+
+
+
+
 #EXTINF:-1 tvg-id="706" tvg-name="HITS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="ENTERTAINMENT-MOVIE",HITS (706)
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
 
