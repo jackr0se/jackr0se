@@ -54,6 +54,10 @@ http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/2584
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="ENTERTAINMENT-TV SHOW",TechStorm
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
 
+#EXTINF:22 group-title="ENTERTAINMENT-TV SHOW",TMC
+#EXTVLCOPT:network-caching=1000
+http://stream.suboroiptv.tv/TMC/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",NAT GEO
 http://182.50.65.213:8888/udp/239.239.0.01:3001
 
@@ -275,6 +279,10 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png" group-title="LOCAL & NEWS ", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
+#EXTINF:121 group-title="LOCAL & NEWS ",MSNBC
+#EXTVLCOPT:network-caching=1000
+http://38.127.211.18/live/c2eds/MSNBC/HLS/index.m3u8
+
 #EXTINF:-1 group-title="LOCAL & NEWS",Makkah Tv
 http://45.126.83.51/qwr9ew/s/s28/02.m3u8
 
@@ -397,7 +405,8 @@ http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 http://210.210.155.35/uq2663/h/h23/01.m3u8
 
 #EXTINF:-1 group-title="WORLD NEWS",FOX NEWS
-http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgZPr3PY/logo-nhkworld-big.png" group-title="WORLD NEWS",NHK WORLD JAPAN
 http://210.210.155.35/session/40d99f12-b06f-11ea-85f7-8562a8355579/uq2663/h/h23/02.m3u8
