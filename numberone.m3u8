@@ -3,8 +3,29 @@
 
 ##### RADIO #####
 
+#EXTINF:0 group-title="RADIO",Indika FM
+#EXTVLCOPT:network-caching=1000
+https://s2.radio.co/sf58a82d7d/listen
 
+#EXTINF:0 group-title="RADIO",Motion Radio Jakarta
+#EXTVLCOPT:network-caching=1000
+https://streamingv2.shoutcast.com/motion-jakarta
 
+#EXTINF:0 group-title="RADIO",Mustang FM
+#EXTVLCOPT:network-caching=1000
+http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist_w1206118393.m3u8
+
+#EXTINF:0 group-title="RADIO",Prambors Radio
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
+
+#EXTINF:0 group-title="RADIO",Sonora FM Jakarta
+#EXTVLCOPT:network-caching=1000
+https://streamingv2.shoutcast.com/sonora-jakarta
+
+#EXTINF:0 group-title="RADIO",Trax Jakarta
+#EXTVLCOPT:network-caching=1000
+https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
 
 #EXTINF:0 group-title="RADIO",Gen FM Jakarta
 #EXTVLCOPT:network-caching=1000
