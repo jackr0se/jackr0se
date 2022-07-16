@@ -184,7 +184,6 @@ http://182.50.65.213:8888/udp/239.239.0.01:3001
 #EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",LOVE NATURE
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BBCEarthlogo.png" group-title="ENTERTAINMENT-TV SHOW",SONY BBC EARTH HD
 http://ranapk-june2.in1.bitmana.io/livez.php?c=Sony_BBC_Earth_HD_English&q=800&e=.m3u8
 
