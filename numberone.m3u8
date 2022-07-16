@@ -1,5 +1,367 @@
 #EXTM3U
 
+##### ENTERTAINMENT KIDS #####
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bMwkQEd.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS", Zoomoo
+http://203.154.177.124:8899/live/ch20/playlist.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT-KIDS",ANIMAX
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
+
+#EXTINF:0,ANIPLUS
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT-KIDS",MY KIDS
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/uq2663/h/h98/index.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT-KIDS",SpaceToon
+#EXTVLCOPT:network-caching=1000
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT-KIDS",Learnings
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/uq2663/h/h97/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="ENTERTAINMENT-KIDS", ANIPLUS
+http://210.210.155.35:80/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-KIDS",Discovery
+http://203.77.246.50:5000/udp/239.1.2.134:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-KIDS",Animal Planet
+http://203.77.246.50:5000/udp/239.1.2.136:5000
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-KIDS",Cartoon Network
+http://203.77.246.50:5000/udp/239.1.2.154:5000
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-KIDS",Boomerang
+http://203.77.246.50:5000/udp/239.1.2.158:5000
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg" group-title="ENTERTAINMENT-KIDS",DENS PLAY
+http://210.210.155.35/session/f40eb65a-8763-11eb-b7f4-b82a72d63267/x6bnqe/s/s101/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DensPlay
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg" group-title="ENTERTAINMENT-KIDS",eGG
+http://210.210.155.35/session/23157eb4-8766-11eb-a83f-b82a72d63267/uq2663/h/h22/02.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT-KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network (USA)
+http://axcestv.vip:8080/live/freeview/axcestv/992.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel (USA)" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ENTERTAINMENT-KIDS",Disney Channel (USA)
+http://axcestv.vip:8080/live/freeview/axcestv/993.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon (USA)" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ENTERTAINMENT-KIDS",Nickelodeon (USA)
+http://axcestv.vip:8080/live/freeview/axcestv/994.ts
+
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://assets.laliga.com/assets/2020/10/23/large/e7d33a854854ec528705e1dd5e34ddab.png" group-title="ENTERTAINMENT-KIDS", Astro Ceria
+http://axcestv.vip:8080/freeview/axcestv/450
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xXz1Lht.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS", Boomerang
+http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28803?token=TURYAhZYEAwSVVUCW1AFUFEHBlMFCQpXA1JRBgdYAlNUBQYAXFYCBwdGTxBLF0AGVA9uD1IbCQQJC1QGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFVwxeD1FdAFIcQRVZVhQKRloACFQQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpRBFQHQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAFSBVoXHw==
+
+#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-KIDS",Disney
+http://62.210.127.217:8080/FQWA9E9wHF/nWYRuhPJwe/28685?token=TURYAhZYEAwSAFQEDgAKVldXUAAFAQUOAwEFVAMIAAMEVABXVFVTDlNGTxBLF0AGVA9uD1IbCQQJBVwAShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARXD15XBFccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+
+#EXTINF:-1 tvg-name="Con Tv Anime" tvg-logo="https://i.postimg.cc/7L7W9Tt7/download-87.jpg", group-title="ENTERTAINMENT-KIDS",Con Tv Anime
+https://contvanime-localnow.cinedigm.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HIP HIP HOREE! (Vidio)" tvg-logo="https://mantul.org/logo/hiphiphore.png" group-title="ENTERTAINMENT-KIDS",HIP HIP HOREE! (Vidio)
+http://akudandia.xyz/man-prem/hiphiphoree.m3u8
+
+
+##### ENTERTAINMENT MOVIE #####
+
+#EXTINF:-1 tvg-id="706" tvg-name="HITS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="ENTERTAINMENT-MOVIE",HITS (706)
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",tvNMovies
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",Showtime East
+#EXTVLCOPT:network-caching=1000
+http://38.127.211.18/live/c2eds/Showtime/HLS/index.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",Syfy East
+#EXTVLCOPT:network-caching=1000
+http://38.127.211.18/live/c2eds/SYFY/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="ENTERTAINMENT-MOVIE" tvg-id="" tvg-name="", Paramount
+http://axcestv.vip:8080/freeview/axcestv/531
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",Hits Movies HD
+http://203.77.246.50:5000/udp/239.1.2.150:5000
+
+#EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://www.infotelevisi.com/asset/logotv/5690c06fb32f2-hbo_asia_hd.jpg" group-title="ENTERTAINMENT-MOVIE", HBO
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142739.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="ENTERTAINMENT-MOVIE", HBOSignature
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142740.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142741.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",HBO HITS
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142742.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="ENTERTAINMENT-MOVIE", CINEMAX
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142750.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOID
+http://203.77.246.50:5000/udp/239.1.3.84:5000
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOFamsID
+http://203.77.246.50:5000/udp/239.1.3.76:5000
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOsignID
+http://203.77.246.50:5000/udp/239.1.3.74:5000
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOhitsID
+http://203.77.246.50:5000/udp/239.1.3.82:5000
+
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",AXN1
+#EXTVLCOPT:network-caching=1000
+http://45.126.83.51/dr9445/h/h141/01.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",SONY PIX
+#EXTVLCOPT:network-caching=1000
+#http://45.86.190.64:25461/UtRkBjTKyH/2Z4YySMe6u/34470?play_token=zATZ0omYpo&token=TURYAhZYEAwSBVYBC1UEAFQEAlRQWAFQVAZXA1NaB1UBUFEHBglTUwJGTxBLF0AGVA9uD1IbCQUFB1MFShsTFlMUbwoBEggUAVFQCw9SC0EZQEUPW1wRDAAFUA1RC1NdBlccQRVZVhQKRlIDD1EGQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1AHWxNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSClUNUBMb
+#http://ranapk-ind.ddns.net:9100/play/a05c
+http://ranapk-june2.in1.bitmana.io/livez.php?c=Sony_Pix_HD&q=800&e=.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",SONY HD
+http://170.83.242.14:5150/play/a03x
+
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",CINEMA WORLD
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/dr9445/h/h04/01.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",KIX
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/dr9445/h/h07/02.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",FLIX
+#EXTVLCOPT:network-caching=1000
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="ENTERTAINMENT-MOVIE",&Prive
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#http://axcestv.vip:8080/live/freeview/axcestv/703.ts
+#http://103.132.16.98:8080/andprivehd/mpegts
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/45506
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="ENTERTAINMENT-MOVIE",&Flix
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#http://axcestv.vip:8080/live/freeview/axcestv/702.ts
+#http://axcestv.vip:8080/freeview/axcestv/510
+#http://103.132.16.98:8080/andflixhd/mpegts
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/49557
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Movie Select" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ENTERTAINMENT-MOVIE",Star Movie
+#http://axcestv.vip:8080/freeview/axcestv/512
+#http://103.132.16.98:8080/starmoviesselecthd/mpegts
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+
+##### ENTERTAINMENT TV SHOW #####
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="ENTERTAINMENT-TV SHOW" tvg-id="ComedyCentralWest.us" tvg-name="ComedyCentralWest.us", Comedy Central
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="ENTERTAINMENT-TV SHOW",TechStorm
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
+
+#EXTINF:22 group-title="ENTERTAINMENT-TV SHOW",TMC
+#EXTVLCOPT:network-caching=1000
+http://stream.suboroiptv.tv/TMC/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",NAT GEO
+http://182.50.65.213:8888/udp/239.239.0.01:3001
+
+#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",LOVE NATURE
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BBCEarthlogo.png" group-title="ENTERTAINMENT-TV SHOW",SONY BBC EARTH HD
+http://ranapk-june2.in1.bitmana.io/livez.php?c=Sony_BBC_Earth_HD_English&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/TLClogo.png" group-title="ENTERTAINMENT-TV SHOW",TLC WORLD HD
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1067
+
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",tvN HD
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",AFN
+http://203.77.246.50:5000/udp/239.1.2.138:5000
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",TLC
+http://203.77.246.50:5000/udp/239.1.2.140:5000
+
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",BLUEANT EXTREME
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/01.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",BLUEANT ENTERTAINMENT
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/01.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",OhK!tv
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",K+
+#EXTVLCOPT:network-caching=1000
+http://45.126.83.51/session/b250033c-a9b8-11eb-b3bc-a2798f0477fc/uq2663/h/h08/01.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",SonyOne
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/uq2663/h/h143/01.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",SONY GEM
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/uq2663/h/h19/02.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT-TV SHOW" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" ,Warner TV ID HD
+#https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/1533
+#https://cubmu.nomaden.tv:8279/WARNER/playlist.m3u8
+#http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28733?token=TURYAhZYEAwSBlVUDlsDVABQBFYOWwsGAFdUA1UPUF0GUglQUgcEUgRGTxBLF0AGVA9uD1IbCQQJC1UDShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSC19SBlccQRVZVhQKRlEHCVYDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAFQFVRNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpRA1cNUBMb
+http://203.77.246.50:5000/udp/239.1.2.156:5000
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="ENTERTAINMENT-TV SHOW",KBS WORLD HD
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+
+
+##### INDONESIAN CHANNEL #####
+
+#EXTINF:60 group-title="INDONESIAN CHANNEL",NETTV
+#EXTVLCOPT:network-caching=1000
+http://rr2.dens.tv/s/s08/index10.m3u8
+
+#EXTINF:98 group-title="INDONESIAN CHANNEL",TRANSTV
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1022158586_b744100_sleng.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",TRANS7
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2091843237_b744100_sleng.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",RCTI
+#EXTVLCOPT:network-caching=1000
+#https://visionplus-stream.visionplus.id/live/eds/RCTI-INDONESIAN CHANNEL/sa_hls/RCTI-INDONESIAN CHANNEL.m3u8
+http://203.77.246.50:5000/udp/239.1.3.80:5000
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",INEWS
+#EXTVLCOPT:network-caching=1000
+https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",SCTV
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",MNCTv
+#EXTVLCOPT:network-caching=1000
+#https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
+http://203.77.246.50:5000/udp/239.1.3.78:5000
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",INDOSIAR1
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/01.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",INDOSIAR2
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",ANTV
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",GLOBALTV
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",TV ONE
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",RTV
+#EXTVLCOPT:network-caching=1000
+#http://210.210.155.35/session/1e1de4c6-6fcd-11e9-834b-b82a72d63267/qwr9ew/s/s12/01.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",Indosiar vidio
+#EXTVLCOPT:network-caching=1000
+https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",ELSHINTA TV
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/743b191e-6fcd-11e9-a2e4-c81f66f89318/qwr9ew/s/s10/01.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",TVRI
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/qwr9ew/s/s11/01.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",TVRI2
+#EXTVLCOPT:network-caching=1000
+http://202.80.222.130/000001/2/ch14041511560872104862/1002.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",TVRI SPORT
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/4ef13212-a900-11e9-8ab6-b7d19fbdbf13/qwr9ew/s/s107/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cg1yMfi.png" group-title="INDONESIAN CHANNEL",TVRI Sport HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",METROTV
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/uq2663/h/h12/01.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",KOMPASTV
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",INews TV
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",CNN INDONESIAN CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://live.cnnINDONESIAN CHANNEL.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",BERITA SATU
+#EXTVLCOPT:network-caching=1000
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",BeritaSatuworld
+#EXTVLCOPT:network-caching=1000
+https://b1world.beritasatumedia.com/Beritasatu/B1World_960x540.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",IDX Channel
+#EXTVLCOPT:network-caching=1000
+https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",The INDONESIAN CHANNELn Chanel
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/03.m3u8
+
+#EXTINF:0 group-title="INDONESIAN CHANNEL",JAKARTA GLOBE NEWS CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
+
+
+
+##### MEKAH DAN MADINAH #####
+
+#EXTINF:-1 group-title="MEKAH DAN MADINAH",Makkah Tv
+http://45.126.83.51/qwr9ew/s/s28/02.m3u8
+
+#EXTINF:-1 group-title="MEKAH DAN MADINAH",Madinah Tv
+http://45.126.83.51/qwr9ew/s/s27/02.m3u8
+
+
 
 ##### RADIO #####
 
@@ -54,398 +416,6 @@ https://stream.radiojar.com/4ywdgup3bnzuv
 #EXTINF:0 group-title="RADIO",Jak FM
 #EXTVLCOPT:network-caching=1000
 http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w389732598.m3u8
-
-
-
-
-##### ENTERTAINMENT #####
-
-
-
-
-#EXTINF:-1 tvg-id="706" tvg-name="HITS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="ENTERTAINMENT-MOVIE",HITS (706)
-http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="ENTERTAINMENT-TV SHOW" tvg-id="ComedyCentralWest.us" tvg-name="ComedyCentralWest.us", Comedy Central
-https://uksono1-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="",USA E! Entertainment
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/2584
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="ENTERTAINMENT-TV SHOW",TechStorm
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
-
-#EXTINF:22 group-title="ENTERTAINMENT-TV SHOW",TMC
-#EXTVLCOPT:network-caching=1000
-http://stream.suboroiptv.tv/TMC/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",NAT GEO
-http://182.50.65.213:8888/udp/239.239.0.01:3001
-
-#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",LOVE NATURE
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bMwkQEd.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS", Zoomoo
-http://203.154.177.124:8899/live/ch20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/spacetoon/images/2/2b/Spacetoon_logo.png/revision/latest/scale-to-width-down/220?cb=20200125135928" tvg-id="BathokGpc" tvg-name="spacetoon" group-title="ENTERTAINMENT-KIDS",spacetoon
-http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT-KIDS",ANIMAX
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
-#EXTINF:60,ANIPLUS
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT-KIDS",MY KIDS
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/uq2663/h/h98/index.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT-KIDS",SpaceToon
-#EXTVLCOPT:network-caching=1000
-http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT-KIDS",Learnings
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/uq2663/h/h97/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="ENTERTAINMENT-KIDS", ANIPLUS
-http://210.210.155.35:80/dr9445/h/h02/01.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-KIDS",Discovery
-http://203.77.246.50:5000/udp/239.1.2.134:5000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-KIDS",Animal Planet
-http://203.77.246.50:5000/udp/239.1.2.136:5000
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-KIDS",Cartoon Network
-http://203.77.246.50:5000/udp/239.1.2.154:5000
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-KIDS",Boomerang
-http://203.77.246.50:5000/udp/239.1.2.158:5000
-
-#EXTINF:-1 group-title="WORLD NEWS" tvg-logo="" tvg-id="", Sky News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655637210/ei/erCuYrzKKsvEgwPSmJ6oDw/ip/20.1.137.34/id/9Auq9mYxFEE.3/source/yt_live_broadcast/requiressl/yes/tx/24067852/txs/24027691%2C24027692%2C24027693%2C24027694%2C24067852/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/4ocVC_6PcoBj284RaC8IFtitrgi2iio/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANA98-FSYgfcgj9FqwthdSWd4lQr3VyNGpsK6H0EfElsAiAjI9GMmml__JENGNFGn9dT01IPcRXr5ldthxNMnZ04fw%3D%3D/file/index.m3u8
-
-#EXTINF:16 group-title="WORLD NEWS",BBC News
-#EXTVLCOPT:network-caching=1000
-http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BBCEarthlogo.png" group-title="ENTERTAINMENT-TV SHOW",SONY BBC EARTH HD
-http://ranapk-june2.in1.bitmana.io/livez.php?c=Sony_BBC_Earth_HD_English&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/TLClogo.png" group-title="ENTERTAINMENT-TV SHOW",TLC WORLD HD
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1067
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="SPORTS",Sky Sports F1 uk
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/265
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg" group-title="ENTERTAINMENT-KIDS",DENS PLAY
-http://210.210.155.35/session/f40eb65a-8763-11eb-b7f4-b82a72d63267/x6bnqe/s/s101/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DensPlay
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg" group-title="ENTERTAINMENT-KIDS",eGG
-http://210.210.155.35/session/23157eb4-8766-11eb-a83f-b82a72d63267/uq2663/h/h22/02.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT-KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network (USA)
-http://axcestv.vip:8080/live/freeview/axcestv/992.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel (USA)" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ENTERTAINMENT-KIDS",Disney Channel (USA)
-http://axcestv.vip:8080/live/freeview/axcestv/993.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon (USA)" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ENTERTAINMENT-KIDS",Nickelodeon (USA)
-http://axcestv.vip:8080/live/freeview/axcestv/994.ts
-
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://assets.laliga.com/assets/2020/10/23/large/e7d33a854854ec528705e1dd5e34ddab.png" group-title="ENTERTAINMENT-KIDS", Astro Ceria
-http://axcestv.vip:8080/freeview/axcestv/450
-
-#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",tvN HD
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35:80/dr9445/h/h20/01.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",tvNMovies
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
-
-#EXTINF:119 group-title="ENTERTAINMENT-MOVIE",Showtime East
-#EXTVLCOPT:network-caching=1000
-http://38.127.211.18/live/c2eds/Showtime/HLS/index.m3u8
-
-
-#EXTINF:119 group-title="ENTERTAINMENT-MOVIE",Syfy East
-#EXTVLCOPT:network-caching=1000
-http://38.127.211.18/live/c2eds/SYFY/HLS/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",AFN
-http://203.77.246.50:5000/udp/239.1.2.138:5000
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",TLC
-http://203.77.246.50:5000/udp/239.1.2.140:5000
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="ENTERTAINMENT-MOVIE" tvg-id="" tvg-name="", Paramount
-http://axcestv.vip:8080/freeview/axcestv/531
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",Hits Movies HD
-http://203.77.246.50:5000/udp/239.1.2.150:5000
-
-#EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://www.infotelevisi.com/asset/logotv/5690c06fb32f2-hbo_asia_hd.jpg" group-title="ENTERTAINMENT-MOVIE", HBO
-#EXTVLCOPT:network-caching=1000
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142739.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="ENTERTAINMENT-MOVIE", HBOSignature
-#EXTVLCOPT:network-caching=1000
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142740.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",HBO FAMILY
-#EXTVLCOPT:network-caching=1000
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142741.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",HBO HITS
-#EXTVLCOPT:network-caching=1000
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142742.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="ENTERTAINMENT-MOVIE", CINEMAX
-#EXTVLCOPT:network-caching=1000
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142750.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOID
-http://203.77.246.50:5000/udp/239.1.3.84:5000
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOFamsID
-http://203.77.246.50:5000/udp/239.1.3.76:5000
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOsignID
-http://203.77.246.50:5000/udp/239.1.3.74:5000
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOhitsID
-http://203.77.246.50:5000/udp/239.1.3.82:5000
-
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",AXN1
-#EXTVLCOPT:network-caching=1000
-http://45.126.83.51/dr9445/h/h141/01.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",SONY PIX
-#EXTVLCOPT:network-caching=1000
-#http://45.86.190.64:25461/UtRkBjTKyH/2Z4YySMe6u/34470?play_token=zATZ0omYpo&token=TURYAhZYEAwSBVYBC1UEAFQEAlRQWAFQVAZXA1NaB1UBUFEHBglTUwJGTxBLF0AGVA9uD1IbCQUFB1MFShsTFlMUbwoBEggUAVFQCw9SC0EZQEUPW1wRDAAFUA1RC1NdBlccQRVZVhQKRlIDD1EGQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1AHWxNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSClUNUBMb
-#http://ranapk-ind.ddns.net:9100/play/a05c
-http://ranapk-june2.in1.bitmana.io/livez.php?c=Sony_Pix_HD&q=800&e=.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",SONY HD
-http://170.83.242.14:5150/play/a03x
-
-#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",BLUEANT EXTREME
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/01.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",BLUEANT ENTERTAINMENT
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/01.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",CINEMA WORLD
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/dr9445/h/h04/01.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",OhK!tv
-#EXTVLCOPT:network-caching=1000
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",K+
-#EXTVLCOPT:network-caching=1000
-http://45.126.83.51/session/b250033c-a9b8-11eb-b3bc-a2798f0477fc/uq2663/h/h08/01.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",SonyOne
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/uq2663/h/h143/01.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",SONY GEM
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/uq2663/h/h19/02.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",KIX
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/dr9445/h/h07/02.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT-TV SHOW" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" ,Warner TV ID HD
-#https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/1533
-#https://cubmu.nomaden.tv:8279/WARNER/playlist.m3u8
-#http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28733?token=TURYAhZYEAwSBlVUDlsDVABQBFYOWwsGAFdUA1UPUF0GUglQUgcEUgRGTxBLF0AGVA9uD1IbCQQJC1UDShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSC19SBlccQRVZVhQKRlEHCVYDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAFQFVRNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpRA1cNUBMb
-http://203.77.246.50:5000/udp/239.1.2.156:5000
-
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xXz1Lht.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS", Boomerang
-http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28803?token=TURYAhZYEAwSVVUCW1AFUFEHBlMFCQpXA1JRBgdYAlNUBQYAXFYCBwdGTxBLF0AGVA9uD1IbCQQJC1QGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFVwxeD1FdAFIcQRVZVhQKRloACFQQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpRBFQHQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAFSBVoXHw==
-
-#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-KIDS",Disney
-http://62.210.127.217:8080/FQWA9E9wHF/nWYRuhPJwe/28685?token=TURYAhZYEAwSAFQEDgAKVldXUAAFAQUOAwEFVAMIAAMEVABXVFVTDlNGTxBLF0AGVA9uD1IbCQQJBVwAShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARXD15XBFccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-
-#EXTINF:-1 tvg-name="Con Tv Anime" tvg-logo="https://i.postimg.cc/7L7W9Tt7/download-87.jpg", group-title="ENTERTAINMENT-KIDS",Con Tv Anime
-https://contvanime-localnow.cinedigm.com/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",FLIX
-#EXTVLCOPT:network-caching=1000
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="ENTERTAINMENT-MOVIE",&Prive
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#http://axcestv.vip:8080/live/freeview/axcestv/703.ts
-#http://103.132.16.98:8080/andprivehd/mpegts
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/45506
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="ENTERTAINMENT-MOVIE",&Flix
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#http://axcestv.vip:8080/live/freeview/axcestv/702.ts
-#http://axcestv.vip:8080/freeview/axcestv/510
-#http://103.132.16.98:8080/andflixhd/mpegts
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/49557
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Movie Select" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ENTERTAINMENT-MOVIE",Star Movie
-#http://axcestv.vip:8080/freeview/axcestv/512
-#http://103.132.16.98:8080/starmoviesselecthd/mpegts
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="ENTERTAINMENT-TV SHOW",KBS WORLD HD
-http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="HIP HIP HOREE! (Vidio)" tvg-logo="https://mantul.org/logo/hiphiphore.png" group-title="ENTERTAINMENT-KIDS",HIP HIP HOREE! (Vidio)
-http://akudandia.xyz/man-prem/hiphiphoree.m3u8
-
-##### LOCAL #####
-
-#EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png"  group-title="LOCAL & NEWS",CNN (US)
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="CNA (HD)" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" group-title="LOCAL & NEWS",Channel News Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png" group-title="LOCAL & NEWS ", ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:121 group-title="LOCAL & NEWS ",MSNBC
-#EXTVLCOPT:network-caching=1000
-http://38.127.211.18/live/c2eds/MSNBC/HLS/index.m3u8
-
-#EXTINF:-1 group-title="LOCAL & NEWS",Makkah Tv
-http://45.126.83.51/qwr9ew/s/s28/02.m3u8
-
-#EXTINF:-1 group-title="LOCAL & NEWS",Madinah Tv
-http://45.126.83.51/qwr9ew/s/s27/02.m3u8
-
-#EXTINF:-1 tvg-id="919" tvg-name="USA | CBS" tvg-logo="http://185.180.221.139:82/logo_channels/axn_spin_pl_hd.png" group-title="LOCAL & NEWS",USA | CBS - USA | CBS
-http://195.154.165.11:8000/live?channelId=919&uid=8769&deviceMac=00:1A:79:5C:EE:16
-
-#EXTINF:60 group-title="LOCAL & NEWS",NETTV
-#EXTVLCOPT:network-caching=1000
-http://rr2.dens.tv/s/s08/index10.m3u8
-
-#EXTINF:98 group-title="LOCAL & NEWS",TRANSTV
-#EXTVLCOPT:network-caching=1000
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1022158586_b744100_sleng.m3u8
-
-#EXTINF:0 group-title="LOCAL & NEWS",TRANS7
-#EXTVLCOPT:network-caching=1000
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2091843237_b744100_sleng.m3u8
-
-#EXTINF:0 group-title="LOCAL & NEWS",RCTI
-#EXTVLCOPT:network-caching=1000
-#https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
-http://203.77.246.50:5000/udp/239.1.3.80:5000
-
-#EXTINF:0 group-title="LOCAL & NEWS",INEWS
-#EXTVLCOPT:network-caching=1000
-https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
-
-#EXTINF:0 group-title="LOCAL & NEWS",SCTV
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
-
-
-#EXTINF:0 group-title="LOCAL & NEWS",MNCTv
-#EXTVLCOPT:network-caching=1000
-#https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
-http://203.77.246.50:5000/udp/239.1.3.78:5000
-
-
-#EXTINF:0 group-title="LOCAL & NEWS",INDOSIAR1
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/01.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",INDOSIAR2
-#EXTVLCOPT:network-caching=1000
-https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
-
-#EXTINF:0 group-title="LOCAL & NEWS",ANTV
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",GLOBALTV
-#EXTVLCOPT:network-caching=1000
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",TV ONE
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/01.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",RTV
-#EXTVLCOPT:network-caching=1000
-#http://210.210.155.35/session/1e1de4c6-6fcd-11e9-834b-b82a72d63267/qwr9ew/s/s12/01.m3u8
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
-
-#EXTINF:0 group-title="LOCAL & NEWS",Indosiar vidio
-#EXTVLCOPT:network-caching=1000
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
-
-#EXTINF:0 group-title="LOCAL & NEWS",ELSHINTA TV
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/session/743b191e-6fcd-11e9-a2e4-c81f66f89318/qwr9ew/s/s10/01.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",TVRI
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/qwr9ew/s/s11/01.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",TVRI2
-#EXTVLCOPT:network-caching=1000
-http://202.80.222.130/000001/2/ch14041511560872104862/1002.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 group-title="LOCAL & NEWS",TVRI SPORT
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/session/4ef13212-a900-11e9-8ab6-b7d19fbdbf13/qwr9ew/s/s107/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cg1yMfi.png" group-title="LOCAL & NEWS",TVRI Sport HD
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:0 group-title="LOCAL & NEWS",METROTV
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/uq2663/h/h12/01.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",KOMPASTV
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104/01.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",INews TV
-#EXTVLCOPT:network-caching=1000
-https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",CNN Indonesia
-#EXTVLCOPT:network-caching=1000
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",BERITA SATU
-#EXTVLCOPT:network-caching=1000
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",BeritaSatuworld
-#EXTVLCOPT:network-caching=1000
-https://b1world.beritasatumedia.com/Beritasatu/B1World_960x540.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",IDX Channel
-#EXTVLCOPT:network-caching=1000
-https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",The Indonesian Chanel
-#EXTVLCOPT:network-caching=1000
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/03.m3u8
-#EXTINF:0 group-title="LOCAL & NEWS",JAKARTA GLOBE NEWS CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
-
-#EXTINF:0 group-title="WORLD NEWS",DW News
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/qwr9ew/s/s26/01.m3u8
-
-#EXTINF:0 group-title="WORLD NEWS",Aljazeera
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/qwr9ew/s/s17/01.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8MQW4MG/NHK.png" group-title="WORLD NEWS",NHK
-http://210.210.155.35/uq2663/h/h23/01.m3u8
-
-#EXTINF:-1 group-title="WORLD NEWS",FOX NEWS
-#http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgZPr3PY/logo-nhkworld-big.png" group-title="WORLD NEWS",NHK WORLD JAPAN
-http://210.210.155.35/session/40d99f12-b06f-11ea-85f7-8562a8355579/uq2663/h/h23/02.m3u8
-
 
 
 
@@ -535,10 +505,8 @@ http://gplus.live:8080/168573780756/N9UFR0P64W/171696
 #EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="SPORTS",Bein Sports NBA
 http://gplus.live:8080/168573780756/N9UFR0P64W/59382
 
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://wrestlingheadlines.com/wp-content/uploads/2021/06/impact-wrestling-logo.jpg",IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK5ZwUMnDB8ASYFzI8FXxtYn-nLnaUTcpNkA&usqp=CAU" group-title="SPORTS", ASTRO ARENA 1
 http://urtv.cc/live/435118/435118/6707.m3u8
@@ -570,8 +538,6 @@ http://182.50.65.213:8888/udp/239.239.0.34:3001
 #EXTINF:-1 tvg-id="TenCricket.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjzr53vDq3gPu6d1G1RSq6rgWp_XXYvtH2Cw&usqp=CAU" group-title="SPORTS",SONY TEN 3 HD
 http://182.50.65.213:8888/udp/239.239.0.35:3001
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="SPORTS", FOX SPORTS 1 MX
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
@@ -581,12 +547,10 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", group-title="SPORTS", FOX SPORTS 3 MX
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7299bdb9de13b235cda94cd5063ab810&key=247ed97854d185349998873672294cad
 #EXTINF:-1 tvg-id="Eurosport" group-title="SPORTS" ch-number="820" tvg-logo="https://i.postimg.cc/Hk9h8WsS/Eurosport-White.png",820 Eurosport HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
-
 
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-logo="https://static.epg.best/es/RealMadridTV.es.png" tvg-chno="58" channel-id="58" group-title="SPORTS",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?checkedby:iptvcat.com
@@ -594,7 +558,8 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png",SPOTV
-https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -653,7 +618,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 #EXTINF:-1 group-title="SPORTS", FIGHTBOX
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-
 #EXTINF:-1 group-title="SPORTS", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
@@ -690,7 +654,6 @@ https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsnLYc1hd0ZFUYR2nXDZaW4HHQhG4Ek8oQ-Q&usqp=CAU" group-title="SPORTS",Glory Kickboxing
 https://bit.ly/3GCBoqY
 
@@ -699,6 +662,57 @@ https://bit.ly/3O4uBZV
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Useeprime.png" group-title="SPORTS",UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="SPORTS",Sky Sports F1 uk
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/265
+
+
+
+##### WORLD NEWS #####
+
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png"  group-title="WORLD NEWS",CNN (US)
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="CNA (HD)" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" group-title="WORLD NEWS",Channel News Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png" group-title="WORLD NEWS", ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:0 group-title="WORLD NEWS",MSNBC
+#EXTVLCOPT:network-caching=1000
+http://38.127.211.18/live/c2eds/MSNBC/HLS/index.m3u8
+
+#EXTINF:-1 tvg-id="919" tvg-name="USA | CBS" tvg-logo="http://185.180.221.139:82/logo_channels/axn_spin_pl_hd.png" group-title="WORLD NEWS",USA | CBS - USA | CBS
+http://195.154.165.11:8000/live?channelId=919&uid=8769&deviceMac=00:1A:79:5C:EE:16
+
+#EXTINF:0 group-title="WORLD NEWS",DW News
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/qwr9ew/s/s26/01.m3u8
+
+#EXTINF:0 group-title="WORLD NEWS",Aljazeera
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/qwr9ew/s/s17/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8MQW4MG/NHK.png" group-title="WORLD NEWS",NHK
+http://210.210.155.35/uq2663/h/h23/01.m3u8
+
+#EXTINF:-1 group-title="WORLD NEWS",FOX NEWS
+#http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgZPr3PY/logo-nhkworld-big.png" group-title="WORLD NEWS",NHK WORLD JAPAN
+http://210.210.155.35/session/40d99f12-b06f-11ea-85f7-8562a8355579/uq2663/h/h23/02.m3u8
+
+#EXTINF:-1 group-title="WORLD NEWS" tvg-logo="" tvg-id="", Sky News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655637210/ei/erCuYrzKKsvEgwPSmJ6oDw/ip/20.1.137.34/id/9Auq9mYxFEE.3/source/yt_live_broadcast/requiressl/yes/tx/24067852/txs/24027691%2C24027692%2C24027693%2C24027694%2C24067852/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/4ocVC_6PcoBj284RaC8IFtitrgi2iio/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANA98-FSYgfcgj9FqwthdSWd4lQr3VyNGpsK6H0EfElsAiAjI9GMmml__JENGNFGn9dT01IPcRXr5ldthxNMnZ04fw%3D%3D/file/index.m3u8
+
+#EXTINF:0 group-title="WORLD NEWS",BBC News
+#EXTVLCOPT:network-caching=1000
+http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+
+
 
 ##### VOD #####
 
