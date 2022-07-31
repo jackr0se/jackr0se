@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bMwkQEd.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS", Zoomoo
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT-KIDS", Astro Ta-Daa!
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/290510
+
 #EXTINF:0 group-title="ENTERTAINMENT-KIDS",ANIMAX
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
@@ -90,7 +93,7 @@ http://45.126.83.51/dr9445/h/h141/01.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",SONY PIX
 #EXTVLCOPT:network-caching=1000
-http://103.55.144.46/hls/sonypixhd.m3u8
+http://172.106.167.146:8070/live/Jonsno/jv5DR53f7EG3Ajvx65/49539.ts
 
 #EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",SONY HD
 http://170.83.242.14:5150/play/a03x
@@ -120,10 +123,17 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/45506
 #http://103.132.16.98:8080/andflixhd/mpegts
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/49557
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Movie Select" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ENTERTAINMENT-MOVIE",Star Movie
+#EXTINF:-1 tvg-id="" tvg-name="Star Movie Select" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ENTERTAINMENT-MOVIE",Star Movie 1
+#http://axcestv.vip:8080/freeview/axcestv/512
+#http://103.132.16.98:8080/starmoviesselecthd/mpegts
+#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+http://live.flixhub.net/hls/starmovies.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Movie Select" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ENTERTAINMENT-MOVIE",Star Movie 2
 #http://axcestv.vip:8080/freeview/axcestv/512
 #http://103.132.16.98:8080/starmoviesselecthd/mpegts
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#http://live.flixhub.net/hls/starmovies.m3u8
 
 
 ##### ENTERTAINMENT TV SHOW #####
@@ -446,6 +456,9 @@ https://bit.ly/3GCBoqY
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Bellator_MMA_Logo.png" group-title="SPORTS",Bellator MMA
 https://bit.ly/3O4uBZV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBMm9XT.png" tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena" group-title="SPORTS",Sky Sports Arena
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=623584&extension=ts&play_token=dP3nma5LZ5
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="SPORTS",Sky Sports F1 uk
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/265
