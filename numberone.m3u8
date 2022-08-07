@@ -6,11 +6,13 @@
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT-KIDS", Astro Ta-Daa!
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/290510
+#http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/290510
+https://m3u-editor.com/serve/580a6730-1076-11ed-89ef-2fcea8197e43/606616571
 
 #EXTINF:0 group-title="ENTERTAINMENT-KIDS",ANIMAX
 #EXTVLCOPT:network-caching=1000
-http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
+#http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
+https://m3u-editor.com/serve/580a6730-1076-11ed-89ef-2fcea8197e43/606616555
 
 #EXTINF:0,ANIPLUS 1
 #EXTVLCOPT:network-caching=1000
@@ -26,7 +28,8 @@ http://203.77.246.50:5000/udp/239.1.2.154:5000
 http://203.77.246.50:5000/udp/239.1.2.158:5000
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://assets.laliga.com/assets/2020/10/23/large/e7d33a854854ec528705e1dd5e34ddab.png" group-title="ENTERTAINMENT-KIDS", Astro Ceria
-http://axcestv.vip:8080/freeview/axcestv/450
+#http://axcestv.vip:8080/freeview/axcestv/450
+https://m3u-editor.com/serve/580a6730-1076-11ed-89ef-2fcea8197e43/606616562
 
 #EXTINF:-1 tvg-name="Con Tv Anime" tvg-logo="https://i.postimg.cc/7L7W9Tt7/download-87.jpg", group-title="ENTERTAINMENT-KIDS",Con Tv Anime
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
@@ -39,6 +42,9 @@ http://akudandia.xyz/man-prem/hiphiphoree.m3u8
 
 #EXTINF:-1 tvg-id="706" tvg-name="HITS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="ENTERTAINMENT-MOVIE",HITS (706)
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+
+#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/flik.png" group-title="ENTERTAINMENT-MOVIE", FLIK
+https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606616323
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",tvNMovies
 #EXTVLCOPT:network-caching=1000
@@ -68,7 +74,8 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142742.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="ENTERTAINMENT-MOVIE", CINEMAX
 #EXTVLCOPT:network-caching=1000
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142750.m3u8
+#https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142750.m3u8
+https://m3u-editor.com/serve/580a6730-1076-11ed-89ef-2fcea8197e43/606616586
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOID
 http://203.77.246.50:5000/udp/239.1.3.84:5000
