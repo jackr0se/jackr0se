@@ -7,7 +7,7 @@ http://203.154.177.124:8899/live/ch20/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT-KIDS", Astro Ta-Daa!
 #http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/290510
-https://m3u-editor.com/serve/580a6730-1076-11ed-89ef-2fcea8197e43/606616571
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/290510
 
 #EXTINF:0 group-title="ENTERTAINMENT-KIDS",ANIMAX
 #EXTVLCOPT:network-caching=1000
@@ -29,13 +29,13 @@ http://203.77.246.50:5000/udp/239.1.2.158:5000
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://assets.laliga.com/assets/2020/10/23/large/e7d33a854854ec528705e1dd5e34ddab.png" group-title="ENTERTAINMENT-KIDS", Astro Ceria
 #http://axcestv.vip:8080/freeview/axcestv/450
-https://m3u-editor.com/serve/580a6730-1076-11ed-89ef-2fcea8197e43/606616562
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157481
 
 #EXTINF:-1 tvg-name="Con Tv Anime" tvg-logo="https://i.postimg.cc/7L7W9Tt7/download-87.jpg", group-title="ENTERTAINMENT-KIDS",Con Tv Anime
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HIP HIP HOREE! (Vidio)" tvg-logo="https://mantul.org/logo/hiphiphore.png" group-title="ENTERTAINMENT-KIDS",HIP HIP HOREE! (Vidio)
-http://akudandia.xyz/man-prem/hiphiphoree.m3u8
+http://tvn.x10.mx/vidio/master-4.m3u8
 
 
 ##### ENTERTAINMENT MOVIE #####
@@ -88,7 +88,7 @@ http://203.77.246.50:5000/udp/239.1.3.82:5000
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",AXN1
 #EXTVLCOPT:network-caching=1000
-http://45.126.83.51/dr9445/h/h141/01.m3u8
+http://210.210.155.35/dr9445/h/h141/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=AXN_HD
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",SONY PIX
 #EXTVLCOPT:network-caching=1000
@@ -284,6 +284,10 @@ http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/
 #EXTINF:0 group-title="ID",INDOSIAR2
 #EXTVLCOPT:network-caching=1000
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
+
+#EXTINF:0 group-title="ID",INDOSIAR3
+#EXTVLCOPT:network-caching=1000
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
 #EXTINF:0 group-title="ID",ANTV
 #EXTVLCOPT:network-caching=1000
