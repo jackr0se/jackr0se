@@ -379,6 +379,14 @@ http://45.126.83.51/qwr9ew/s/s27/02.m3u8
 
 ##### RADIO #####
 
+#EXTINF:0 group-title="RADIO",Vevo 00's
+#EXTVLCOPT:network-caching=1000
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/9f3e23c231f44bac97866bc8b70c0e4b/live.m3u8
+
+#EXTINF:0 group-title="RADIO",VEVO 90's
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:0 group-title="RADIO",Indika FM
 #EXTVLCOPT:network-caching=1000
 https://s2.radio.co/sf58a82d7d/listen
