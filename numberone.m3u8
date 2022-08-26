@@ -108,6 +108,15 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",FLIX 3
 http://117.148.179.134/PLTV/88888888/224/3221231733/index.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",FLIX 8
+http://epg.112114.xyz/douyu/4332
+
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",FLIX 12
+http://epg.112114.xyz/douyu/413573
+
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",FLIX 14
+http://epg.112114.xyz/douyu/252802
+
 #EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",FLIX 24
 http://117.148.179.134/PLTV/88888888/224/3221231504/index.m3u8
 
@@ -125,6 +134,9 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
 
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 28
 http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 29
+http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
 
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 31
 http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499
