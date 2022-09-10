@@ -2,9 +2,6 @@
 
 ##### ENTERTAINMENT KIDS #####
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bMwkQEd.png?v=1.0.0.1" group-title="ENTERTAINMENT-KIDS", Zoomoo
-http://203.154.177.124:8899/live/ch20/playlist.m3u8
-
 #EXTINF:-1 group-title="ENTERTAINMENT-KIDS", Astro Ta-Daa!
 #http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/290510
 http://quality-restream.com:8080/single-ed8969/6554d47b5f/290510
@@ -13,10 +10,6 @@ http://quality-restream.com:8080/single-ed8969/6554d47b5f/290510
 #EXTVLCOPT:network-caching=1000
 #http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 https://m3u-editor.com/serve/580a6730-1076-11ed-89ef-2fcea8197e43/606616555
-
-#EXTINF:0,ANIPLUS 1
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="ENTERTAINMENT-KIDS", ANIPLUS 2
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
@@ -56,42 +49,17 @@ http://axcestv.vip:8080/freeview/axcestv/531
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",Hits Movies HD
 http://203.77.246.50:5000/udp/239.1.2.150:5000
 
-#EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://www.infotelevisi.com/asset/logotv/5690c06fb32f2-hbo_asia_hd.jpg" group-title="ENTERTAINMENT-MOVIE", HBO
-#EXTVLCOPT:network-caching=1000
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142739.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="ENTERTAINMENT-MOVIE", HBOSignature
-#EXTVLCOPT:network-caching=1000
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142740.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",HBO FAMILY
-#EXTVLCOPT:network-caching=1000
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142741.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",HBO HITS
-#EXTVLCOPT:network-caching=1000
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142742.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="ENTERTAINMENT-MOVIE", CINEMAX
-#EXTVLCOPT:network-caching=1000
-https://nonton.site:8443/mustakim/mustakim/2156
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOID
 http://203.77.246.50:5000/udp/239.1.3.84:5000
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOFamsID
 http://203.77.246.50:5000/udp/239.1.3.76:5000
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOsignID
 http://203.77.246.50:5000/udp/239.1.3.74:5000
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOhitsID
 http://203.77.246.50:5000/udp/239.1.3.82:5000
-
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",AXN1
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/dr9445/h/h141/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=AXN_HD
-
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",SONY PIX
-#EXTVLCOPT:network-caching=1000
-http://172.106.167.146:8070/live/Jonsno/jv5DR53f7EG3Ajvx65/49539.ts
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",CINEMA WORLD
 #EXTVLCOPT:network-caching=1000
@@ -104,24 +72,6 @@ http://210.210.155.35/dr9445/h/h07/02.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",FLIX
 #EXTVLCOPT:network-caching=1000
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",FLIX 3
-http://117.148.179.134/PLTV/88888888/224/3221231733/index.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",FLIX 8
-http://epg.112114.xyz/douyu/4332
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",FLIX 12
-http://epg.112114.xyz/douyu/413573
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",FLIX 14
-http://epg.112114.xyz/douyu/252802
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",FLIX 24
-http://117.148.179.134/PLTV/88888888/224/3221231504/index.m3u8
-
-#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 20
-http://huanqiuzhibo.cn/manifest/douyu.php?id=8603174
 
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 25
 http://huanqiuzhibo.cn/manifest/douyu.php?id=8945323
@@ -166,12 +116,6 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/45506
 #http://103.132.16.98:8080/andflixhd/mpegts
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/49557
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Movie Select" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ENTERTAINMENT-MOVIE",Star Movie 1
-#http://axcestv.vip:8080/freeview/axcestv/512
-#http://103.132.16.98:8080/starmoviesselecthd/mpegts
-#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-http://live.flixhub.net/hls/starmovies.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Star Movie Select" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ENTERTAINMENT-MOVIE",Star Movie 2
 #http://axcestv.vip:8080/freeview/axcestv/512
 #http://103.132.16.98:8080/starmoviesselecthd/mpegts
@@ -203,17 +147,8 @@ https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="ENTERTAINMENT-TV SHOW",TechStorm
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",NAT GEO
-http://182.50.65.213:8888/udp/239.239.0.01:3001
-
 #EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",LOVE NATURE
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BBCEarthlogo.png" group-title="ENTERTAINMENT-TV SHOW",SONY BBC EARTH HD
-http://ranapk-june2.in1.bitmana.io/livez.php?c=Sony_BBC_Earth_HD_English&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/TLClogo.png" group-title="ENTERTAINMENT-TV SHOW",TLC WORLD HD
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1067
 
 #EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",tvN HD
 #EXTVLCOPT:network-caching=1000
@@ -364,9 +299,6 @@ https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000
 #EXTVLCOPT:network-caching=1000
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/03.m3u8
 
-
-
-
 ##### MEKAH DAN MADINAH #####
 
 #EXTINF:-1 group-title="MEKAH DAN MADINAH",Makkah Tv
@@ -374,8 +306,6 @@ http://45.126.83.51/qwr9ew/s/s28/02.m3u8
 
 #EXTINF:-1 group-title="MEKAH DAN MADINAH",Madinah Tv
 http://45.126.83.51/qwr9ew/s/s27/02.m3u8
-
-
 
 ##### RADIO #####
 
@@ -443,12 +373,6 @@ http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w389732598.m3u8
 
 ##### SPORTS #####
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png",SPOTV
-#https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
-
 #EXTINF:0 tvg-id="SPOTV.kr" tvg-name="" tvg-logo="https://i.postimg.cc/fTBcqqrM/Round-Photo-Jul092022-031005.png" group-title="SPORTS",SPO TV 1
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
@@ -473,95 +397,62 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 #EXTINF:-1 group-title="SPORTS", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1 group-title="SPORTS", SWISS SPORT TV
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/10/Motorvision-TV.png" group-title="SPORTS",Motorvision
 http://rr.dens.tv/h/h09/01.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XBMm9XT.png" tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena" group-title="SPORTS",Sky Sports Arena
-http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=623584&extension=ts&play_token=dP3nma5LZ5
+#EXTINF:-1 group-title="SPORTS" Logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-253.png",ASTRO SUPERSPORTS 1
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="SPORTS",Sky Sports F1 uk
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/265
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SPORTS" ,USEE SPORTS 1
+http://tvlive.my.id:25461/mat/mat/32
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/TYZ1CrJt/Round-Photo-Jul092022-024919.png" group-title="SPORTS",ASSP 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://etus.link/ds_assp1
+#EXTINF:-1 group-title="SPORTS" Logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-2-254.png",ASTRO SUPERSPORTS 2
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dQZLdH8h/Round-Photo-Jul092022-025040.png" group-title="SPORTS",ASSP 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://etus.link/ds_assp2
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="Astro Supersports 2" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SPORTS" ,USEE SPORTS 2
+http://tvlive.my.id:25461/mat/mat/33
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RVQCQjqZ/Round-Photo-Jul092022-025222.png" group-title="SPORTS",ASSP 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://etus.link/ds_assp3
+#EXTINF:-1 group-title="SPORTS" Logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-3-255.png",ASTRO SUPERSPORTS 3
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fTZDLB5n/Round-Photo-Jul092022-025345.png" group-title="SPORTS",ASSP 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://etus.link/ds_assp4
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="Astro Supersports 3" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="SPORTS" ,AstroSupersports 3
+http://tvlive.my.id:25461/mat/mat/41
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/26bh1zk6/Round-Photo-Jul092022-025505.png" group-title="SPORTS",ASSP 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://etus.link/ds_assp5
+#EXTINF:-1 group-title="SPORTS" Logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-4-256.png",ASTRO SUPERSPORTS 4
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ZnzB0ps7/Round-Photo-Jul092022-025636.png" group-title="SPORTS",ASTRO ARENA 1
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157485
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="Astro Supersports 4" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="SPORTS" ,AstroSupersports 4
+http://tvlive.my.id:25461/mat/mat/42
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ZnzB0ps7/Round-Photo-Jul092022-025636.png" group-title="SPORTS",ASTRO ARENA 2
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/287793
+#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="Bein Sports 1 ID" tvg-logo="https://i.ibb.co/m04SNRx/BEINSPORTS1.png" group-title="SPORTS" ,BeinSports 1 ID
+http://tvlive.my.id:25461/mat/mat/45
 
-#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="SPORTS",Champions TV 1
-http://tvn.x10.mx/vidio/master-7.m3u8
+#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="Bein Sports 3 ID" tvg-logo="https://i.ibb.co/r3QBT9h/BEINSPORTS3.png" group-title="SPORTS" ,BeinSports 3 ID
+http://tvlive.my.id:25461/mat/mat/48
 
-#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="SPORTS",Champions TV 2
-http://tvn.x10.mx/vidio/master-8.m3u8
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: Sky Sport Action HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Sky_Sports_Action_HD.png" group-title="SPORTS",UK:SkySport Action HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/94996
 
-#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="SPORTS",Champions TV 3
-http://tvn.x10.mx/vidio/master-9.m3u8
+#EXTINF:0  group-title="SPORTS",Sky Sports Football
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53980
 
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="SPORTS",beIN Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/100
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sport Football HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Sky_Sports_Football_HD.png" group-title="SPORTS",UK:SkySport Football HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95002
 
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="SPORTS",beIN Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/101
+#EXTINF:0  group-title="SPORTS",Sky Sports Main Event
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53982
 
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="SPORTS",beIN Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/102
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sport Main Events" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Sky_Sports_Main_Event_HD.png" group-title="SPORTS",UK:SkySport MainEvents
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95005
 
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="SPORTS",beIN Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/103
+#EXTINF:0  group-title="SPORTS",Sky Sports Mix
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53983
 
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-logo="https://i.imgur.com/pA5by2y.png" group-title="SPORTS",beIN Sports 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/104
-
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://i.imgur.com/mbFoSUX.png" group-title="SPORTS",beIN Sports 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/105
-
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-logo="https://i.imgur.com/eHCosqi.png" group-title="SPORTS",beIN Sports 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/106
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports MIX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_Mix_HD.png" group-title="SPORTS",UK:SkySports MIX
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95010
 
 ##### WORLD NEWS #####
 
