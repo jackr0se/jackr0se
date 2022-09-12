@@ -234,7 +234,7 @@ http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105
 #EXTINF:0 group-title="ID",RTV
 #EXTVLCOPT:network-caching=1000
 #http://210.210.155.35/session/1e1de4c6-6fcd-11e9-834b-b82a72d63267/qwr9ew/s/s12/01.m3u8
-http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
+http://210.210.155.37/dr9445/h/h10/index.m3u8
 
 #EXTINF:0 group-title="ID",ELSHINTA TV
 #EXTVLCOPT:network-caching=1000
@@ -363,21 +363,6 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 #EXTINF:0 tvg-id="SPOTV2.kr" tvg-name="" tvg-logo="https://i.postimg.cc/fbX0s8Bt/Round-Photo-Jul092022-031253.png" group-title="SPORTS",SPO TV 2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1652512126~exp=9007200907253117~acl=/48eee16919834d3b97d
 
-#EXTINF:-1 tvg-ID="" tvg-name="ABU DHABI SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="SPORTS",ABU DHABI SPORTS 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="ABU DHABI SPORTS 2" tvg-logo="https://www.pngkit.com/png/full/972-9721216_1-tvg-id-tvg-name-tvg-logo-https.png" group-title="SPORTS",ABU DHABI SPORTS 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="DUBAI SPORTS 1" tvg-logo="https://www.pdfreestyle.com/wp-content/uploads/2019/01/Dubai-Sports-Channel-Logo.png" group-title="SPORTS",DUBAI SPORTS 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="DUBAI SPORTS 2" tvg-logo="https://4flims.com/upload/source/dubaisports1نسخ.png" group-title="SPORTS",DUBAI SPORTS 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="DUBAI SPORTS 3" tvg-logo="https://4flims.com/upload/source/dubaisports1نسخ.png" group-title="SPORTS",DUBAI SPORTS 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-
 #EXTINF:-1 group-title="SPORTS", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
@@ -387,56 +372,61 @@ http://rr.dens.tv/h/h09/01.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS" Logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-253.png",ASTRO SUPERSPORTS 1
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/EaRVaEX.png",CHAMPIONS TV 1
+http://tv.zonanime.my.id/vidio/championstv1.m3u8
 
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SPORTS" ,USEE SPORTS 1
-http://tvlive.my.id:25461/mat/mat/32
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/IgGVlgI.png",CHAMPIONS TV 2 
+http://tv.zonanime.my.id/vidio/championstv2.m3u8
 
-#EXTINF:-1 group-title="SPORTS" Logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-2-254.png",ASTRO SUPERSPORTS 2
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/1MBBBBN.png",CHAMPIONS TV 3
+http://tv.zonanime.my.id/vidio/championstv3.m3u8
 
-#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="Astro Supersports 2" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SPORTS" ,USEE SPORTS 2
-http://tvlive.my.id:25461/mat/mat/33
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/AcBSHlM.png",CHAMPIONS TV GOAL
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/48
+#http://tvn.x10.mx/live/master-10.m3u8
 
-#EXTINF:-1 group-title="SPORTS" Logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-3-255.png",ASTRO SUPERSPORTS 3
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
+#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.imgur.com/fA1VMU6.png" group-title="SPORTS",beIN SPORTS English 1
+http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/15000
 
-#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="Astro Supersports 3" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="SPORTS" ,AstroSupersports 3
-http://tvlive.my.id:25461/mat/mat/41
+#EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://i.imgur.com/CuTvIIo.png" group-title="SPORTS",beIN SPORTS English 2
+http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/15001
 
-#EXTINF:-1 group-title="SPORTS" Logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-4-256.png",ASTRO SUPERSPORTS 4
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
+#EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://i.imgur.com/qUfw7db.png" group-title="SPORTS",beIN SPORTS English 3
+http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/21517
 
-#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="Astro Supersports 4" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="SPORTS" ,AstroSupersports 4
-http://tvlive.my.id:25461/mat/mat/42
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_PREMIUM_HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="SPORTS",beIN SPORTS PREMIUM 1
+#http://kuchini.site:8080/livetvchannel2021/fe326fcc/109
+http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/91334
 
-#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="Bein Sports 1 ID" tvg-logo="https://i.ibb.co/m04SNRx/BEINSPORTS1.png" group-title="SPORTS" ,BeinSports 1 ID
-http://tvlive.my.id:25461/mat/mat/45
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_02_PREMIUM_HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="SPORTS",beIN SPORTS PREMIUM 2
+#http://kuchini.site:8080/livetvchannel2021/fe326fcc/280145
+http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/91336
 
-#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="Bein Sports 3 ID" tvg-logo="https://i.ibb.co/r3QBT9h/BEINSPORTS3.png" group-title="SPORTS" ,BeinSports 3 ID
-http://tvlive.my.id:25461/mat/mat/48
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_03_PREMIUM_HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="SPORTS",beIN SPORTS PREMIUM 3
+#http://kuchini.site:8080/livetvchannel2021/fe326fcc/280249
+http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/91338
 
-#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: Sky Sport Action HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Sky_Sports_Action_HD.png" group-title="SPORTS",UK:SkySport Action HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/94996
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="SPORTS",sky sports premier league
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95009
+#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652095
+#http://ky-iptv.com:80/robertd/robertd/1821337.ts
 
-#EXTINF:0  group-title="SPORTS",Sky Sports Football
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53980
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rsT6Cu2.png" group-title="SPORTS",sky sports football
+#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652190
+#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652098
+http://ky-iptv.com:80/robertd/robertd/1846775.ts
 
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sport Football HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Sky_Sports_Football_HD.png" group-title="SPORTS",UK:SkySport Football HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/95002
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png" group-title="SPORTS",SuperSport Premier League
+http://5gfksa.ltd:2052/991155/551199/174608
 
-#EXTINF:0  group-title="SPORTS",Sky Sports Main Event
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53982
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_LaLiga_4-3_005_xlrg.png" group-title="SPORTS",SuperSport La Liga
+http://5gfksa.ltd:2052/991155/551199/174607
 
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sport Main Events" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Sky_Sports_Main_Event_HD.png" group-title="SPORTS",UK:SkySport MainEvents
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/95005
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-logo="https://i.imgur.com/z3fQ87X.png" group-title="SPORTS",EUROSPORT 1
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/55447
 
-#EXTINF:0  group-title="SPORTS",Sky Sports Mix
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53983
-
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports MIX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_Mix_HD.png" group-title="SPORTS",UK:SkySports MIX
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/95010
+#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport2" tvg-logo="https://i.imgur.com/0xpN9B6.png" group-title="SPORTS",EUROSPORT 2
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159625
 
 ##### WORLD NEWS #####
 
