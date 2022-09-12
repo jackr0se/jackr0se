@@ -22,10 +22,10 @@ http://203.77.246.50:5000/udp/239.1.2.158:5000
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://assets.laliga.com/assets/2020/10/23/large/e7d33a854854ec528705e1dd5e34ddab.png" group-title="ENTERTAINMENT-KIDS", Astro Ceria
 #http://axcestv.vip:8080/freeview/axcestv/450
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157481
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142672.m3u8
 
-#EXTINF:-1 tvg-name="Con Tv Anime" tvg-logo="https://i.postimg.cc/7L7W9Tt7/download-87.jpg", group-title="ENTERTAINMENT-KIDS",Con Tv Anime
-https://contvanime-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png", Astro Ceria 2
+https://nonton.site:8443/mustakim/mustakim/37399
 
 #EXTINF:-1 tvg-id="" tvg-name="HIP HIP HOREE! (Vidio)" tvg-logo="https://mantul.org/logo/hiphiphore.png" group-title="ENTERTAINMENT-KIDS",HIP HIP HOREE! (Vidio)
 http://tvn.x10.mx/vidio/master-4.m3u8
@@ -103,19 +103,6 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 35
 http://huanqiuzhibo.cn/manifest/douyu.php?id=6655271
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="ENTERTAINMENT-MOVIE",&Prive
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#http://axcestv.vip:8080/live/freeview/axcestv/703.ts
-#http://103.132.16.98:8080/andprivehd/mpegts
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/45506
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="ENTERTAINMENT-MOVIE",&Flix
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#http://axcestv.vip:8080/live/freeview/axcestv/702.ts
-#http://axcestv.vip:8080/freeview/axcestv/510
-#http://103.132.16.98:8080/andflixhd/mpegts
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/49557
-
 #EXTINF:-1 tvg-id="" tvg-name="Star Movie Select" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ENTERTAINMENT-MOVIE",Star Movie 2
 #http://axcestv.vip:8080/freeview/axcestv/512
 #http://103.132.16.98:8080/starmoviesselecthd/mpegts
@@ -140,9 +127,6 @@ http://210.210.155.35/uq2663/h/h97/index.m3u8
 http://203.77.246.50:5000/udp/239.1.2.134:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",Animal Planet
 http://203.77.246.50:5000/udp/239.1.2.136:5000
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="ENTERTAINMENT-TV SHOW" tvg-id="ComedyCentralWest.us" tvg-name="ComedyCentralWest.us", Comedy Central
-https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="ENTERTAINMENT-TV SHOW",TechStorm
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
@@ -487,1050 +471,234 @@ http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/
 
 
 ##### VOD #####
-##########################VOD INDONESIA##########################
 
-#EXTINF:-1 group-title="VOD",Ben & Jody
-https://www.googleapis.com/drive/v3/files/1tZMWGdrTwHvLef64IvY3oZkTE7uDVPJW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Baby Blues
-https://www.googleapis.com/drive/v3/files/1tTCH_QB0rp7GWarES-DNwzm7AjNNmdAL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Kopi Pahit
-https://www.googleapis.com/drive/v3/files/1Ls3lv2pcrKL-MTYMKIAGlT7KdN2PxnfZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Kambodja
-https://www.googleapis.com/drive/v3/files/1Ac_LpkS9ekuxK8fWG8FvcKXMY6trZ2ln?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Wedding Agreement
-https://www.googleapis.com/drive/v3/files/16Hd7392c8_D0CsGI8X6feUVNVeFEYohb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Vidkill
-https://www.googleapis.com/drive/v3/files/1tQtqwKoSW_HlUpINBImzF-d2mnssDRXM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Merindu Cahaya De Amstel
-https://www.googleapis.com/drive/v3/files/1O67axAjHAnlRaEq-KWV97_ZbRpGnEWWD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Dear Nathan: Thank You Salma
-https://www.googleapis.com/drive/v3/files/1IdL3S7F_X91GtngUiliWJoYNrkkq9H2w?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Teka-Teki Tika
-https://www.googleapis.com/drive/v3/files/1nd11OdpugLeeROhWJL9lHDzh0cRHp2Em?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Yuni
-https://www.googleapis.com/drive/v3/files/19zSEthVv58W4Pp9ZhgqRWsK8M4NSwljL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",DJS The Movie: Biarkan Aku Menari
-https://www.googleapis.com/drive/v3/files/13TNUG4-fKmjVvx2QUsrZZF_wLI99vQZe?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",After Met You
-https://www.googleapis.com/drive/v3/files/10R_ZhXDs_RpnlVcydyhbtYVDHZB7mdJ_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Tuhan Minta Duit!
-https://www.googleapis.com/drive/v3/files/1DIs4mVthpHP7g-hI96B14FDLDPH1wDQK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Pulang
-https://www.googleapis.com/drive/v3/files/1PWeNNXAuPGjdOs3qy__6rvPyf7A0moDH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Yowis Ben3
-https://www.googleapis.com/drive/v3/files/1ar6ZwvbzkugMVmVvR5s4-VnVuHUtejVV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Seperti Dendam, Rindu Harus Dibayar Tuntas
-https://www.googleapis.com/drive/v3/files/1ciwPQMWFMajBk7n3dOcqHNO8JhOfmYhS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Clandestine
-https://www.googleapis.com/drive/v3/files/1LYgqcmjFtyA77m-F7AUR18rvNMpCEgoa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Satu Untuk Selamanya
-https://www.googleapis.com/drive/v3/files/1JkJU1q7mvqZIK06KUVXvQJmHTmuHyxAi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",7-24
-https://www.googleapis.com/drive/v3/files/1mx3ywdB-vhW_RozNtULi-_o1AMoFWBWU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Jakarta vs Everybody
-https://www.googleapis.com/drive/v3/files/1bIB-CyWvy4fAwABxxT0m2LwlCG3hkgy6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Cinta Pertama, Kedua & Ketiga
-https://www.googleapis.com/drive/v3/files/1nBGhWrBuItqbvP-qwBSvbGulpyRWBnxY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Cinta Warung Sebelah
-https://www.googleapis.com/drive/v3/files/1AKVxx-KWl4trWQht8EIfRsotQLIkbzRj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Father & Son
-https://www.googleapis.com/drive/v3/files/1Nc61xkByoCewQ8YYffF5eyYcEzzb-KYd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Marlina si Pembunuh dalam Empat Babak
-https://www.googleapis.com/drive/v3/files/1Fs9O7PdGdiCw70W-do_aMS0lhuQrK2Dv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Akhirat: A Love Story
-https://www.googleapis.com/drive/v3/files/1qQVeHt1e2EEDxYscw5gO4JYGpbfgT3Z5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Ada Mertua Di Rumahku
-https://www.googleapis.com/drive/v3/files/1J0LV1GPWyp29SZAxttrCuztGqTz_sDNZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Cek Ombak Melulu
-https://www.googleapis.com/drive/v3/files/1gpPoR9BdBqFFWz-6svXld4nxRZC4nJhG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Enam Batang
-https://www.googleapis.com/drive/v3/files/1eGlkE0rqo3ttzfOculAkBCSXuv5BWehN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Aku Bukan Jodohnya
-https://www.googleapis.com/drive/v3/files/1FBDzo_8U5R-JfnBNR5b_5RmN4hMnDQq1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Eyang Ti
-https://www.googleapis.com/drive/v3/files/1ZIrUWz_GlmEoLqeC8b_Bic4bbFDDM3WA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Menunggu Bunda
-https://www.googleapis.com/drive/v3/files/1NH1ROYrB-zACqhlIbgCPr-UAh_kxxdiu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Kemarin
-https://www.googleapis.com/drive/v3/files/1n2vmBIoqT1kfRTpNvT3VzIXzgxeWUdMw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Kapan Pindah Rumah?
-https://www.googleapis.com/drive/v3/files/1Oib0fl8QQinxtj_z26enYl7gkAzUw38B?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Love of Fate
-https://www.googleapis.com/drive/v3/files/1yDZPm-nZXbGVpT8WlTcT5XnBNOl6khhV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Agen Dunia
-https://www.googleapis.com/drive/v3/files/1E1dAf3y2pB88RYpU--BH8LU3x44GsOFP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Preman in Love
-https://www.googleapis.com/drive/v3/files/1VqF1X9yTwC_zopFNRKVfltXkqR2uqdY4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Geez & Ann
-https://www.googleapis.com/drive/v3/files/1n1Y0DBr1k0bwLO8eKDaxAdzSi8XSjZks?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Senzano Savana
-https://www.googleapis.com/drive/v3/files/1AGwOANEL9cir_qA8WcpyOLWZNbfEaSOG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Gila Lu Ndro!
-https://www.googleapis.com/drive/v3/files/1Te5f1B2lnT7Kqex9MIaAXHJgLoJZpfeH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Ada Cinta di SMA
-https://www.googleapis.com/drive/v3/files/1zBsMX9G8pzvo4lYUOEYW1tRt7nxFn3Vv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Susah Sinyal
-https://www.googleapis.com/drive/v3/files/1Kjawax5jGDG1jWJIhmN64oegwXPwPEoW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Love for Sale 2
-https://www.googleapis.com/drive/v3/files/1H10M_MgqVhaz974UVKvpBdBy8i5jKxP5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Love for Sale
-https://www.googleapis.com/drive/v3/files/10kIvChu_t9oxkXBCOG9NTyVBeaygfyOl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Hari Yang Dijanjikan
-https://www.googleapis.com/drive/v3/files/1weKZ-8ejDRCEgcuFRf_wSLpDCGYIv8LA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Kau & Dia
-https://www.googleapis.com/drive/v3/files/130IRjDIhoehAJzAPcWrYVyk4o0OLZLVJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Youtubers
-https://www.googleapis.com/drive/v3/files/1b26KXo10FRzT0ZK_aVanisnDEbqcwnpK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Supernova: Ksatria, Putri, & Bintang Jatuh
-https://www.googleapis.com/drive/v3/files/18galp4Tpdmx3Fc-XRQgJYXBAtz6HqEu6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Sin
-https://www.googleapis.com/drive/v3/files/1RDSIXPuGRMETt4blUd7KULn71eOMKZeM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Balada Sepasang Kekasih Gila
-https://www.googleapis.com/drive/v3/files/10wITM71ZGtEoAYbDPAsLOvfv-g6KqW_0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Pesan di Balik Awan
-https://www.googleapis.com/drive/v3/files/1r5hMPbLtrBCACkg-T3-ID5o7Q6-R-rfj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Marriage
-https://www.googleapis.com/drive/v3/files/1Ywq2o0ndmKleStRph26gubBr4vztit9E?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Kau & Dia
-https://www.googleapis.com/drive/v3/files/1b26KXo10FRzT0ZK_aVanisnDEbqcwnpK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKA6Kxxlx7vsO68k2rGTqnvWNlVfrFhheEyQ&usqp=CAU", Doraemon Petualangan Nobita Di Museum Alat-alat Ajaib
+https://vodkk.rctiplus.com/hls/2021-07/kk_rev2_doraemon_museum_ajaib_720p/720p.m3u8
 
-#EXTINF:-1 group-title="VOD",Nussa
+#EXTINF:-1 group-title="VOD KIDS" tvg-logo="https://p2k.unkris.ac.id/_sepakbola/_baca_image.php?td=23&kodegb=220px-Doraemon-_Nobita_and_the_Island_of_Miracles_movie_post.jpg",Doraemon: Petualangan Nobita Di Pulau Keajaiban Hewan
+https://vodkk.rctiplus.com/hls/2021-08/kk_110821_doraemon_nobita_pulau_keajaiban_hewan_720p/720p.m3u8
+
+#EXTINF:-1 group-title="VOD KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_rCHkCQAkaes9GfwNZEQ506y886xKfxUmQ&usqp=CAU", Doraemon: Pertarungan Nobita dengan Duyung Penguasa Laut
+https://vodkk.rctiplus.com/hls/2021-07/kk_doraemon_putriduyung_720p/720p.m3u8
+
+#EXTINF:-1 group-title="VOD KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB9oI-K5ElKpnvh5x6910AXS4URDuBTRDsUg&usqp=CAU", Doraemon: Pertarungan Super Nobita Di Planet Koya-Koya
+https://vodkk.rctiplus.com/hls/2021-07/kk_270721_doraemon_planet_foya_foya_720p/720p.m3u8
+
+#EXTINF:-1 group-title="VOD KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZHxuCXM_Utgs1oNE9hZnsprZqaDxhbbZqQ&usqp=CAU", Doraemon : Nobita dan Pasukan Pelindung Galaksi
+https://vodkk.rctiplus.com/hls/2021-07/kk_150721_doraemon_pahlawan_luar_angkasa_galaksi_space_heroes_720p/720p.m3u8
+
+#EXTINF:-1 group-title="VOD KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiL2mKUzEuiNw3Rc4i3gVFPaY8uXwhCkEhSw&usqp=CAU", Doraemon: Kisah Nobita dan Manusia Negeri Hijau
+https://vodkk.rctiplus.com/hls/2021-07/kk_280721_doraemon_manusia_di_negeri_hijau_720p/720p.m3u8
+
+#EXTINF:-1 group-title="VOD KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmEnw2QK7fQKTEfBSAIqapixiC6jwr7TYOg&usqp=CAU", Doraemon: Petualangan Nobita di Dunia Sihir
+https://vodkk.rctiplus.com/hls/2021-08/kk_020821_petualangan_nobita_di_dunia_sihir_720p/720p.m3u8
+
+#EXTINF:-1 group-title="VOD KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfEbVDrv7ioUqMDeNh6zWBLwC963EuDL2eJg&usqp=CAU", Doraemon : Petualangan Nobita di Negeri Wan-Nyan
+https://vodkk.rctiplus.com/hls/2021-08/kk_060821_doraemon_nobita_di_negeri_wan_nyan_720p/720p.m3u8
+
+#EXTINF:-1 group-title="VOD KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJSsUeg4Ylp49RBEQzOPuIdubDFg--payD4g&usqp=CAU", Doraemon: Petualangan Nobita Yang Penuh Misteri di Hutan Afrika
+https://vodkk.rctiplus.com/hls/2021-07/kk_080721_doraemon_petualangan_nobita_yg_penuh_misteri_di_hutan_afrika_rev2_720p/720p.m3u8
+
+#EXTINF:-1 group-title="VOD KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwOhI8IDx4mpCq1MDqPJFoPlfbwvMGt0HzhA&usqp=CAU", Doraemon : Pertarungan Nobita Melawan Pasukan Robot Planet Megathobia
+https://vodkk.rctiplus.com/hls/2021-07/kk_270721_pertarungan_nobita_melawan_pasukan_robot_planet_megathobia_full_720p/720p.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/9JFIgMm.jpg" group-title="VOD KIDS",How to Train Your Dragon: The Hidden World (2019)
+https://lh3.googleusercontent.com/Nc_n2B03yXvXzXXQ2dc_BQlT0-enZtAB4cfzfiUIpdOFDVaUIbhsTxuP5aXovI_DPmI1rOtQhgzUagH0Lg=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/slalaPk.jpg" group-title="VOD KIDS",Spies in Disguise (2019)
+https://lh3.googleusercontent.com/OoBO6eHYVDaqQGVTbi_V7B6k9gex4sBQghhHRnSTMrv5Z9h4AlICZX5NKjLB0shdHz7QNL3lwNMv2Mqk-w=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KVqx7pd.jpg" group-title="VOD KIDS",A Shaun the Sheep Movie: Farmageddon (2019)
+https://lh3.googleusercontent.com/femImuOfQRBRN-S1obc8NotK4oV-rtlTN_sQnxjCtiUO8OXlipD3-veBM2IoRNr3R-H10fZUzMJPzdZLdw=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iTLF7UE.jpg" group-title="VOD KIDS",BoBoiBoy Movie 2 (2019)
+https://lh3.googleusercontent.com/s_n63JhY1Nh1upoyAT6L653V9BrfKXxrcNbG7zODPUjjD_F4QBeHWxjFshWW3JCYdG4A_X-kx2w3E4xm4w=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/tQjVdJc.jpg" group-title="VOD KIDS",Frozen II (2019)
+https://lh3.googleusercontent.com/GZHehDjuIB4vJdnV0MWyiOwe6n875bjkqgYpnLUMnVYXm5tUrvOdPCDtYBw6mRFbUf6eK810qA2JHLmOGQ=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KKMYnZu.jpg" group-title="VOD KIDS",Dragon Quest: Your Story (2019)
+https://lh3.googleusercontent.com/18EQjsSIBHi4fbbOv2wwMLayRH4dk3igm_JvM7Ta0R9oYhrXl_dR7y3xBo_lFpRtSBBc5msG-0NJWQplyA=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ivSLobG.jpg" group-title="VOD KIDS",Ejen Ali: The Movie (2019)
+https://lh3.googleusercontent.com/jmLxzKTov1xWOsKFZhNooBeqEsQi6Y-HV2tNpU1QCHwbU8lwD5TfyOw7Hh-mSPUD1F9xBlK2vZPX-p8DMw=m22
+
+#EXTINF:-1 group-title="VOD KIDS",Nussa
 https://www.googleapis.com/drive/v3/files/1kkH-g4_BSJjxeogL92s7PUe-gtbLuFYP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="VOD",Nini Thowok
-https://www.googleapis.com/drive/v3/files/1wEwUCCP7rCu_vHc1UvGt3wOivv9bJHqo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Ikut Aku ke Neraka
-https://www.googleapis.com/drive/v3/files/1zPZRiKTT5l_QJBCl30h0jxRkn9TDByem?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Ratu Ilmu Hitam
-https://www.googleapis.com/drive/v3/files/1A9UotE6t0j_WIJHuUzh955B_whbgobDH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Kuyang the Movie
-https://www.googleapis.com/drive/v3/files/12vsWG5l2AFBTRL7wyhxDZ619rErYQm67?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Makmum
-https://www.googleapis.com/drive/v3/files/1D_EKnGSUPx9RYov0Ac9aqSjCKcDT8nE-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Makmum2
-https://www.googleapis.com/drive/v3/files/1P1lbKw9bSPNuMvkuvdzrOruZSb4zlKFc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Suster Keramas
-https://www.googleapis.com/drive/v3/files/1pXZuKXeoDF65gL_DOw8xM7rLdYTX0KXk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Suzzanna: Bernapas Dalam Kubur
-https://www.googleapis.com/drive/v3/files/1flFN2SuVqGkovnP8InCYAT25Gs4PPh3L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",40 Hari Bangkitnya Pocong
-https://www.googleapis.com/drive/v3/files/11P-9J4UtFB7CNMrB6uP9IEy3M0Aslfca?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",The Returning
-https://www.googleapis.com/drive/v3/files/1tHP_UwvBNy42ZxkC1t-a_XhET0Mx6Hx8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Rumah Dara
-https://www.googleapis.com/drive/v3/files/1cois71zhOFOddq-LPZNRueM8xJ2hxIVa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Hompimpa
-https://www.googleapis.com/drive/v3/files/1X4s4T5zjteYQBPXyZBErbhE2U2Ah-Uf2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Kabut
-https://www.googleapis.com/drive/v3/files/1Tkdasl51whYeYlwXWRAQ-XoUtW-qGoOt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Aku Lupa Aku Luka
-https://www.googleapis.com/drive/v3/files/1gIerC_eM5V40sK3Xa-9UzjM1heGiVY64?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Belenggu
-https://www.googleapis.com/drive/v3/files/1eGJ-9tT7_Xp8ulYNrPtbNagmGDCBfb0i?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Alas Pati: Hutan Mati
-https://www.googleapis.com/drive/v3/files/1gIZUNpRo-r2RszkcjZvKGIVa9n23L8bn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Bayi Gaib
-https://www.googleapis.com/drive/v3/files/1jpp6BU2TDMiG7QIGqqcBIXnT9r2vbIo7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Pengabdi Setan
-https://www.googleapis.com/drive/v3/files/1Z2xItp-0ua2HKD2ggaNampcE60XEAddp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Kain Kafan Hitam
-https://www.googleapis.com/drive/v3/files/1vyByVmTWj4bHnuTaNWJW25dROnv6VIbC?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD",Pelukis Hantu
-https://www.googleapis.com/drive/v3/files/1QBFbdxKb8iXKwzV3Cir1We_Tung25W7M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/5rsBKFr.jpg" group-title="VOD KIDS",Scooby-Doo! and the Curse of the 13th Ghost (2019)
+https://lh3.googleusercontent.com/EpPRg-UNMNIdX7NRnaFChCp-9rndDHTvxnfa-YaFgJ0eMiLJdLqLPq3GaYBJl4C0DuUhxTT8EM1gAENkag=m22
 
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/1tfTQSibpB7wdHKezDEjV0iyWo7AwN72WlmFGaUUw34S_Q-3z9-8CEbhVUXjJCHIgGh-QD9yIU-k890WPxm5mZCuBhYhrqmeumox=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Nice.View.(2022)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517828
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/_uDvDA5inPMBq2KGVmFr4eXiHCtreXpobkPFXUoTbPGYFb9mFcN6GKBgTHRsK3_3BJCQ3pbA6gO3tTDGlglWPUbbqPmpAl5X8fwM=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Interceptor.(2022)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517829
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/4RRdBguoJt7f3tckpU5IFf3yLkTwDSKYsM_W7872FRp67kYOU63SLZE6IVARtiN1N5W-UDxkqQGPQXiETSeZnpo4M53pSzjgklCd3g=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Father.Stu.(2022)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517830
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/kdR7JWRVJGZAz_obBgSzw0xnrEqf6XCBdp9l59m_EOZS2X9U3OvHxQF-qU39YFwz9Nji-jOjrf0exbwNjD7CZ3esP3zacMCxYs6q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Emergency.(2022)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517831
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-I6ZkzfYUEINZKgJ-iRBsh2Ee3RV2Cm9NsiGya85dinvbcCoRwzsB8baN8NyhLXqgSUGLKXjDL0xss4mcfTaAzV3AVxAQgJ3LMCVFt0=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Hustle.(2022)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517832
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/oT73ZblNhRdtcmivJw2aiENtPZvylVkkNZl1vhK9gELsxlejjQ_nWVlcmpvWb3BqI55Xfcgh0kKHoDZx0XrqWWVac0TIdmUY0UupGQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", White.Elephant.(2022)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517833
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/kdOt87iKZ2WsxUAJd1N-3b4EiMA0RQwStbhMI7eadoQIcZH5WxQlpuuan-Njc-LNUo0Ja5X_lUrswN1WE_sdb-Bwf9nl3NBCR8APxQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Prey.(2022)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517834
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/SD9xCtXVr4eNAv3laBi9XpmdmDhGN3C_1UAkuoVbDFRh7MUWC2Y9GyAEcyHM9euB4SOyTibO04R6jfxrpVUXtOxg1Q4vLT7rwb_o=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", the.one.(2001)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517835
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/LQ2PW3OkwqVLe3qJAsC04iWndDdXu177hOYBO2gPozp1Xez_nFWr2ZCSU1GVFhzOL0SPzQ850OtQB_9D3uY76lF_s5145-_e9wAh=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Resident.Evil.Vendetta.(2017)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517836
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/i5fzWwTpQIG7yIyroCXXl4Fv8KfvlKqD7-iVty8DRFFsn5VKWaj3Ae9h2YF_GSJ0oY72KKTpCItZgsUNZwRo01_Hx0JemV2M7_WrV5c=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Pesan.Di.Balik.Awan.(2021)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517837
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/NHPXcGXFfFElBsQQIMOXP-Nr_MrAwF0byEDx_t7iMs-FXl04-Tz-ivezerpqtkyI3SXycB2olJ9gzl-HfuR3lo2RgTG52cTR5lDF=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Paskal.The.Movie.(2018)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517838
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sdJxsOBA1CbNAXVW7iWZX6ueaBvt7NQsFODIXHr-ajsfwn4MsqpHg6-V-El-YhsZpUIdRbs9dbyF_lIHV6p4beERIf4ZTiVzUn2p=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Naruto.shippuden.movie.1.(2007)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517839
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/3HX2EbtMCkuV7jYuf0gc8YiJ6wTMkZj1gS21uyDL8T_Cu27XRmFKV7A4bIw02Xer0vZaxvoJ1jVbuuY3UOJXgrdecSQ2ehegrdkFIJA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Ip.Man.The.Awakening.(2022)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517840
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/B1axbAaRce4w_odQN-iYPuRNVUboXNYJcrMP6mNMtDL2KXUSlO6EkH0U8swWsZnOSApBkuSeKVUxHrPkGT8korwr5HLeszYn7-7ACw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Godzilla.(2014).Dub
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517841
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/TtqwhbkwrGkuaTwyioYfHAZTMWoRqWE-1BfcpOOy90HOGsT95IroRg2QAlpvi-0E0ojgWgpU0VfYOKqqctvW5fLyb0LCC1adutzd-A=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Monster.Hunter.Legends.of.the.Guild.(2021)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517842
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/Xz2oGfVF8Jx9PI8BEq3ujGB4x0oy1QIzCEkDyPrGBA1HeUt4XqZ8mXWK4_3UIZle0upnde65_W4U-hSjWi4pPDBg--E2TRdRynR6aVI=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Edge.Of.The.World.(2021)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517843
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/473rCV0gOTn4PFs_9TlqRkvCv4uKnPmUuecIhA3ZMpQwFrm98CGn5HmGRF05OZB0ljUmesD_FLXvhGmmLw5tBsjT3BkRxVi4FJne=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", hantu.jembatan.ancol.(2008).indonesia
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517844
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/HOYk7PAG6e-MvKlyYas9sIn-NLJFbfrkxm5sgCqeEgyVbKVo-4lC46FC2amBM2CBUhAvL4VTdG7a_gxnfl6vd-DSes1DKSlqSl6Dgg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Fluten.(2019)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517845
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Dirty.Fears.(2020)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517846
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/J-8Glx29aK4XhKJ0UjEj2bqQmfz34QanlPVF6WzBHLzkdli5qu9QkS_aMYHORgsZASqhlS0OaiUEYy3h7qKOsSKGi0yMOpPhcpxso7g=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Kungfu.Zohra.(2022)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517847
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", 20th.Century.Boys.3.Redemption.(2009)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517848
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/liOm6Ro0_DYKHEGw26BVNmIIYFgq3pW0JCjlgcj-8I9xNd_LyVoHbyvCXOTaS_YLz3J-PAjW8r-JCuxD2EiCoD3KlIh-MqX4x0MB8A=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Minions.The.Rise.of.Gru.(2022)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517849
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The.Racer.(2020)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517850
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/vkGAL-iMPayb4D809sTN9apOYGl79Bq7iYBPuN20RWyzOmI89jCMmf8OAy5PAhI63HDigWqDTQH1XQGucKwcVILcikWn2RWDq2oyUSc=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Chip.n.Dale.Rescue.Rangers.(2022).Dub
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517851
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Reside.(2018)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517852
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/2iXzqw8uNYPnXppbpqeoac5pa5XRJ7Td1MW4-BdEBmX9uR444vqRyW2voLdgfMRR8kJ9B540g6KSg916pWbXCvQRfwNE1b9vr-bX9OI=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Chips.warkop.dki.(1982)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517853
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The.Singer.(2020)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517854
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/YsJpcs_WNQBNsnFYu1AaviQnwsoMN7wRvRm34grh_g64PtyL8MuYsbQjaTVsYj1ajiyauGFzmRW2vrn116rkwWi55AsfEyhoWZFg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", tay.Out.of.the.Fking.Attic.(2020)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517855
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The.Con.Heartist.(2020)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517856
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/APf1tX-nL1WcC1ydKWqaSqTueNKQJeT0ZMhyHfx90WYrh_ZOQr6feOcq_eXnmt-AMdGx0bS_x2YjajIfK_obDu8emHpA1YFPyo263Uk=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Teddy.(2021)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517857
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The.Block.Island.Sound.(2020)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517858
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/22A0Li3xEOVHkZ4f3pMsUdqq1d0zIx61-dZadfvMeJsBp10tEkwOmy01RGORhKCHmhs0lo800hvnUohL9Y3ONBXjqGONkl3_ERL_SiI=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Backstage.(2021)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517859
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", New.Year.Blues.(2021)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517860
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/QFXSQ1tpM3ikAQZlAjaDaON9aDtFOyXgsNhOj5zOtQqVto6mcZfNXzCn83sdqc4-z9cFXbtQ2ER36LxPP187oQaHAPXJKS3HTF0sWw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Erzulie.(2022)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517861
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Redemption.Day.(2021)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517862
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/b8OH4bYDh35Gp4PA8G-T53QVLPxMAPaY_9LTx9dzLQ-l1w1ggZmnVHHZ0c10asBMFUsHouh-ylanYFwyJGvhVAQppGR1NRrNKnJwqg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Death.Count.(2022)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517863
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Hell.Hath.No
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517864
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/wtd6QHwHvX0TyXSDECVmfkqfRe23Mzj3jQANa2Ubt-dgP205tHaT2zYX5CVBlhixUcLQano_m8txz8wmzrvijaQDs8K0acWiKwMCYw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Butchers.(2021)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517865
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Cherry.(2021)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517866
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/B1axbAaRce4w_odQN-iYPuRNVUboXNYJcrMP6mNMtDL2KXUSlO6EkH0U8swWsZnOSApBkuSeKVUxHrPkGT8korwr5HLeszYn7-7ACw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Godzilla.(2014).dub
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517867
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Sheep.Without.a.Shepherd.(2019)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517868
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/fX4aoOVopEnbZRWOsyf8uyyCgpf1WMW6wH0DyN_jPSRIPs3lydQt3-vbTU32qZJCxse0XaqMUum_uLh-M1BLv1jfsF36zu-FqR2F9Mw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Dongkrak.Antik.(1982)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517869
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The.Vault.(2021)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517870
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-giYrXx2R_8GkPU4YP7xpe_74tDn9zLfoZ-uZEp_Dkd73IeOOPg2nXkES2Z7XcuCn3W44UdgRpE99mxDvegFY3oQ5aXWE-tibZ81bm0=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Boruto.Naruto.the.Movie.(2015).dub
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517871
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", SAS.Red.Notice.(2021)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517872
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/BiijHVQLn-f3URyB2-iAYIymbR_u70kM8iNli7Mm8TdOZZOIVKmfIZlOdNsmhtgD1NrW9ofpEKEAbiwOLmL4oNkuDNLmLYA7lxr7=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", sobat.ambyar.(2021)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517873
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Raya.and.the.Last.Dragon.(2021)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517874
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/OFcIa8Hs5CS98XQIo-6Dyb6HIv-Jn2lS7aWsGNDcMrXA-0Cjw_TqCEiGZEmLAcS317t65WDxMTgtBMdFjCX-0qODSA66dZsScZSF5gk=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Doctor.Strange.in.the.Multiverse.of.Madness.(2022).Dub
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517875
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Motel.Mist.(2016)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517876
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/qpXYsUXKDbIT8ynVcQz4IaPiQv32h-y4vwMVTtX_xrxP9A0dsvUiWtAUSh9JHjzbyFzAjUiVuUSwMUXCjfYJGDzkJ1_MaGp1QFn4vQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", CODE.NAME.BANSHEE.(2022)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517877
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", 15+.Coming.of.Age.(2017)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517878
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/ZbPRA03tpb5qkuP-QI16WCueqDmYqe23BEt2KQRw53oRdb3l4QsjA26OO5X72tbLLWoNQxoMZGMn3FxoZINNGKNbkR5_6s3vbQwSnw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Sonic.the.Hedgehog.(2020).Dub
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517879
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Doraemon.the.Movie.Nobitas.New.Dinosaur.(2020)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517880
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/_MXHpX_1tKg0-ABEqeRscNV9Gi4p4OROBg5UEMvU-8GxvF9pBSgi9eg6Wrm7WynZNvm35g-Fxs2y1G3lmIH19ohPZjdtHNL0wE5t=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Promising.Young.Woman.(2020)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517881
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", janin
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517882
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/w-DByBZwES5-XrkrsGDugiJs8aXxOO6nfMe5ufTg72ADyrWhEZS661kVrc2GBKQyC7IY4bNmW9LM2ie7Y09EKcggnAsdyJp5-z8W=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Quo.vadis.Aida.(2020)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517883
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/sbSOlVZDzzyg25lzoWMOFij2yBz1s7nWfPkORgCGUuNBAeEmznfHQeHFUpY3ZT4iMZq_A3lRDphAioXZTvIx5WePcK66nbxnHBvSNg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Sacrilege.(2020)
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517884
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/UpdUZy_CveCvDEoaRdZYwISmhJ7BgN0d_o3DjT0QQl0OUoTy0_y1jMlTULa-UYKUmKV_7ZI5THbpmNwFXq4ZeIzvvIeXwwUTfRo6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Ghosts of War (2020) uk
-https://www.googleapis.com/drive/v3/files/16T1SsVM8cyP2wN7Ko-oJ7YfZGlc34QZ7?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/k8BRDcNa-7z39Dr_VmF0IlNrcqZwaGVqDME3N4wNknvc-qCOAELLZ9_kW0T2XTpw1a8969mVj5we7kqbhTGt1YiuTtbhA5R12dpxBA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The Northman (2022) usa
-https://www.googleapis.com/drive/v3/files/1GY8A18bmZv2ta3Ky72ayNBbwx8ohSAbs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/HtxYQdD4bbQGm2ZRB_gCg0leeA5u28gEKvuxLo3vkM9Uy6BZev-T4XvT4bAuh-jVPJu2JduP1wU8aK5XyyL6L4GDTtYrd_wUVoeW=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Titanic (1997) usa
-https://www.googleapis.com/drive/v3/files/1QHwB0tFW4snhhhbDKwURtnqqY7c-TCRy?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sIoTTORbiV8hjt9MXJEN3m3fKTyKEf62i7q0AR_APY0MBCkGy4rEB04EswdGfufGyagnuudBoKXg1-qlwG59YjKBiqSqV5GB5ZgpOQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Lockdown (2022) usa
-https://www.googleapis.com/drive/v3/files/1Rh_6UBnqmFToflfd7jAO_Hr2bOY__sHB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/akipEbBoiuzgbp0jGQ5EWfFpuVsfMPRSrk43iM0icJNjMC7PUWSJfNskSY5q4dh2RalxcS4h7Wp46QqiWcjMSES1zeqHdR3sPLmOKQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Kabhi Haan Kabhi Naa (1994) india
-https://www.googleapis.com/drive/v3/files/1W5oJ_xXLS6oRa8SQ0BopMAskSCTWgHQs?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/MH6BqOazOYXizE0frlPL7UG2RHG2C1D1ZIdCk158cTXceRzybOLnV_I1FaDCrcbrcNWDEs6XMbm7lY9RspmGTX-NuyqZG9t7J6chzac=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Shrek 2 (2004) dub indo
-https://piohealth.files.wordpress.com/2022/01/shrek228200429dubbingindonesia.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ac4doHrAgQBoqBBkYHdyAJt4ZEnwnKyNGwSPsC2fJgO233VibBnTiWL4NKbSZua0IARXbTQY69ylzHQiGq-MMiMf1DiblUHvsq-W4Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Kamiarizuki no Kodomo
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/-kFi7N2GOmEJ1kZXqwo-ug/1648839600/0/241c9a4ce9474ac6edcec21f7f91c461/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7WolzNmtHckTnOfGeRGOUrkZmTmqUKrtOl3S40_2fFDNwnw2GlLXrdivoAwxQa-1757HEwVe8eKW8WDHxqpv_xJ2SI8u3wKmg3JVTQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Dilwale (2015) india
-https://www.googleapis.com/drive/v3/files/1es0MEVQ96Qy01O0-JMYUcmYT3jiwBkMq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/STCBPbTNHizPGM8OISVJ0Kt3PkJMQKOC65bnFUlA8H3B46OkLKI8vN-z-94iIMFMDCE0TFn31x4eT784_r8g1pnzndMNQQ1R6s_t=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Li'l Spider Girl (2012) japan
-https://www.googleapis.com/drive/v3/files/1ALT_alelx2GdMPavzhTV1CNVOh78kCef?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/a1h6pu--80ZXiuf0Hj1GzHaHCxr1Jb4g3hjw3yNt7hcA1MWON2qc_8KKadoKFH2oR1fF0oxb5rZPQbXCTJX1qPQ7IuVgJ9u8tCPAUg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", KKN di Desa Penari (2022) indonesia
-https://www.googleapis.com/drive/v3/files/1dTPeiBTxpP9062bjtqHk_GHhAwDKxiBl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/j3CfrLw0x_2gsqz-H_bPfchypESOd_WQtfBKP3UonDjwTbUszvcUsMTskeZsqCLX8CDF35hr4MvHKYLiegPkFhEX3KuHMNte7osICA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Spider-Man: No Way Home (2021) usa
-https://www.googleapis.com/drive/v3/files/1CnE5olRlq_aeDi30JTogBY684kzwazww?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/bqtwoCugNVe8VJWmYd2ndSAoPBLtwcmqS0TdLItL7lspNg89ac-Od9hEDY9DLMz9od5CxDdRqtyVtLUy8-ja7b5z-fHm78LIoq10=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Fantastic Beasts: The Secrets of Dumbledore (2022) usa
-https://www.googleapis.com/drive/v3/files/1wBlPnIsWZUVM8l6DacnBKNJGN84woaMo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/3jDnJyKfqW6iGKgvMBWESjdnbQnOziF-TfrtdaqMiDmEI4VUEquoJDmoMtH2yvEueQdzsA05wjM6R3WZYGrwyJSFo3925InkiDiqbg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Spider-Man: Far from Home (2019) usa
-https://www.googleapis.com/drive/v3/files/1nx7H3arxeJKZ1N03PELb96a_oMw30E95?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/RiMWBSdqt4FlPxsnYA4hkXQUM3p4R37xkAfdDtorGLnlTegrRmqIAU06qmv4AY64OY9f1tLZgs9oooofsEnPRjQbmnwApbZWiM6nJw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Kuntilanak 2 (2019) indonesia
-https://www.googleapis.com/drive/v3/files/1VTxZROTjrBTXzj1Y6hef88vC7p1Tmmyj?alt=media&key=AIzaSyBkK04Xe0ZzIRSx1TcZyHvkkTGEtkPgugw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/mgqzdu8bR6a0xnxnPDYy3lYFxmBjWrqhV3sxAkEXSWlbWMGePdeAp43vgSSAImnWmSiHHMpK5REvQDCP1bfdP4MhGhjKuSdUrEri=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Iron Man & Captain America: Heroes United (2014) usa
-https://www.googleapis.com/drive/v3/files/1oCr_rhEWsPc1ciw1BHp7MvresgsgGH7z?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/cmPnSLxugTeYuyyypJlZ3li_6uai9q_fQ-jrOG5UJomB74EA9EDG6uBMEmRDqAXly3hWPN2_-QM6riiabey0dCHohK1xyZqDu38OmQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Serigala Langit (2021) indonesia
-https://www.googleapis.com/drive/v3/files/1o3OporhpI8jqvD41RygtWlCh0SlJH4RR?alt=media&key=AIzaSyBkK04Xe0ZzIRSx1TcZyHvkkTGEtkPgugw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/2W1eoIsLR5TQR5xU3Xq0yMDZg_njG38iE9an6qSEUxRulH_IczFIEHMfz4pjmt6a5uzaVKEUh5PdPIve6AUDdvI2AW0x1y1TlpSEvQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Spider-Man: Into the Spider-Verse (2018) usa
-https://www.googleapis.com/drive/v3/files/1tajh6Lby-TFatzReqZU4IuYcWU2FSo2P?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/VKzLC8maIrC246NY-UA9GZ7YhBnuO4nWC6b4vQosSFRksbdjhPoKzm5tXavKPCSwGeKk8qiBPgWV0dkSE515qwzavBXTH6eZMbIp=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Free Guy (2021) usa
-https://www.googleapis.com/drive/v3/files/16oMvH2kdOThVwCcj040ENaI_V8V7m-Io?alt=media&key=AIzaSyBkK04Xe0ZzIRSx1TcZyHvkkTGEtkPgugw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/qAfOibsyUgKJQ_Nu0dFDZPwxh1RZqOYWPQvg68iMwPVY6ioLyH9ukeG74rZ2Fl34vximZy-ewDxByACcZ-1cIGnvS1N0Z4k4mTg8Tg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Spider-Man: Homecoming (2017) usa
-https://www.googleapis.com/drive/v3/files/1lyBj03wKCzWYRqsSXolpKdyIYSRLr_Ju?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/bjlv_lV8J084_sYzX1cxpvyhBzw7afnQZkNvc93N6dF48doizIGtAxB3U-RBA8TFVZV6IBuvbWceUTH4d2VGWFgdmJgG9VSp-erQRGI=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Ninkuu Movie (1995)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/DTePJ8WpjeMzDNbfZZMwcQ/1652382000/0/b4612c3a111b95c5ecc3f569e10b118a/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JE7a1hnTOr31_3hdF45Q1KQvm6hyEPZjHpz-xpnAkU-YvbcwVVbGvjl4TdMQwZ3z4OPkyTQQRaQUOpqY5eE-p6CQXZPqhcMkIXuo=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The Amazing Spider-Man 2 (2014) usa
-https://www.googleapis.com/drive/v3/files/1TWZgNl6gRQUiwDYJFG_9p_JT68KgSbjk?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/xyosIZcRpsR6_TpHyooPDFlj737Vmb5Ib9SArpW9CtQr5HR65Hmywri9sRbHpLpRyGUuwWY9SjOel2eCqsAuVNFILWFs4K0e-FFmNw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Warkop DKI Reborn: Jangkrik Boss! Part 2 (2017) indonesia
-https://www.googleapis.com/drive/v3/files/15Ge33KckN3-Dlc76AYRW9feKXrtQortG?alt=media&key=AIzaSyBkK04Xe0ZzIRSx1TcZyHvkkTGEtkPgugw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/w9RSk_lfO5Uq_0rpJiVJapLWGccVmw-Q1fW9Z45Yb73aHo_HV_bWP0NYNcbx4Auk27QKfzf3HwcdDNnlYqSDRQ7rAk286Dlo8TgA1g=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The Amazing Spider-Man (2012) usa
-https://www.googleapis.com/drive/v3/files/1-uXki-6H8Xm-s9P9ztiS3CzD65WwfYo5?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fpZCOsHojSHD4O8sqc7X9Xy1orvG32FcS_AgEdwlxw3u4Bm_nOgiOiwEZmu9Lxy8YneD7bb60SLbBce6ah1sz6ZWCsys737EhfdX=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Menunggu Bunda (2021) indonesia
-https://www.googleapis.com/drive/v3/files/15Tbt73Mzdamg9e4hoKmhSxVHzeaUtssv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/vDPGqfiA5z-tyn4-lgzvZve_FrBAGwx6nJWGkwJe0MSpfG7H7xovYc7biPIMkFenFRhPcX-4GRAEdod2wFqFUw9PDQmBXtdlby5F0Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Spider-Man 3 (2007) usa
-https://www.googleapis.com/drive/v3/files/1krgbQT0iHa5oDSHKOZrmmonyq0yARQ0g?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-V5O0wuIFi-QkPpn8WC7aunmYC_e8rYBQKau0sOW_K9EtUioi5OfhPZTbT5UoeAkkPb8WZHJmj5Fy5qXvpQQkcq5He1e8NJl5XygfTs=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The Lost City (2022) usa
-https://www.googleapis.com/drive/v3/files/1YdtQrRJ_PdZ4oGSkcFkT_N2CAwcQ1ffV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/xCPuy9T7fz4HA5GUB6rgAvj3EPcTUmqDpotNFvQ-fvEAq3D1cf4pOqM3RHImuB05fBt_MVlEwYaKLIwewlRVRvZLgJ7mNEUR0OFz3w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Spider-Man 2 (2004) usa
-https://www.googleapis.com/drive/v3/files/1KkW3OhvPf07Q3MQP3wrbqGJ6uqV9DXF6?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/VGMSUVLFOjpYpqtYs0H84E5f1QliC-N4-s7w8sZDe1ggvz-31XRtBCHwgxVuaZwoqwLFX2sPzDgDP8PVup4FuWspgiYP0V92j-ASFQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Sebelum Iblis Menjemput Ayat 2 (2020) indonesia
-https://www.googleapis.com/drive/v3/files/1XY3WiSrkh8vrDMzu3W2UkpsyGDCL5zfF?alt=media&key=AIzaSyAj9GWz4M6yOr0uaeK-3iwjWe2MJ8jVjEw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/RWqckhvFlY2YW8nJb1O1kcPbyhuQpxnata0LNm-wrbDEcmBl-5Y07dfFVe729yKOLKu0fLckDomQVIREmT5fFoK5KdOgXb0g-P7-=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Spider-Man (2002) usa
-https://www.googleapis.com/drive/v3/files/1n7pK48XXisbwnAKCNW9_MzYxy1hCvRIc?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/wjrkTO4Xs2KOU2k9akgaspSv8T51MKKBu7t0AGYPKq60Ea-LovJTufKX7XlQX1_gp3-r7WPoZt7jhjbFlYLVq-rtIIC8Ep4P9EQMSA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Tenet (2020) canada
-https://www.googleapis.com/drive/v3/files/1O4_5XytVL664zEyj3Vcfez2HTtwaoaJ7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/XkWyD-IuBl8t_fhvNBXeBl3qTglYc8JBLutTT7OJggqc5mkhrrd2Izhz3wS0wwI-seRVIa0NVR6hoCg4XULbYYwq4kEeWWJYdVzuMQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Paddle Pop Magilika Ancaman Gerhana Abadi (2014) indonesia
-https://www.googleapis.com/drive/v3/files/1JU5X3yLR-3n9a4jet4EuW6DskHSGpSPT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hteJ0onjCEv0hJqEmRmP8Bb1agvmPc4R_Oa4vkl82Zpv5IP8rkIjH63DaT5ucRCYXaFYi9WdyIWouNDso41C_zw_zZMf5BoXr1npQ5A=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Thar (2022) india
-https://www.googleapis.com/drive/v3/files/1j9CPMXYLmdFE4Iesnq9pFxHa6SCG8Jv-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/rM5NW8kxVIQifW0wnF4JuLEk0cSNsf7mrKQ5pANoO5Gw0xztYrPYKZfLlOJIdkGyJ1ZFxRDOndc035BJzWLXcuEZIqAaf6N50ecwyg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", F9 (2021) usa
-https://www.googleapis.com/drive/v3/files/1PglJ9wphPXop50s6rcf4fuERa4eojWHE?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/9liL18RViRdrQmo07H2_N5SzVOEqhoz6cZFBjRSPAeKrKXezj2hOr4mc74c2KLpvuLNr6GEw28K0CmPdpXfHYCVRRqqeuYyHph_Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The Adventures of Maid Marian (2022) usa
-https://www.googleapis.com/drive/v3/files/1Xoc636rAnLbpYKtBU4HW6qC5k341XD35?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/oFaHN4dWf6hHRAKaRC0Aap762y4whlwzM6LSoqypkvBecth-QsXFAtvumMjEnNWX1hIu3D8XvRX81qLRiPquj21L9mu6fEdC5KfMEQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The Lady Assassin (2013) vietnam
-https://www.googleapis.com/drive/v3/files/1wWx-rOeIeQnk93QvhvgFl85or2-2Z8ub?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/coHbz3GrVBmCRMIdJUe9yO6TJwwbS3DIpZOR4QEhFTbcPY9zdQnEc_IX267PDhGu27RjIVhSZGdLj-fwiFeTEwGLB179NdlO0sG5=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Warkop DKI Reborn: Jangkrik Boss! Part 1 (2016) indonesia
-https://www.googleapis.com/drive/v3/files/1HVNGPpsEZ1ZWIOJYBXuoJG2cG1bZB8QW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/qxyiYPfsPsiuMnrp0N2kb7HxBV8lDTNrsHxLlnEeu1A_YZPQ2oBeNXyVTurxvVtlyhtoDQ2dYu_rd4GZ5xmQncptEa2h-tfqD9RmTQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Sword of the Assassin (2012) vietnam
-https://www.googleapis.com/drive/v3/files/1T-tCyHGpIMNvP4hoXYiGob_PbLQL_ZuW?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/kgHQsdCFpgH_8KlAW2aIwXaald7rSnkPhzN89wW1DuItWKVBseDisn03nWvkUhf82-UWCW9_3BABVG8Tvho08J7Xh8jvq8NEMDd2=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Yowis Ben Finale (2021) indonesia
-https://www.googleapis.com/drive/v3/files/1lGLuhrctcW48x-2H8EpfBiLZ9GG3JTOj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/5LM30yf7Xu94KG5EU_61QdJCBa78pDR4CCjRpC-MT8nU6eMt5KZuNEDknjERJVQ_TK2cX1Czi4wjOvExMFtHGJ3du17DIh96RH5VErc=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Battle for Sevastopol (2015) ukraine
-https://www.googleapis.com/drive/v3/files/1BsxdhEcsC35j7u7dF0S9iZbgoUli9HO0?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/YHMDRhMhI4yqSJjtz8-h5h0ypUpXrMYnmtVLA0W4of_tNSh7Ybv0GRmu-dwxcoKl23vs7cukUzInP-DSF81SC2xpc8MdhevO1zLn=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Ikut Aku ke Neraka (2019) indonesia
-https://www.googleapis.com/drive/v3/files/1X8RWuQFY5eNyDJmAYXAp0IAUREqAb5N8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/BiijHVQLn-f3URyB2-iAYIymbR_u70kM8iNli7Mm8TdOZZOIVKmfIZlOdNsmhtgD1NrW9ofpEKEAbiwOLmL4oNkuDNLmLYA7lxr7=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Sobat Ambyar (2021) indonesia
-https://www.googleapis.com/drive/v3/files/1Eh6oO3pUiMSuOVkKvU-3bNIm1D_4GxlD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/vyMplrZbdNobzEsn2z8_jdVwLhHyLF02_Q3_dV7GMe7sQ5YNiasz8_vVeLezcVgbB7AuqFpx39dhjrHql7cXVqg4b1gq7Brd6SayxNQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Gekijourei Live Action (2015)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/TeN18ZYJFws7w0I5-Dl-4w/1652036400/0/6b38920f00aa906058f8f44898641d89/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DnjZ-x-jSRgdd5JrjfFrhpLxwakWwtvuqRxlxFl3YmWC5-1MnkMWw2EJRM5_udSLl0ub5zoDwg2o_NpDmMdMRbD1hlzxzKNLnI0fgQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The General (1926) usa
-https://www.googleapis.com/drive/v3/files/1slWPzBv1gj4WkDs03-mBgygK_KUdpTXE?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/FdjlYOz4PLsz8EqAvgk54sKOZTQvCxVZ2M_GRWXpIY-434o5hDY_6WRDBGZC0TPp26b7NDyszdc6cJFz5A4Aw7MxW4EIZOLKAYuc7Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", No Sin Unpunished (2019) usa
-https://www.googleapis.com/drive/v3/files/1JwFXUzv-tAZGa9cz7ZqdKyrT1VTgz_BP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/MT55WyGbCLz-qKmPljGgcmxm_Qv9u7T9Umw7xHWuf4FIEK5Fgr9wbYD_uTxzxY4l5wnde7On3YFfTlYMaFeL_vIgB49KicwuCqRNcw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The Housemaid (2016) vietnam
-https://www.googleapis.com/drive/v3/files/1-CQpSeVzyqF5WMXG-H68sWihCqUGeJiL?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/9tmRM3fNnOfORgthqmdTHssCAaD7vRbTZxhB3pG3mCeM2Hm3n8HLAUhbu9xDD942kR8jbyX5moZNiLJbzQEY4Dwi0qAw9IA5PWDMbb4=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Hotel Poseidon (2022) belgium
-https://www.googleapis.com/drive/v3/files/1aFByyUGwpBUR2XISPye4tlzBLCIj_cQF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jPhMC81Az4xrQyGH4x7Kx4g4axACTaxmrB8TPW0rvAMbOEmDAd0oNPZUGpPUiZ9l6QKY7rWNgwEZyUZ8HWoCfCh-f-D8j7bDLM2Emg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Bitcoin Heist (2016) vietnam
-https://www.googleapis.com/drive/v3/files/1tS1VqeEkSDdeqwoqEUUKqxfUB5HBK9k6?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/v9mbgTM0sGl3Q4KTAjeQ8b31V5f0DGC0xpgeAdcbHUSpbNSfBMSzsj_oQvMVxEUlHvZ1JpIYn9biVYm7G1IY-4L7bkSmNLQv6l1T8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The Aviary (2022) usa
-https://www.googleapis.com/drive/v3/files/1e_r3NfT3e3puvqNydDSC1FYtGWXALSRg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/r9ChwdIfU3KOfocd_6FCGvrgymv8ax_B1IaqV83Gt8fMXL40Xn1Go94hMIJPLCZHYOO28wjMvsEAF02NazeDPXBqX8mmfE_XI0Gghw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Depan Bisa Belakang Bisa (1987) warkop dki indonesia
-https://www.googleapis.com/drive/v3/files/1XN7e3HbVAYsz_ibxe8v-vFQR16uX5psw?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/l8No4RpwoUE9v72XGKgYhESEMqHmREHB1yKdd3CKfIkiBkwdDa4GjfSHP7U35HJGizaPRyCcfHQw2HqpBeTHyQ2K3fdjZmY6KR0Kpg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Rurouni Kenshin: The Beginning Live Action (2021)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3j4JjydaLwZrDDkDvLSUOA/1651950000/0/322663158bcca6194429523a5b406ed9/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/w8cf0TVsAv8Nb_ZwBoFC1JOpuBF_fiA9w77FJOsHpHLgMd9rsYAESkD84-wjBwhFnOhVPfqGi6dkfCguwhoiYFiXTvU8O5NNuxxpjQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Gantian Dong (1985) warkop dki indonesia
-https://www.googleapis.com/drive/v3/files/1A_U7HLiKGurzGTnyemdj_4yd6CCGduJ3?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/SD9xCtXVr4eNAv3laBi9XpmdmDhGN3C_1UAkuoVbDFRh7MUWC2Y9GyAEcyHM9euB4SOyTibO04R6jfxrpVUXtOxg1Q4vLT7rwb_o=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", the one (2001)
-https://www.googleapis.com/drive/v3/files/1ivx3Z-q4W_TwoefOUSZJGQzpQHGzpyw2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/PHQJMIs70s5APnWBpok9B2oOORZdnfA1Z7H-n5aN-0JtUMWqxGl9NNHv1sczr0HZPtguF1l5YjENVx9iCk_iiEMW-WA8Qco-kSUZzSo=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Kesempatan Dalam Kesempitan (1985) warkop dki indonesia
-https://www.googleapis.com/drive/v3/files/1grdjUSfesLzXKBS__VKvMNONYUHDMSzi?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/THapMFTQbRg8DYhi6PkaootjbMw1R5e8hooyFEn7NPmAWtSLCoehnTGRSTUUKtSKpG4Jya06LxkD9OVkql3rHO5ckxIo8m3JE1bE=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Teka-Teki Tika (2021) indonesia
-https://www.googleapis.com/drive/v3/files/1e51yWIt9ygQOJChUWCutIfDj5dETH0ms?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/2ed8GC-8O_kyBg81Y130lEvh8x8ncVainHDSMxdR5atiDUArY2AVxYfu__fXGNHyuaNRR1jGKpActrOAbeq_yux-odK18fGeZ_M7uQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Itu Bisa Diatur (1984) warkop dki indonesia
-https://www.googleapis.com/drive/v3/files/1JWUpImncDhwBEBY1JIfUpoagcvW7WE-O?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/99mr6VLpD2wRjhV3tpC8SQLB1mqBMuyxRy_PjI5mPF96sgEdue8pun3quRRJ10t4Kn__ILmuoBdtIy2o_TI3-Nx-fL9X7-urPyHdfQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Kuroko no Basket Last Game (2017)
-https://www.googleapis.com/drive/v3/files/11TxUxmh5J5d_Sl17S5czl8rIILE0y9_n?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/WBiZ-8AnPKHYGwSkXfj1sTMIajp6iJMnvIUzsSH8SMu09KxleRS5Upy2bSRfbc3aHUFzK-EIkoN1IgEt3uNWadMDPT8hwvbFmXWa8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", maju kena mundur kena (1983) warkop dki indonesia
-https://www.googleapis.com/drive/v3/files/1SsUAvofzdEd5GBTAmS4Q9STRQfElaEYI?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/otaZoA0j14IYUTk842AURQ-chvsDQPlrwYKo_56afttGUMbcHb9DJSGIhaY8Zh_A48OZiawsitV0r7_t0PnOCZPt14PsCIAJvH-u=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Fortress: Sniper’s Eye (2022) usa
-https://www.googleapis.com/drive/v3/files/11Yi7iQ6XoX-f-eLLbOtaEer-u_7T69-1?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/0Srwjzd6XqZooU1VFEzBreqbeVIC02oRFN0ncPHj8DQzbQn1FnfyvVf4HCUindd4_wnA-upm53TsdcxMo8wUcFJtW1UGIrci45lKiMA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Ge...er (Gede Rasa) (1980) warkop dki indonesia
-https://www.googleapis.com/drive/v3/files/1LgaNLnCXQE9PEBhW8hihwfFonE5pk_lz?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1WN5I3wgzc690iNdhylrKAV9vvMbcsHpqoYizF5CccohKzfAkKzqghp5D8VZFVXwWbDVFUYPjKpA9W03nHzDFDhG-edoqIMvHiFhbQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Shooter (2007) usa
-https://www.googleapis.com/drive/v3/files/1XN2jzUGHQildK_T6L4nWiiHdcR0h13Cl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/2iXzqw8uNYPnXppbpqeoac5pa5XRJ7Td1MW4-BdEBmX9uR444vqRyW2voLdgfMRR8kJ9B540g6KSg916pWbXCvQRfwNE1b9vr-bX9OI=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Chips (Cara Hebat Ikut Penanggulangan Sosial) (1982) warkop dki indonesia
-https://www.googleapis.com/drive/v3/files/1AkO9lt5JOTW1N3KZ_A2JM50wHG--_j0O?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/9_A91mOsYoks1_-bWLpfZXgYdkWm7t9Yr3Q8bLMh7NLUEFsduNN9TKUqIYeVzD6_EjfN2cYKe-OqozicPCggAu7z84t99vnduk14Uw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Terminator Salvation (2009) Dubbing Indonesia
-https://www.googleapis.com/drive/v3/files/1ExMQr2tFd9vC8V1bcYlsrZUNlc8raQTW?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/VqimJPv5KFdIdVLwKvJLZEpTrxcJU_Poe_sRtbrDgmcywqGzdw8GmWmpUL_DRBII-6bRpvzPnBE5EDtleIbW1TumWOL8b4etn6N1nA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", pokoknya beres (1983) warkop dki indonesia
-https://www.googleapis.com/drive/v3/files/1Hafk6LzDSqRQnBlO1ZscbVhZzri4Y9DP?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lqmytwHj3VSzLjLMUiYMC26sVD0bCtNgNSGGOMG7UCoL8kVgDvyCF06UOesZdqD5aoqPfEiGsGT5lEhGQ-HsTPP2a8JxzCiPaiIlDA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", HiGH&LOW THE WORST Live Action (2019)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BKoL8kb3P8hUuNkYKyLLrg/1651690800/0/49b82f974e102ecbd9a1f7c4d54a55d4/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/A2z-Zoh3HPFx_huZoGEH772HtBbOBtFrJmYjvNh5rfHgA6eJk-J7LsU4fGSomD1bygYPd-gdFiVrFmilqgns9WsgKG5aEAsT7ppE2Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Lupa Aturan Main (1990) warkop dki indonesia
-https://www.googleapis.com/drive/v3/files/12nGqKNGiNMqFfHVM5GXB8lEkzkNVGaZc?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/eNkQ7FE6kF783jLWLDt6p-AsEUZ3mSTsmOJa9Vf3pIfj4hrBqth_hOAqgXWmASL-_yZKSKd0FgT3jIqMCwhZcPPDWIWOfPUtTzMY=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Ron’s Gone Wrong (2021) Dubbing Indonesia
-https://www.googleapis.com/drive/v3/files/14X_ZhBmsRUb2RlsMYvZ5uPyvcrXlIOc6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/VlpPhUmMMD_gSmrCjL-X-c4fT_Mc3-IQKy-1aAsKh6At2qaxw9O-SrXmhMDdwICCWDCsX9B3eSaK_LxKRNH3aERcP1AxnGzhyYPYwv0=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Malu-Malu Mau (1988) warkop dki indonesia
-https://www.googleapis.com/drive/v3/files/1UYmhfhyOTSiZOm4AsjRVYP3umvlFCI38?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/VS5SqTiWno0r5TLM-f3E-DbGKEspfhgf0CFPqQFe7wXUk8qb-IOAwjklSla23ftbmnyypCbKGIcN0vAKE0gzmT1DL0HLamsEpqA0NA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", cars 3 (2017) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1bySFqICtdLZH_Vwmc42jH9usH0_tj89I?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/YevcTeHeUqmXEaUYvTEkeoc6iiq2DzUxWT-uAgu-h0SUxOhtCD3xB9gBrTcfV_VfZn_Eq1UajChSFnxOC6bmxhCyS0gUXHh9Ke5w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Makin Lama Makin Asyik (1987) warkop dki indonesia
-https://www.googleapis.com/drive/v3/files/1hX4pU2nc6Klqvn8hycgLTLxOYicmFIiE?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gl17HA4CazWD_AerpFceSWmiCQIbNC49K9iF8LWz8-SPX-fX-bV8EvtG4hEzdp3xdUMFaD6xNMgxovpYfIPLc5H0RaFY5QCfJPkANQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Moonfall (2022) hong kong
-https://www.googleapis.com/drive/v3/files/1G_otS4IwVaysvC5tk_u1nZrtWS74AQTt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/G63MxApvose31pXT80daFtNDyFL1vginQZTsXt7Xnv3dgpUJewHdi0GyqjgB_un6Nh0Dwedg7_I1UD0tpCGyEGf85As04msylc2R7ag=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Joker (2019) usa
-https://www.googleapis.com/drive/v3/files/1s8jL9Ulu3QSZHQ_Aj6CUx2PQAbU7iH12?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/YrgedU9ZJG7JmOCZ8t0rqG7Vph66Iuhqf098AdL9W7iPQ6B_KvdkZkHo7cStCGxw_tdE9igXWZd_CHfqWf3f74Cux6jkzm9BDfIplg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Uncharted (2022) usa
-https://www.googleapis.com/drive/v3/files/1UJGW_xZNtegaoi5dFxYAer6M6Xu3kUja?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/XeKwEeq2MSC0FOdz3CavSAHCjFY0gQZPBbs8a1qB5vLHUmPoEu6LjrA284VaBM5PwvGEywQDKccIOY7LJ3VNknr9fUpKpP2CJYJb05c=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", RoboCop (1987) usa
-https://www.googleapis.com/drive/v3/files/1hUJUjmM--ByifE0extRyzaXgxUPX1H9m?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1Nr1Fqk57X_85EnajjFDh0wTMITTt4azx_MtNtnT6yrwWeGeeGBkcrE4K5NNiMl9rUVlls0BP5H2sOikWwbOSo70lElcJ_E6JbPGCLo=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Selesai (2021) indonesia
-https://www.googleapis.com/drive/v3/files/13mIbEFJ8UG-BNOidUmY2HJ9DLRVsTfQ6?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DecJV9Fd9qktRBZXiV_wdS8lQmyxFoT88bIDPGnDuxvAcd24UCank-kgA81jDcxozZhiwC0XKTqJp2KJANclAtSB_oX-L83yBQtUVw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", yuni (2021) indonesia
-https://www.googleapis.com/drive/v3/files/1vl_saBkloRCW2LGjL1fx5HNL1tcBf2pt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/VqXqOPEXKQN1rjInPw3jxLMwQggT8-vLGbmyTPHvO6xKrm_ZFvT5KdEfLeZMn41TThH7T5WuvjjEpTm-_FTyv1MY9AWo1Q2w-5o7AQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Friends Games: The Movie Final Live Action (2017)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/98g8AhyqGlniHRvxL1KCbg/1651258800/0/6b952ee4c4a8ab2eef5db5cc4b39d6d7/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tLZxloL3m376Tt_6pkYWNvWGxQNlewsG-pe1zRIwUBFBEFaY1HF_7w9Q_EF6S9HtGQiQ4e1sGYnNaN6hVhMIVxJ86lYIEa2WXD1iNQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Hari Yang Dijanjikan (2021) indonesia
-https://www.googleapis.com/drive/v3/files/1ugaQ3zZZvZjQKT3lCI4K7YxSHHDxwrgr?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hXFe7FZeChygBX-Vx7oJGKwJEDD02xcb3AxCVmOhw1Fqe5O1TD1yjqvGSDZyeqVzNm4feKdn1qG1FoIoxXv-foUFXcLU5Wcdrko7HQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", A Hard Day (2021) philippines
-https://www.googleapis.com/drive/v3/files/1LlKDPrE1zbcrlWlzUI_OszBsg8oyiA16?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/foFrU7tjlY9Sfs42i7aEDApv_0ojFAmxtyU1xNBu6nUaQck3c-MBx5f_kQnnv_KkVYULf_omY3EBePdfUCgmt4AryUUUkgXgJU6NIuc=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Geez & Ann (2021) indonesia
-https://www.googleapis.com/drive/v3/files/1aTnuUovWYEgaRvzP7QFYSUv7Hg_6_moJ?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/kjGYo_QKJQiJC9FBI6NNtF_yo07Jsq3ohB8JYZG82NJBByG8SDwi72ZVyawJFHF0yxeNgPt8Ip-DBLFTqo_ZuaKs09UYHYbvf8uN=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Ju Dou (1990) china
-https://www.googleapis.com/drive/v3/files/1creLA5BPZp-xNyoawGQoRorBV6SZUswk?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gp35jQ_OaZYTnVlYO-gd_B6M3f0MPqIM56h5ip3KP2uIrCQEgYrXRzPKOuUOAI7Dv2F6Rv9aspGtKtGGMGLNH999_Lyw2Cq6ZDlw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Storks (2016) usa
-https://www.googleapis.com/drive/v3/files/1qgQOKJzBBMzj7NODkDiIkpAR7UiYQ0n4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/XSrZWML84YGSK5BzB8CYeDHu2_1eeVyEg70g64tq8_AT7pvo13M67I9bDzmPsuqKeV6Cw3Su2YKWKJdLqhRFYO82UErwQ8TVbLjw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Hostile Territory (2022) usa
-https://www.googleapis.com/drive/v3/files/1LCoM0l2TCpeiSmV9pLAPKo5QbGgEouSr?alt=media&key=AIzaSyBkK04Xe0ZzIRSx1TcZyHvkkTGEtkPgugw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/KXsmKykFlMzSYdUcjfLmjx-ae7Y0fcnNZ50XttR47RF84WOx55I7aTEGgEMF7oo2rV5OB6W0OOoZj0ElyBlczIxEzk-n2nrhsw0c8XY=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Chandni (1989) india
-https://www.googleapis.com/drive/v3/files/1fUEfXcvhaXxUVm0a4cziYQaUQPEDNFU-?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hAE1E0YKPN3SfRnczgHEpPOxmjojZx7GFFRTKmzg0gaVUCBPyjtAABb4VTolYx4JJT33ddZe8k07IPZ4124n8Kxy9aSLFl8JEQF_YQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Rambo: Last Blood (2019) usa
-https://www.googleapis.com/drive/v3/files/1zONQUeQxf9KjYbwjRyPIWvgyVcQIcRMD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/FhHMWgtER4K8X92MkJGVgjUF_JyR3YrgKM6S_2e4EP-_N0mgeK7SIwB7Z9A02zaeEUssuoEl4xY_LyXpLeve01vphXby-izYh4NgLg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The Legend of Drunken Master (1994) hong kong
-https://www.googleapis.com/drive/v3/files/1S6waX6PUyUIREhcxAJMMtGmK30BCvYiQ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/3M3dGlzFnHd0HUxlufHiaWqJFehYALzKTNC-UgZFxXFqufBzUrM3Bqe11SIuWo5ztv1OJDXX__b0flj3JmDdDdWQBqOU8dJdNQaoK_U=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Doraemon Movie 38 Nobita no Takarajima (2018) Dub indo
-https://piohealth.files.wordpress.com/2022/01/doraemonmovie38nobitanotakarajimadubbingindonesia.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/j5RmPcG-qmcoFVbmw1te66nmSV4YIhUx3aSWhXAmKJtafho5zdGAH1FRT-DKEiN9JFmf56dHH23SzbhXRIyqIitfwBln2wbqxikhMw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Bull (2021) united kingdom
-https://www.googleapis.com/drive/v3/files/1-KsuGfAZwctPQ5N24DPF31UWF26FwP-V?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ZbPRA03tpb5qkuP-QI16WCueqDmYqe23BEt2KQRw53oRdb3l4QsjA26OO5X72tbLLWoNQxoMZGMn3FxoZINNGKNbkR5_6s3vbQwSnw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Sonic the Hedgehog (2020) Dubbing Indonesia
-https://www.googleapis.com/drive/v3/files/1xje_v_0dtFR2KEoH4tvcWXTodC-KsVZm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jFHjyhl8CqvbVLQ3cewznp3d9JAvwATmBOL_RznuQPGmOwNk1HkPEhtgFhTeQFtjWWSNJyYMVPgXJGXZvDB4iJvMPsZozB9QPYmlXWo=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Khiladi (2022) india
-https://www.googleapis.com/drive/v3/files/1Z2273dOLy2m1YwF6zPb-dr556SJbpvFf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/i5fzWwTpQIG7yIyroCXXl4Fv8KfvlKqD7-iVty8DRFFsn5VKWaj3Ae9h2YF_GSJ0oY72KKTpCItZgsUNZwRo01_Hx0JemV2M7_WrV5c=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Pesan di Balik Awan (2021) indonesia
-https://www.googleapis.com/drive/v3/files/1NmsieiunyOpTqrqQ7_PZ8jERHoolY69A?alt=media&key=AIzaSyAj9GWz4M6yOr0uaeK-3iwjWe2MJ8jVjEw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/kpAZPtTzacP6GAantd__rChvqkud82BTN6RT_q9WuWXMMdcLtlc4fi01A5-_-gf3acbs4QOlWmL3_6iqY3Y6jbDLxlSxOwrd5aH0Pw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Devil on Top (2021) indonesia
-https://www.googleapis.com/drive/v3/files/1d0a7BLvZbsKlxt_SLSX3qsbC16bbTBqE?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p8CbnLHY0DHGRn_7SZkJeZcxXZmVbMZKJvuh1TeOAwRmWx6uFsEUKb8J16jKLN6pN1_R2EMxsOaJI3bcDanZvlEREhqP_hd4idA8YA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", A Perfect Fit (2021) indonesia
-https://www.googleapis.com/drive/v3/files/13BPmO17T3pUAi1G3ds3A2zP3vfSrEijQ?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fTH8Qd8aXti3U84yPhjuX_VJeMNiBWqVELlu3ReODRHehGYVTxauopY884PFlUiyrWkKtCnO8cvFlHNI5_F0Q6pW8pqpKqoS7VMjhw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Resident Evil: Extinction (2007) france
-https://www.googleapis.com/drive/v3/files/10_t0yoC8DTl5fXGT5KXisbGnZ9Wb1B_e?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/KbcbMBheu1LjGrn-KoH-k_xntmMFf6XPQbiphNeEunzO5JGGIfvseiD6B-8nGlhZHUUfZwhktBT1arGxQJncJakbvynsjyIVjO_Rtg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Pasir Berbisik (2001) indonesia
-https://www.googleapis.com/drive/v3/files/1s5ptCyyiaTSbkd29b-mMsnHfjl_J4yTy?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gm5l-HB0nMx9sKZp_8Hn2ItEpoaZYg6sYJf4umgMwdUu7L5Q1i6w0UYdTpD9yrD6Fx9NwY-R-D7LAGdxpSAZdDbnooSpAra0iZT-=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", I Am Legend (2007) usa
-https://www.googleapis.com/drive/v3/files/1cmT0FziizoEtNKjEeTV73lhRrxayf5LL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-oe8L1NZlBCDvB74_j-4wv2v6ycsjpIw4K4pIZ_pihTA2p9buUUXpIMboxs8zcVToOsc0lInlkAQUlLLMqA53sS-N-x8FrlF1rjenA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The Third Man (1949) uk
-https://www.googleapis.com/drive/v3/files/1BlmbdiCyGj445NgwdrNC1BwDFHFU_HdQ?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/B2p8LGzaG2lbubtnvBwHD94mN60RIx3XRexb0VigCifE7WyQSw2D7bhQKr3uvALbEKx9q8igs1-3OLNCDLMmmYMNeVcmTf1rrP1aMQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The Legend Of Snow White (2013) Dub indo
-https://piohealth.files.wordpress.com/2022/01/thelegendofsnowwhite28201329dubbingindonesia.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/TZnOxCn8BcmzycjSClUZqpRg8oCpACEA2o7pKHD8HFN1sOLIXx_GUMujdgHkxuBGjxdy-zRH4oKrdudsTOt84nScYv4p_rT7CstL=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Wonder Woman 1984 (2020) usa
-https://www53.uptostream.com/stream/7qng4cc1b7/_m_main_0.mpd
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/YcV4BIu1DMxAXVev0i_SS8fHlsnFMY39eL0lYFKHrmro_XxzI8FGGFwYaH595ak71hoiGTqrOKbs0Hr30RbHWIzRBBF3Kri4Fc3JAA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Strain 100 (2020) usa
-https://www.googleapis.com/drive/v3/files/1XC5optBiOwvAhB3OhwgxaWzOlSuKG_dJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/BRIA9mESBa5TcW88yb1T0eR_y1N-XILNV8cEhLMN-RUL2r42M6_k_M5UJED9G9oUEbPSCNKNx1Pn1AYpgeh9VZ2aaTT_9dJWMGCoeoo=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Moshi Monsters The Movie (2013) dub indo
-https://filcodeblog.files.wordpress.com/2022/01/moshimonstersthemovie28201329dubbingindonesia.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/eVPIL5CxY2xpZ9oYTxRbRNfHuocqwKH3xQpwRmILi3sBSNQ1YsAgbFpLWidoHlIavywOCldydoejEFf607cm-W49U8JMjh4OwTKH=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Cruella (2021) dub indo
-https://piohealth.files.wordpress.com/2022/01/cruella.2021.dub_.indo_.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/32V6pdMRkYHlLmJ6knjRLfbky9pBXGcxXQMrG8pR1hb3rj6gMQA9XIhTZNfv1UodjG9VGGLB9Ql-Bfujz9ll1UBxLF_WCRzIhXKCsQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The Phantom (1996) australia
-https://www.googleapis.com/drive/v3/files/1ocnrCp-dDsSwFkjqQ_lWS4YYMh1syYCE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/KF-tAAfz6T1_gO4wFAzp23mQDm1figlcSoDF2OjCofRMNk32dfD5kX9LLhN4xI3TH-ispkLZbuAMMUNzg7bHP-aWAnHT9Tv04vmJgw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Kaze no Tani no Nausicaä (Nausicaä of the Valley of the Wind) Dub indo
-https://pi4home.files.wordpress.com/2022/01/kazenotaninonausicac3a428nausicac3a4ofthevalleyofthewind29dubbingindonesia.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Dyh9oESWfhwibiRSGY0PkLp7cd2RCDpALN9Ko61v7ZdnBaY6fzIUrEknocxF72HYvvWQOcem-6o_HYQhutpvoa0DlyfvOtS9hqjk7VM=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Pokemon: Detective Pikachu (2019) japan
-https://www.googleapis.com/drive/v3/files/1nF78TW0C_xz5PrEcJ5F6z54pv0q_UKch?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/KHm8DG9rGcxeHuGVoZrFyV-1U2AOwfvtlcYATNrXN6QF-easJ2WgCCXLKz_aSEbcnLtW_HGyqeZ89X4eDqyEMtpa1xv-7j97XKNUJg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Guardians (2017) usa
-https://www98.uptostream.com/stream/7px2gw9e07/_m_main_0.mpd
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/b1oLPfm3WQKHrih3qodBiKuFKKzc2JIE2KNuq35pa50ZErvXsvii7kUA7FZVTzLPSkONrX7hm0fETPt3FRQZLgySVj8AhOaxi4jy4Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Tourist (Turist) (2021) russia
-https://www82.uptostream.com/stream/7px0i6678c/_m_main_0.mpd
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/RNIu2nXmaBtpTZY1oXJeUgxgBFoOqUD3yhShHHNOeFw5CCLJaUeAYesIGIZyPyaX9c87_SrL1vARriCwUheri6NjuxFkEQMAtU00Mg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Ambulance (2022) usa
-https://www88.uptostream.com/stream/7pwyeu4154/_m_main_0.mpd
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/oE2-S5ejmksFY6hOqWnhWYcJVQeQ4dI05quqyOTR3_B1lJtJAsF6fSlIr-g49tfewDXKZpzxx6MvVy_5Ycgb386H4v9oLk82fuDVKw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", tersanjung: the movie (2021) indonesia
-https://www.googleapis.com/drive/v3/files/1ccnAjTdZAcYStxkzSFZHEWYFwrSd-6zn?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/l2LZedoUXADUA006EHyePcfBzrnAgGp_Vj3XH7vh74dMIK-8vcDtXLM2Nti9UHdvuGq3smF4HmJiqOZKHavydiMaDpkrZlvCy9UPcE4=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Surat dari Kematian (2020) indonesia
-https://www.googleapis.com/drive/v3/files/1rLwZJ7TFYAauDt9dWuK9iSGig9OAt4wt?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/M7C0q7Y7dPs1HCD3n_RbESJOLNe2NYwOyk7pDv3TmgxD4_3IbvhR9YYeXvhKIYFcU4JsXBZNpOjZkjb1Np2oi64mmgGs3h8MDVVuNA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", A Quiet Place Part II (2021) usa
-https://www.googleapis.com/drive/v3/files/1fOQ6q3-uAyyS9ozAJPv8B145lWFN4Dfm?alt=media&key=AIzaSyBkK04Xe0ZzIRSx1TcZyHvkkTGEtkPgugw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Xpk8raKtnc9VXZcChXV7IZumSPDljI5TVtQ6jD8333XY425qWjJtllOxIzW4wSmODAim_xvmYG7JGpJBNPB7zl0ZC9vAiVuim4yO6ok=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", A Quiet Place (2018) usa
-https://www95.uptostream.com/stream/7ppyxcbb43/_m_main_0.mpd
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/bGc5Ioq-bDQiw8si3W5163rH58mNbYuXkJ3DskW6j4UUKCE2zA3pbgsKMSvjv9iZdGJ3mfdPoMkTR8IS7jNoGa04phNiHXNjQaek=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Armour of God (1986) hong kong
-https://www.googleapis.com/drive/v3/files/1W3dqtIiGVu5QloSOPzIh4tl7kAqHbbWQ?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/MwCIAQIRUReMlrZF2hjjn8Z_p1LlmEXyBUmoewp9SC17xBTwm5b76DbJ0q2SfpCT1CfqSOXqXmWW1L7TIsSANr9MPrg7TwN4e9oe=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Lake Placid vs. Anaconda (2015) usa
-https://www.googleapis.com/drive/v3/files/1XVbF1B4ORb2grwBzmtoMP640MvCvj_6m?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lnVuFU1a_6nN1YDtg1aSXz6NRhnF3PI4etHN5K7DpPW0Gjk3J0_sSdUYzbasVbsVcbPFerHMyiaw77SyZ9BHmVT1tIxFDQXWL80U=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Dog (2022) usa
-https://www82.uptostream.com/stream/7pfi3yc0ef/_m_main_0.mpd
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/rwZ66ZTVvWNGWOI965ob9LY1gsNPkdif14lhsUepnmVNCAIEJWf2eJJGIc9j0JAXu-J1eXkgGfBaDIjjiY1kgQ1XqWO3iMAJ8sNxCQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The Disappearance of Irdina Adhwa (2022) malaysia
-https://www88.uptostream.com/stream/7pfg75f49b/_m_main_0.mpd
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Fzt6CocaCW10pMWiU4zilu1mEJgggmE0MfSCm8FcJRzI6EaaJCfWJ34PMoY2LoL-unxIaOVKQHu0DC8jSpQrYb7s44Amn75jiF8eDg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", God of Gamblers' Return (1994) hong kong
-https://www.googleapis.com/drive/v3/files/18dAKGQHX-hOAvqyeUpJSoPQ6Vyq4rAtl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2_lTddGEiYW9QKw8sSO7FpRsg4mx9rSrhV_Rt2plYdg-hrNJg_LpnslEfF25xhuEtnmIXj0d8PCF0JEgzoyHqW8lfluxxbgykyD4w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", God of Gamblers II (1990) hong kong
-https://www.googleapis.com/drive/v3/files/1QESjyPsm9I3VkwIqTXgwtTgfQdUpxG9h?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/0C1dznSrBojVKrD0m9kH6M8fxrbn6z7BEgLVptNhUd5KF1dL3s20rQryjnWahnM5Y_f9magoAsHJIAL0B583rxEWKgfjTvxnoH58SA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Kau & Dia (2021) indonesia
-https://www.googleapis.com/drive/v3/files/1TgB3kDbydA4qwJMgjWAX5bzHh4a29-Tb?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/IgHqrHgIWeA1IUmnjGso-F6-_7FtqKMhJ2qKkYliZOf3uovXrwJwPPY_WJHmvA5EBjy_2YrF6iCGh9TuRF8CwvvYNpgp6PPFYs7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", June & Kopi (2021) indonesia
-https://www.googleapis.com/drive/v3/files/18bkUhiM9iTA1UkXrVKWzQ5kr7MB75xsc?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/VHqnYFg72p3LE7FWwm7JqwNoqjBTzAXa-AlRvrM_JutvmLxxb7Xl0tmegKfVImIkZmxbV1YjnpBecmbeOYyj6AM-O1xxQuxrDw_KAQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", inception (2010) usa
-https://www.googleapis.com/drive/v3/files/188r48q725lwic5QsWIsZfzb3bBEq6o3b?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7bYk8AhTZKyzVagLId8-yh4_0xgAywjvI4-mGHqu6YKGGAgi8Q1EnIlK3o6gK0rHNeRrcK7ScImz89MClLalg_2Fz5_GUOicfiVlKA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Blood: The Last Vampire Live Action (2009)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/P99ztKPYQKhKSKESsHQMuw/1650567600/0/c1dd01b58901767332810a93c8c035b6/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7rmlGNzNumrRl0FpXhCy64L5bIq5Sb7NNmE-jV-tLKX8x5mgVlAKCiwntJKdT35zOF5JmnZ6IclKwVzK50ToHAnrM-yJpjbSeonV=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Suzzanna: Bernapas dalam Kubur (2018) indonesia
-https://www.googleapis.com/drive/v3/files/1ieodLkCLMfA8c1cFtVTe8ah1zXWXWz6H?alt=media&key=AIzaSyA6Qclh9kP0TTshee9S2bT90vjgnzxn8QM
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/LciBMRQfAYRbztZE4id6JNTk657PgMlglkbLddLz4PzAr8kb3WnOWMc1VRPmgrhaBKWcvdLnuF_lrsywWqKxJ4WkPbG9OmiA_RGDJw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Dinosaur World (2020) china
-https://www31.uptostream.com/stream/7ogjtm71c0/_m_main_0.mpd
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/nn05Uj-Vi9CqEAE1PbdOfskMHjhXfFGYqcWFNascdJgv3W56qgYPfSj0BjbBc3DbZKcP8Io20WlVadQe1zjMm6TNIwokupN-TSWyhpM=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Father of Flies (2021) usa
-https://www71.uptostream.com/stream/7oa8i1429e/_m_main_0.mpd
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/RpL5xbF8m3K3_lyIDilFqhe2B9TxV7iSqB3JAlHYGjUV24PIDuX5rPCZiIHLlOGB4q2ziV13ftZqf8Kg_lLcebsLTjTZGm00-_2HJ2g=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Sumpah (ini) Pocong (2009) indonesia
-https://www.googleapis.com/drive/v3/files/1frRXXr8Lfnse4xuIlI1WmdF6-tMqMBDH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/5Ln8jvdq1-MhIc4ZId4A74QvgmGq_YbIasOfFB-ymR1YZcS7YDlRec4WRH8wNGKryPnXPd9GrpiFlmEsNM8MwlocK1eixueVOMzMCQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Room 203 (2022) usa
-https://www.googleapis.com/drive/v3/files/1Gs27AEFqjgjf1WofeI9gw9WIQQtqEjcQ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ZPC-_kW6NoRcx6iIE2wKzfMlAd3P5uK2v25CywcD-RXgDMo_fJZyCv2sdJQxpOAKGUXqpoo9akP-8sDhmoqjU8OLSzYHBXfemeeVEg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Journey: Taiko Arabia Hantou de no Kiseki to Tatakai no Monogatari
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/128cbcc9d3d594ed156441889240dc0f/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5ei6tPxyGGKFcISN8HRmHzU5RSDvboUSmA5mXG6BqL7THX0cWSqNc_NIdF-B2Mj497C3F4u_GLNUDCcWvuCaZxgFAxcR1yZkzzUBg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The Batman (2022) usa
-https://www.googleapis.com/drive/v3/files/1GYANBFz64Q0a8svVY2V9a3ikBZrSFroL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ekCzauA_XUMY1OGZWvw0oWmPS0dcx9PilnLr6NmjGeGwna3aQ9Sq9nP7Q5bG9zyG3tuQFNkc6DqNsrMjrAGjF3cQIe5om2t4nKGEnLk=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Kicking Blood (2021) canada
-https://s1.acefile.co/V3/files/9896e4914eb3efb2714ea0c69f4fa522.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/9rR2UfamH5LhN8zu1uIRk5zrYs8zMx9Lu2nO66RnLJWvJxPSP9eeXQoVgYTXMBt51CRetRrUgAwfZWgGm_-4xvuKrnj5_bdexjRa=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Kung Fu Dunk (2008) china
-https://www.googleapis.com/drive/v3/files/19k65FHMpeJYGjZbWXC32KEZeqsaeVYUZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/GqJEksxkkwbMOv17GBmAOtHSiqWiDKi7EPWLXsDm4PW8_FZ5k6DTw6_J5Tr8kkPHfrHW9HrSIClar0EdbGWRsuLvwIE7srzcOrsrPQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Kung Fu Hustle (2004) hong kong
-https://www.googleapis.com/drive/v3/files/1CdBjxHO-MbWRLgqEYSzcI6VxYK-kdSdT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p_4zpLizfK680WLR7sLm-puCZF5rc-ggVWSnLt9EoXP_9lyMksOe5HtAmxjvx1vpYngbXiF8a8KnprFMYq1-qn8bivyloJPKZGIB8A=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Pocong The Origin (2019) indonesia
-https://www.googleapis.com/drive/v3/files/1Y9o7WMgKOH30v4fHOlXDiVuB20k1-m_8?alt=media&key=AIzaSyAj9GWz4M6yOr0uaeK-3iwjWe2MJ8jVjEw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/yVA-I16MfnyJC8Rvi1YJDLp5M-b35KvEJ0EDtMy2ivcKGApbQ7iGLdnN1wZCD2HJ1_8znF5fYGbYBu46rt4IW9yC8WIZo3cyINDp=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Naruto the Movie: Ninja Clash in the Land of Snow (2004) japan
-https://www.googleapis.com/drive/v3/files/1lFtczjljcNebxDPrh5iixMFnuRAo1tEP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/eYfBffOyYisXA9J78WAB5sHx2ydWfgxZLvKrfc3s8zUjBN-r3mmlIUFWF6aSoA4LV2-qM3BquqFQ4LywdOa4jcDPKws8bTaeBeBG=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Metamorphosis (2022) china
-https://www.googleapis.com/drive/v3/files/1uKnrFLLYpagvTuMoAw5-VBMx08F5gyyB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/qOUN2WhcPFOYv0PeOgvs_jychEnfU7jKUQQvelnon9iwGGiZ5aWSmMzVYe7LGZgG11vBSp3jljjc3ubc4SaEtnOT7gU0snUzTu8K=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Infinite Storm (2022) australia
-https://www.googleapis.com/drive/v3/files/1NzKWR8j1LBY0yJ5vUyrC0NPpqRRNYtcP?alt=media&key=AIzaSyAj9GWz4M6yOr0uaeK-3iwjWe2MJ8jVjEw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/iWEpL9adF6YjT682sXPLLqiqIwEyauDO5Tge26TnnqUP-Zt1ujB7-36bhiBUPqzx8T5hkPi603LiZpjxoSdIDUwngEFt6AYIyYXIbg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Choose or Die (2022) united kingdom
-https://www.googleapis.com/drive/v3/files/1Jfea5dczEDsUfTUVETVCOauKarNVu0j_?alt=media&key=AIzaSyA6Qclh9kP0TTshee9S2bT90vjgnzxn8QM
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/5f8IRFYz6njx0BopdIA8Xff4esJWYJIJ6UzzUMdY3haNECkPpE6j0-StnrPpzIuQFzTt879nB6mYLisHfikWs6xfv-wUQQgK4gN5BA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Midnight University (2016) thailand
-https://www.googleapis.com/drive/v3/files/1POl9fZp76O6OIIw38SsCeS7CEyjzpOIm?alt=media&key=AIzaSyBkK04Xe0ZzIRSx1TcZyHvkkTGEtkPgugw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sn5N5xpq3bDOZ_4Z2b0p5QLXMQOpT5uvfsUhYAOoVzM0sFQU2WuBdL4PxHWbwY012HbGkd7X7O8w2qmtCFkxVk-SY-9h6GF_OCrtTA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The Medicine King Coffin (2022) china
-https://www.googleapis.com/drive/v3/files/1SqeYWAtgSP3ZRllMFhO2dwfhJTzOdNgc?alt=media&key=AIzaSyDDCC8bru6M3f-tKoGp-0DHNgXG4nSTeqM
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/C4DIuGwFZ1O8XBT0IzFk_pxECPG7hqV6GHHThkbkeTWOYCZQmQV_Gxop37NC6O49rFxXvKKMnhP9Q154JdKh9EElGPZfKOt5o8Y_Kg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Stand by Me Doraemon 2 (2020) Dubbing Indonesia
-https://www.googleapis.com/drive/v3/files/169R1AomJoqAWUuxX7-79xaQLyYGCt1kw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gApJU-iQ8LtdaVrFKrLOfz8sDEzUQuZzvc1dup70QlauQXubyS3xYRMZPqjqBa72_zvCtCCq9FGoeomf0wE3jESX9btmEYued-pQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Stand by Me Doraemon (2014) japan
-https://www.googleapis.com/drive/v3/files/1wn05ScNFNK3oNN6nodrFm3gLJS8fpsbg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/pzNCI-iTeNgI6ToS3drRnT4GLPIzkK72sbRi0o3Wg_0PHzS3_dhCJ9YcPRXLs9IKmfYlvKIMd6eRlqd_4L2kJsjf96DiA2syznKE=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Looking for Jackie (2009) china
-https://www.googleapis.com/drive/v3/files/1lQeC7s9h2DfWTv7Y4UnxImNy3tOzptvA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hDpvYyF2jktP_R1gBp9zJ2Tkx0I-JNqO6wPXkMT46Fn8ihErhLOiiVr6NM7Lsi17NIM_CC-ntX9vOk2JfeuvGj82LE1qHo5MwMYfFE4=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", rhoma irama_ bunga desa (1988) indonesia
-https://www.googleapis.com/drive/v3/files/1H_tNe4Xk2vfUmHWy8EXcr4Ggq_1FvetD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_qLNVIHIECY3xtZSOJWpagRnNlnZxDlDYko7WOCxIYveTixgoh2Wk9jeN9j3xEFgoIYT2M1-eR6S8GNfRoNyijmUbTp8tS0Jac45ig=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Zombieland (2009) usa
-https://www.googleapis.com/drive/v3/files/10wLjAWZrhZcsWaHjxpqWAvn5S8KZKY2E?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sdJxsOBA1CbNAXVW7iWZX6ueaBvt7NQsFODIXHr-ajsfwn4MsqpHg6-V-El-YhsZpUIdRbs9dbyF_lIHV6p4beERIf4ZTiVzUn2p=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Naruto shippuden movie 1 (2007) japan
-https://www.googleapis.com/drive/v3/files/1qQywS9fD0gRGJs_FjV3obnykIdVSjkEI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/swtu7cjSYMKwwLYXyvnRSSWja-HZFdk_6SNPZJDq_3j87NmKHGzTmGCEGraO3OvJ-VEaEMdokKxDvdRqaLMk_5PsS0jJs3Lv600C=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", jumanji (1995) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/12X6yd8PMpoojWUXCyiyYyX3EQN1ncBT0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/wZsVmlgUlkLM0-uofeJHm5htXB_enTfIvMachAva10kgPaN_yaXYGeeUY94vPStLyPi5ITzE2UDfYcpbnY17n-GJMcmAQSFBH6qy=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Dinosaur Island (2014) australia
-https://www.googleapis.com/drive/v3/files/1f0keSHULeZFYYRmv8CjQkVoOM0IZ1Vfi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/nY4joxYCtQqG7sly3iYoksZoYiNnzvytSewMC2Glb1jnGnzQN-zKUzJrOEjhM_Pyu6SMlZG2d_ezOd7VpUtAMObXHcLhIiNb8OgE5A=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", suzzanna titisan Dewi Ular (1990) Indonesia
-https://www.googleapis.com/drive/v3/files/12b0gCPwONYr0Ke7PvFgfnHlCiFaUUeL9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7DsHsGNWdeENKBgZJqNoXnplCX8OCmxO9cyn7Viv7ajTD58UEJ-LDtilz-JfE2LARAH765vRbMBsC0s3fGytVFIGNm2-ylrSEazu=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The King’s Man (2021) Dubbing Indonesia
-https://www.googleapis.com/drive/v3/files/1J-s16AGfmjXOcsklyPmQw_q0wxD1deSJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/asG0hxDwME5qfTwBjRq6NMRxPoZ-6nEbhbM9BIEnti-mu7vHReRyNEx6CNGUmuNIe4ZUhOWSIT0OWc4Pdzso-zIcKyDvtKsVyR7K_w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", avatar The Last Airbender (2010) usa
-https://www.googleapis.com/drive/v3/files/1keAFJyicQ-kz5YCxmQ-UWa30lgAnZI1v?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vsvp-1ZKtZbIv-7Ht_QsA9xo9G2qgWe0ls1Zpurjq0HIdXHmENo-w4RFy3L-gsU748lqRPaqu-dA0_IAcFjvwg4HorDDxUmuKhQB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Train to Busan (2016) korea
-https://www.googleapis.com/drive/v3/files/1VhEindonesia
-QBYZHnNDOYwdMsvkWZdJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ELaDEfI1zj-QPbMRQ4D5tJTJud_MwmW4hqTr6kfhX3haXJyBRz-o7alo8D7okC4IBJYw6crCSpTjYU7wLEZzq215lAa47j5WjvV4=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Umma (2022) usa
-https://www.googleapis.com/drive/v3/files/1rS7hzrlD_n02-LoHYMIMULtHN7rf3sD9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/6kjlJCaeOPjBbSmwBwlpjFHHPWw1VbHVIAvGKMvx6qVqwLTaUbhD5RpYnxUFtIJ1Upad8vx0IvZj3RDk5RWKFsjVi76OwrtGMCBqyg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Avatar (2009) EXTENDED usa
-https://www.googleapis.com/drive/v3/files/15hDtEjd73NUNWEw9k-plWMaXN_z4w0Jh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/pChdcpT4tpBopUD--wn542DUxY05sfLjDFG70CGA_8cgGxYolQhWcJJYbAMQCsnUMDk370Ai3mQAq2zqSezMXVCmCNKVVGl5AG3POg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Wyrmwood: Apocalypse (2022) australia
-https://www.googleapis.com/drive/v3/files/13jQXw9O-FR2ZVpxH9CscFct_AiQWmfkh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sDpBHt9iRltP6dNGqUua8GQBLz3fYWolLGdXqUe7crXT5cDhY6O3hr2-o490IH20G3_DlE5v4V_v6PorCd1wFmxh5-STfBOSXCqFCfg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", X (2022) usa
-https://s1.acefile.co/V3/files/38ea1da1128fccb305faf8815f922ae4.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JNKuYe2FvXZzNAbJ4VNpd8AoJT_1oJbXgvMwf_kPuw1mSepl7cRGi0c1UOK0A2v1_57o_kTcRXHIj-HQejns0rj2CLNYtKMQJFFJ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Fantastic Beasts and Where to Find Them (2016) uk
-https://www.googleapis.com/drive/v3/files/1HKRsVIVloNU9qRtd3fh0GMm6R9CfZP7u?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d9bQxEp_rufQAWyPgvY7I5aZ2KjzCvv4XIL1_ozhWaCpIQ4NpJaWqmUqH1ceKkp_x95_TyMBX1x-qw4jtYMay1nq4V0mEDfHKVoH=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Coraline (2009) usa
-https://www.googleapis.com/drive/v3/files/1YxnRKIPjuib3IIjehinGcET21Hqs61kL?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/343BQIU4gOOa8-4z962X-DOYsH2TSRzhmIBaHpdo7rvDL4QtWwaHybSieMkbQsl1pNQMA8obXo4bXKCCk6atQjr7m9Ci9Q-RrV38_A=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Kejamnya Ibu Tiri Tak Sekejam Ibu Kota (1981) indonesia
-https://www.googleapis.com/drive/v3/files/1zOIF8YdR7dWn21N0ipFDXC80W9C68Khl?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/OPCXf8ugABGVbaXt9lYTUc1wilINuVAOd5SHPd_FOmI3m70WpazecUTgAfe3fesyJ77jWnA_St2_ekXFZnFcqAYuzQltFq4AjPOhUA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Lampor: The Flying Casket (2019) indonesia
-https://www.googleapis.com/drive/v3/files/12-_IelezQjtXJzPpHtvGCl6PV3vbsC4x?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/utdrC_-Lg7R2MYd5IDYKg3FXnCxpy6l2JuTlRoX0cJj64fj7ynzb9J5kxUcK0P6-OxZVsvIvjHAOfBggbwT8_qsUtNoF-pV0a-UYoA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Fantastic Beasts: The Crimes of Grindelwald (2018) uk
-https://www.googleapis.com/drive/v3/files/1UnJg4bs6PVDU95VJNakWnbK5L6S0r750?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/KC1_HxiYvDNCExcWA8kdrbGLd5A_wVFpu6NX6WnTLgGOcYOvcYb7lN95ZOJOJ8wnKLLFhWBfJgpsQzdtF9W5XdRt1d3v65xTTtGyNw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Soul (2020) Dubbing Indonesia
-https://www.googleapis.com/drive/v3/files/1Aw4uzQIH9v7gj9aLTXxqxRpTd5DYxQ6B?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/oLdrYlaDmL6WF3rUJQbpRT8du6G92RLzmiAZLCgqF3l37AVF9R94rtCTSxSgqwuqRU3S-HFo_48rx2IJsFBXRTz0gl_ynxzkz1ONwg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Pengkhianatan G30S/PKI (1984) indonesia
-https://www.googleapis.com/drive/v3/files/1mpYdS8sURudj1QUhPIEnzdyPYth4kC-3?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ghy9uFVggyCmF16iibeb69A7iNgo1uzghCpXf2WQNmF378-T73snQmPP8STkE34sZjjuwUHq1NH8Xhgryvx77nAggAm7ZElM8IF1=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Anaconda (1997) usa
-https://www.googleapis.com/drive/v3/files/14p7intWS0BWEejR226xsaajjndhdaz-d?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/k7c8LFHFXVJoKtxgDISboQ_e-3i2ZgLBvOVAhDAKQhk-p1xzwQecRx3GX55ovYRPyRW4Ui8SsRpUN9b4qhRVBJmBKG9UM3mvCkSmJw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Anacondas: The Hunt for the Blood Orchid (2004) usa
-https://www.googleapis.com/drive/v3/files/1qEV7x7xGdLXLkCPIsteqSjETzbZz9yYP?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/rWi-2S2ZNrUhyNmXHMZ0dp9eST8J4pYdiHa5t_gfATc8qBvQGHjvsq5pUo0bcNvc6c-GQLcpqzhZdB5_JpQebwN1Ug9ahFRXiImI5A=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Disaster L.A.: The Last Zombie Apocalypse Begins Here (2014) usa
-https://www.googleapis.com/drive/v3/files/1xRfdYIzNjeAQsRsu-ymfdgHnry2f9WLP?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Sfhy_7_057lli_oFOoeNGxlZ6fkSj6Opd_mt2tZ9ugT-B6xy1jVFKJUDd9nMeiNc8U3boDU6MNesZh1cx5QgZeKdlJawJX0p3fJvdg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Scouts Guide to the Zombie Apocalypse (2015) usa
-https://www.googleapis.com/drive/v3/files/1XmHd2dpiHt8OZWngU4AtwTrpVOrYxzB1?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/TMf0mqMulTapOqsS0GhaIsqVeZCm746yjkMwkdu3RPHLWuFXsemNvc8bvvT__DbEPcrAO457kve7CHbIqvc2575lGe4GyREjvoNbEw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Yowis Ben 3 (2021) indonesia
-https://www.googleapis.com/drive/v3/files/1EU-5vv1D-8SiyI5o7s2ZQNOG_apocTV_?alt=media&key=AIzaSyDDCC8bru6M3f-tKoGp-0DHNgXG4nSTeqM
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jwuc7xzGJwwki78RkGcbbVVH3ro07l9x2hLTbl5SEytETEdiYwrsPNQS1VcI_S7jFgaDzvOXGF409oaMeyHD6nDUlI-8HsPtmv2h3MM=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Yowis Ben 2 (2019) indonesia
-https://www.googleapis.com/drive/v3/files/1QIieDotAdmCs-X05I6j3jswJBwFOl8ls?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/XcgBU9GA_aHHsrPsv4WtAX0FmHigAyYuMnWOMWKfZfX1r7K7d08ovhsXWuGQi0W1z08XZeqVaRUND7j_149qxXLBfBCd_yUvOq3b=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Yowis Ben (2018) indonesia
-https://www.googleapis.com/drive/v3/files/1mlG2Gt9hEGJMVQ7mY-ykkvEOwpFmVre0?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/k95kesbrFE6JAoE-BP4WHhmnOCcS4PTnlY-YhgdXdspG0pnOy9sNqU-rJPp8UJbsAW-YGZNijeQm4MYNZD9BFc5yVzyf4dkCuQVGGA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", InuYasha Movie 1: Toki wo Koeru Omoi (2001)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/6fAfN_HfbAmDdp7IkF0PSA/1649703600/0/705d17fe2fbfff748c4da4ba1f0b6cf4/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/stGPAILTF_NnToT3gYPxcyXGsKHVY6YIyLXuRxCO6PbbuegarHU3OSB7No7EuGViK7u1jVV6BFpIKo1-HGf-0P2V0dKfR5jUQP8flg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Wiro Sableng: 212 Warrior (2018) indonesia
-https://www.googleapis.com/drive/v3/files/1lVgMlwMfsWIZkCgO8pvf-B0MW_uuoHLT?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/yYq-VfuL31d5IRLUDUiXQTXGD-yH9VfkBCnb51i7XjFb_UcGgd2T1hJp4AVLKBHrFo44E1ZWFm8_GOEK1nlbWIJKGXZmRorLGFhVGA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The Conjuring: The Devil Made Me Do It (2021) usa
-https://www.googleapis.com/drive/v3/files/1dgBU2chbJe_X1G3yVbc_C86dW0TcX56m?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/xpwD0A7QHd-j5GNK83k8A3QRLVscF_F5eqN4m-6QNviv0BnZ5as9g0ikMF7lc7OZXEGNVt8rRfdBTzkoVXOndVn_FGHRuxPU6KXr=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Superman Returns (2006) usa
-https://www.googleapis.com/drive/v3/files/1cHN_8eCfguLLlCoz9bWBuNJWyJpBUchp?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/9YTK4ug9HEOm_Y9YDO5JIirrQt8sUZJ5qV60epHni0p1GfBDPRnuxfCowNPUgG4zBntG0hsfjOzOQdOHdDl8rWpO2XlMgO7vBUibFQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", mana tahaaan... (1979) warkop dki indonesia
-https://www.googleapis.com/drive/v3/files/1Niyyf9mvgGL9JMsz3GI-YYFn8I4wPWVH?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_3GKRyk65YYeKjaNYsrYNgK3x-P18dHXh4dI9cn9e0swlHSk4DloR3IUn9xTXWzjNpX1TqMM5b7vfJ223P8zgja7l6tpXsJewAbt4qk=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Spiritual Kung Fu (1978) hong kong
-https://www.googleapis.com/drive/v3/files/10VgY6A-mzyHyLJrvdTpm1bFuRttidD7c?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/VQjIBqYraFde9RHSGZ0kvH-vXJundaRFsP8n6gDUU3qs3zxBS9q40TYX8gtS4NusldMHQGjyFqT4IrlbYJ5KcnWCdGyBVvDDzklO=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Sangkuriang (1982) indonesia
-https://www.googleapis.com/drive/v3/files/1Q8_dQtYwF7O9C_pOlvu2t-bQtyoRtSNC?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/kR926uOuTcAM0gFUjYzcIZJFbWFwCtb1N29uwer2N-l35aFW7dJHudfV_CoyZd7mdgcSMbllEmvpexcedszb636zi447RUWG7u6k5Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Pasukan Berani Mati (1982) indonesia
-https://www.googleapis.com/drive/v3/files/1RNbKzhVFqCZfgLwFaHRNo-Ygl2aJ1B45?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Oot3Vl8knCCmfZZBWBi5NJjUfo4kIgWAT8Xz_WRfgUKH-NiX1x2l4L811jFgmAOCpqVBW6LMw04aeD2XpxTfjlDyBLxzQ7SGUhmR1g=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Benyamin Biang Kerok (1972) indonesia
-https://www.googleapis.com/drive/v3/files/1ARNd8OXXgdyOGs1InuTNRI__prn8s1os?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/IVdL-YM6HCkdL6DEAzHEx90KqJ0LppCmhnJEcxKa2XFuVxVlQlHKyaAeMlhnC1xG3o6SPNky2XxbYQrdIj365hNTNvrBzC06R5Il0g=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Danur 3: Sunyaruri (2019) indonesia
-https://www.googleapis.com/drive/v3/files/1VKkAhPPRc1OjO587blTzDUnMD-NWe-oG?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/P2HF7yMDXTspC3dHcc_DM6EgOMVZyQOqBJLCdyosBQM8-QSShWGBiN_cBxFJ6-2MulSTwvzgMucMGHGghRJ73hKA4FIKbN8c1geR=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Danur 2: Maddah (2018) indonesia
-https://www.googleapis.com/drive/v3/files/115AShYduhEF-yihVF4SRJLdbwT1s34qe?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/D-ehHbXys5zxvUDjKsc3oBcuHbPK8zqu7sgi4x-meRNV0bENUQb_qg-f9YMAquvfHmh1c8eRy2LrHHntkuieCNFSTdILNkBZ3DKuHNY=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Danur (2017) indonesia
-https://www.googleapis.com/drive/v3/files/1MuBVRka7vRYVivibSaHzXJ1DJWddOYb7?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fX4aoOVopEnbZRWOsyf8uyyCgpf1WMW6wH0DyN_jPSRIPs3lydQt3-vbTU32qZJCxse0XaqMUum_uLh-M1BLv1jfsF36zu-FqR2F9Mw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Dongkrak Antik (1982) warkop dki indonesia
-https://www.googleapis.com/drive/v3/files/18_t5N4KzrubCAgh0RiE0nUIc32_w-Wh2?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tPFyiqAWQoKiflrUl0P_KcArZaMnqCrhiYoscZsbZVnJXPgtCUq2E-npcT0_hRdHyRpQ7gdDpvnDkz5P6ZnIUi5pb4XZIt_Jcs1KovQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", 2012 (2009) usa
-https://www.googleapis.com/drive/v3/files/1unGaFblvtrec84DDstPpVmH-s1TNQGeF?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Du2tkk0CizlJ8-cjPe0jIvPDxenW1SScP2w5EVCmqfLUcrIZ7MjCxvpine9Tzc6DUfiZf_iUpvu1cZIzau5_AlbHcCGeiy0ZdqjfKQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The Lion King (1994) Dubbing Indonesia
-https://www.googleapis.com/drive/v3/files/1jy7i7EYZTrdxlneuEz-9RGzLOU-rHYsg?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/GEKo_wdgiTnWWw_bVZZzbAUJ7_bEPpst_tHLmS8vYaK45TxpzKRjLBEsZIZleA-PCuHfmoAxuvqHAIQRfAa9XyGeqgxqCwYq8ZL1=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Prisoners of the Ghostland (2021) japan
-https://www.googleapis.com/drive/v3/files/15E-38MZgLBGR47Wty2HvMriENUqJCSjH?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/opwlXzOKECyfXccK7w5P91_Y3-Uk8Oq5yG6ppft_zQI8C1tKgKumpKrUuFjKRzmT-kvrnHFoCIr5pVoDhQaXaJRRMNbSE9l-tC2lvQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Ghost (2019) india
-https://www.googleapis.com/drive/v3/files/1oOk5i8UrtekiFNmP3btFxV-ZLZT7apKC?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/yMyCkJR7tvketxmdQViNZsmmT4CohU8L-rh0pIg3Q3-IYE4yIZjGDDeNWR6Lhfi2UZw2zIsmZO3ouv2uecJRWL0qcViFhU8mA__j=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Ghostbusters: Afterlife (2021) usa
-https://www.googleapis.com/drive/v3/files/13XvkhBFgPkBKdzT2iOci2CWaQtzcH3TJ?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/qxLMyo6gzwL-ewySyEk3qRXuy9DADU-gciNJKmTJ_3hkbbIhHsohYtQeqLbc1ZPxBBAGQGB1xBxZQFElUmp4HgFeNm2jVoRI5Qnoaw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Batman v Superman: Dawn of Justice (2016) usa
-https://www.googleapis.com/drive/v3/files/1oG2UhzzKVU1_kNWwKyT5s5Bwm3qyy1RW?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/cBk4e-FoZ0OdELXdXxCFyk0GXrJGui2LXjwojKHPi2L1xwH7S4pwsmYTWX1AhQpxZPNjBqyh3EAaLGUh3NKGk0w4EiaKNuN3c-b7Sg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Shaolin Warrior (2013) china
-https://www.googleapis.com/drive/v3/files/1-RKax0NLo1ZNbjdgcb1GpVddKIxvGVJS?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/StDtl5LeHW44QnbLMSVnYG9HmYgnkZo0qjUwl-VxFsGVycf3taJ0J8xBoQe0Eh9iAC8_WBaERqttDrRgQ9px6G2Cp-R_QF_HYjjm=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Shaolin Conquering Demons (2020) china
-https://www.googleapis.com/drive/v3/files/1Q5X_vmroq-6-haKE-Io2xuADAs0oGMet?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/TLG7mQdj2gHlk3Y9HkzVloLTj50Ph6E8h_J9pCtW4Bb21noPNd54wic7wAq-u-mrWHuY-ETW_4Zcg330dddWjZ9Fc-yiy4jzkZOJoQ=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Shaolin Soccer (2001) china
-https://www.googleapis.com/drive/v3/files/1_gdLWDj0SjGimagaLsI_fZ_Drgk7yKfM?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/NYc72ky9LtRLpbqolHC-tLsBH5cyTZhphISuHsRvsJHHWvV4VkRiQrFW48IRJs-iG8IW9gbIKddRRkUjO0XGja1yP5liIUlyO68=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Hagazussa (2018) austria
-https://www.googleapis.com/drive/v3/files/1fGZXvjy8_jMIoVnZaQq61iBUrnuY-frC?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/75BwCTqpaDNwbICbma52M0WjcWqqKuvjLVblQWdscqURH4WHjXEy-o3NjBB2J2YMPWcYL4IDm9fCzaaycstAFCE2rNgAjCH0xLkz=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The Man with the Iron Fists (2012) usa
-https://www.googleapis.com/drive/v3/files/1-_SjWCuZ15K7ooDfENqlDB3FE8m_Jr-n?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/yaJKqyxRX7oG21ULxKN-TuqsaOAHwCXsUQ_uP8uKzac7OgLfkrk7UVjWONxhWd8IyZwi6MByVil0dRwzGIVTpMXsW_ROeZubpwxCVrg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Detective Conan: The Scarlet Alibi
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BlN4Uv6gH3aLBsr3QeOMEw/1649271600/0/b04e701480e0587a42e25355517b98a0/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gdBCT0WvKMcvcqlPDIRP8Z1JDqjHHHWR6h3eSweuc0yaW6U2zveJG2RTgLmbsBJ8igX6KeDmuKRKkAAoG_IXccU6Yzv2zRiZXZusoCI=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Hulk (2003) usa
-https://www.googleapis.com/drive/v3/files/1A3eod-FDknWNwtqGIxvtTzDHvOkwmOTZ?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ZCGYlHGtf3qIfHTfD-mNXpUFHvWl0cRVoGymmuhSGs6YAVnSXJTJEDICe7yBT-Ry_yUoG-DkK4OXeyyGfASIr8d6S-YShc12ZjLK5Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Attack Of The Southern Fried Zombies (2017) usa
-https://www.googleapis.com/drive/v3/files/16cAOxykx5PTySVzHXEEGq_suVWT8Hhwn?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_IGO2i22GsAQ0bE1my7P0Orym7s3dPJ5riMsXR_qMF3uku62z2yqUvtoPpJrZt7H5iqdtDGQ782sCBvcGC_wFnTtSXhAabOkFpsmLjM=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The Real Parakang: Warisan Berdarah (2017) indonesia
-https://www.googleapis.com/drive/v3/files/1RFyQfcfEOapnN73TRgnE4B4yZWWixQ0j?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ggWo33xHVybbipmtNKZ-BC-bMt9LpL0OoZzOi_vqDqcLoaJz0S3YtmGqF537pRXTpxbGmAiBoYpn_lqOjvC_2vEpOnODFq-6zOcVOg=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Piranhaconda (2012) usa
-https://www.googleapis.com/drive/v3/files/1SnxjfTmSg-ynLHLKay74lT95Yy2f5XR3?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/5ZEOVzFUX5I7FI3cCuS8imtOfja34Hc558PSPKrP2qfAxa8W838BUnI6awT_-2sLJIO_AwqFHYVw3PvJ4f6XgZ20m6mczcsaCnAh=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Punk in Love (2009) indonesia
-https://www.googleapis.com/drive/v3/files/10PD0Syv-ywKSEupv8ygfdA_RH5Jp7PbQ?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/xcB4s9n3ZlaGJnpz-wOerv161E-cT8FlZQEQq-CM9WsJQhUn7vnMqSfxiQ1OzuOj2fHh9bWd7lpiRgYFUC-1zAmwmwQPyU3y5hQj=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Jungle Cruise (2021) usa
-https://www.googleapis.com/drive/v3/files/1yRCF5lW1rvSAIakariSy1Vj_L3-3loBl?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/XbOvrEHWZo7Wqj9ZoyQWuAZzwcbPx7PDqjB8ykoSlLkppkO6Wh3V8VmdDR4mg9cFteeHrdFdCLaU9JFgj4g39eqjfmIQBMXcks1u=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Ip Man 3 (2015) china
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189671
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_nM_cm13XXtNtCSkVsw9g-8nx-oI3RkbSfwcP89Wj2I1d2oTtMH2KyhIOo8D1HRnC1_j9wUFoX8oLOnI36aQX5uBTw5zTb8VWkpwO4A=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Ip Man 2 (2010) china
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189670
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/xeMSzRS3QlbZH8ItEc13XpUH0waEcRXz61WxTR93X9f7hSY2_Ux0Tocy-TDc3zv1Vj1cwatG5hbf4RXHhq0sl4uOWjAVA24ENBymKA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", The King's Man (2021) usa
-https://www.googleapis.com/drive/v3/files/1k7iLSdEduRdwYdqM5D_ZsFKrXTlCFZmp?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-1k7iLSdEduRdwYdqM5D_ZsFKrXTlCFZmp
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/kaQQC1EbI48nRCZ0Za-9qBIzAed0O55ub89BorpscCvCsKSnAiPIt_LUoc91sEkIu4qvIVFHC3CLS_R8B96ndfn73fJtQ0I3bJJLGA=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Ghostbusters (1984) usa
-https://www.googleapis.com/drive/v3/files/1lTPKzHtAmq2UzcMEg4DUDAnz6Zjv29gj?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jeU3wDCQj0EjswCQljWjFn2uiG1gA6QGUVOJPh_0KPkAWAJQW-IQdjFZKrvnWeECwMaaYzpCPXXZ-O9B3xTVGNYpgwA1xgU3T--Tqw=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", Ghost Rider (2007) usa
-https://www.googleapis.com/drive/v3/files/1UJZ25crX8Gyxy4HFY6pNRDn_wcp6B2D7?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-x0x0
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tiKOo9j87Ssp1p_VrDNc3weRXBWWcGjDNUA81HfN3XKC6iybIRcodXEyNuSVRq7RV6ZS2ifWRMBBsaQ-u-CqwAPt5m4xWq7HrGWs=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 1 Squid Game (2021) Dubbing Indonesia
-https://www.googleapis.com/drive/v3/files/1clbpHAZUlYBlQnlXyEJnKf_pIT-omRnX?alt=media&key=AIzaSyAj9GWz4M6yOr0uaeK-3iwjWe2MJ8jVjEw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tiKOo9j87Ssp1p_VrDNc3weRXBWWcGjDNUA81HfN3XKC6iybIRcodXEyNuSVRq7RV6ZS2ifWRMBBsaQ-u-CqwAPt5m4xWq7HrGWs=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 2 Squid Game (2021) Dubbing Indonesia
-https://www.googleapis.com/drive/v3/files/1lA5wBpc6vlAXxnBg1aQmYYgSGViI1Trf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tiKOo9j87Ssp1p_VrDNc3weRXBWWcGjDNUA81HfN3XKC6iybIRcodXEyNuSVRq7RV6ZS2ifWRMBBsaQ-u-CqwAPt5m4xWq7HrGWs=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 3 Squid Game (2021) Dubbing Indonesia
-https://www.googleapis.com/drive/v3/files/1J5HgTjYTFZ4co9GXNgNvLlAibM6JUQJ-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tiKOo9j87Ssp1p_VrDNc3weRXBWWcGjDNUA81HfN3XKC6iybIRcodXEyNuSVRq7RV6ZS2ifWRMBBsaQ-u-CqwAPt5m4xWq7HrGWs=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 4 Squid Game (2021) Dubbing Indonesia
-https://www.googleapis.com/drive/v3/files/1JQ13_0pu7n6816ToCJrLbUn43SZ_bYnt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tiKOo9j87Ssp1p_VrDNc3weRXBWWcGjDNUA81HfN3XKC6iybIRcodXEyNuSVRq7RV6ZS2ifWRMBBsaQ-u-CqwAPt5m4xWq7HrGWs=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 5 Squid Game (2021) Dubbing Indonesia
-https://www.googleapis.com/drive/v3/files/19M3K7rTgVhfKnhq-qRgqdW5q3A7dAI3q?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tiKOo9j87Ssp1p_VrDNc3weRXBWWcGjDNUA81HfN3XKC6iybIRcodXEyNuSVRq7RV6ZS2ifWRMBBsaQ-u-CqwAPt5m4xWq7HrGWs=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 6 Squid Game (2021) Dubbing Indonesia
-https://www.googleapis.com/drive/v3/files/1ODrilQWXak0JK2ibK4KvyPQ_0kr7dbWu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tiKOo9j87Ssp1p_VrDNc3weRXBWWcGjDNUA81HfN3XKC6iybIRcodXEyNuSVRq7RV6ZS2ifWRMBBsaQ-u-CqwAPt5m4xWq7HrGWs=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 7 Squid Game (2021) Dubbing Indonesia
-https://www.googleapis.com/drive/v3/files/1sUdfruXTEUKvnM2x5h0LRTPcg3Qeaqs5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tiKOo9j87Ssp1p_VrDNc3weRXBWWcGjDNUA81HfN3XKC6iybIRcodXEyNuSVRq7RV6ZS2ifWRMBBsaQ-u-CqwAPt5m4xWq7HrGWs=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 8 Squid Game (2021) Dubbing Indonesia
-https://www.googleapis.com/drive/v3/files/161ABDplXcY5Slq0W6csKUauAJ41a4M-F?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tiKOo9j87Ssp1p_VrDNc3weRXBWWcGjDNUA81HfN3XKC6iybIRcodXEyNuSVRq7RV6ZS2ifWRMBBsaQ-u-CqwAPt5m4xWq7HrGWs=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 9 Squid Game (2021) Dubbing Indonesia
-https://www.googleapis.com/drive/v3/files/1lcbjY4rlnXGdX9nVkvBmEP_39oeN6f8q?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-x1x1
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 1 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/LXKQB-F_rRts6tzCEjmEzg/1649790000/0/5790abc63782f4e5cf1047c53c6f3012/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 2 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/LXKQB-F_rRts6tzCEjmEzg/1649790000/0/69f7e503f705b39691d54d26d0878086/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 3 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/LXKQB-F_rRts6tzCEjmEzg/1649790000/0/f8ffd4c668094adfb0cb0e5089045e13/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 4 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/HsFlmyxxQDghN8J-ERLWcQ/1650049200/0/b6776378911c9f41c5e904eb6753d0f4/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 5 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/HsFlmyxxQDghN8J-ERLWcQ/1650049200/0/3ae8a1e8fcc060b4d56da78a30e25bad/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 6 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/HsFlmyxxQDghN8J-ERLWcQ/1650049200/0/707803d5d76bea09bbdf0b57e69177b6/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 7 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/HsFlmyxxQDghN8J-ERLWcQ/1650049200/0/ee9d0665899c8a9712edffa3971f0ee7/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 8 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/HsFlmyxxQDghN8J-ERLWcQ/1650049200/0/492624191795ea8c8e5a6c6753700c71/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 9 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/HsFlmyxxQDghN8J-ERLWcQ/1650049200/0/06213815bf6ad9c885890daae0d84320/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 10 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/HsFlmyxxQDghN8J-ERLWcQ/1650049200/0/a6f7d29fc50a6964e5fb3f511c2671ed/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 11 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/L9DPMbrI1jYfskihKSYJvg/1650135600/0/9d28a3845d0435cf0a01bafdd0e545ba/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 12 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/L9DPMbrI1jYfskihKSYJvg/1650135600/0/a51ce586354505456bddb4588f915a2b/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 13 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/L9DPMbrI1jYfskihKSYJvg/1650135600/0/e483575f67337f05d4ce6525fac60d1b/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 14 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/L9DPMbrI1jYfskihKSYJvg/1650135600/0/e25580704893893ef93fb15cb7616476/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 15 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/L9DPMbrI1jYfskihKSYJvg/1650135600/0/bdd3ed878d83f1c1cf0ff5f8fd7ad155/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 16 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/7280542be5a7971833d02aaa4b632ef8/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 17 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/cc0b04ed492735ed87c15740e20d73d5/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 18 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/7f4f5040cfb22cfa0637b3b4207249ac/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 19 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/6be62ba32dce86f09d559c03738c0a4d/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 20 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/8b06fda1d84373f86c42e974dbb8e3ae/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 21 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/4WERZ5MrXrNu0BQxGDdhDA/1650740400/0/44f326e9c7f26036fc201b7abe129507/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 22 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/4WERZ5MrXrNu0BQxGDdhDA/1650740400/0/26afd7c8e69a68356616437fa1c4710b/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 23 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/4WERZ5MrXrNu0BQxGDdhDA/1650740400/0/71a12688227075bdf4841a4d27aed669/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 24 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/4WERZ5MrXrNu0BQxGDdhDA/1650740400/0/71a12688227075bdf4841a4d27aed669/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 25 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/4WERZ5MrXrNu0BQxGDdhDA/1650740400/0/098d9178290b2667884eb9ba29533f02/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 26 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/4WERZ5MrXrNu0BQxGDdhDA/1650740400/0/b0acf0fdd833706215480d39d23f2862/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 27 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/4WERZ5MrXrNu0BQxGDdhDA/1650740400/0/032d858325f0e3e9e3f9c891c825f087/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 28 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/4WERZ5MrXrNu0BQxGDdhDA/1650740400/0/076025e1b76873120c0e48f6c4467096/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 29 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/4WERZ5MrXrNu0BQxGDdhDA/1650740400/0/b41bdb06c4516c5eb99467e4ad7d5f5b/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 30 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/4WERZ5MrXrNu0BQxGDdhDA/1650740400/0/76747f87bd0ef4cfe8d73f9bd7302f25/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 31 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/W7204xfzXZq4SgxHLlBSpA/1650999600/0/47d2795ba1ba54977dbf98abd410a275/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 32 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/W7204xfzXZq4SgxHLlBSpA/1650999600/0/0abae22670eb8410274c0a91e0e47b91/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 33 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/W7204xfzXZq4SgxHLlBSpA/1650999600/0/4816326c7079ebddaee781b15c847204/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 34 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/W7204xfzXZq4SgxHLlBSpA/1650999600/0/a0ff0acea6e710343c5b44c4b0079995/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 35 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/W7204xfzXZq4SgxHLlBSpA/1650999600/0/f28b5e375acdbcd8f86432d974651a60/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 36 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/98g8AhyqGlniHRvxL1KCbg/1651258800/0/31f60708a1b6dc2faa52f294e1c8a886/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 37 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/98g8AhyqGlniHRvxL1KCbg/1651258800/0/b55c1ecb6af7fc6e25ce5620e20074d0/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 38 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BKoL8kb3P8hUuNkYKyLLrg/1651690800/0/84476d3bff56a4bc8ae684fc9ba2eb92/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 39 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BKoL8kb3P8hUuNkYKyLLrg/1651690800/0/f50ab0bf6bcf5d1569045ed172aeb5f4/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 40 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BKoL8kb3P8hUuNkYKyLLrg/1651690800/0/ab2fef3f26839092a494f354c5c2c050/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 41 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/ftoi9yToJa_-oJ2RwlIMHQ/1651863600/0/7c60320818e5701b2da73096391aa82f/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 42 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/ftoi9yToJa_-oJ2RwlIMHQ/1651863600/0/906dae43c49677412d0d9d1132fd9ea0/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 43 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/ftoi9yToJa_-oJ2RwlIMHQ/1651863600/0/eb19d39437eb07ba0fc593e6ee3cbae0/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 44 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/ftoi9yToJa_-oJ2RwlIMHQ/1651863600/0/b6dbdba02ff5f1f400ac83f979ba3cec/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 45 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/ftoi9yToJa_-oJ2RwlIMHQ/1651863600/0/5b303bbed65e5042d18df5e53d8dcdc1/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 46 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/FHbcoPVUoERcf0UbwtoivA/1652122800/0/e0fe229625db14721daaeadd3cd4c4a6/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 47 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/FHbcoPVUoERcf0UbwtoivA/1652122800/0/c0c3c2aecf542ba6b5a291092b26d248/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 48 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/FHbcoPVUoERcf0UbwtoivA/1652122800/0/87bc4e40df6cd4bfc59c9df293e7a8fc/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 49 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/FHbcoPVUoERcf0UbwtoivA/1652122800/0/dff87a40203ca645d8f55aada1096e3b/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 50 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/FHbcoPVUoERcf0UbwtoivA/1652122800/0/13a37dca82b1c894deaa9ae25e31b9a4/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 51 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/DTePJ8WpjeMzDNbfZZMwcQ/1652382000/0/9e93147ea7e9f752653ac82cf452d930/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 52 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/DTePJ8WpjeMzDNbfZZMwcQ/1652382000/0/120d5fb325900100a9ac4d8c43be9ee5/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 53 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/DTePJ8WpjeMzDNbfZZMwcQ/1652382000/0/05b3e6e56c4e51cf4619f05413896d24/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 54 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/DTePJ8WpjeMzDNbfZZMwcQ/1652382000/0/84ba7a5da64c89e91a69f52a592adacb/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 55 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/DTePJ8WpjeMzDNbfZZMwcQ/1652382000/0/09cdde61cb89fa64c43eff1a233e0fba/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 56 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/JhchoQSYI3DHa3IrjsDx8g/1652641200/0/80794cebae6c9fb6407bda6f0f860561/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 57 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/JhchoQSYI3DHa3IrjsDx8g/1652641200/0/2f2d233d141c5a308ee6bdf67bd47b14/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 58 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/JhchoQSYI3DHa3IrjsDx8g/1652641200/0/77e964f4e966229fa8f1cfdcc2b9e9e3/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 59 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/JhchoQSYI3DHa3IrjsDx8g/1652641200/0/f6e03c5cb56ba77a7fd2155f4cc82e6e/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hO5lMnug2HmEeNCvEfnoul6xWXXSm25tH9ssbDkwHUNxFQmV0O6xDMIVVqknVmvG8r35MlI4oQopBuhzt2dlA57rawFc67DZICOB=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 60 Slam Dunk (1993)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/JhchoQSYI3DHa3IrjsDx8g/1652641200/0/73bcd37a9506faab808ed3e8e7036288/original/video.mp4
-x2x2
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 1 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1rTrTDxFInTJ3kK_nJmdZT_6MEZHgo-3K?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 2 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1veIMjRjW0j4iFs0HbjW6bkxnPTZ8IwAr?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 3 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/17YqP0QnndUP4B3urN3FJVhiow1Qtz5-H?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 4 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1DHurnmqldjLOvQcY-Hukca1Lhh7CPGs4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 5 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1DI5Q2pKUoeC1ruOG5oZW3EV0nFRcwt3g?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 6 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1DIoHCIwFq7tQuQPD7YGrU7kd1dMbQ_R2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 7 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1D_B-CTGqFQkBcfpp5oE8D33lwnAXPwE5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 8 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1DbORaEi_V86d0kjw9u9lY2k7TBhkviJ3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 9 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1Dhqkiqn8REjg77sNTi9z_gWsvs3heeLY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 10 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1DjKhmL1BH_XTsF16gbUybysXEoHm4GjF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 11 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1Dl-66yJR7UGlTKnrKaoKqzLA1v3b-Ep_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 12 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1Dngbh9jbWikFrU9oekn0d3bysZRO21nj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 13 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1Do98HOA2WSUwFwvW6Fln4T2QnSEnreBa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 14 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1EBEpC20jkAip2PjPonSPzd8_2-fwPqWa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 15 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1ECaB4a5YE95Ei-CL1kRYABY5xFGLUC0-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 15 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1ECaB4a5YE95Ei-CL1kRYABY5xFGLUC0-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 16 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1ENe6gA0tbLD9YbBumtQ7We9NnHolVcIG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 17 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1Eeg1H8R0RJM1bkjr-2w5FzBXNlHR_VTf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 18 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1ElEVdX8o15YB1wn4yh9p8ZREM4zr8Rkq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 19 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1Em9vptSncfc3UuS0X7rC7WTkAwxRsag2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sUCnVdGlIzbdoEkm8fsyUhGVNSQO0Q-WvWF3NicEyuiN2vNy8jrfohYVJUsVUii2yXEr1CJbpQ7mgS85uEYQL0QzyEi7dW4c2Nc6=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 20 ghost at school (2000) dubbing indonesia
-https://www.googleapis.com/drive/v3/files/1EqB5cOMDQ6_8Jun4Oi-0j4mlcxl-wcHb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-x3x3
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 1 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/f02529f464628d7e8159897c93663767/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 2 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/dcc431fc1346dc8e0b14b3a8ea767dac/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 3 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/4230743401bbb0fa10d0c8a64f2cee6d/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 4 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/a848b3908531858aef94ed73f2faee41/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 5 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/0993cb01773b7f0905af05b355860680/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 6 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/a2f39857869c2f674d1b9226648c4fe7/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 7 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/b7715b35cc8c5749046b1e54e7668fb6/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 8 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/846bde34f582081d1710bcf1619c9241/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 9 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/e91769d7b2a980cc15e67e11b2eb096b/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 10 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/b627cffc66c1aad8d90b9148e01399df/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 11 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/73804847e5959edbca4fd678c14035c4/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 12 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/05801772f32dcd45e7a035e2029c5de2/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 13 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/f6dcc7463214f43e8224fbae53674e08/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 14 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/a3932bc0305fb334681c184751f1b9cc/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 15 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/534b0c7eb054244505b05f63236d2634/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 16 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/cfe8c7638833660513fa6067433fbf65/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 17 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/c087f205a055ed6af32b284979ad4226/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 18 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/f9c352092d422bdad88e3963c328a52e/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 19 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/c3e438f89610953d4889051d5cf1183a/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 20 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/2600f7b669eba78e4cd497599c3b815e/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 21 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/d2acf43fd4e384c694000bd1650dcef2/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 22 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/c4447bb5de7ed5947c934fec704409f4/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 23 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/c649f578fa288d68bd0e7f0a7d959138/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/F7SsZDYs-g1GRAKCsBuJQKChwPSB2K3-4XC19xhV1uYzF1Z5vbZe_3Evz3JHj4NpNpCxpfmQGHHQeJoiOyEqjXTJ6N5lW3XiWY7q8Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 24 Magic Kaito 1412 (2014)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/3UdcjRdQZ06pXV0BdOQIcA/1650481200/0/66f6d8cf72eeb32aa5ab21d9fad897b9/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 1 Captain Tsubasa (2018)
-https://www.googleapis.com/drive/v3/files/1bXMjfdN8gACG69NtBS9vvAMFjiRl8kq_?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 2 Captain Tsubasa (2018)
-https://www.googleapis.com/drive/v3/files/1RN_7TAgV2pJRzguXORBb5AAVw-OoMpP5?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 3 Captain Tsubasa (2018)
-https://www.googleapis.com/drive/v3/files/1oWreIz-W04DDuV0njs28GNmlOz519Ju4?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 4 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/sHuikVvuUcRLh_QY7NbujQ/1648753200/0/c56e2a8bace8039feddd802a7a7db236/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 5 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/sHuikVvuUcRLh_QY7NbujQ/1648753200/0/9602a2099abf9077dca2daac775ec019/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 6 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/o3pEP4Lkkqf_RkVXyiQkuA/1648926000/0/f6b9f2b284816f91a5b2b5661c1e8d71/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 7 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/o3pEP4Lkkqf_RkVXyiQkuA/1648926000/0/a0364348a8bb4c947735f0c3508ab4b9/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 8 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/o3pEP4Lkkqf_RkVXyiQkuA/1648926000/0/05aab345b8b62a27290af195b791b216/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 9 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/o3pEP4Lkkqf_RkVXyiQkuA/1648926000/0/8f96376583f59b0e25482dba79c793dc/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 10 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/o3pEP4Lkkqf_RkVXyiQkuA/1648926000/0/67f5a6d4dcc20e254535d666f4fc032e/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 11 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/o3pEP4Lkkqf_RkVXyiQkuA/1648926000/0/cdffd3f586a6962f1c4678a1bd56b088/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 12 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/o3pEP4Lkkqf_RkVXyiQkuA/1648926000/0/0a7b4979006014b89a0b1c78cf9d30e0/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 13 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/o3pEP4Lkkqf_RkVXyiQkuA/1648926000/0/0df0c7e6f7cc4fad26c79ceccc792aba/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 14 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/o3pEP4Lkkqf_RkVXyiQkuA/1648926000/0/1910c863342452a3509f3c3821ad1310/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 15 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/o3pEP4Lkkqf_RkVXyiQkuA/1648926000/0/8b5b0665d4306668faf8323ccb9688be/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 16 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/zlrjdO0f9d25T2neGeGgEg/1649098800/0/6bf35668928d64e6cc7d3e6f86c79f31/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 17 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/zlrjdO0f9d25T2neGeGgEg/1649098800/0/a9b0df3badfafed8ec23db030ac0c641/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 18 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/zlrjdO0f9d25T2neGeGgEg/1649098800/0/acd7c00fb935dca5b0069b22b98bde5c/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 19 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/zlrjdO0f9d25T2neGeGgEg/1649098800/0/d863341f8740c03089fba99dcf7b9371/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 20 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/zlrjdO0f9d25T2neGeGgEg/1649098800/0/f8728953193890f47434504c2acde3c1/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 21 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/y6bPMxDvN5vtUdcEDZaogw/1649185200/0/0f40a880b1f0af9419fb0b95380bc879/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 22 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/y6bPMxDvN5vtUdcEDZaogw/1649185200/0/8c3beae0d0a5921a3d3940f6b21d2bfe/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 23 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/y6bPMxDvN5vtUdcEDZaogw/1649185200/0/54907b534cf5d82fe75c1fe448eb202a/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 24 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BlN4Uv6gH3aLBsr3QeOMEw/1649271600/0/4d19d55988985ab521fca154ba61e7a4/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 25 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BlN4Uv6gH3aLBsr3QeOMEw/1649271600/0/0a01e0ce7003fcbec2f0c8271d89a782/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 26 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BlN4Uv6gH3aLBsr3QeOMEw/1649271600/0/cae3bbe482f0721c988d6da65e1952e2/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 27 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BlN4Uv6gH3aLBsr3QeOMEw/1649271600/0/bff87d2c51b51f5a8a4eb521bab9ebc0/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 28 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BlN4Uv6gH3aLBsr3QeOMEw/1649271600/0/b3754befb6ee095a1b79d70d87997c23/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 29 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BlN4Uv6gH3aLBsr3QeOMEw/1649271600/0/40db09285632b5f6560e90e253fc682f/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 30 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BlN4Uv6gH3aLBsr3QeOMEw/1649271600/0/d8e8be7f52b2af8d3bb26abfca7614fb/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 31 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BlN4Uv6gH3aLBsr3QeOMEw/1649271600/0/fa3995338a4d94f23254094f241d1e7e/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 32 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BlN4Uv6gH3aLBsr3QeOMEw/1649271600/0/8fd321921a6e9ca1dcf0e675525bdb48/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 33 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BlN4Uv6gH3aLBsr3QeOMEw/1649271600/0/7150425ecd9054d5b567002491080062/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 34 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BlN4Uv6gH3aLBsr3QeOMEw/1649271600/0/decb94b673d7b5d9bfbbbaf07b70ecd8/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 35 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BlN4Uv6gH3aLBsr3QeOMEw/1649271600/0/a84e7af66ede8cc85a58e19ba39870ce/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 36 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BlN4Uv6gH3aLBsr3QeOMEw/1649271600/0/1429b9060fc92aa5e751b6ba439e8a8c/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 37 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BlN4Uv6gH3aLBsr3QeOMEw/1649271600/0/1009dff1c84ba7240dfdea44a86df577/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 38 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BlN4Uv6gH3aLBsr3QeOMEw/1649271600/0/31e3fad63c14bbffd8aa5b7e6051482a/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 39 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BlN4Uv6gH3aLBsr3QeOMEw/1649271600/0/1ee833d27b412084abade3732607c28a/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 40 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/BlN4Uv6gH3aLBsr3QeOMEw/1649271600/0/e2a64e9d933823167ff16e30ff8c320d/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 41 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/YPRGGWa2W2BsSZjcMma6Ew/1649358000/0/29f7183f6e867286b740d619b22b1ed5/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 42 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/YPRGGWa2W2BsSZjcMma6Ew/1649358000/0/c874207d2219e0093cdbd20fa89f0d6b/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 43 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/YPRGGWa2W2BsSZjcMma6Ew/1649358000/0/5650e493d8fcf0ee91a1e6f843f1f6b6/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 44 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/YPRGGWa2W2BsSZjcMma6Ew/1649358000/0/da12ef77e34e12e449d41a925c5d6e6f/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 45 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/YPRGGWa2W2BsSZjcMma6Ew/1649358000/0/16d3c17015fba645bd04ec6a031d42b3/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 46 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/baSozutGgi8gVTQCrJXxFw/1649444400/0/afaaad6bac30315860b5496309de7ff6/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 47 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/baSozutGgi8gVTQCrJXxFw/1649444400/0/9e23771a85a1a60354ea135f469be645/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 48 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/baSozutGgi8gVTQCrJXxFw/1649444400/0/8b7bbcf121655b051e6fbe02fc38084e/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 49 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/baSozutGgi8gVTQCrJXxFw/1649444400/0/6fec1615d104e51c6b03180e556d3540/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 50 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/baSozutGgi8gVTQCrJXxFw/1649444400/0/6fec1615d104e51c6b03180e556d3540/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 51 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/baSozutGgi8gVTQCrJXxFw/1649444400/0/62feb2491a2be384480161c810fe7064/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mFldNMV5SW2hnaMrRUDajDzEtf16Lh6PoV5g7CFDjiMIZQazvt7IkTLuwFUK3SDugU-TlQirO3mmzNLAp5750SoNbvHTYiBxITt7w=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 52 Captain Tsubasa (2018)
-https://content-gomuvideo.onicdn.xyz/videoplayback/watch/baSozutGgi8gVTQCrJXxFw/1649444400/0/e1057f26772f17a25acaf90735d65cd6/original/video.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/aFp3eOrq5Ai9UXYM7gDivtU-9PHpCtQO7TQOSXCCEXNb8JmcmfXmaf6T2qpcv9cZKPJdR5RFBjDeWHpwJx1Gu7zBR1j3K-GnvEvS4Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 1 The King's Avatar (2017)
-https://www.googleapis.com/drive/v3/files/1G_YNIkxgJashYw16MFCJ2XohhRWf7_zL?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/aFp3eOrq5Ai9UXYM7gDivtU-9PHpCtQO7TQOSXCCEXNb8JmcmfXmaf6T2qpcv9cZKPJdR5RFBjDeWHpwJx1Gu7zBR1j3K-GnvEvS4Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 2 The King's Avatar (2017)
-https://www.googleapis.com/drive/v3/files/1iC5TtfT_ugk6BvldNsIkvJoM8xCxR5RV?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/aFp3eOrq5Ai9UXYM7gDivtU-9PHpCtQO7TQOSXCCEXNb8JmcmfXmaf6T2qpcv9cZKPJdR5RFBjDeWHpwJx1Gu7zBR1j3K-GnvEvS4Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 3 The King's Avatar (2017)
-https://www.googleapis.com/drive/v3/files/1Y4tRJrgs1xAyEupSIa2wFQFOqhMyGe0r?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/aFp3eOrq5Ai9UXYM7gDivtU-9PHpCtQO7TQOSXCCEXNb8JmcmfXmaf6T2qpcv9cZKPJdR5RFBjDeWHpwJx1Gu7zBR1j3K-GnvEvS4Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 4 The King's Avatar (2017)
-https://www.googleapis.com/drive/v3/files/1kQc0KhOGPmMFwuDogVixdGqdvECGb1jk?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/aFp3eOrq5Ai9UXYM7gDivtU-9PHpCtQO7TQOSXCCEXNb8JmcmfXmaf6T2qpcv9cZKPJdR5RFBjDeWHpwJx1Gu7zBR1j3K-GnvEvS4Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 5 The King's Avatar (2017)
-https://www.googleapis.com/drive/v3/files/1_9hyaHdEi-EDD43SBeTKekbpdWEgUW_S?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/aFp3eOrq5Ai9UXYM7gDivtU-9PHpCtQO7TQOSXCCEXNb8JmcmfXmaf6T2qpcv9cZKPJdR5RFBjDeWHpwJx1Gu7zBR1j3K-GnvEvS4Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 6 The King's Avatar (2017)
-https://www.googleapis.com/drive/v3/files/15_z6HwwVMghkcdeJSu9r0cNvxOEcJecD?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/aFp3eOrq5Ai9UXYM7gDivtU-9PHpCtQO7TQOSXCCEXNb8JmcmfXmaf6T2qpcv9cZKPJdR5RFBjDeWHpwJx1Gu7zBR1j3K-GnvEvS4Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 7 The King's Avatar (2017)
-https://www.googleapis.com/drive/v3/files/1Q5pCKo_9J6e_gJqovJhE26B04lvk-yk4?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/aFp3eOrq5Ai9UXYM7gDivtU-9PHpCtQO7TQOSXCCEXNb8JmcmfXmaf6T2qpcv9cZKPJdR5RFBjDeWHpwJx1Gu7zBR1j3K-GnvEvS4Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 8 The King's Avatar (2017)
-https://www.googleapis.com/drive/v3/files/1S3HLve-2OlH92w_q3TzMKfj9jaFTjs1N?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/aFp3eOrq5Ai9UXYM7gDivtU-9PHpCtQO7TQOSXCCEXNb8JmcmfXmaf6T2qpcv9cZKPJdR5RFBjDeWHpwJx1Gu7zBR1j3K-GnvEvS4Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 9 The King's Avatar (2017)
-https://www.googleapis.com/drive/v3/files/105YyqV4R0G2xcyqvXI-NpSG_z6N1pmna?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/aFp3eOrq5Ai9UXYM7gDivtU-9PHpCtQO7TQOSXCCEXNb8JmcmfXmaf6T2qpcv9cZKPJdR5RFBjDeWHpwJx1Gu7zBR1j3K-GnvEvS4Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 10 The King's Avatar (2017)
-https://www.googleapis.com/drive/v3/files/1UbXXfv1G1N6yY0XKoiAlUHkohNvs4SaK?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/aFp3eOrq5Ai9UXYM7gDivtU-9PHpCtQO7TQOSXCCEXNb8JmcmfXmaf6T2qpcv9cZKPJdR5RFBjDeWHpwJx1Gu7zBR1j3K-GnvEvS4Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 11 The King's Avatar (2017)
-https://www.googleapis.com/drive/v3/files/1gC4ANkuRxUHt-Z90TZUuCVgVha86R9ZC?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/aFp3eOrq5Ai9UXYM7gDivtU-9PHpCtQO7TQOSXCCEXNb8JmcmfXmaf6T2qpcv9cZKPJdR5RFBjDeWHpwJx1Gu7zBR1j3K-GnvEvS4Q=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 12 The King's Avatar (2017)
-https://www.googleapis.com/drive/v3/files/1Ixl5vCzWk6G3bFgDcwfyh5ymGOVggkVF?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1Cas5ORgOZZZ_30uJChZFw_ZUjqCs_KOjozuYVcGKTPmvt0qijFH0ZumffdTl7EDrepV1AYC0UaNKRNuqW-J9LWHpak-Pu73Xc_s=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 1 Kisah Tanah Jawa: Merapi (2019) indonesia
-https://www.googleapis.com/drive/v3/files/1NfJjXFQ9ZepWahJDilPxDajAooUQO0Mg?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1Cas5ORgOZZZ_30uJChZFw_ZUjqCs_KOjozuYVcGKTPmvt0qijFH0ZumffdTl7EDrepV1AYC0UaNKRNuqW-J9LWHpak-Pu73Xc_s=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 2 Kisah Tanah Jawa: Merapi (2019) indonesia
-https://www.googleapis.com/drive/v3/files/1xry7LTwgJybU51qlhGez60_2TX5A3UUU?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1Cas5ORgOZZZ_30uJChZFw_ZUjqCs_KOjozuYVcGKTPmvt0qijFH0ZumffdTl7EDrepV1AYC0UaNKRNuqW-J9LWHpak-Pu73Xc_s=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 3 Kisah Tanah Jawa: Merapi (2019) indonesia
-https://www.googleapis.com/drive/v3/files/16s6EYBD9zUS7-qtges3D5qnyUyah-Gqs?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1Cas5ORgOZZZ_30uJChZFw_ZUjqCs_KOjozuYVcGKTPmvt0qijFH0ZumffdTl7EDrepV1AYC0UaNKRNuqW-J9LWHpak-Pu73Xc_s=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 4 Kisah Tanah Jawa: Merapi (2019) indonesia
-https://www.googleapis.com/drive/v3/files/1OVonEpVipvTElsNpzVvxoxaEcJxUIvVC?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1Cas5ORgOZZZ_30uJChZFw_ZUjqCs_KOjozuYVcGKTPmvt0qijFH0ZumffdTl7EDrepV1AYC0UaNKRNuqW-J9LWHpak-Pu73Xc_s=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 5 Kisah Tanah Jawa: Merapi (2019) indonesia
-https://www.googleapis.com/drive/v3/files/1jPx4pjOix3A4QMuh-VDPLwrz0WkMOsnX?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1Cas5ORgOZZZ_30uJChZFw_ZUjqCs_KOjozuYVcGKTPmvt0qijFH0ZumffdTl7EDrepV1AYC0UaNKRNuqW-J9LWHpak-Pu73Xc_s=w360-h684-rw-sm-pa-nu-v0" group-title="VOD", eps 6 Kisah Tanah Jawa: Merapi (2019) indonesia
-https://www.googleapis.com/drive/v3/files/13xKzqGBJEyn8RanVxZa4u45fel5JGAZ-?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/09NKdAq.jpg" group-title="VOD KIDS",The Addams Family (2019)
+https://lh3.googleusercontent.com/ygTh4dv0Mjm7hzhJjfuqHgLOEEH5C1MYVX9uJqUJuEehvzOb_hmO3tq2cuZnRuKgo3PkevRnsuEBtAEINQ=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/hIbPFdg.jpg" group-title="VOD KIDS",Ralph Breaks the Internet (2018)
+https://lh3.googleusercontent.com/H_GqI24O5cNbG80JM4gGbXir6_KVd-0pQQJ11eOxPqcMyD7kBoRzqNqNHwk8dOswmg-f9B7D9mDsQX_aCA=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7HmYjXF.jpg" group-title="VOD KIDS",Batman Ninja (2018)
+https://lh3.googleusercontent.com/-tgi8pvGLgoUmbtSEOR0LuEyZQcvNi_NWM04Xi2FvlN8smXkqE6wcVcesxUkBR1B3FldiYPmjPrusNZmxA=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/E7sPvZ2.jpg" group-title="VOD KIDS",Spider-Man: Into the Spider-Verse (2018)
+https://lh3.googleusercontent.com/hvynYOx9j_qy7ulK_56btmYgPSMa-sQTS4B9MxxEjq3UBuBP1l_dI0Wfo4awELBdULJWVjj3vR1EJvM49A=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/xgMF6vM.jpg" group-title="VOD KIDS",Incredibles 2 (2018)
+https://lh3.googleusercontent.com/EDaMhGVn3QugVibWwjW6YosIAw6MiuHVGYG-e0jMWC7_-zlzIqX7eEY3GMBrAmXV8dCnQhqkKDA75VjE8w=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/MsnZYOa.jpg" group-title="VOD KIDS",Duck Duck Goose (2018)
+https://lh3.googleusercontent.com/gdh73W9ibmWLvZGXMyEr5BOmi88klvMshe7Yc8FvAZlxq9ujiS1FEqDQCupwzXarWJWaPDxo0cRPGil7DA=m22
+
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/s3zlJkN.jpg" group-title="VOD KIDS",Hotel Transylvania 3: Summer Vacation (2018)
+https://lh3.googleusercontent.com/Nz2pKxXfynzKFV7BnvBOMsRGSEzBWJQdb-_KNdR-pD5mAOkPL8IH5pS_NmgKhw7xvtnkbNx0HWUW4ih11w=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/T45xcT2.jpg" group-title="VOD KIDS",Pokémon the Movie: The Power of Us (2018)
+https://lh3.googleusercontent.com/nOPQnLh3q9rsfXXbL8iBQsU2MN38rPsx9ovcP88eBByElr8UV_djNSArFh1W_T9EVmzZTp_1aLwcczTuCg=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/dYdsgjq.png" group-title="VOD KIDS",Peter Rabbit (2018)
+https://lh3.googleusercontent.com/Sbe_gGA74E2qWCtkNQh2YsIP0eOk90vlmXMm0GIbkDFyHzg9VpmWCZaHJAITEXD9pRoupQhUc6pVgl4rXg=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/1ZO45Fg.jpg" group-title="VOD KIDS",Rabbit School - Guardians of the Golden Egg (2017)
+https://lh3.googleusercontent.com/eZ7xx-sBxliS9RqIPS83EV1Y2hpMrpGy3quJCh7w6jH6lED7pkifhEsAhF2Irc2fbHKZ-8Ou6MkmxB9GHw=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ar3OoG1.jpg" group-title="VOD KIDS",The Big Bad Fox and Other Tales (2017)
+https://lh3.googleusercontent.com/G-0j3_7K676OGoGA2PycgVT3Mq7pgKlDxHU4gukrkiNT-4Ll0WpFxYIv9tKV75q5P4FTi-CX-WUGNswRdQ=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/4MJTuMD.jpg" group-title="VOD KIDS",Cars 3 (2017)
+https://lh3.googleusercontent.com/DsFO0So_8Ks63rpRM3lFR-gavagVOhH38tMQFvJ5yDDGvrwTq8jG7onwEbzCl15Hg9b1vcjtV7-4extntA=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KgEZwRW.jpg" group-title="VOD KIDS",The Boss Baby (2017)
+https://lh3.googleusercontent.com/qM-0IPEMej1OcTvnCWLO6A4cFlW8FM4vxugM1HLB8aQSptB8yMeHXv_iQS8x26FCXEpOyUiffTP5Z6zRCw=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/1dne2NK.jpg" group-title="VOD KIDS",Ferdinand (2017)
+https://lh3.googleusercontent.com/fJk_Mh-R2jB0v4sQjM00qn7tEHBBgmurEleOHh9Wzg_kEgv7IWKxex53kan_eHOVmkmE8Fy6-YmYBbDimQ=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/S1F4lse.jpg" group-title="VOD KIDS",Woody Woodpecker (2017)
+https://lh3.googleusercontent.com/LAO2jlag3W5IvX5S1oRmvIc77JKlhtfvkHVTC3NxJgRWsdyDtwk17HKkJvx_gQzYJnV6CmyYqQx78l8onQ=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/PWoYCT6.jpg" group-title="VOD KIDS",Coco (2017)
+https://lh3.googleusercontent.com/GBTJcqGzVbS7NtC7s2ZtMjutY6-q79IklurElMHHsHyge5HOEcteZjlPhsk6Lsw5APJl5nBe_E0zKdRm5A=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/fmh7eFl.jpg" group-title="VOD KIDS",BoBoiBoy: The Movie (2016)
+https://lh3.googleusercontent.com/K2Lyu64Zhsc-c3aAL5tKhs_hZUmS7hg34jAb8REJR8kicf7sxeJCRC7q-qGe1SkMke9dDIqYtlRgHk0KbQ=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/5gsdkhp.jpg" group-title="VOD KIDS",Ice Age: Collision Course (2016)
+https://lh3.googleusercontent.com/F-ZaqB6AZRfu2sre6CegW0Ag039Xx0UNgAqXxKq4HkVn0HLoXP5z-Fk-s1XcAv_Kioct8jw-zN44GS4jGg=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/NQL23Gd.jpg" group-title="VOD KIDS",Kung Fu Panda 3 (2016)
+https://lh3.googleusercontent.com/vf_QmvXXYq6uJQF8FVzUln20qss9OaFmfmVvPIiUV8yFr44b_SYJ5VhJsQxBnlTjsjPWAwkO7HBoglpUAg=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8wxLpgP.jpg" group-title="VOD KIDS",Moana (2016)
+https://lh3.googleusercontent.com/ITnmgKbhDUWbrD29kZvDCcXdtic-NFEZ5nzhy0Xw_P2_Fn0RfYL5dhmaCKXSi1EYHaNimQK25mfWWPvI2A=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/MM1v1Iz.jpg" group-title="VOD KIDS",Scooby-Doo! and WWE: Curse of the Speed Demon (2016)
+https://lh3.googleusercontent.com/9Pwu6oU8JOO8xLQvcbZKBv92_Xg30CGIKiZOn_e1zM62QEmMO83oqTYnMZ-qc3ngLmqz64PRK6KjVSbeJQ=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/2RxTk0E.jpg" group-title="VOD KIDS",The Snow Queen 3 (2016)
+https://lh3.googleusercontent.com/VwINSgoBhaYdlPODtPggQCEvv9nUbojqu2y7SyiXV2-Jfp2vU3z-bAJ36yfVCSsmQqhX5ARt-B6HijKjCw=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iIJrON9.jpg" group-title="VOD KIDS",Trolls (2016)
+https://lh3.googleusercontent.com/pUutwYf_P9CNpUGwfYJMqB3zkbV4wmTI2_klCx5cUD4Fap2uuxJAHp4vCn9vQjHTw8cmUtwUAz1wsZUKJg=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/JInxoDt.jpg" group-title="VOD KIDS",Bilal: A New Breed of Hero (2015)
+https://lh3.googleusercontent.com/f3uaz13M7le6hfjKjBOIR6tNCUObu4gIPfEFosf6j72n2gWAg7J05A7CV6M-w8FcwdtXirBy5atiF78XDQ=m22
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/UVOZbW5.jpg" group-title="VOD KIDS",Hotel Transylvania 2 (2015)
+https://lh3.googleusercontent.com/9ZY3rYtARr5sdcwAGPrRLe8Z-Hp_U_TLDHyzv8VwYmpscPHtsPlrbQ3CzVT5llUxk-QfFuM9BvXvjurBfg=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/nQBOzqA.jpg" group-title="VOD KIDS",Big Hero 6 (2014)
+https://lh3.googleusercontent.com/mV11TdGvhSdWZ75efJTwtthswHvj_Pr_425CFgjciLVfW5-WoXNP_zq0tZ6OBKPu5cvQmC7EtBYmS7XeHA=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/u89e0K9.jpg" group-title="VOD KIDS",Dragon Nest: Warriors' Dawn (2014)
+https://lh3.googleusercontent.com/8BhFNg4weFcTHteD-SGIkuTPrpm_DtSOBaU3Biu8mXfKFAbesUnJrR5fyFaUvfQUw_99G-MqKkENvxu1FQ=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/dtnZfvd.jpg" group-title="VOD KIDS",How to Train Your Dragon 2 (2014)
+https://lh3.googleusercontent.com/kiTH7DMcBsfNkxTn80W-dzGRkRVZQEJ47j6bDH6l7nBbO3y0lfNJiY8S_2h1j_oov_QPJ5xwTaYbdRkuqQ=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/eQKudie.jpg" group-title="VOD KIDS",Rio 2 (2014)
+https://lh3.googleusercontent.com/NbHteL5xENkDC_r3q8csnsvnh6RlDrJBM0NYq2JNM8rhPFvirafLJ4FdRMDEI1RRe7Nuozc0WTegZX9EJQ=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/NWwwgHi.jpg" group-title="VOD KIDS",The Snow Queen 2 (2014)
+https://lh3.googleusercontent.com/PUkP_uc30xYVDPQPTPBOcYAmdTJDzriV5Jb_RKM0CrMlykOwQBB4a6B4Hs2NMEJwPF5t2bZVqOOSWfjgsQ=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/saOpM2X.jpg" group-title="VOD KIDS",Frozen (2013)
+https://lh3.googleusercontent.com/8OLNPmNiqm3XgItbuPTbq2ythbAsHoP8aWDYM9G7Gxy8-7nFzVFdXUSwd0qeRPYe_8XvyAw_ExSgRbMH_g=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/DBhTp1D.jpg" group-title="VOD KIDS",Monsters University (2013)
+https://lh3.googleusercontent.com/CrjdkDGEoO0RzVc9UZhMmV6r2jNNLlhqvzYm768vkKY5JAArbC50XvZdAhoYpIaCb09h__j-d-GPBQoTkQ=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/cZGo5gT.jpg" group-title="VOD KIDS",Tarzan (2013)
+https://lh3.googleusercontent.com/zufDgL7mogTBnRtvvwRJcdEZR-AkdSbGM24odqJTnp5qp2x_UEirukB_XNB13CjL38w8R2i-ukpD-p62IQ=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/BrceGo5.jpg" group-title="VOD KIDS",Brave (2012)
+https://lh3.googleusercontent.com/5JnP-eTnKSwFQ9M29yEwcU4m3U2twJ9zeEOpzLuDTg0mtZj-7gfI7Ui7aEkeCLVh7NLjUk24muipjgm-aA=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/5Yjmr0C.jpg" group-title="VOD KIDS",Hotel Transylvania (2012)
+https://lh3.googleusercontent.com/FUX6gE6s-TXiQEXywhaEfjM_rPaDR4-BT4aIvFgA609Urp6rA0Na9z835rCPCp2j46jZISj8xaxx6N1h8A=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/5Yjmr0C.jpg" group-title="VOD KIDS",Hotel Transylvania (2012)
+https://lh3.googleusercontent.com/FUX6gE6s-TXiQEXywhaEfjM_rPaDR4-BT4aIvFgA609Urp6rA0Na9z835rCPCp2j46jZISj8xaxx6N1h8A=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/mKiKnGf.jpg" group-title="VOD KIDS",Ice Age: Continental Drift (2012)
+https://lh3.googleusercontent.com/6QwK8RipgMSvRNhioFlgChBB9olLkEaqC_C22acc4Rikl3Pb6ldczJpFdRUqORmJkvHN5VyQyKAIa8msaw=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/R0GwKBj.jpg" group-title="VOD KIDS",Tad: The Explorer (2012)
+https://lh3.googleusercontent.com/ImP5Y0jSsvXj3mhlFF21Fo3b5D_SqcTs_yXKp-C7kpiTEtr6nu2Ak47AXKroZsxnwAgZF2nEQAbmkCD5sw=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/A3a5UhK.jpg" group-title="VOD KIDS",The Snow Queen  (2012)
+https://lh3.googleusercontent.com/zwsS5gwHpLhi-zdc1zC5LWGpZnWmf34X9r-kIAc2tqWAngSGC1G13Z584bqHd-egA6p1NG-Y8ARAYi39xQ=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/9kh7oB9.jpg" group-title="VOD KIDS",War of the Worlds: Goliath (2012)
+https://lh3.googleusercontent.com/KqeaYVXh5fwJQ8__qnETIDtFd4CRO70sxLUtGGgpfwAA7K27QApbCDGPqfjoN5SjqoTmdh-aRJsmip-8vg=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/HhuFjaO.jpg" group-title="VOD KIDS",Wreck-It Ralph (2012)
+https://lh3.googleusercontent.com/HAmlehJxV5ht9uXTBJpZNQjsfarvDE1bB6p43Zdx_9W8B_WjJD23GUkbqABx89SVknBk-LNRyo1nT-c8-A=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/VwlgFRB.jpg" group-title="VOD KIDS",Cars 2 (2011)
+https://lh3.googleusercontent.com/ZoZmtDYUPUUzVm9ZkF7HbM2uxF80e5aNOEWOX-ks7hMEmIkmLHMlIz4nbZCsGoVT0EIDej-dW5wLtw_eZA=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7HytloH.jpg" group-title="VOD KIDS",Kung Fu Panda 2 (2011)
+https://lh3.googleusercontent.com/gSfq9VdV9U8LRF5Cj27gel2507QXEzUhHdljNA9YoLxH4fQMba8rxENXLw8kRSzhifl3QHLonXimSWkSeQ=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/h33B4m5.jpg" group-title="VOD KIDS",Mars Needs Moms (2011)
+https://lh3.googleusercontent.com/b6uTzSPgPRA1yo4ugyinFS0TaKpGHrfKKtLjzFbYQtqtOS1psqw95Xx6hlcvGFsYU5akzv47Prwm1MxIOw=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/Kvq6iCM.jpg" group-title="VOD KIDS",Rio (2011)
+https://lh3.googleusercontent.com/YXp1lzZCyBQzdw7y9WQzHxlkRHbLc9zR6aEILB-5DAaYXjwSNrlRXvah-s99e_nSkl2unwrO1DXIVUCSrg=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/YQpHmRN.jpg" group-title="VOD KIDS",How to Train Your Dragon (2010)
+https://lh3.googleusercontent.com/ZczAPLnQ2Hk4d7nogkxJUZ3J2BV9k-17ZSaVTkPvbHbt5jDj8VG1d6eJ1TOK041LriA6FXsOBC2KhWSAxw=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/gWE4ZKR.jpg" group-title="VOD KIDS",G-Force (2009)
+https://lh3.googleusercontent.com/hhi756pirDCaC88olH53sA6Djx8ftsQIwGfEwgWQ2iWlc40gEeqdxO8cQKFxZOtEEUiBVyvNt2K-zdNEEQ=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iJofDin.jpg" group-title="VOD KIDS",Ice Age: Dawn of the Dinosaurs (2009)
+https://lh3.googleusercontent.com/S4U5m_bep6TYRYiAIqCmDL8sEzMFZD9QqTe6u_aQjqtJgD6uGSnfKQ-YYWGGGyWcFEm9pbiBhE97JRLlKQ=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/LZh9Ujz.jpg" group-title="VOD KIDS",Kung Fu Panda (2008)
+https://lh3.googleusercontent.com/-p78whiwcwyIIVLMyyAv8YEGzBOBqP74QRsprLSdf0hc_mXRkvtp5OB3BWdzt4kT28ujMnjJ1NJGUJ8agw=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/u32zdt2.jpg" group-title="VOD KIDS",Cars (2006)
+https://lh3.googleusercontent.com/NTaQ7QK6M-pvb2TCZBpua6lgVR7AMHfzS5L5X_BsXPDGGlx1GLenSlvc4ZRtQo0ZHWBdRM2KA-np-lQ7Uw=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/wianuVI.jpg" group-title="VOD KIDS",Ice Age: The Meltdown (2006)
+https://lh3.googleusercontent.com/_e3MaCLRE2pFQSYdaLHBoIiN6O7i6ALosCHAiYUDILysW75D9VLG-ChTxhwVk4jUccEXUHa2dqjIoOU1GA=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/YMFcpiQ.jpg" group-title="VOD KIDS",Aloha, Scooby-Doo! (2005)
+https://lh3.googleusercontent.com/Hca942oPRyaQMmYwrXXyVT3cbvkPFUcf0awP6SdBQTbX5cayhCHi429tLeEjE8ZyMngLxy5nzKlZiKAe5w=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/lTiqWPc.jpg" group-title="VOD KIDS",The Incredibles (2004)
+https://lh3.googleusercontent.com/-8QwFnowpt_T1S2-TUnVmD6fq-X16KgrRIPzL81DBT7uDR1R85KFP2O8dIWBvzVeMfRTsz6sVi9TwBIRVQ=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/tPDZ81o.jpg" group-title="VOD KIDS",The Animatrix (2003)
+https://lh3.googleusercontent.com/w-rIc-U5JWPeWNmb6LDLy99o9A03aSqPYK9IdxF8EDDOPCJvSQEKbUfIuBHTwIf6-KkQYj7CSlwL3NePoQ=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/RhMIDnp.jpg" group-title="VOD KIDS",Ice Age (2002)
+https://lh3.googleusercontent.com/_mPY82zbxOqPb9sthB5i-f7BQHT-TDzmTnkAWFH73spzfcSqUlu0-iu5WeZfTcAF5pxTVavum5KHdPnvMw=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EodiiFj.jpg" group-title="VOD KIDS",Lilo & Stitch (2002)
+https://lh3.googleusercontent.com/3fvODebLW56vcDLjIbx72M3tLuuII5kjHnyNDhMbKEm94USqf182zlQS6a1utV7jiFAzhrqcj9wE-nMaJA=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/t7BAd65.jpg" group-title="VOD KIDS",Monsters, Inc. (2001)
+https://lh3.googleusercontent.com/JbOTHuFXyXkuBa9JBm_xsc3xJgujsoiPlr3fuxpXSHTvp2I3CT3alBlW9F63IWRoyXBJokoaEi0yiCSwWg=m22
+
+#EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/2QVE7JU.jpg" group-title="VOD KIDS",Aladin (1993)
+https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ieLWQPdBQWV1pmTwoUUGr8--AEaA6QZEMkKQwQ=m22
