@@ -24,7 +24,7 @@ http://203.77.246.50:5000/udp/239.1.2.158:5000
 #http://axcestv.vip:8080/freeview/axcestv/450
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142672.m3u8
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png", Astro Ceria 2
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="ENTERTAINMENT-KIDS", Astro Ceria 2
 https://nonton.site:8443/mustakim/mustakim/37399
 
 #EXTINF:-1 tvg-id="" tvg-name="HIP HIP HOREE! (Vidio)" tvg-logo="https://mantul.org/logo/hiphiphore.png" group-title="ENTERTAINMENT-KIDS",HIP HIP HOREE! (Vidio)
@@ -233,8 +233,7 @@ http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105
 
 #EXTINF:0 group-title="ID",RTV
 #EXTVLCOPT:network-caching=1000
-#http://210.210.155.35/session/1e1de4c6-6fcd-11e9-834b-b82a72d63267/qwr9ew/s/s12/01.m3u8
-http://210.210.155.37/dr9445/h/h10/index.m3u8
+http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
 
 #EXTINF:0 group-title="ID",ELSHINTA TV
 #EXTVLCOPT:network-caching=1000
