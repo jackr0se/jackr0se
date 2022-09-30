@@ -43,6 +43,12 @@ https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606616323
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",CINEMAX
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/2156
+
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",AXN
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016982
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="ENTERTAINMENT-MOVIE" tvg-id="" tvg-name="", Paramount
 http://axcestv.vip:8080/freeview/axcestv/531
 
@@ -205,6 +211,12 @@ http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s
 #EXTINF:0 group-title="ID",MNCTv
 #EXTVLCOPT:network-caching=1000
 #https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
+http://203.77.246.50:5000/udp/239.1.3.78:5000
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ID",MNCTv2
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016571
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ID",MNCTv3
 http://203.77.246.50:5000/udp/239.1.3.78:5000
 
 #EXTINF:0 group-title="ID",INDOSIAR1
