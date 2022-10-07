@@ -2,14 +2,27 @@
 
 ##### ENTERTAINMENT KIDS #####
 
-#EXTINF:-1 group-title="ENTERTAINMENT-KIDS", Astro Ta-Daa!
-#http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/290510
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/290510
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-KIDS",ID: ANIMAX
+http://king-tv.online:8080/gisle@/FDPWGufCmY/371719.ts
 
-#EXTINF:0 group-title="ENTERTAINMENT-KIDS",ANIMAX
-#EXTVLCOPT:network-caching=1000
-#http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
-https://m3u-editor.com/serve/580a6730-1076-11ed-89ef-2fcea8197e43/606616555
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2n8iDR.png" group-title="ENTERTAINMENT-KIDS",Spacetoon
+https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HipHiphoree.id" tvg-logo="https://i.imgur.com/TMAQTQC.png" group-title="ENTERTAINMENT-KIDS",Hip Hip Horee!
+http://tvn.x10.mx/1/master-4.m3u8?dl=1
+
+#EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://i.imgur.com/GCeS1xO.png" group-title="ENTERTAINMENT-KIDS",Horee!
+http://tvn.x10.mx/1/master-6.m3u8?dl=1
+
+#EXTINF:-1 tvg-id="TADAA.my" tvg-logo="https://i.imgur.com/EVNoaz5.png" group-title="ENTERTAINMENT-KIDS",Ta-daa!
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37445
+
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-logo="https://i.imgur.com/8s1jRRh.png" group-title="ENTERTAINMENT-KIDS",Astro Ceria
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
+http://iptvtree.net:8080/ace2524d/15a571c413/157481
 
 #EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="ENTERTAINMENT-KIDS", ANIPLUS 2
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
@@ -20,15 +33,11 @@ http://203.77.246.50:5000/udp/239.1.2.154:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-KIDS",Boomerang
 http://203.77.246.50:5000/udp/239.1.2.158:5000
 
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://assets.laliga.com/assets/2020/10/23/large/e7d33a854854ec528705e1dd5e34ddab.png" group-title="ENTERTAINMENT-KIDS", Astro Ceria
-#http://axcestv.vip:8080/freeview/axcestv/450
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142672.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/N/new-disney-channel-logo-9E50BDA03A-seeklogo.com.jpg" group-title="ENTERTAINMENT-KIDS",Disney Channel 
+http://185.59.223.102:8080/disney/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="ENTERTAINMENT-KIDS", Astro Ceria 2
-https://nonton.site:8443/mustakim/mustakim/37399
-
-#EXTINF:-1 tvg-id="" tvg-name="HIP HIP HOREE! (Vidio)" tvg-logo="https://mantul.org/logo/hiphiphore.png" group-title="ENTERTAINMENT-KIDS",HIP HIP HOREE! (Vidio)
-http://tvn.x10.mx/vidio/master-4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ENTERTAINMENT-KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Mentari_TV.png", Mentari TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
 
 
 ##### ENTERTAINMENT MOVIE #####
@@ -47,7 +56,7 @@ http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/2156
 
 #EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",AXN
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016982
+http://king-tv.online:8080/gisle@/FDPWGufCmY/371720.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="ENTERTAINMENT-MOVIE" tvg-id="" tvg-name="", Paramount
 http://axcestv.vip:8080/freeview/axcestv/531
@@ -55,17 +64,17 @@ http://axcestv.vip:8080/freeview/axcestv/531
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",Hits Movies HD
 http://203.77.246.50:5000/udp/239.1.2.150:5000
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOID
-http://203.77.246.50:5000/udp/239.1.3.84:5000
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",ID: HBO
+http://king-tv.online:8080/gisle@/FDPWGufCmY/371703.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",ID: HBO SIGNATURE
+http://king-tv.online:8080/gisle@/FDPWGufCmY/371704.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",ID: HBO FAMILY
+http://king-tv.online:8080/gisle@/FDPWGufCmY/371705.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",ID: HBO HITS
+http://king-tv.online:8080/gisle@/FDPWGufCmY/371706.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOFamsID
-http://203.77.246.50:5000/udp/239.1.3.76:5000
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOsignID
-http://203.77.246.50:5000/udp/239.1.3.74:5000
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",HBOhitsID
-http://203.77.246.50:5000/udp/239.1.3.82:5000
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",ID: GALAXY PREMIUM HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/371724.ts
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",CINEMA WORLD
 #EXTVLCOPT:network-caching=1000
@@ -115,6 +124,14 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=6655271
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #http://live.flixhub.net/hls/starmovies.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h9W2I7O.png" group-title="ENTERTAINMENT-MOVIE",& privé
+http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:35:B2:F6&stream=862618&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="ENTERTAINMENT-MOVIE",STAR MOVIES SELECT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
+http://humiptv.live:8080//live/500757885/3356646354/98843.ts
+
 
 ##### ENTERTAINMENT TV SHOW #####
 
@@ -130,7 +147,8 @@ http://210.210.155.35/session/23157eb4-8766-11eb-a83f-b82a72d63267/uq2663/h/h22/
 http://210.210.155.35/uq2663/h/h97/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",Discovery
-http://203.77.246.50:5000/udp/239.1.2.134:5000
+http://king-tv.online:8080/gisle@/FDPWGufCmY/371744.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",Animal Planet
 http://203.77.246.50:5000/udp/239.1.2.136:5000
 
@@ -175,7 +193,7 @@ http://210.210.155.35/uq2663/h/h19/02.m3u8
 #https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/1533
 #https://cubmu.nomaden.tv:8279/WARNER/playlist.m3u8
 #http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28733?token=TURYAhZYEAwSBlVUDlsDVABQBFYOWwsGAFdUA1UPUF0GUglQUgcEUgRGTxBLF0AGVA9uD1IbCQQJC1UDShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSC19SBlccQRVZVhQKRlEHCVYDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAFQFVRNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpRA1cNUBMb
-http://203.77.246.50:5000/udp/239.1.2.156:5000
+http://king-tv.online:8080/gisle@/FDPWGufCmY/371716.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="ENTERTAINMENT-TV SHOW",KBS WORLD HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
@@ -245,7 +263,7 @@ http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105
 
 #EXTINF:0 group-title="ID",RTV
 #EXTVLCOPT:network-caching=1000
-http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
+http://tvn.x10.mx/1/master-29.m3u8?dl=1
 
 #EXTINF:0 group-title="ID",ELSHINTA TV
 #EXTVLCOPT:network-caching=1000
@@ -368,6 +386,47 @@ http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w389732598.m3u8
 
 ##### SPORTS #####
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Usee Sports 1
+http://pprotv.com:80/fahad70/fahad70/39554
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Usee Sports 2
+http://pprotv.com:80/fahad70/fahad70/39555
+
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-logo="https://i.imgur.com/7bPCw4Q.png" group-title="SPORTS",Astro Arena
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
+http://king-tv.online:8080/gisle@/FDPWGufCmY/379989.ts
+
+#EXTINF:-1 tvg-id="AstroArena2.my" tvg-logo="https://i.imgur.com/meHW06l.png" group-title="SPORTS",Astro Arena 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
+http://king-tv.online:8080/gisle@/FDPWGufCmY/379990.ts
+
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="SPORTS",Astro Supersport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
+http://shareext@xtv.ooo:8080/demo/demo123/229522
+
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="SPORTS",Astro Supersport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
+http://shareext@xtv.ooo:8080/demo/demo123/229523
+
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="SPORTS",Astro Supersport 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
+http://shareext@xtv.ooo:8080/demo/demo123/229524
+
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="SPORTS",Astro Supersport 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
+http://shareext@xtv.ooo:8080/demo/demo123/229525
+
+#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="SPORTS",Astro Supersport 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
+http://king-tv.online:8080/gisle@/FDPWGufCmY/379986.ts
+
 #EXTINF:0 tvg-id="SPOTV.kr" tvg-name="" tvg-logo="https://i.postimg.cc/fTBcqqrM/Round-Photo-Jul092022-031005.png" group-title="SPORTS",SPO TV 1
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
@@ -417,27 +476,41 @@ http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/91336
 #http://kuchini.site:8080/livetvchannel2021/fe326fcc/280249
 http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/91338
 
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="SPORTS",sky sports premier league
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/95009
-#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652095
-#http://ky-iptv.com:80/robertd/robertd/1821337.ts
+#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.imgur.com/o8zT78o.png" group-title="SPORTS-2",beIN Sports English 1 backup
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+http://king-tv.online:8080/gisle@/FDPWGufCmY/383667.ts
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rsT6Cu2.png" group-title="SPORTS",sky sports football
-#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652190
-#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652098
-http://ky-iptv.com:80/robertd/robertd/1846775.ts
+#EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://i.imgur.com/RJ17vOc.png" group-title="SPORTS-2",beIN Sports English 2 backup
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+http://king-tv.online:8080/gisle@/FDPWGufCmY/383668.ts
+
+#EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://i.imgur.com/sKFx2QF.png" group-title="SPORTS-2",beIN Sports English 3 backup
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+http://king-tv.online:8080/gisle@/FDPWGufCmY/383669.ts
+
+#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="SPORTS-2",beIN Sports Premium 1 backup
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+http://king-tv.online:8080/gisle@/FDPWGufCmY/238059.ts
+
+#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-logo="https://i.imgur.com/Ns7isEP.png" group-title="SPORTS-2",beIN Sports Premium 2 backup
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+http://king-tv.online:8080/gisle@/FDPWGufCmY/238060.ts
+
+#EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="SPORTS-2",beIN Sports Premium 3 backup
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+http://king-tv.online:8080/gisle@/FDPWGufCmY/238061.ts
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png" group-title="SPORTS",SuperSport Premier League
 http://5gfksa.ltd:2052/991155/551199/174608
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_LaLiga_4-3_005_xlrg.png" group-title="SPORTS",SuperSport La Liga
 http://5gfksa.ltd:2052/991155/551199/174607
-
-#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-logo="https://i.imgur.com/z3fQ87X.png" group-title="SPORTS",EUROSPORT 1
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/55447
-
-#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport2" tvg-logo="https://i.imgur.com/0xpN9B6.png" group-title="SPORTS",EUROSPORT 2
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/159625
 
 ##### WORLD NEWS #####
 
