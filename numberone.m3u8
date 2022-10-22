@@ -279,7 +279,7 @@ http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105
 
 #EXTINF:0 group-title="ID",RTV
 #EXTVLCOPT:network-caching=1000
-http://tvn.x10.mx/1/master-29.m3u8?dl=1
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 #EXTINF:0 group-title="ID",ELSHINTA TV
 #EXTVLCOPT:network-caching=1000
