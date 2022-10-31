@@ -28,7 +28,7 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37445
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-logo="https://i.imgur.com/8s1jRRh.png" group-title="ENTERTAINMENT-KIDS",Astro Ceria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
-http://iptvtree.net:8080/ace2524d/15a571c413/157481
+https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142672
 
 #EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="ENTERTAINMENT-KIDS", ANIPLUS 2
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
@@ -100,6 +100,9 @@ http://210.210.155.35/dr9445/h/h07/02.m3u8
 #EXTVLCOPT:network-caching=1000
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://static.epg.best/in/AndFlix.in.png",&FLIX
+http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/155990.m3u8
+
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 25
 http://huanqiuzhibo.cn/manifest/douyu.php?id=8945323
 
@@ -137,7 +140,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #http://live.flixhub.net/hls/starmovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h9W2I7O.png" group-title="ENTERTAINMENT-MOVIE",& privé
-http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:35:B2:F6&stream=862618&extension=ts
+http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/155746.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="ENTERTAINMENT-MOVIE",STAR MOVIES SELECT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -232,7 +235,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2091843237_b744100_sl
 
 #EXTINF:0 group-title="ID",RCTI
 #EXTVLCOPT:network-caching=1000
-http://54.151.201.145:5566/GG/Live/RcTi/mpegts
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
 
 #EXTINF:0 group-title="ID",INEWS
 #EXTVLCOPT:network-caching=1000
@@ -245,7 +248,7 @@ http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s
 #EXTINF:0 group-title="ID",MNCTv
 #EXTVLCOPT:network-caching=1000
 #https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
-http://203.77.246.50:5000/udp/239.1.3.78:5000
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ID",MNCTv2
 https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016571
