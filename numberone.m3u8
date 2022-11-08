@@ -54,9 +54,13 @@ http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21896296_ico.png?ts=1665736906" group-title="ENTERTAINMENT-MOVIE",Astro Box Office
 http://51.79.82.208:16013
 
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",tvNMovies
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",tvNMovies1
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",tvNMovies2
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/01202022/NEWKMOVIES.png", NEW KMOVIES
 https://tinyurl.com/TiviMe-NewKMovies
@@ -133,19 +137,14 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 35
 http://huanqiuzhibo.cn/manifest/douyu.php?id=6655271
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Movie Select" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ENTERTAINMENT-MOVIE",Star Movie 2
-#http://axcestv.vip:8080/freeview/axcestv/512
-#http://103.132.16.98:8080/starmoviesselecthd/mpegts
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#http://live.flixhub.net/hls/starmovies.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h9W2I7O.png" group-title="ENTERTAINMENT-MOVIE",& privé
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/155746.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="ENTERTAINMENT-MOVIE",STAR MOVIES SELECT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
-http://humiptv.live:8080//live/500757885/3356646354/98843.ts
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://i.ibb.co/PNY41q7/440px-STAR-Movies-logo-svg.png",Star Movies HD
+https://tinyurl.com/tatasabbiriptv6
+
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://i.ibb.co/1Jrb0cg/SMSHD.png",Star Movies Select HD
+https://tinyurl.com/tatasabbiriptv7
 
 
 ##### ENTERTAINMENT TV SHOW #####
@@ -235,7 +234,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2091843237_b744100_sl
 
 #EXTINF:0 group-title="ID",RCTI
 #EXTVLCOPT:network-caching=1000
-https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 
 #EXTINF:0 group-title="ID",INEWS
 #EXTVLCOPT:network-caching=1000
@@ -404,6 +403,12 @@ http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w389732598.m3u8
 
 
 ##### SPORTS #####
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",Star Sports Select 1 HD
+https://tinyurl.com/tatasabbiriptv14
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",Star Sports Select 2 HD
+https://tinyurl.com/tatasabbiriptv15
 
 #EXTINF:0 tvg-id="SPOTV.kr" tvg-name="" tvg-logo="https://i.postimg.cc/fTBcqqrM/Round-Photo-Jul092022-031005.png" group-title="SPORTS",SPO TV 1
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
