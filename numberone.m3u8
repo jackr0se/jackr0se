@@ -104,9 +104,11 @@ http://210.210.155.35/dr9445/h/h07/02.m3u8
 #EXTVLCOPT:network-caching=1000
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://i.ibb.co/k1JJN2t/and-flix-hd-logo-300x300-modified.png" group-title="ENTERTAINMENT-MOVIE",&Flix
-#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/flix
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="ENTERTAINMENT-MOVIE", Sony Pix HD
+http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/49539
+
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://static.epg.best/in/AndFlix.in.png",&FLIX
+http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/155990.m3u8
 
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 25
 http://huanqiuzhibo.cn/manifest/douyu.php?id=8945323
@@ -250,10 +252,8 @@ http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s
 #https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="mnctv" tvg-logo="https://i.ibb.co/YW131Xz/images-modified.png" group-title="ID",MNCTv2
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/mnctvfix.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/HGkQ2YB/mnctv-home-tv.png" group-title="ID",MNCTv2
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/6.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ID",MNCTv3
 http://203.77.246.50:5000/udp/239.1.3.78:5000
@@ -274,10 +274,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co/B2fCbY1/channel-81-modified.png" group-title="ID",GTV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/gtvfix.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/gZLhrBt/gtv-home-tv.png" group-title="ID",GTV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/7.ts
 
 #EXTINF:0 group-title="ID",TV ONE
 #EXTVLCOPT:network-caching=1000
