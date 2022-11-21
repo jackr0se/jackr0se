@@ -247,6 +247,9 @@ https://lnk.ec/INEWSplus?shareext.m3u8?bukuantv=f846bc691110108f73cb55c2f4049864
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="ID", SCTV2
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+
 #EXTINF:0 group-title="ID",MNCTv
 #EXTVLCOPT:network-caching=1000
 #https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
@@ -283,7 +286,7 @@ http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105
 
 #EXTINF:0 group-title="ID",RTV
 #EXTVLCOPT:network-caching=1000
-https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/1561-rtv
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 #EXTINF:0 group-title="ID",ELSHINTA TV
 #EXTVLCOPT:network-caching=1000
