@@ -270,6 +270,16 @@ https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
 #EXTVLCOPT:file-caching=1000
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
 
+#EXTINF:0 group-title="ID",RCTI3
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
+
 #EXTINF:0 group-title="ID",INEWS
 #EXTVLCOPT:network-caching=1000
 https://lnk.ec/INEWSplus?shareext.m3u8?bukuantv=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
@@ -282,6 +292,15 @@ http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:600 group-title="ID",MNCTV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
+
+#EXTINF:0 group-title="ID",MNCTV4
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
@@ -315,7 +334,7 @@ http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/gZLhrBt/gtv-home-tv.png" group-title="ID",GTV
 https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
 
-#EXTINF:606  group-title="ID",GTV2
+#EXTINF:606 group-title="ID",GTV2
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
