@@ -2,8 +2,24 @@
 
 ##### ENTERTAINMENT KIDS #####
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-KIDS",ID: ANIMAX
-https://cdn.us195.jpnettv.live/jptv/janimax_720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" group-title="ENTERTAINMENT-KIDS", Aneka (Brunei)
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+
+#EXTINF:30 group-title="ENTERTAINMENT-KIDS",TV Edukasi
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
+
+#EXTINF:30 group-title="ENTERTAINMENT-KIDS",BIZNET KIDS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5ufsc6An90HaQ-4mSW1OLt1Q4atgMMpRaw&usqp=CAU" group-title="ENTERTAINMENT-KIDS", Naruto
 https://bit.ly/3RvST11
@@ -140,6 +156,10 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 35
 http://huanqiuzhibo.cn/manifest/douyu.php?id=6655271
 
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-id="1CHN" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",MOVIES GROUP 36
+https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
+#http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h9W2I7O.png" group-title="ENTERTAINMENT-MOVIE",& privé
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/155746.m3u8
 
@@ -237,7 +257,8 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2091843237_b744100_sl
 
 #EXTINF:0 group-title="ID",RCTI
 #EXTVLCOPT:network-caching=1000
-https://d35d0ifx19oopq.cloudfront.net/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+#https://d35d0ifx19oopq.cloudfront.net/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
 
 #EXTINF:0 group-title="ID",INEWS
 #EXTVLCOPT:network-caching=1000
@@ -278,7 +299,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/gZLhrBt/gtv-home-tv.png" group-title="ID",GTV
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/7.ts
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
 
 #EXTINF:0 group-title="ID",TV ONE
 #EXTVLCOPT:network-caching=1000
@@ -429,7 +450,21 @@ http://line.365tv.xyz:8060/lucky/jfdnndsfs/110542
 
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 4 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="QATAR2022", LIVE7
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/110543
-#EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 4 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="QATAR2022", LIVE8
+
+#EXTINF:-1  tvg-name="WC 1" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="QATAR2022" :http-referrer="",LIVE8
+http://iptvtree.net:8080/faucontv/Yhd649BcdgXVR374d6/1483
+
+#EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="QATAR2022" :http-referrer="",LIVE9
+http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/100
+
+#EXTINF:-1  tvg-name="WC 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="QATAR2022" :http-referrer="",LIVE10
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40574
+
+#EXTINF:-1  tvg-name="WC 4" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="QATAR2022" :http-referrer="",LIVE11
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
+
+#EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="QATAR2022" :http-referrer="",LIVE12
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",Star Sports Select 1 HD
 https://tinyurl.com/tatasabbiriptv14
@@ -530,6 +565,45 @@ http://megatv.me:5890/TPWYU493EL/Oxfr2fqmjd/145073
 #EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="beIN SPORTS PREMIUM 3 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyvTStaro4Ynnjh8f5TkdQrasyGgtudCESF097SZYiZW_.png" group-title="SPORTS", beINSPORTS PREMIUM 3
 http://megatv.me:5890/TPWYU493EL/Oxfr2fqmjd/145074
 
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d53d914cf33a693725a0d427c0cbba1d.png" group-title="SPORTS",AU: beIN Sports 1
+http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/35347
+
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9795eb5b80ed3b3cde621f2a5c15275b.png" group-title="SPORTS",AU: beIN Sports 2
+http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/35338
+
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/088d0d06f0b43fe9529668eac174c903.png" group-title="SPORTS",AU: beIN Sports 3
+http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/35340
+
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="QA: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" group-title="SPORTS",QA: beIN Sports 1
+http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/100
+
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="QA: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/31f6dbe34a61abb6cadc5a13d54d8b4d.png" group-title="SPORTS",QA: beIN Sports 2
+http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/101
+
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="QA: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png" group-title="SPORTS",QA: beIN Sports 3
+http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/102
+
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="QA: beIN Sports 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0dea19dc983ea75ced697dfaa4c47d85.png" group-title="SPORTS",QA: beIN Sports 4
+http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/103
+
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="QA: beIN Sports 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b6c7110b7a880c716cb68073a5df5d90.png" group-title="SPORTS",QA: beIN Sports 5
+http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/104
+
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="QA: beIN Sports 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3ad0c2b25e878d21a2e3820b0c43a447.png" group-title="SPORTS",QA: beIN Sports 6
+http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/105
+
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="QA: beIN Sports 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f823bec52bbeb99de40933222aed1f4f.png" group-title="SPORTS",QA: beIN Sports 7
+http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/106
+
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="QA: beIN Sports English 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="SPORTS",QA: beIN Sports English 1
+http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/110
+
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="QA: beIN Sports English 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33be90fdfdbfbf011c3e65d621196ec8.png" group-title="SPORTS",QA: beIN Sports English 2
+http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/111
+
+#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="QA: beIN Sports English 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/724539660042a9755e6c7d5dafef0a55.png" group-title="SPORTS",QA: beIN Sports English 3
+http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/267769
+
 ##### WORLD NEWS #####
 
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png"  group-title="WORLD NEWS",CNN (US)
@@ -548,6 +622,11 @@ http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8MQW4MG/NHK.png" group-title="WORLD NEWS",NHK
 http://210.210.155.35/uq2663/h/h23/01.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang" tvg-logo="https://i.ibb.co/VmHKBHZ/ARIRANG.png" group-title="WORLD NEWS", Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgZPr3PY/logo-nhkworld-big.png" group-title="WORLD NEWS",NHK WORLD JAPAN
 http://210.210.155.35/session/40d99f12-b06f-11ea-85f7-8562a8355579/uq2663/h/h23/02.m3u8
