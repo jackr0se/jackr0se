@@ -396,44 +396,21 @@ http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w389732598.m3u8
 
 ##### SPORTS #####
 
-#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="SPORTS PREMIUM 1 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylp5fQN2WlloPJvYlNcWQgiwP1sB6xZCcsbOLxOyk_co.png" group-title="SPORTS", beINSPORTS PREMIUM 1
-http://185.53.88.103:88/live/226448369414368/226448369414368/5192.m3u
+#UPDATE 1 JAM SEBELUM LAGA DIMULAI
+#EXTINF:0 tvg-logo=""group-title="SPORTS", WORLD CUP 1
+#EXTVLCOPT:network-caching=1000
+rtmp://id.52128200.8besar.pialadunia2022.harijumat.09desember2022.qatar.gratistidakbayar.muhamadaqilfarhan.kawaguchimaeda.com/live/test
 
-#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="SPORTS PREMIUM 2 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylyDkSBz4CMKbrq5CbCc90jGAzvbzqR5Sq7fjB4EobHd.png" group-title="SPORTS", beINSPORTS PREMIUM 2
-http://185.53.88.103:88/live/226448369414368/226448369414368/5193.m3u
+#UPDATE 1 JAM SEBELUM LAGA DIMULAI
+#EXTINF:0 tvg-logo="" group-title="SPORTS", WORLD CUP 2
+#EXTVLCOPT:network-caching=1000
+rtmp://en.52128200.8besar.pialadunia2022.harijumat.09desember2022.qatar.gratistidakbayar.muhamadaqilfarhan.kawaguchimaeda.com/live/test
 
-#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="SPORTS PREMIUM 3 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyvTStaro4Ynnjh8f5TkdQrasyGgtudCESF097SZYiZW_.png" group-title="SPORTS", beINSPORTS PREMIUM 3
-http://185.53.88.103:88/live/226448369414368/226448369414368/5194.m3u
+#EXTINF:-1 tvg-logo=""group-title="SPORTS", SCTV (IP INDO)
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
-#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="SPORTS 1 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygAomraa0QMezNho-6kfJHLy67UECyyeq2GPRWkZBr1M.png" group-title="SPORTS", beINSPORTS 1
-http://185.53.88.103:88/live/226448369414368/226448369414368/1602.m3u
-
-#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="SPORTS 2 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjhFRYZsa93dx0cbc16NLMVf3Y4AevFijt1_VPUq3yhc.png" group-title="SPORTS", beINSPORTS 2
-http://185.53.88.103:88/live/226448369414368/226448369414368/1603.m3u
-
-#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="SPORTS 3 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXymSyr0X-Tev19MUqEQ9KxaXQhcVMJ_CUVKAWNH-ER8Zm.png" group-title="SPORTS", beINSPORTS 3
-http://185.53.88.103:88/live/226448369414368/226448369414368/1604.m3u
-
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="SPORTS 4 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyvU8lUHvjH_yEIb4_inoojSrsi8Uk2nfzJJLahI2VV-D.png" group-title="SPORTS", beINSPORTS 4
-http://185.53.88.103:88/live/226448369414368/226448369414368/1605.m3u
-
-#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="SPORTS 5 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyhdqjW7EE5oQSNPCq7ZxqB_i77sie-1CPDRDP0sQ0bWS.png" group-title="SPORTS", beINSPORTS 5
-http://185.53.88.103:88/live/226448369414368/226448369414368/79.m3u
-
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="SPORTS 6 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyg_HGlhKZZsOBIDJOzUaTyiGpNWuHa-1s4wozBbDoCfQ.png" group-title="SPORTS", beINSPORTS 6
-http://185.53.88.103:88/live/226448369414368/226448369414368/80.m3u
-
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="SPORTS 7 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyqpVjhp-5dsCyN3AD3x1O_yquB07rTsL9QAszSx6EBng.png" group-title="SPORTS", beINSPORTS 7
-http://185.53.88.103:88/live/226448369414368/226448369414368/81.m3u
-
-#EXTINF:-1 tvg-id="beinsports1enar.qa" tvg-name="SPORTS EN 1 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylUsWOFbZ_5mi-YhZg30nfjem9RCzo7aKVRRSwMOLV_8.png" group-title="SPORTS", beINSPORTS 1 EN
-http://185.53.88.103:88/live/226448369414368/226448369414368/82.m3u
-
-#EXTINF:-1 tvg-id="beinsports2enar.qa" tvg-name="SPORTS EN 2 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjf23n4CK1FPCVfUXyPZnXWQdpB6BLstNAWtfBxHqjmv.png" group-title="SPORTS", beINSPORTS 2 EN
-http://185.53.88.103:88/live/226448369414368/226448369414368/83.m3u
-
-#EXTINF:-1 tvg-id="beinsports3enar.qa" tvg-name="SPORTS EN 3 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXym8DWQHK2_ENw2lG0hi8P54fxgij1yxAF3SOe57RV8Yv.png" group-title="SPORTS", beINSPORTS 3 EN
-http://185.53.88.103:88/live/226448369414368/226448369414368/84.m3u
+#EXTINF:-1 tvg-logo=""group-title="SPORTS", INDOSIAR (IP INDO)
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS", World Cup Channel 01
 http://iptv12k.com:35461/80203091402/213445/14402
@@ -450,29 +427,32 @@ http://iptv12k.com:35461/80203091402/213445/14401
 #EXTINF:-1 group-title="SPORTS",  World Cup Channel 08
 http://iptv12k.com:35461/80203091402/213445/14398
 
-#EXTINF:-1 group-title="SPORTS", Bein Sport MAX 1  HD
+#EXTINF:0 group-title="SPORTS", Bein Sport MAX 1  HD
 http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/128225.ts
 
-#EXTINF:-1 group-title="SPORTS",Bein Sport MAX 2  HD
+#EXTINF:0 group-title="SPORTS",Bein Sport MAX 2  HD
 http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/128228.ts
 
-#EXTINF:-1 group-title="SPORTS", BEIN SPORTS MAX 3 (ENG)
+#EXTINF:0 group-title="SPORTS", BEIN SPORTS MAX 3 (ENG)
 http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/129499.ts
 
-#EXTINF:-1 group-title="SPORTS", BEIN SPORTS MAX 4 (ENG)
+#EXTINF:0 group-title="SPORTS", BEIN SPORTS MAX 4 (ENG)
 http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/129500.ts
 
-#EXTINF:-1 group-title="SPORTS",|CA| TSN 1 | HD
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/1565.ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="SPORTS",Bein Premium 1 x
+#http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94498
+#http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/111600.m3u8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94496&extension=ts&play_token=TQ6cftyhX8
 
-#EXTINF:-1 group-title="SPORTS",|CA| TSN 2 | HD
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/1566.ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="SPORTS",Bein Premium 2 x
+#http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94488
+#http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/111602.m3u8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94492&extension=ts&play_token=TQ6cftyhX8
 
-#EXTINF:-1 group-title="SPORTS", USA: Fox Sport 1 HD (FS1)
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/54.ts
-
-#EXTINF:-1 group-title="SPORTS", USA: Fox Sport 2 HD (FS2)
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/55.ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="SPORTS",Bein Premium 3 x
+#http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94489
+#http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/111607.m3u8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94488&extension=ts&play_token=TQ6cftyhX8
 
 #EXTINF:0 tvg-id="SPOTV.kr" tvg-name="" tvg-logo="https://i.postimg.cc/fTBcqqrM/Round-Photo-Jul092022-031005.png" group-title="SPORTS",SPO TV 1
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
