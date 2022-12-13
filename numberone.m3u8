@@ -365,7 +365,8 @@ http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s
 #EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="ID", SCTV2
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/HGkQ2YB/mnctv-home-tv.png" group-title="ID",MNCTv2
+#EXTINF:-1  tvg-name="MNC TV 2" tvg-id="" tvg-logo="https://i.imgur.com/MIwOP2Q.jpg" group-title="ID" :http-referrer="https://www.rctiplus.com/",MNC TV 2
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
 
 #EXTINF:0 group-title="ID",INDOSIAR1
@@ -384,7 +385,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/gZLhrBt/gtv-home-tv.png" group-title="ID",GTV
+#EXTINF:-1  tvg-name="GTV 2" tvg-id="" tvg-logo="https://i.imgur.com/y9EL3Zi.jpg" group-title="ID" :http-referrer="https://www.rctiplus.com/",GTV3
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
 
 #EXTINF:0 group-title="ID",TV ONE
