@@ -137,33 +137,8 @@ http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/117176.ts
 #EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" group-title="ENTERTAINMENT-KIDS", Aneka (Brunei)
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5ufsc6An90HaQ-4mSW1OLt1Q4atgMMpRaw&usqp=CAU" group-title="ENTERTAINMENT-KIDS", Naruto
-https://bit.ly/3RvST11
-
-#EXTINF:-1  tvg-logo="https://images.pluto.tv/series/5fc658ffce9667001a291386/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&q=75&w=400" group-title="ENTERTAINMENT-KIDS", One Piece
-https://bit.ly/3RRQ2z7
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2n8iDR.png" group-title="ENTERTAINMENT-KIDS",Spacetoon
-https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TADAA.my" tvg-logo="https://i.imgur.com/EVNoaz5.png" group-title="ENTERTAINMENT-KIDS",Ta-daa!
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37445
-
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-logo="https://i.imgur.com/8s1jRRh.png" group-title="ENTERTAINMENT-KIDS",Astro Ceria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142672
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/N/new-disney-channel-logo-9E50BDA03A-seeklogo.com.jpg" group-title="ENTERTAINMENT-KIDS",Disney Channel 
 http://185.59.223.102:8080/disney/index.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT-KIDS",ANIMAX
-https://delivery.bukankaleng.co/stream/id_animax/playlist.m3u8?token=zyfkfy4&v=20200807
-
-#EXTINF:-1 group-title="ENTERTAINMENT-KIDS",ANIMAX2
-http://198.16.64.10:8278/Animax/playlist.m3u8?tid=MD5D2874027628740276&ct=19225&tsum=7a70d49085de7ded56bc64fa8d46c506
 
 #EXTINF:-1 group-title="ENTERTAINMENT-KIDS",US: DISNEY
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
@@ -178,40 +153,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
 
 ##### ENTERTAINMENT MOVIE #####
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://i.postimg.cc/hPzJb7LM/wynEFca.jpg",Sony Pix HD
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/98846.ts
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg",Star Movies HD
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/98842.ts
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",HBO
-https://delivery.bukankaleng.co/stream/hbo/playlist.m3u8?token=zyfkfy4&v=20200807
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",HBO SIGNATURE
-https://delivery.bukankaleng.co/stream/hbo_signature/playlist.m3u8?token=zyfkfy4&v=20200807
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",HBO HITS
-https://delivery.bukankaleng.co/stream/hbo_hits/playlist.m3u8?token=zyfkfy4&v=20200807
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",HBO FAMILY
-https://delivery.bukankaleng.co/stream/hbo_family/playlist.m3u8?token=zyfkfy4&v=20200807
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",CINEMAX
-https://delivery.bukankaleng.co/stream/cinemax/playlist.m3u8?token=zyfkfy4&v=20200807
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",IMC
-https://delivery.bukankaleng.co/stream/imc/playlist.m3u8?token=zyfkfy4&v=20200807
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",WARNER
-https://delivery.bukankaleng.co/stream/warnertv/playlist.m3u8?token=zyfkfy4&v=20200807
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",WARNER2
-http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",GALAXY PREMIUM
-https://delivery.bukankaleng.co/stream/galaxy_premium/playlist.m3u8?token=zyfkfy4&v=20200807
-
 #EXTINF:-1 tvg-id="706" tvg-name="HITS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="ENTERTAINMENT-MOVIE",HITS (706)
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
 
@@ -226,29 +167,12 @@ http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/01202022/NEWKMOVIES.png", NEW KMOVIES
 https://tinyurl.com/TiviMe-NewKMovies
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="ENTERTAINMENT-MOVIE" tvg-id="" tvg-name="", Paramount
-http://axcestv.vip:8080/freeview/axcestv/531
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-MOVIE",Hits Movies HD
-http://203.77.246.50:5000/udp/239.1.2.150:5000
-
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",CINEMA WORLD
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/dr9445/h/h04/01.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT-MOVIE",KIX
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/dr9445/h/h07/02.m3u8
-
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",FLIX
 #EXTVLCOPT:network-caching=1000
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://static.epg.best/in/AndFlix.in.png",&FLIX
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/155990.m3u8
-
-#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 25
-http://huanqiuzhibo.cn/manifest/douyu.php?id=8945323
 
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 26
 http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
@@ -274,18 +198,7 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=248753
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 34
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
 
-#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 35
-http://huanqiuzhibo.cn/manifest/douyu.php?id=6655271
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE" tvg-id="1CHN" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",MOVIES GROUP 36
-https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
-#http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h9W2I7O.png" group-title="ENTERTAINMENT-MOVIE",& privé
-http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/155746.m3u8
-
 ##### ENTERTAINMENT TV SHOW #####
-
 
 #EXTINF:-1 tvg-logo="https://cdn-bjdcd.nitrocdn.com/aaRsvpMUTfrTYDITHmPaxvlMKHgsAMJM/assets/static/optimized/rev-a378051/wp-content/uploads/e-ente24x555.jpg" group-title="ENTERTAINMENT-TV SHOW", E entertainment 
 http://89.187.175.143:80/3082/mpegts
@@ -299,15 +212,6 @@ http://210.210.155.35/session/23157eb4-8766-11eb-a83f-b82a72d63267/uq2663/h/h22/
 #EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",Learnings
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/uq2663/h/h97/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",Discovery
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/2.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT-TV SHOW",ANIMAL PLANET
-https://delivery.bukankaleng.co/stream/id_animalplanet/playlist.m3u8?token=zyfkfy4&v=20200807
-
-#EXTINF:-1 group-title="ENTERTAINMENT-TV SHOW",NATGEO WILD
-https://delivery.bukankaleng.co/stream/id_natgeowild/playlist.m3u8?token=zyfkfy4&v=20200807
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="ENTERTAINMENT-TV SHOW",TechStorm
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
