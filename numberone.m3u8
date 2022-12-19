@@ -1,138 +1,9 @@
 #EXTM3U
-##### PIALA DUNIA QATAR 2022 #####
-
-
-#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA QATAR 2022", LIVE 1
-https://m3u-editor.com/serve/b63d5590-7869-11ed-be87-fb2108e199b8/711470049
-#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA QATAR 2022", LIVE 2
-https://m3u-editor.com/serve/b63d5590-7869-11ed-be87-fb2108e199b8/711470050
-#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA QATAR 2022", LIVE 3
-https://m3u-editor.com/serve/b63d5590-7869-11ed-be87-fb2108e199b8/711470051
-#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA QATAR 2022", LIVE 4
-https://m3u-editor.com/serve/b63d5590-7869-11ed-be87-fb2108e199b8/711470052
-#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA QATAR 2022", LIVE 5
-https://m3u-editor.com/serve/b63d5590-7869-11ed-be87-fb2108e199b8/711470053
-#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA QATAR 2022", LIVE 6
-https://m3u-editor.com/serve/b63d5590-7869-11ed-be87-fb2108e199b8/711470054
-
-#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA QATAR 2022",VTV2 HD
-http://vn2.cvacetv.ga/vtv2
-#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA QATAR 2022",VTV3 HD
-http://vn2.cvacetv.ga/vtv3
-#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA QATAR 2022",VTV5 HD
-http://vn2.cvacetv.ga/vtv5
-#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA QATAR 2022",VTV Cần Thơ HD
-https://wallpapermeter.tk/worldcup/vtvcanthomytv
-
-#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/Bein-Sports-Max1.png" group-title="PIALA DUNIA QATAR 2022", BEIN SPORTS MAX 1 4K
-https://m3u-editor.com/serve/09c7d160-7695-11ed-8246-f3ba46b9f185/709492787
-#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/Bein-Sports-Max1.png" group-title="PIALA DUNIA QATAR 2022", BEIN SPORTS MAX 1 HD
-https://m3u-editor.com/serve/09c7d160-7695-11ed-8246-f3ba46b9f185/709492788
-#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/Bein-Sports-Max1.png" group-title="PIALA DUNIA QATAR 2022", BEIN SPORTS MAX 1 SD
-https://m3u-editor.com/serve/09c7d160-7695-11ed-8246-f3ba46b9f185/709492789
-#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/Bein-Sports-Max2.png" group-title="PIALA DUNIA QATAR 2022", BEIN SPORTS MAX 2 4K
-https://m3u-editor.com/serve/09c7d160-7695-11ed-8246-f3ba46b9f185/709492790
-#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/Bein-Sports-Max2.png" group-title="PIALA DUNIA QATAR 2022", BEIN SPORTS MAX 2 HD
-https://m3u-editor.com/serve/09c7d160-7695-11ed-8246-f3ba46b9f185/709492791
-#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/Bein-Sports-Max2.png" group-title="PIALA DUNIA QATAR 2022", BEIN SPORTS MAX 2 SD
-https://m3u-editor.com/serve/09c7d160-7695-11ed-8246-f3ba46b9f185/709492792
-=====
-#EXTINF:-1  tvg-name="WC 00" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 00
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-#EXTINF:-1  tvg-name="WC 01" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 01
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5494
-#EXTINF:-1  tvg-name="WC 02" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 02
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40574
-#EXTINF:-1  tvg-name="WC 03" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 03
-http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/48686
-#EXTINF:-1  tvg-name="WC 04" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 04
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3334
-#EXTINF:-1  tvg-name="WC 05" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 05
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5494
-#EXTINF:-1  tvg-name="WC 06" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 06
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5112
-#EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 07
-http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/16
-#EXTINF:-1  tvg-name="WC 08" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 08
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
-#EXTINF:-1  tvg-name="WC 09" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 09
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40575
-#EXTINF:-1  tvg-name="WC 10" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 10
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/2151.ts
-#EXTINF:-1  tvg-name="WC 11" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 11
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5112
-#EXTINF:-1  tvg-name="WC 12" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 12
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061395
-#EXTINF:-1  tvg-name="WC 13" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 13
-http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/37973
-#EXTINF:-1  tvg-name="WC 14" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 14
-http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/163
-#EXTINF:-1  tvg-name="WC 15" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 15
-http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/450
-#EXTINF:-1  tvg-name="WC 16" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 16
-http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/805
-#EXTINF:-1  tvg-name="WC 17" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 17
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/29359
-#EXTINF:-1  tvg-name="WC 18" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 18
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853
-#EXTINF:-1  tvg-name="WC 19" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 19
-http://fancytv.ddns.net:25461/fancynet/fancytv/1758
-#EXTINF:-1  tvg-name="WC 20" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 20
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/117176.ts
-
-#EXTINF:-1 tvg-name="WC 21"  group-title="WORLD CUP 2022"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8 
-
-#EXTINF:-1 tvg-name="WC 22" group-title="WORLD CUP 2022"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://4wycifxb.rostelekom.xyz/iptv/7A9D5FRZ9RT8LW/124/index.m3u8 
-
-#EXTINF:-1 tvg-name="WC 23" group-title="WORLD CUP 2022"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://webdi.openhd.lol/lb/premium111/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT 
-
-#EXTINF:-1 tvg-name="WC 24" group-title="WORLD CUP 2022"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0  
-https://webdi.openhd.lol/lb/premium39/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-name="WC 25" group-title="WORLD CUP 2022"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://webdi.openhd.lol/lb/premium140/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT 
-
-
-#EXTINF:-1 tvg-name="WC 26" group-title="WORLD CUP 2022"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/38714.m3u8 
-
-#EXTINF:-1 tvg-name="WC 27" group-title="WORLD CUP 2022"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0  
-https://webdi.openhd.lol/lb/premium50/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-name="WC 28" group-title="WORLD CUP 2022"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0  
-https://webdi.openhd.lol/lb/premium112/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-name="WC 29" group-title="WORLD CUP 2022"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax 
-
-#EXTINF:-1 tvg-name="WC 30" group-title="WORLD CUP 2022"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://webdi.openhd.lol/lb/premium78/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-
-#EXTINF:-1 tvg-name="WC 31" group-title="WORLD CUP 2022"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://123.254.72.24:1935/tvlive/livestream2/index.m3u8 
-
-#EXTINF:-1 tvg-name="WC 32" group-title="WORLD CUP 2022"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",7.(22:00 & 02:00wib) 2nd Lot
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://171.238.181.52:18080/194.m3u8 
-#EXTINF:-1  tvg-name="WC 33" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 21
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/117176.ts
 
 ##### ENTERTAINMENT KIDS #####
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ZRP61MgK/astroceria.png" group-title="ENTERTAINMENT-KIDS", Astro Ceria
+http://198.16.64.10:8278/Ceria/playlist.m3u8?tid=mfabd35f3f60610763675&ct=17913&tsum=83045199eb5a761e7e547c2ecd825d21
 
 #EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" group-title="ENTERTAINMENT-KIDS", Aneka (Brunei)
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
@@ -153,6 +24,20 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
 
 ##### ENTERTAINMENT MOVIE #####
+
+#EXTINF:-1 tvg-id="StarMoviesHDIndia.in" tvg-logo="https://i.ibb.co/PFpZHbS/6-Rbm-Dfm-modified.png" group-title="ENTERTAINMENT-MOVIE",Star Movies
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155727
+# http://teeveetv.one:2052/syntax/MKlaiuUcj2/998830
+# https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/starmo
+# http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarMoviesSelectHD.in" tvg-logo="https://i.ibb.co/2jh4NGh/starmovirs-modified-1.png" group-title="ENTERTAINMENT-MOVIE",Star Movies Select
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155729
+# http://teeveetv.one:2052/syntax/MKlaiuUcj2/998858
+# https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/starselect
+
 #EXTINF:-1 tvg-id="706" tvg-name="HITS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="ENTERTAINMENT-MOVIE",HITS (706)
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
 
@@ -425,48 +310,148 @@ http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w389732598.m3u8
 
 ##### SPORTS #####
 
-#UPDATE 1 JAM SEBELUM LAGA DIMULAI
-#EXTINF:0 tvg-logo=""group-title="SPORTS", WORLD CUP 1
-#EXTVLCOPT:network-caching=1000
-rtmp://id.52128200.8besar.pialadunia2022.harijumat.09desember2022.qatar.gratistidakbayar.muhamadaqilfarhan.kawaguchimaeda.com/live/test
+#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="SPORTS", LIVE 1
+https://m3u-editor.com/serve/b63d5590-7869-11ed-be87-fb2108e199b8/711470049
+#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="SPORTS", LIVE 2
+https://m3u-editor.com/serve/b63d5590-7869-11ed-be87-fb2108e199b8/711470050
+#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="SPORTS", LIVE 3
+https://m3u-editor.com/serve/b63d5590-7869-11ed-be87-fb2108e199b8/711470051
+#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="SPORTS", LIVE 4
+https://m3u-editor.com/serve/b63d5590-7869-11ed-be87-fb2108e199b8/711470052
+#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="SPORTS", LIVE 5
+https://m3u-editor.com/serve/b63d5590-7869-11ed-be87-fb2108e199b8/711470053
+#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="SPORTS", LIVE 6
+https://m3u-editor.com/serve/b63d5590-7869-11ed-be87-fb2108e199b8/711470054
 
-#UPDATE 1 JAM SEBELUM LAGA DIMULAI
-#EXTINF:0 tvg-logo="" group-title="SPORTS", WORLD CUP 2
-#EXTVLCOPT:network-caching=1000
-rtmp://en.52128200.8besar.pialadunia2022.harijumat.09desember2022.qatar.gratistidakbayar.muhamadaqilfarhan.kawaguchimaeda.com/live/test
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="SPORTS",VTV2 HD
+http://vn2.cvacetv.ga/vtv2
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="SPORTS",VTV3 HD
+http://vn2.cvacetv.ga/vtv3
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="SPORTS",VTV5 HD
+http://vn2.cvacetv.ga/vtv5
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="SPORTS",VTV Cần Thơ HD
+https://wallpapermeter.tk/worldcup/vtvcanthomytv
 
-#EXTINF:-1 tvg-logo=""group-title="SPORTS", SCTV (IP INDO)
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/Bein-Sports-Max1.png" group-title="SPORTS", BEIN SPORTS MAX 1 4K
+https://m3u-editor.com/serve/09c7d160-7695-11ed-8246-f3ba46b9f185/709492787
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/Bein-Sports-Max1.png" group-title="SPORTS", BEIN SPORTS MAX 1 HD
+https://m3u-editor.com/serve/09c7d160-7695-11ed-8246-f3ba46b9f185/709492788
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/Bein-Sports-Max1.png" group-title="SPORTS", BEIN SPORTS MAX 1 SD
+https://m3u-editor.com/serve/09c7d160-7695-11ed-8246-f3ba46b9f185/709492789
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/Bein-Sports-Max2.png" group-title="SPORTS", BEIN SPORTS MAX 2 4K
+https://m3u-editor.com/serve/09c7d160-7695-11ed-8246-f3ba46b9f185/709492790
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/Bein-Sports-Max2.png" group-title="SPORTS", BEIN SPORTS MAX 2 HD
+https://m3u-editor.com/serve/09c7d160-7695-11ed-8246-f3ba46b9f185/709492791
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/Bein-Sports-Max2.png" group-title="SPORTS", BEIN SPORTS MAX 2 SD
+https://m3u-editor.com/serve/09c7d160-7695-11ed-8246-f3ba46b9f185/709492792
+=====
+#EXTINF:-1  tvg-name="WC 00" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 00
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+#EXTINF:-1  tvg-name="WC 01" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 01
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5494
+#EXTINF:-1  tvg-name="WC 02" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 02
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40574
+#EXTINF:-1  tvg-name="WC 03" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 03
+http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/48686
+#EXTINF:-1  tvg-name="WC 04" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 04
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3334
+#EXTINF:-1  tvg-name="WC 05" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 05
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5494
+#EXTINF:-1  tvg-name="WC 06" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 06
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5112
+#EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 07
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/16
+#EXTINF:-1  tvg-name="WC 08" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 08
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
+#EXTINF:-1  tvg-name="WC 09" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 09
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40575
+#EXTINF:-1  tvg-name="WC 10" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 10
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/2151.ts
+#EXTINF:-1  tvg-name="WC 11" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 11
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5112
+#EXTINF:-1  tvg-name="WC 12" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 12
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061395
+#EXTINF:-1  tvg-name="WC 13" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 13
+http://netsports.tk:80/Depr4p7rt6/NQi2VTZZav/37973
+#EXTINF:-1  tvg-name="WC 14" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 14
+http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/163
+#EXTINF:-1  tvg-name="WC 15" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 15
+http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/450
+#EXTINF:-1  tvg-name="WC 16" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 16
+http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/805
+#EXTINF:-1  tvg-name="WC 17" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 17
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/29359
+#EXTINF:-1  tvg-name="WC 18" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 18
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853
+#EXTINF:-1  tvg-name="WC 19" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 19
+http://fancytv.ddns.net:25461/fancynet/fancytv/1758
+#EXTINF:-1  tvg-name="WC 20" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 20
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/117176.ts
 
-#EXTINF:-1 tvg-logo=""group-title="SPORTS", INDOSIAR (IP INDO)
-http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+#EXTINF:-1 tvg-name="WC 21"  group-title="SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8 
 
-#EXTINF:-1 group-title="SPORTS", World Cup Channel 01
-http://iptv12k.com:35461/80203091402/213445/14402
+#EXTINF:-1 tvg-name="WC 22" group-title="SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://4wycifxb.rostelekom.xyz/iptv/7A9D5FRZ9RT8LW/124/index.m3u8 
 
-#EXTINF:-1 group-title="SPORTS", World Cup Channel 02
-http://iptv12k.com:35461/80203091402/213445/14403
+#EXTINF:-1 tvg-name="WC 23" group-title="SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://webdi.openhd.lol/lb/premium111/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT 
 
-#EXTINF:-1 group-title="SPORTS", World Cup Channel 05
-http://iptv12k.com:35461/80203091402/213445/14407
+#EXTINF:-1 tvg-name="WC 24" group-title="SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0  
+https://webdi.openhd.lol/lb/premium39/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 group-title="SPORTS", World Cup Channel 07
-http://iptv12k.com:35461/80203091402/213445/14401
+#EXTINF:-1 tvg-name="WC 25" group-title="SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://webdi.openhd.lol/lb/premium140/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT 
 
-#EXTINF:-1 group-title="SPORTS",  World Cup Channel 08
-http://iptv12k.com:35461/80203091402/213445/14398
 
-#EXTINF:0 group-title="SPORTS", Bein Sport MAX 1  HD
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/128225.ts
+#EXTINF:-1 tvg-name="WC 26" group-title="SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/38714.m3u8 
 
-#EXTINF:0 group-title="SPORTS",Bein Sport MAX 2  HD
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/128228.ts
+#EXTINF:-1 tvg-name="WC 27" group-title="SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0  
+https://webdi.openhd.lol/lb/premium50/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:0 group-title="SPORTS", BEIN SPORTS MAX 3 (ENG)
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/129499.ts
+#EXTINF:-1 tvg-name="WC 28" group-title="SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0  
+https://webdi.openhd.lol/lb/premium112/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:0 group-title="SPORTS", BEIN SPORTS MAX 4 (ENG)
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/129500.ts
+#EXTINF:-1 tvg-name="WC 29" group-title="SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax 
+
+#EXTINF:-1 tvg-name="WC 30" group-title="SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://webdi.openhd.lol/lb/premium78/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+
+#EXTINF:-1 tvg-name="WC 31" group-title="SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",WORLD CUP 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://123.254.72.24:1935/tvlive/livestream2/index.m3u8 
+
+#EXTINF:-1 tvg-name="WC 32" group-title="SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/800px-2022_FIFA_World_Cup.svg.png",7.(22:00 & 02:00wib) 2nd Lot
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://171.238.181.52:18080/194.m3u8 
+#EXTINF:-1  tvg-name="WC 33" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",WC 21
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/117176.ts
+
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/skysports.png" group-title="SPORTS",Sky Sports Football (1)
+http://tvpanel.one:80/live/den9179/611carc/586763.m3u8
+
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/skysports.png" group-title="SPORTS",Sky Sports Football (2)
+http://tvpanel.one:80/live/den9179/611carc/586764.m3u8
+
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/skysports.png" group-title="SPORTS",Sky Sports Premier League (1)
+http://tvpanel.one:80/live/den9179/611carc/586761.m3u8
+#http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/4802
+
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/skysports.png" group-title="SPORTS",Sky Sports Premier League (2)
+http://tvpanel.one:80/live/den9179/611carc/586762.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="SPORTS",Bein Premium 1 x
 #http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94498
