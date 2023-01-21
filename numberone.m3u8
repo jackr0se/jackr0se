@@ -25,9 +25,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 ##### ENTERTAINMENT MOVIE #####
 
-#EXTINF:-1 tvg-id="762" group-title="ENTERTAINMENT-MOVIE" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
-#http://jio.buttflix.best/autoq.php?c=Sony_Pix_HD
-http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/9618
+#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",SONY PIX2
+https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=400&e=.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="ENTERTAINMENT-MOVIE",Star Movies HD
 http://humiptv.live:8080/live/arijit38815/A437638815/98842.ts
@@ -38,14 +37,11 @@ http://humiptv.live:8080/live/arijit38815/A437638815/98843.ts
 #EXTINF:-1 tvg-logo=""group-title="ENTERTAINMENT-MOVIE",&Flix
 http://humiptv.live:8080/live/arijit38815/A437638815/9382.ts
 
-#EXTINF:-1 tvg-logo=""group-title="ENTERTAINMENT-MOVIE",Sony PIX
-http://humiptv.live:8080/live/arijit38815/A437638815/9381.ts
-
 #EXTINF:-1 tvg-logo=""group-title="ENTERTAINMENT-MOVIE",&Prive
 http://humiptv.live:8080/live/arijit38815/A437638815/201.ts
 
-#EXTINF:-1 tvg-id="706" tvg-name="HITS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="ENTERTAINMENT-MOVIE",HITS (706)
-http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+#EXTINF:-1 tvg-id="706" tvg-name="HITS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="ENTERTAINMENT-MOVIE",HITS
+http://210.210.155.35/dr9445/h/h37/02.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-MOVIE",tvNMovies1
 #EXTVLCOPT:network-caching=1000
@@ -96,6 +92,9 @@ http://210.210.155.35/session/f40eb65a-8763-11eb-b7f4-b82a72d63267/x6bnqe/s/s101
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg" group-title="ENTERTAINMENT-TV SHOW",eGG
 http://210.210.155.35/session/23157eb4-8766-11eb-a83f-b82a72d63267/uq2663/h/h22/02.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",Discovery
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/2.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",Learnings
 #EXTVLCOPT:network-caching=1000
@@ -316,50 +315,66 @@ http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w389732598.m3u8
 
 ##### SPORTS #####
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8facazkanjey6c0/live.png?dl=1" group-title="SPORTS",AFF CUP
-http://serverkawaguchi4.themaraudersmap.xyz/3888.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",O Chanel-Moji
+http://210.210.155.35/qwr9ew/s/s41/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8facazkanjey6c0/live.png?dl=1" group-title="SPORTS",LIVE 1
-http://serverkawaguchi1.themaraudersmap.xyz/3153.m3u8
+#EXTINF:-1 tvg-id="beinsports1enar.qa" tvg-name="beIN SPORTS EN 1 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylUsWOFbZ_5mi-YhZg30nfjem9RCzo7aKVRRSwMOLV_8.png" group-title="SPORTS",beINSPORTS EN 1 HD
+http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/67159
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3xnPNKKS/astrorna.png" group-title="SPORTS", Astro Arena
-http://198.16.64.10:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&tsum=06e68996e319c7afbc368a66c862fe90
+#EXTINF:-1 tvg-id="beinsports2enar.qa" tvg-name="beIN SPORTS EN 2 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjf23n4CK1FPCVfUXyPZnXWQdpB6BLstNAWtfBxHqjmv.png" group-title="SPORTS",beINSPORTS EN 2 HD
+http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/67160
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0vK8w0c/astrosp1.png" group-title="SPORTS", ASSP
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts&play_token
+#EXTINF:-1 tvg-id="beinsports3enar.qa" tvg-name="beIN SPORTS EN 3 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXym8DWQHK2_ENw2lG0hi8P54fxgij1yxAF3SOe57RV8Yv.png" group-title="SPORTS",beINSPORTS EN 3 HD
+http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/67161
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrNyMtW5/astrosp2.png" group-title="SPORTS", ASSP 2
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/sIIFREX.png" ,BT Sport 2
+http://198.16.64.10:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8CqHsc3/astrosp3.png" group-title="SPORTS", ASSP 3
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" ,Astro Arena
+http://iptvtree.net:8080/F11682/82ca5fbd/157485
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYMGRVXP/astrosp4.png" group-title="SPORTS", ASSP 4
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts&play_token
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://i.postimg.cc/vZXXpLmL/20220927-064319.png" group-title="SPORTS",Eleven 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2531/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://images.useetv.com/logo_bein2_big1.png",beIN Sports 2
-http://epg.protv.cc/play/live.php?mac=00:1A:79:08:98:AB&stream=83953&extension=ts&play_token=P20JS4ttdP
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://i.postimg.cc/vZXXpLmL/20220927-064319.png" group-title="SPORTS",Eleven 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2532/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://images.useetv.com/logo_bein3_big1.png",beIN Sports 3
-http://epg.protv.cc/play/live.php?mac=00:1A:79:08:98:AB&stream=941567&extension=ts&play_token=5Uege8XW2h
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-logo="https://i.postimg.cc/vZXXpLmL/20220927-064319.png" group-title="SPORTS",Eleven 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2533/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS",beIN Sports 1 English HD 🇬🇧
-http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
+#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-logo="https://i.postimg.cc/vZXXpLmL/20220927-064319.png" group-title="SPORTS",Eleven 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2534/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS",beIN Sports 2 English HD 🇬🇧
-http://175.107.244.52:4457/play/a06z/index.m3u8
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="SPORTS",BEIN SPORTS 1
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/8298.ts?checkedby:iptvcat.com
 
-#EXTINF:-1 group-title="SPORTS",beIN Sports English HD 🇬🇧
-http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="SPORTS",BEIN SPORTS 2
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/8299.ts?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-id="SPOTV.kr" tvg-name="" tvg-logo="https://i.postimg.cc/fTBcqqrM/Round-Photo-Jul092022-031005.png" group-title="SPORTS",SPO TV 1
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="SPORTS",BEIN SPORTS 3
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/8300.ts?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-id="SPOTV2.kr" tvg-name="" tvg-logo="https://i.postimg.cc/fbX0s8Bt/Round-Photo-Jul092022-031253.png" group-title="SPORTS",SPO TV 2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1652512126~exp=9007200907253117~acl=/48eee16919834d3b97d
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="SPORTS",BEIN SPORTS 4
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/25110.ts?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="SPORTS",BEIN SPORTS 5
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/25109.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="SPORTS",UK: VIP BEIN SPORTS 1
+http://flysilo.top:8080/live/301667682399784040/9961667682399784/29787.ts
+
+#EXTINF:-1 group-title="SPORTS",UK: VIP BEIN SPORTS 2
+http://flysilo.top:8080/live/301667682399784040/9961667682399784/29788.ts
+
+#EXTINF:-1 group-title="SPORTS",UK: VIP BEIN SPORTS 4
+http://flysilo.top:8080/live/301667682399784040/9961667682399784/29785.ts
+
+#EXTINF:-1,UK: VIP BEIN SPORTS 7
+http://flysilo.top:8080/live/301667682399784040/9961667682399784/29786.ts
 #EXTINF:-1 group-title="SPORTS", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
@@ -368,6 +383,9 @@ http://rr.dens.tv/h/h09/01.m3u8
 
 
 ##### WORLD NEWS #####
+
+#EXTINF:-1  group-title="WORLD NEWS",SKY news
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png"  group-title="WORLD NEWS",CNN (US)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
