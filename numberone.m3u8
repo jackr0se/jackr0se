@@ -82,6 +82,23 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=248753
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="ENTERTAINMENT-MOVIE",MOVIES GROUP 34
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
 
+
+
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="ENTERTAINMENT-MOVIE",MOVIES MIX 32
+http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
+
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="ENTERTAINMENT-MOVIE",MOVIES MIX 34
+http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
+
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="ENTERTAINMENT-MOVIE",MOVIES MIX 35
+http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
+
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="ENTERTAINMENT-MOVIE",MOVIES MIX 37
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499
+
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="ENTERTAINMENT-MOVIE",MOVIES MIX 39
+http://huanqiuzhibo.cn/manifest/douyu.php?id=248753
+
 ##### ENTERTAINMENT TV SHOW #####
 
 #EXTINF:-1 tvg-logo="https://cdn-bjdcd.nitrocdn.com/aaRsvpMUTfrTYDITHmPaxvlMKHgsAMJM/assets/static/optimized/rev-a378051/wp-content/uploads/e-ente24x555.jpg" group-title="ENTERTAINMENT-TV SHOW", E entertainment 
@@ -315,21 +332,6 @@ http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w389732598.m3u8
 
 ##### SPORTS #####
 
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",O Chanel-Moji
-http://210.210.155.35/qwr9ew/s/s41/02.m3u8
-
-#EXTINF:-1 tvg-id="beinsports1enar.qa" tvg-name="beIN SPORTS EN 1 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylUsWOFbZ_5mi-YhZg30nfjem9RCzo7aKVRRSwMOLV_8.png" group-title="SPORTS",beINSPORTS EN 1 HD
-http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/67159
-
-#EXTINF:-1 tvg-id="beinsports2enar.qa" tvg-name="beIN SPORTS EN 2 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjf23n4CK1FPCVfUXyPZnXWQdpB6BLstNAWtfBxHqjmv.png" group-title="SPORTS",beINSPORTS EN 2 HD
-http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/67160
-
-#EXTINF:-1 tvg-id="beinsports3enar.qa" tvg-name="beIN SPORTS EN 3 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXym8DWQHK2_ENw2lG0hi8P54fxgij1yxAF3SOe57RV8Yv.png" group-title="SPORTS",beINSPORTS EN 3 HD
-http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/67161
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/sIIFREX.png" ,BT Sport 2
-http://198.16.64.10:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" ,Astro Arena
 http://iptvtree.net:8080/F11682/82ca5fbd/157485
 
@@ -349,6 +351,30 @@ http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2533/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2534/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/10/Motorvision-TV.png" group-title="SPORTS",Motorvision
+http://rr.dens.tv/h/h09/01.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" ,Astro Arena
+http://iptvtree.net:8080/F11682/82ca5fbd/157485
+
+#EXTINF:-1 tvg-logo="https://prtimes.jp/i/14079/329/resize/d14079-329-732232-2.jpg" group-title="SPORTS",JSports
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://n2086.securepoint.io:25461/images/f1391761110ead27fc34451934e88211.png" group-title="SPORTS",Motorsports
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177386
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LYt6tRW/20220927-065134.png" tvg-id="ChampionsTV1.id" tvg-name="Champions TV 1" group-title="SPORTS",Champions TV 1
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6685.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LYt6tRW/20220927-065134.png" tvg-id="ChampionsTV2.id" tvg-name="Champions TV 2" group-title="SPORTS",Champions TV 2
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6686.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LYt6tRW/20220927-065134.png" tvg-id="ChampionsTV3.id" group-title="SPORTS",Champions TV 3
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6786.m3u8
+
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="SPORTS",BEIN SPORTS 1
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8298.ts?checkedby:iptvcat.com
 
@@ -363,24 +389,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/25110.ts?checkedb
 
 #EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="SPORTS",BEIN SPORTS 5
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25109.ts?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="SPORTS",UK: VIP BEIN SPORTS 1
-http://flysilo.top:8080/live/301667682399784040/9961667682399784/29787.ts
-
-#EXTINF:-1 group-title="SPORTS",UK: VIP BEIN SPORTS 2
-http://flysilo.top:8080/live/301667682399784040/9961667682399784/29788.ts
-
-#EXTINF:-1 group-title="SPORTS",UK: VIP BEIN SPORTS 4
-http://flysilo.top:8080/live/301667682399784040/9961667682399784/29785.ts
-
-#EXTINF:-1,UK: VIP BEIN SPORTS 7
-http://flysilo.top:8080/live/301667682399784040/9961667682399784/29786.ts
-#EXTINF:-1 group-title="SPORTS", Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/10/Motorvision-TV.png" group-title="SPORTS",Motorvision
-http://rr.dens.tv/h/h09/01.m3u8
-
 
 ##### WORLD NEWS #####
 
