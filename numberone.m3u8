@@ -101,6 +101,21 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=248753
 
 ##### ENTERTAINMENT TV SHOW #####
 
+#EXTINF:-1,group-title="ENTERTAINMENT-TV SHOW",HGTV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157578
+
+#EXTINF:-1,group-title="ENTERTAINMENT-TV SHOW",ANIMAL PLANET
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157532
+
+#EXTINF:-1,group-title="ENTERTAINMENT-TV SHOW",Sony One
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165077
+
+#EXTINF:-1 group-title="ENTERTAINMENT-TV SHOW",ROCK Entertainment 2
+http://rr1.dens.tv/h/h16/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT-TV SHOW",ROCK Action 2
+http://rr1.dens.tv/h/h15/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-bjdcd.nitrocdn.com/aaRsvpMUTfrTYDITHmPaxvlMKHgsAMJM/assets/static/optimized/rev-a378051/wp-content/uploads/e-ente24x555.jpg" group-title="ENTERTAINMENT-TV SHOW", E entertainment 
 http://89.187.175.143:80/3082/mpegts
 
@@ -143,6 +158,15 @@ http://45.126.83.51/session/b250033c-a9b8-11eb-b3bc-a2798f0477fc/uq2663/h/h08/01
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 
 ##### INDONESIAN CHANNEL #####
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="ID",RCTI 2
+http://103.167.167.5:8111/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLdLcbF3/gtv.png" group-title="ID",GTV 2
+http://103.167.167.5:8111/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="ID",MNCTV 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165058
 
 #EXTINF:-1 group-title="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png",MNC TV Vision+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -332,39 +356,14 @@ http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w389732598.m3u8
 
 ##### SPORTS #####
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" ,Astro Arena
-http://iptvtree.net:8080/F11682/82ca5fbd/157485
-
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://i.postimg.cc/vZXXpLmL/20220927-064319.png" group-title="SPORTS",Eleven 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2531/index.m3u8
-
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://i.postimg.cc/vZXXpLmL/20220927-064319.png" group-title="SPORTS",Eleven 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2532/index.m3u8
-
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-logo="https://i.postimg.cc/vZXXpLmL/20220927-064319.png" group-title="SPORTS",Eleven 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2533/index.m3u8
-
-#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-logo="https://i.postimg.cc/vZXXpLmL/20220927-064319.png" group-title="SPORTS",Eleven 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2534/index.m3u8
-
 #EXTINF:-1 group-title="SPORTS", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/10/Motorvision-TV.png" group-title="SPORTS",Motorvision
 http://rr.dens.tv/h/h09/01.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" ,Astro Arena
-http://iptvtree.net:8080/F11682/82ca5fbd/157485
-
 #EXTINF:-1 tvg-logo="https://prtimes.jp/i/14079/329/resize/d14079-329-732232-2.jpg" group-title="SPORTS",JSports
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://n2086.securepoint.io:25461/images/f1391761110ead27fc34451934e88211.png" group-title="SPORTS",Motorsports
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177386
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LYt6tRW/20220927-065134.png" tvg-id="ChampionsTV1.id" tvg-name="Champions TV 1" group-title="SPORTS",Champions TV 1
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6685.m3u8
@@ -375,20 +374,27 @@ https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6686.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LYt6tRW/20220927-065134.png" tvg-id="ChampionsTV3.id" group-title="SPORTS",Champions TV 3
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6786.m3u8
 
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="SPORTS",BEIN SPORTS 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8298.ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="SPORTS",ASSP 1
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/146068.m3u8
 
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="SPORTS",BEIN SPORTS 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8299.ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS",ASSP 2
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/157556.m3u8
 
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="SPORTS",BEIN SPORTS 3
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8300.ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORTS",ASSP 3
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/157557.m3u8
 
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="SPORTS",BEIN SPORTS 4
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25110.ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS",ASSP 4
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/157558.m3u8
 
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="SPORTS",BEIN SPORTS 5
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25109.ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmZ4Yx47/beinsportspremium1.png" group-title="SPORTS",BeIN Premium 1
+https://m3u-editor.com/serve/cdef8d50-7647-11ed-af97-236d70daa3d8/709048736
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtpQ4bPn/beinsportspremium2.png" group-title="SPORTS",BeIN Premium 2
+https://m3u-editor.com/serve/cdef8d50-7647-11ed-af97-236d70daa3d8/709048737
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfR4fFzF/beinsportspremium3.png" group-title="SPORTS",BeIN Premium 3
+https://m3u-editor.com/serve/cdef8d50-7647-11ed-af97-236d70daa3d8/709048738
+
 
 ##### WORLD NEWS #####
 
