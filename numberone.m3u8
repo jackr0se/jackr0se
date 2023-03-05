@@ -985,501 +985,157 @@ https://archive.org/download/MurotalMR/114.mp3
 
 ##### CCTV #####
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",NOL KM (1)
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/chunklist_w797659833.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",NOL KM (2)
-https://cctvjss.jogjakota.go.id/atcs/ATCS_kmnol.stream/chunklist_w907331838.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Kawasan Tugu
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewTugu.stream/chunklist_w1039454854.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Simpang Tugu
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewSimpangTugu.stream/chunklist_w1865669256.m3u8 
  
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Stasiun Tugu
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewStasiunTugu.stream/chunklist_w1303369035.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Simpang Pingit (1)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit1.stream/chunklist_w1034097150.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Simpang Pingit (2)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit2.stream/chunklist_w1313710975.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Simpang Pingit (3)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit3.stream/chunklist_w1967862192.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Simpang Pingit (4)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit4.stream/chunklist_w43813416.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Jl. Magelang (Toko A.Takrib)
-https://mam.jogjaprov.go.id:1937/atcs/SelokanMataram.stream/chunklist_w2039814763.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Alun-alun Sleman (Utara)
-http://103.71.191.168/8883/hls/live.stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",  Alun-alun Sleman  (Selatan)
-http://103.71.191.168/8881/hls/live.stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Pertigaan Jl. Kyai Mojo (Toko A.Takrib) 1
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_KyaiMojo.stream/chunklist_w557891769.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Pertigaan Jl. Kyai Mojo (Toko A.Takrib) 2
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_KyaiMojo2.stream/chunklist_w2139189844.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Jlagran
-https://cctvjss.jogjakota.go.id/atcs/ATCS_badran.stream/chunklist_w1920306872.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", BPK
-https://cctvjss.jogjakota.go.id/atcs/ATCS_bpk.stream/chunklist_w1983574447.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Wirobrajan
-https://cctvjss.jogjakota.go.id/atcs/ATCS_wirobrajan.stream/chunklist_w1392608056.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Pertigaan Univ PGRI Yogyakarta
-https://stream.bantulkab.go.id/cam17/hls/live.stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Patangpuluhan (SPBU Bugisan) (1)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_SugengJeroni1.stream/chunklist_w572908058.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Patangpuluhan (SPBU Bugisan) (2)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_SugengJeroni2.stream/chunklist_w1112828954.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Simpang Terban (KFC Sudirman)
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Utara.stream/chunklist_w750897143.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Mirota Kampus Simanjuntak
-https://cctvjss.jogjakota.go.id/atcs/ATCS_mirota.stream/chunklist_w160846704.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Indopoint UNY
-https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangUNY.stream/chunklist_w1450663470.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Simpang Demangan Utara (Empire XXI)
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Utara.stream/chunklist_w1257576875.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Simpang Demangan Timur (Empire XXI)
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Timur.stream/chunklist_w767797560.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Simpang Demangan Selatan (Empire XXI)
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Selatan.stream/chunklist_w879574333.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Depan Hotel Grand Mercure
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_DeBritto_View_Utara.stream/chunklist_w1443260072.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Pertigaan UIN
-https://mam.jogjaprov.go.id:1937/atcs/UIN2.stream/chunklist_w1974722613.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Plaza Ambarrukmo
-http://103.71.191.168/8912/hls/live.stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Perempatan Tamansari
-https://cctvjss.jogjakota.go.id/atcs/ATCS_tamansari.stream/chunklist_w577153823.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Hotel Cavinton
-https://cctvjss.jogjakota.go.id/atcs/ATCS_serangan.stream/chunklist_w2099816399.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", PKU Muhammadiyah Kota
-https://mam.jogjaprov.go.id:1937/atcs-kota/PKUMuh.stream/chunklist_w931079366.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Hotel Inna Garuda (1)
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanGaruda.stream/chunklist_w90059632.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Hotel Inna Garuda (2)
-https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio1_SelatanTeteg.stream/chunklist_w442388786.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Halte Trans Jogja
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_2_Depan_Toko_Subur.stream/chunklist_w1501080877.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Teras Malioboro
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_3_Depan_Dispar.stream/chunklist_w134111321.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",DPRD (1)
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_4_Depan_DPRD.stream/chunklist_w143799217.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",DPRD (2)
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_5_Perwakilan.stream/chunklist_w3935173.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Malioboro Mall
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/chunklist_w2049014652.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Malioboro Mall (Utara)
-https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio6_MallUtara.stream/chunklist_w803257147.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Malioboro Mall (Selatan)
-https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio7_MallSelatan.stream/chunklist_w183783345.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Hotel Mutiara Lama
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_8_Mutiara_Lama.stream/chunklist_w409179008.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Hotel Mutiara Baru
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_9_Mutiara_Baru.stream/chunklist_w720959519.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Kepatihan (1)
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewMalioboro.stream/chunklist_w1735252186.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Kepatihan (2)
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_10_Kepatihan.stream/chunklist_w1403073580.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Simpang Taman Batik Terang Bulan (1)
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_22_Simpang_Pajeksan_Suryatmajan.stream/chunklist_w1018832673.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Simpang Taman Batik Terang Bulan (2)
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_11_Terang_Bulan.stream/chunklist_w1311275126.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Ramayana
-https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio12_Ramayana.stream/chunklist_w160257945.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Ramayana 2
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_13_Gunungmas.stream/chunklist_w2035487993.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Beringharjo (1)
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/chunklist_w256102437.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Beringharjo (2)
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/chunklist_w525075417.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Istana Negara Gedung Agung Yogyakarta
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_24_Simpang_Reksobayan.stream/chunklist_w609340057.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Alun-Alun Selatan
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/chunklist_w133850215.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Alun-Alun Utara
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunUtara.stream/chunklist_w1372408415.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Gondomanan
-https://cctvjss.jogjakota.go.id/atcs/ATCS_gondomanan.stream/chunklist_w1205514670.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Simpang Jogjatronik Mall
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Ibu_Ruswo.stream/chunklist_w160017393.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Pasar Gading (DayTrans Travel) (1)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_PasarGading1.stream/chunklist_w1230922513.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Pasar Gading (DayTrans Travel) (2)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_PasarGading2.stream/chunklist_w1134102916.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Jokteng Wetan (Dealer Piaggio)
-https://mam.jogjaprov.go.id:1937/atcs-kota/JoktengWetan.stream/chunklist_w1016905556.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Jl. Kol. Sugiyono (Dealer Mitsubishi) (1)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_KolSugiono1.stream/chunklist_w1152700400.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Jl. Kol. Sugiyono (Dealer Mitsubishi) (2)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_KolSugiono2.stream/chunklist_w1071462869.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", UKDW
-https://cctvjss.jogjakota.go.id/atcs/ATCS_ukdw.stream/chunklist_w2005994098.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Lempuyangan (Toko Intisari)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Tunjung.stream/chunklist_w555549290.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Gayam
-https://mam.jogjaprov.go.id:1937/atcs-kota/Gayam.stream/chunklist_w1910678128.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Kauman
-https://mam.jogjaprov.go.id:1937/atcs-kota/Permata.stream/chunklist_w205073418.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Pertigaan Tamsis
-https://mam.jogjaprov.go.id:1937/atcs-kota/Sentul.stream/chunklist_w1107545712.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Taman Makam Pahlawan Kusumanegara
-https://mam.jogjaprov.go.id:1937/atcs-kota/Cendana.stream/chunklist_w417543410.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", GOR Amongrogo
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Amongrogo_View_Timur.stream/chunklist_w569088877.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Pertigaan Glagahsari (Toko Kenes-UTY 2)
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Glagahsari.stream/chunklist_w1599491110.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Pertigaan Balaikota
-https://cctvjss.jogjakota.go.id/atcs/ATCS_UST.stream/chunklist_w1355920044.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Balaikota Utara
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Utara.stream/chunklist_w716232207.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Balaikota Timur
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Timur.stream/chunklist_w518277922.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Timoho (Kampus APMD)
-https://mam.jogjaprov.go.id:1937/atcs-kota/APMD.stream/chunklist_w1680669229.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Simpang XT Square (Pintu Depan)
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JlMentriSupeno.stream/chunklist_w1340241130.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Simpang XT Square (Pintu Belakang)
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JlMentriSupeno2.stream/chunklist_w88752653.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Jl. Veteran Gambiran (1)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_VeteranGambiran1.stream/chunklist_w1348660298.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Jl. Veteran Gambiran (2)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_VeteranGambiran2.stream/chunklist_w1646058819.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",SGM
-https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangSGM.stream/chunklist_w267449320.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Bandara Adisutjipto (1)
-https://mam.jogjaprov.go.id:1937/atcs/Bandara.stream/chunklist_w674465397.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Bandara Adisutjipto (2)
-https://mam.jogjaprov.go.id:1937/atcs/Bandara2.stream/chunklist_w543230677.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Depan Candi Prambanan
-https://mam.jogjaprov.go.id:1937/atcs/Prambanan2.stream/chunklist_w2081251987.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Pos Polisi Piyungan (Kidsfun)
-https://mam.jogjaprov.go.id:1937/atcs/Piyungan.stream/chunklist_w1711721413.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Ringroad PMI
-https://mam.jogjaprov.go.id:1937/atcs/PelemGurih2.stream/chunklist_w1498039499.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Ringroad Godean
-https://mam.jogjaprov.go.id:1937/atcs/DemakIjo2.stream/chunklist_w798310962.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Ringroad Jl. Kabupaten
-https://mam.jogjaprov.go.id:1937/atcs/Kronggahan.stream/chunklist_w1921665541.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Ringroad Seturan (1)
-https://mam.jogjaprov.go.id:1937/atcs/Seturan1.stream/chunklist_w2031760698.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Ringroad Seturan (2)
-https://mam.jogjaprov.go.id:1937/atcs/Seturan2.stream/chunklist_w1196069164.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Ringroad Maguwoharjo (1)
-https://mam.jogjaprov.go.id:1937/atcs/Maguwo1.stream/chunklist_w1536647125.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Ringroad Maguwoharjo (2)
-https://mam.jogjaprov.go.id:1937/atcs/Maguwo2.stream/chunklist_w39707065.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Ringroad Wonosari (1)
-https://mam.jogjaprov.go.id:1937/atcs/Ketandan.stream/chunklist_w1184446446.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Ringroad Wonosari (2)
-https://mam.jogjaprov.go.id:1937/atcs/Ketandan2.stream/chunklist_w971034428.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Ringroad Giwangan(1)
-https://mam.jogjaprov.go.id:1937/atcs/Giwangan1.stream/chunklist_w1795076889.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Ringroad Giwangan (2)
-https://mam.jogjaprov.go.id:1937/atcs/Giwangan2.stream/chunklist_w699438716.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Ringroad Imogiri Barat (Wojo) 1
-https://mam.jogjaprov.go.id:1937/atcs/Wojo.stream/chunklist_w1574519900.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Ringroad Imogiri Barat (Wojo) 2
-https://stream.bantulkab.go.id/cam13/hls/live.stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Candi Prambanan
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/chunklist_w1578296569.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Candi Sambisari
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiSambisari.stream/chunklist_w993506618.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Merapi (1)
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w1563702546.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Merapi (2)
-http://103.71.191.168/8910/hls/live.stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Mangunan
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewMangunan.stream/chunklist_w1363447093.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Embung Nglanggeran
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewNglanggeran.stream/chunklist_w172440882.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Tebing Breksi
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/chunklist_w1301384993.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Bukit Klangon
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewBukitKlangon.stream/chunklist_w1171776566.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Bukit Bintang
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungPathuk.stream/chunklist_w1407731783.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Kalibiru
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewKalibiru.stream/chunklist_w1484773377.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Parangtritis
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewPantaiParangTritis.stream/chunklist_w1470497340.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Baron Barat
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewBaronBarat.stream/chunklist_w372007724.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Baron Timur
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewBaronTimur.stream/chunklist_w761960059.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Pandansari Barat
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewPandansariBarat.stream/chunklist_w1570402240.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV",Pandansari Timur
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewPandansariTimur.stream/chunklist_w1992953995.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Bundaran Srandakan Bantul
-https://mam.jogjaprov.go.id:1937/cctv-bantul/BunderanSrandakan.stream/chunklist_w394300162.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Pasar Bantul
-https://stream.bantulkab.go.id/cam1/hls/live.stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV", Alun-Alun Paseban
-https://stream.bantulkab.go.id/cam3/hls/live.stream.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Ahmad Yani
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/AhmadYanipertigaanmalabardua.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Alun Alun Bandung
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaBRITowertiga.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-ALUN ALUN BANDUNG 2
-https://pelindung.bandung.go.id:3443/video/DAHUA/ALUN.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-ALUN ALUN BANDUNG 3
-https://pelindung.bandung.go.id:3443/video/DAHUA/ALU.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Balaikota 1
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Balaikota.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Balaikota 2
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Balkot.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-BEC
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/PurnawarmanBEC.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-CIBEUEREUM
-http://45.118.114.26/camera/Cibeureum.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Cicendo
-https://pelindung.bandung.go.id:3443/video/DAHUA/Cicendo.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-CIKUTRA BARAT
-https://pelindung.bandung.go.id:3443/video/DPU/cikutrabarat.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Cimindi
-https://pelindung.bandung.go.id:3443/video/DAHUA/CIMD.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Gardujati
-http://45.118.114.26/camera/Gardujati.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Gasibu
-https://pelindung.bandung.go.id:3443/video/DAHUA/GASIBU.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-GedeBage
-https://pelindung.bandung.go.id:3443/video/DAHUA/GEDEBAGE.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-GEDEBAGE 2
-http://45.118.114.26/camera/Gedebage.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-ITC KEBON KALAPA
-https://pelindung.bandung.go.id:3443/video/DAHUA/ITCkebon.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-JALAN RIAU DEPAN PENGADILAN
-http://45.118.114.26/camera/Ruasistiqomahcihapit.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Kantor Pos Asia Afrika
-https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTop.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Kantor Pos Asia Afrika 2
-https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTo.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Katamso
-https://pelindung.bandung.go.id:3443/video/DAHUA/Katamsoke.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-KATAMSO 2
-https://pelindung.bandung.go.id:3443/video/DAHUA/Katamsok.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-KEBON
-https://pelindung.bandung.go.id:3443/video/DAHUA/KEBO.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-KEBON 2
-https://pelindung.bandung.go.id:3443/video/DAHUA/KebonKa.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Kebon Kopi
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Kebon Kopi" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Kebon Kopi
 https://pelindung.bandung.go.id:3443/video/DAHUA/KEBON.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-KIRCON 1
-https://pelindung.bandung.go.id:3443/video/DAHUA/KIRC.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-KIRCON 2
-https://pelindung.bandung.go.id:3443/video/DAHUA/KIRCON.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-KOPO CITARIP
-https://pelindung.bandung.go.id:3443/video/DPU/kopocitarip.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-PAGARSIH
-https://pelindung.bandung.go.id:3443/video/DPU/pagarsih.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Pasar Kosambi 1
-https://pelindung.bandung.go.id:3443/video/DAHUA/PasarKomb.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Pasar Kosambi 2
-https://pelindung.bandung.go.id:3443/video/DAHUA/PasarKosam.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Pasteur
-http://45.118.114.26/camera/Pasteur.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-PASTEUR BTC
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/DrDjunjunanBTCdua.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-PASTEUR BTC 2
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/DrDjunjunanBTC.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Pertigaan Batununggal
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/WaaspertigaankompleksBatununggal.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Pusdai
-https://pelindung.bandung.go.id:3443/video/DAHUA/Pusda.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Sebrang Pasar Baru
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Otistasebrangpasarbaru.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-SIMPANG BRAGA
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaSimpangBragatiga.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-SP BUAH BATU
-http://45.118.114.26/camera/Buahbatu.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-SP CICAHEUM
-http://45.118.114.26/camera/Cicaheum.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-SP CIHAMPELAS
-http://45.118.114.26/camera/CihampelasPTZ.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-SP CIKUTRA
-http://45.118.114.26/camera/Cikutra.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-SP GASIBU
-http://45.118.114.26/camera/Telkom.m3u8
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-SP IP
-http://45.118.114.26/camera/IstanaPlaza.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-SP LIMA
-http://45.118.114.26/camera/SimpangLima.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-SP MERDEKA ACEH
-http://45.118.114.26/camera/MerdekaAceh.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-SP PADASUKA
-http://45.118.114.26/camera/Padasuka.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-SP PAHLAWAN ITENAS
-http://45.118.114.26/camera/Pahlawan.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-SP PASIR KALIKI 1
-http://45.118.114.26/camera/PasirKalikiIP.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-SP PASIR KALIKI 2
-http://45.118.114.26/camera/PasirKalikiAng.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-SP TAMAN SARI BALTOS
-http://45.118.114.26/camera/Tamansari.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Supratman
-http://45.118.114.26/camera/Supratman.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Surat
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Katamso" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Katamso
+https://pelindung.bandung.go.id:3443/video/DAHUA/Katamsoke.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Surat" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Surat
 https://pelindung.bandung.go.id:3443/video/DAHUA/Surat.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-SURYASUMANTRI
-https://pelindung.bandung.go.id:3443/video/DAHUA/Suryamantri.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-SURYASUMANTRI 2
-https://pelindung.bandung.go.id:3443/video/DAHUA/Sury.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Tamansari 1
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Pasar Kosambi 1" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Pasar Kosambi 1
+https://pelindung.bandung.go.id:3443/video/DAHUA/PasarKomb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Pasar Kosambi 2" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Pasar Kosambi 2
+https://pelindung.bandung.go.id:3443/video/DAHUA/PasarKosam.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-GedeBage" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-GedeBage
+https://pelindung.bandung.go.id:3443/video/DAHUA/GEDEBAGE.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Gasibu" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Gasibu
+https://pelindung.bandung.go.id:3443/video/DAHUA/GASIBU.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Sebrang Pasar Baru" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Sebrang Pasar Baru
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Otistasebrangpasarbaru.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Ahmad Yani" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Ahmad Yani
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/AhmadYanipertigaanmalabardua.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Balaikota 1" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Balaikota 1
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Balaikota.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Balai Kota 2" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Balaikota 2
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Balkot.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Cicendo" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Cicendo
+https://pelindung.bandung.go.id:3443/video/DAHUA/Cicendo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Pusdai" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Pusdai
+https://pelindung.bandung.go.id:3443/video/DAHUA/Pusda.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Taman Sari 1" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Tamansari 1
 https://pelindung.bandung.go.id:3443/video/DAHUA/Tamansri.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-Tamansari 2
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Tamansari 2" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Tamansari 2
 https://pelindung.bandung.go.id:3443/video/DAHUA/Tamansr.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-TERMINAL DAGO
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Cimindi" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Cimindi
+https://pelindung.bandung.go.id:3443/video/DAHUA/CIMD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-BEC" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-BEC
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/PurnawarmanBEC.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Supratman" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Supratman
+http://45.118.114.26/camera/Supratman.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP Batununggal" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",SP Batununggal
+http://45.118.114.26/camera/Batununggal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Gardujati" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Gardujati
+http://45.118.114.26/camera/Gardujati.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Pasteur" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Pasteur
+http://45.118.114.26/camera/Pasteur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cimahi-Cihanjuang" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",Cimahi-Cihanjuang
+https://smartcity.cimahikota.go.id/video/46/video46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Alun Alun Bandung" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Alun Alun Bandung
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaBRITowertiga.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Pertigaan Batununggal" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Pertigaan Batununggal
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/WaaspertigaankompleksBatununggal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cimahi-Cimindi 2" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",Cimahi-Cimindi 2
+https://pelindung.bandung.go.id:3443/video/DAHUA/CIMI.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Kantor Pos Asia Afrika" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Kantor Pos Asia Afrika
+https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Kantor Pos Asia Afrika 2" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Kantor Pos Asia Afrika 2
+https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALI-JALAN RAYA KUTA" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BALI-JALAN RAYA KUTA
+http://103.138.206.40/camera/SP_RAYA_KUTA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-ALUN ALUN BANDUNG 2" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-ALUN ALUN BANDUNG 2
+https://pelindung.bandung.go.id:3443/video/DAHUA/ALUN.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-ALUN ALUN BANDUNG 3" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-ALUN ALUN BANDUNG 3
+https://pelindung.bandung.go.id:3443/video/DAHUA/ALU.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SURYASUMANTRI" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-SURYASUMANTRI
+https://pelindung.bandung.go.id:3443/video/DAHUA/Suryamantri.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SURYASUMANTRI 2" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-SURYASUMANTRI 2
+https://pelindung.bandung.go.id:3443/video/DAHUA/Sury.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-PASTEUR BTC" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-PASTEUR BTC
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/DrDjunjunanBTCdua.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-PASTEUR BTC 2" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-PASTEUR BTC 2
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/DrDjunjunanBTC.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-KATAMSO 2" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-KATAMSO 2
+https://pelindung.bandung.go.id:3443/video/DAHUA/Katamsok.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-KEBON " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-KEBON
+https://pelindung.bandung.go.id:3443/video/DAHUA/KEBO.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-KEBON 2 " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-KEBON 2
+https://pelindung.bandung.go.id:3443/video/DAHUA/KebonKa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SIMPANG BRAGA " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-SIMPANG BRAGA
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaSimpangBragatiga.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-BPK " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",JOGJA-BPK
+https://cctvjss.jogjakota.go.id/atcs/ATCS_bpk.stream/chunklist_w1745823342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-SIMPANG TERBAN " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",JOGJA-SIMPANG TERBAN
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Utara.stream/chunklist_w655354167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-TUNJUNG " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",JOGJA-TUNJUNG
+https://cctvjss.jogjakota.go.id/atcs/ATCS_tunjung.stream/chunklist_w43735948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-SIMPANG AMONGROGO " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",JOGJA-SIMPANG AMONGROGO
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Amongrogo_View_Timur.stream/chunklist_w1072091283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-SIMPANG DEMANGAN " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",JOGJA-SIMPANG DEMANGAN
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Timur.stream/chunklist_w1474807984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-GLAGAHSARI " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",JOGJA-GLAGAHSARI
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Glagahsari.stream/chunklist_w1018711802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-GONDOMANAN " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",JOGJA-GONDOMANAN
+https://cctvjss.jogjakota.go.id/atcs/ATCS_gondomanan.stream/chunklist_w1791684562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-MIROTA " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",JOGJA-MIROTA
+https://cctvjss.jogjakota.go.id/atcs/ATCS_mirota.stream/chunklist_w2104392688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-BALAIKOTA " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",JOGJA-BALAIKOTA
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Utara.stream/chunklist_w366789400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-KMNOL " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",JOGJA-KMNOL
+https://cctvjss.jogjakota.go.id/atcs/ATCS_kmnol.stream/chunklist_w1249764223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-TAMANSARI " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",JOGJA-TAMANSARI
+https://cctvjss.jogjakota.go.id/atcs/ATCS_tamansari.stream/chunklist_w1144663381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-DEMANGAN 2 " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",JOGJA-DEMANGAN 2
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Selatan.stream/chunklist_w1270572049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-SAMPING MALIOBORO " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",JOGJA-SAMPING MALIOBORO
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_7_Mall_Selatan.stream/chunklist_w2135328777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-PASAR BERINGHARJO " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",JOGJA-PASAR BERINGHARJO
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/chunklist_w1149089639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-PAGARSIH " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-PAGARSIH
+https://pelindung.bandung.go.id:3443/video/DPU/pagarsih.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-CIKUTRA BARAT " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-CIKUTRA BARAT
+https://pelindung.bandung.go.id:3443/video/DPU/cikutrabarat.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-TERMINAL DAGO " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-TERMINAL DAGO
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/IrHJuandaTerminaldagodua.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CCTV",BDG-TOL PASTEUR
+#EXTINF:-1 tvg-id="" tvg-name="BDG-ITC KEBON KALAPA " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-ITC KEBON KALAPA
+https://pelindung.bandung.go.id:3443/video/DAHUA/ITCkebon.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-KIRCON 1 " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-KIRCON 1
+https://pelindung.bandung.go.id:3443/video/DAHUA/KIRC.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-KIRCON 2 " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-KIRCON 2
+https://pelindung.bandung.go.id:3443/video/DAHUA/KIRCON.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-KOPO CITARIP " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-KOPO CITARIP
+https://pelindung.bandung.go.id:3443/video/DPU/kopocitarip.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-GEDEBAGE 2 " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-GEDEBAGE 2
+http://45.118.114.26/camera/Gedebage.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP BUAH BATU " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-SP BUAH BATU
+http://45.118.114.26/camera/Buahbatu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-CIBEUREUM " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-CIBEUEREUM
+http://45.118.114.26/camera/Cibeureum.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP LIMA " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-SP LIMA
+http://45.118.114.26/camera/SimpangLima.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-TOL PASTEUR " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-TOL PASTEUR
 http://45.118.114.26/camera/TolPasteur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP PASIR KALIKI IP 1 " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-SP PASIR KALIKI 1
+http://45.118.114.26/camera/PasirKalikiIP.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP PASIR KALIKI IP 2 " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-SP PASIR KALIKI 2
+http://45.118.114.26/camera/PasirKalikiAng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP TAMAN SARI BALTOS " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-SP TAMAN SARI BALTOS
+http://45.118.114.26/camera/Tamansari.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP CIHAMPELAS " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-SP CIHAMPELAS
+http://45.118.114.26/camera/CihampelasPTZ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP MERDEKA ACEH " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-SP MERDEKA ACEH
+http://45.118.114.26/camera/MerdekaAceh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP GASIBU " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-SP GASIBU
+http://45.118.114.26/camera/Telkom.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP PAHLAWAN ITENAS" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-SP PAHLAWAN ITENAS
+http://45.118.114.26/camera/Pahlawan.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP CIKUTRA" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-SP CIKUTRA
+http://45.118.114.26/camera/Cikutra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP PADASUKA" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-SP PADASUKA
+http://45.118.114.26/camera/Padasuka.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP CICAHEUM" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-SP CICAHEUM
+http://45.118.114.26/camera/Cicaheum.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP IP" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-SP IP
+http://45.118.114.26/camera/IstanaPlaza.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-JALAN RIAU DEPAN PENGADILAN" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-JALAN RIAU DEPAN PENGADILAN
+http://45.118.114.26/camera/Ruasistiqomahcihapit.m3u8
