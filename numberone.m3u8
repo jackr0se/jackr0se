@@ -985,8 +985,6 @@ https://archive.org/download/MurotalMR/114.mp3
 
 ##### CCTV #####
 
- 
-
 #EXTINF:-1 tvg-id="" tvg-name="BDG-Kebon Kopi" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Kebon Kopi
 https://pelindung.bandung.go.id:3443/video/DAHUA/KEBON.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BDG-Katamso" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-Katamso
@@ -1139,3 +1137,7 @@ http://45.118.114.26/camera/Cicaheum.m3u8
 http://45.118.114.26/camera/IstanaPlaza.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BDG-JALAN RIAU DEPAN PENGADILAN" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="CCTV",BDG-JALAN RIAU DEPAN PENGADILAN
 http://45.118.114.26/camera/Ruasistiqomahcihapit.m3u8
+
+#EXTINF:0 group-title="CCTV",BDG-Pusdai2
+#EXTVLCOPT:network-caching=1000
+https://pelindung.bandung.go.id:3443/video/DAHUA/Pusda.m3u8
