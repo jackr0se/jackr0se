@@ -31,6 +31,21 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 ##### ENTERTAINMENT MOVIE #####
 
+#EXTINF:-1  group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://i.postimg.cc/mZwRDQ1B/HBO.png",HBO Indonesia
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683152&extension=ts&play_token=1kEm8DbZmS
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="ENTERTAINMENT-MOVIE",HBO🇮🇩
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683152&extension=ts&play_token=qrZfvSgHAe
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="ENTERTAINMENT-MOVIE",Hbo•hits🇮🇩
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683151&extension=ts&play_token=qrZfvSgHAe
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="ENTERTAINMENT-MOVIE",Hbo•family🇮🇩
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683150&extension=ts&play_token=qrZfvSgHAe
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="ENTERTAINMENT-MOVIE",Hbo•signature🇮🇩
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683156&extension=ts&play_token=qrZfvSgHAe
+
 #EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",SONY PIX2
 https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=400&e=.m3u8
 
@@ -137,6 +152,12 @@ http://210.210.155.35/session/23157eb4-8766-11eb-a83f-b82a72d63267/uq2663/h/h22/
 
 #EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",Discovery
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ENTERTAINMENT-TV SHOW",DISCOVERY©
+http://103.167.167.5:8111/play/a03w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ENTERTAINMENT-TV SHOW",NATGEO WILD©
+http://103.167.167.5:8111/play/a01d/index.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",Learnings
 #EXTVLCOPT:network-caching=1000
@@ -396,15 +417,6 @@ https://m3u-editor.com/serve/cdef8d50-7647-11ed-af97-236d70daa3d8/709048737
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfR4fFzF/beinsportspremium3.png" group-title="SPORTS",BeIN Premium 3
 https://m3u-editor.com/serve/cdef8d50-7647-11ed-af97-236d70daa3d8/709048738
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",⚽SOCCER•CHANEL_🇮🇩
-https://iplogger.com/SoccerC-hd-shareext-ts
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",ChampionsTV1🇮🇩
-https://beetv.my.id/x/vidio-championstv1-masihsama.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",ChampionsTV2🇮🇩
-https://beetv.my.id/x/vidio-championstv2-masihsama.m3u8
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS", SCTV_se🇮🇩
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/204.m3u8
 
@@ -437,6 +449,9 @@ http://golive.yn.lt/live/liga1/06.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",indosiar_vid🇮🇩
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",Indosiar_play🇮🇩
+http://103.167.167.5:8111/play/a00r/index.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",MOOJI_id🇮🇩
 http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
@@ -476,6 +491,45 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683117&e
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",SPO•TV•🇹🇭
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115427&extension=ts&play_token=kgKJ5bkM20
+
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV Alt
+http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/485574.ts
+
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2 Alt
+http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/485575.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORTS",™SPOTV®1
+http://103.167.167.5:8111/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORTS",™SPOTV®2
+http://103.167.167.5:8111/play/a010/index.m3u8
+
+#EXTINF:-1, CHAMPIONS TV 1 🇮🇩
+http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77220.ts
+
+#EXTINF:-1, CHAMPIONS TV 2 🇮🇩
+http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77221.ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2022/04/05/8QoevR.png",Astro Super Sport 1
+http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157485.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2022/04/05/8QoI8Z.png",Astro Super Sport 2
+http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157556.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2022/04/05/8QD7ye.png",Astro Super Sport 3
+http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157557.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2022/04/05/8QDRH9.png",Astro Super Sport 4
+http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157558.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2022/04/05/8QPWee.png",Astro Super Sport 5
+http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157559.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORTS",™BEIN®1
+http://103.167.167.5:8111/play/a02m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORTS",™BEIN®3
+http://103.167.167.5:8111/play/a02n/index.m3u8
 
 ##### WORLD NEWS #####
 
