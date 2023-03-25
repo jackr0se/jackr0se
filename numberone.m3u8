@@ -408,15 +408,6 @@ http://rr.dens.tv/h/h09/01.m3u8
 #EXTINF:-1 tvg-logo="https://prtimes.jp/i/14079/329/resize/d14079-329-732232-2.jpg" group-title="SPORTS",JSports
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmZ4Yx47/beinsportspremium1.png" group-title="SPORTS",BeIN Premium 1
-https://m3u-editor.com/serve/cdef8d50-7647-11ed-af97-236d70daa3d8/709048736
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtpQ4bPn/beinsportspremium2.png" group-title="SPORTS",BeIN Premium 2
-https://m3u-editor.com/serve/cdef8d50-7647-11ed-af97-236d70daa3d8/709048737
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfR4fFzF/beinsportspremium3.png" group-title="SPORTS",BeIN Premium 3
-https://m3u-editor.com/serve/cdef8d50-7647-11ed-af97-236d70daa3d8/709048738
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS", SCTV_se🇮🇩
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/204.m3u8
 
@@ -510,26 +501,50 @@ http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77220.ts
 #EXTINF:-1, CHAMPIONS TV 2 🇮🇩
 http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77221.ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2022/04/05/8QoevR.png",Astro Super Sport 1
-http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157485.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2022/04/05/8QoI8Z.png",Astro Super Sport 2
-http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157556.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2022/04/05/8QD7ye.png",Astro Super Sport 3
-http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157557.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2022/04/05/8QDRH9.png",Astro Super Sport 4
-http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157558.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2022/04/05/8QPWee.png",Astro Super Sport 5
-http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157559.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORTS",™BEIN®1
 http://103.167.167.5:8111/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORTS",™BEIN®3
 http://103.167.167.5:8111/play/a02n/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",⚽Assp•1•mly
+https://bit.ly/assp-1-shareext-ts
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",⚽Assp•2•mly
+https://bit.ly/assp-2-shareext-ts
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",⚽Assp•3•mly
+https://bit.ly/assp-3-shareext-ts
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",⚽Assp•4•mly
+https://bit.ly/assp-4-shareext-ts
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",⚽Assp•5•mly
+https://bit.ly/Assp-5-shareext-ts
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",Hub|Sports|1_Sg
+http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110667&extension=ts&play_token=shareext@.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",Hub|Sports|2_Sg
+http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110666&extension=ts&play_token=shareext@.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",Hub|Sports|4_Sg
+http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110665&extension=ts&play_token=shareext@.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",TRUE|PREMIER•1
+http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=Shareext@.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",TRUE|PREMIER•2
+http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115508&extension=ts&play_token=Shareext@.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",TRUE|PREMIER•3
+http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115511&extension=ts&play_token=Shareext@.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",TRUE|PREMIER•4
+http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115768&extension=ts&play_token=Shareext@.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",TRUE|PREMIER•5
+http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115515&extension=ts&play_token=Shareext@.m3u8
 
 ##### WORLD NEWS #####
 
