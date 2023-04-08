@@ -14,10 +14,6 @@ http://198.16.64.10:8278/Ceria/playlist.m3u8?tid=mfabd35f3f60610763675&ct=17913&
 #EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" group-title="ENTERTAINMENT-KIDS", Aneka (Brunei)
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ENTERTAINMENT-KIDS",NatGeo✓
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941665&extension=ts&play_token=1kEm8DbZmS
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ENTERTAINMENT-KIDS",Nick.jr✓
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941670&extension=ts&play_token=1kEm8DbZmS
 
@@ -156,6 +152,11 @@ http://103.167.167.5:8111/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ENTERTAINMENT-TV SHOW",NATGEO WILD©
 http://103.167.167.5:8111/play/a01d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ENTERTAINMENT-TV SHOW",NatGeo✓
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941665&extension=ts&play_token=1kEm8DbZmS
+
+
 
 #EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",Learnings
 #EXTVLCOPT:network-caching=1000
