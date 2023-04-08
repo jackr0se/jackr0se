@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPrVdQ1t/BizKids.png" group-title="ENTERTAINMENT-KIDS",BIZNET KIDS HD
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="ENTERTAINMENT-KIDS",ANIMAX™
-http://103.167.167.5:8111/play/a030/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ENTERTAINMENT-KIDS",Animax
+http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/157486
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ZRP61MgK/astroceria.png" group-title="ENTERTAINMENT-KIDS", Astro Ceria
 http://198.16.64.10:8278/Ceria/playlist.m3u8?tid=mfabd35f3f60610763675&ct=17913&tsum=83045199eb5a761e7e547c2ecd825d21
@@ -14,20 +14,18 @@ http://198.16.64.10:8278/Ceria/playlist.m3u8?tid=mfabd35f3f60610763675&ct=17913&
 #EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" group-title="ENTERTAINMENT-KIDS", Aneka (Brunei)
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/N/new-disney-channel-logo-9E50BDA03A-seeklogo.com.jpg" group-title="ENTERTAINMENT-KIDS",Disney Channel 
-http://185.59.223.102:8080/disney/index.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT-KIDS",US: DISNEY
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ENTERTAINMENT-KIDS",NatGeo✓
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941665&extension=ts&play_token=1kEm8DbZmS
 
-#EXTINF:-1 group-title="ENTERTAINMENT-KIDS",US: DISNEYJR
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ENTERTAINMENT-KIDS",Nick.jr✓
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941670&extension=ts&play_token=1kEm8DbZmS
 
-#EXTINF:-1 group-title="ENTERTAINMENT-KIDS",US: DISNEYXD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ENTERTAINMENT-KIDS",Nickedeon✓
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941671&extension=ts&play_token=1kEm8DbZmS
 
-#EXTINF:-1 group-title="ENTERTAINMENT-KIDS",US: Nickelodeon HD (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ENTERTAINMENT-KIDS",Boomerang✓
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941674&extension=ts&play_token=1kEm8DbZmS
 
 ##### ENTERTAINMENT MOVIE #####
 
@@ -199,29 +197,17 @@ http://103.167.167.5:8111/play/a019/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ID",MOOJI_id🇮🇩
 http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ID",G•T•V|line🇮🇩
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",GTV
 http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683121&extension=ts&play_token=shareext
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ID",ER|C|T|I|line🇮🇩
-http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683099&extension=ts&play_token=shareext
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ID",RCTI
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683099&extension=ts&play_token=M2PF34StIQ
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ID",M|N|C|TV|line🇮🇩
-http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683098&extension=ts&play_token=shareext
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ID",MNCTV
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683098&extension=ts&play_token=M2PF34StIQ
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ID",I|NEWS|ip🇮🇩
 https://iplogger.com/Inews-shareext-ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ID",MNC TV©
-http://103.167.167.5:8111/play/a011/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="ID",RCTI 2
-http://103.167.167.5:8111/play/a01c/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLdLcbF3/gtv.png" group-title="ID",GTV 2
-http://103.167.167.5:8111/play/a014/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="ID",MNCTV 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165058
 
 #EXTINF:-1 group-title="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png",MNC TV Vision+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
