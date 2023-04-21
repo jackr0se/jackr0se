@@ -170,7 +170,7 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",tvN HD
 #EXTVLCOPT:network-caching=1000
-http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+#http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",BLUEANT EXTREME
 #EXTVLCOPT:network-caching=1000
