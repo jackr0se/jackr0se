@@ -2,7 +2,8 @@
 
 ##### ENTERTAINMENT KIDS #####
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPrVdQ1t/BizKids.png" group-title="ENTERTAINMENT-KIDS",BIZNET KIDS HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPrVdQ1t/BizKids.png" group-title="
+INMENT-KIDS",BIZNET KIDS HD
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
 #EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" group-title="ENTERTAINMENT-KIDS", Aneka (Brunei)
@@ -18,6 +19,9 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941671&e
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941674&extension=ts&play_token=1kEm8DbZmS
 
 ##### ENTERTAINMENT MOVIE #####
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="ENTERTAINMENT-MOVIE",SONY PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1  group-title="ENTERTAINMENT-MOVIE" tvg-logo="https://i.postimg.cc/mZwRDQ1B/HBO.png",HBO Indonesia
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683152&extension=ts&play_token=1kEm8DbZmS
@@ -92,6 +96,11 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499
 http://huanqiuzhibo.cn/manifest/douyu.php?id=248753
 
 ##### ENTERTAINMENT TV SHOW #####
+#EXTINF:-1  tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="ENTERTAINMENT-TV SHOW",HGTV
+https://kusnadipepenk.github.io/ntn/hgtv.m3u8
+
+#EXTINF:-1  tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="ENTERTAINMENT-TV SHOW",BBC Earth
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT-TV SHOW",ROCK Entertainment 2
 http://rr1.dens.tv/h/h16/index.m3u8
@@ -114,9 +123,6 @@ http://210.210.155.35/uq2663/h/h97/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="ENTERTAINMENT-TV SHOW",TechStorm
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",LOVE NATURE
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",tvN HD
 #EXTVLCOPT:network-caching=1000
