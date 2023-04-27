@@ -5,12 +5,6 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPrVdQ1t/BizKids.png" group-title="ENTERTAINMENT-KIDS",BIZNET KIDS HD
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ENTERTAINMENT-KIDS",Animax
-http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/157486
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ZRP61MgK/astroceria.png" group-title="ENTERTAINMENT-KIDS", Astro Ceria
-http://198.16.64.10:8278/Ceria/playlist.m3u8?tid=mfabd35f3f60610763675&ct=17913&tsum=83045199eb5a761e7e547c2ecd825d21
-
 #EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" group-title="ENTERTAINMENT-KIDS", Aneka (Brunei)
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
@@ -39,21 +33,6 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683150&e
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="ENTERTAINMENT-MOVIE",Hbo•signature🇮🇩
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683156&extension=ts&play_token=qrZfvSgHAe
-
-#EXTINF:-1 group-title="ENTERTAINMENT-MOVIE",SONY PIX2
-https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=400&e=.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="ENTERTAINMENT-MOVIE",Star Movies HD
-http://humiptv.live:8080/live/arijit38815/A437638815/98842.ts
-
-#EXTINF:-1 tvg-logo=""group-title="ENTERTAINMENT-MOVIE",Star Movies SELECT
-http://humiptv.live:8080/live/arijit38815/A437638815/98843.ts
-
-#EXTINF:-1 tvg-logo=""group-title="ENTERTAINMENT-MOVIE",&Flix
-http://humiptv.live:8080/live/arijit38815/A437638815/9382.ts
-
-#EXTINF:-1 tvg-logo=""group-title="ENTERTAINMENT-MOVIE",&Prive
-http://humiptv.live:8080/live/arijit38815/A437638815/201.ts
 
 #EXTINF:-1 tvg-id="706" tvg-name="HITS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="ENTERTAINMENT-MOVIE",HITS
 http://210.210.155.35/dr9445/h/h37/02.m3u8
@@ -114,29 +93,11 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=248753
 
 ##### ENTERTAINMENT TV SHOW #####
 
-#EXTINF:-1,group-title="ENTERTAINMENT-TV SHOW",HGTV
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157578
-
-#EXTINF:-1,group-title="ENTERTAINMENT-TV SHOW",ANIMAL PLANET
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157532
-
-#EXTINF:-1,group-title="ENTERTAINMENT-TV SHOW",Sony One 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165077
-
-#EXTINF:-1,group-title="ENTERTAINMENT-TV SHOW",Sony One 2
-http://103.167.167.5:8111/play/a00u/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="ENTERTAINMENT-TV SHOW",SONY GEM
-http://103.167.167.5:8111/play/a00z/index.m3u8
-
 #EXTINF:-1 group-title="ENTERTAINMENT-TV SHOW",ROCK Entertainment 2
 http://rr1.dens.tv/h/h16/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT-TV SHOW",ROCK Action 2
 http://rr1.dens.tv/h/h15/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-bjdcd.nitrocdn.com/aaRsvpMUTfrTYDITHmPaxvlMKHgsAMJM/assets/static/optimized/rev-a378051/wp-content/uploads/e-ente24x555.jpg" group-title="ENTERTAINMENT-TV SHOW", E entertainment 
-http://89.187.175.143:80/3082/mpegts
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg" group-title="ENTERTAINMENT-TV SHOW",DENS PLAY
 http://210.210.155.35/session/f40eb65a-8763-11eb-b7f4-b82a72d63267/x6bnqe/s/s101/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DensPlay
@@ -144,19 +105,8 @@ http://210.210.155.35/session/f40eb65a-8763-11eb-b7f4-b82a72d63267/x6bnqe/s/s101
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg" group-title="ENTERTAINMENT-TV SHOW",eGG
 http://210.210.155.35/session/23157eb4-8766-11eb-a83f-b82a72d63267/uq2663/h/h22/02.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="ENTERTAINMENT-TV SHOW",Discovery
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ENTERTAINMENT-TV SHOW",DISCOVERY©
-http://103.167.167.5:8111/play/a03w/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ENTERTAINMENT-TV SHOW",NATGEO WILD©
-http://103.167.167.5:8111/play/a01d/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ENTERTAINMENT-TV SHOW",NatGeo✓
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941665&extension=ts&play_token=1kEm8DbZmS
-
-
 
 #EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",Learnings
 #EXTVLCOPT:network-caching=1000
@@ -170,7 +120,7 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",tvN HD
 #EXTVLCOPT:network-caching=1000
-#http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT-TV SHOW",BLUEANT EXTREME
 #EXTVLCOPT:network-caching=1000
@@ -186,12 +136,6 @@ http://45.126.83.51/session/b250033c-a9b8-11eb-b3bc-a2798f0477fc/uq2663/h/h08/01
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="ENTERTAINMENT-TV SHOW",KBS WORLD HD
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="ENTERTAINMENT-TV SHOW",WB™
-http://103.167.167.5:8111/play/a017/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="ENTERTAINMENT-TV SHOW",AXN™
-http://103.167.167.5:8111/play/a019/index.m3u8
 
 ##### INDONESIAN CHANNEL #####
 
@@ -508,8 +452,6 @@ http://103.167.167.5:8111/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORTS",™BEIN®3
 http://103.167.167.5:8111/play/a02n/index.m3u8
-
-
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",Astro|Sports|1_mly
 http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1111034&extension=ts&play_token=shareext@.m3u8
