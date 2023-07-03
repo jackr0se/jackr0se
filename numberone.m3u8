@@ -19,6 +19,18 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941674&e
 
 ##### ENTERTAINMENT MOVIE #####
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ENTERTAINMENT-MOVIE",Etv Bioskop
+http://kuchini.site:8080/ace2524d/e0749dc935/298526
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ENTERTAINMENT-MOVIE",Etv Bioskop 02
+http://kuchini.site:8080/ace2524d/e0749dc935/298527
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ENTERTAINMENT-MOVIE",Etv Bioskop 03
+http://kuchini.site:8080/ace2524d/e0749dc935/298528
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ENTERTAINMENT-MOVIE",Etv Bioskop 04
+http://kuchini.site:8080/ace2524d/e0749dc935/298529
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="ENTERTAINMENT-MOVIE",SONY PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
